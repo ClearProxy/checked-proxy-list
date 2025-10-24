@@ -1,17 +1,5 @@
 [
   {
-    "ip": "198.58.120.206",
-    "port": 80,
-    "country": "US",
-    "country_code": "US",
-    "asn": 63949,
-    "isp": "Akamai Technologies, Inc.",
-    "protocol": "http",
-    "speed_ms": "640.65",
-    "anonymity": "elite",
-    "location": "Richardson"
-  },
-  {
     "ip": "176.58.125.65",
     "port": 80,
     "country": "GB",
@@ -19,7 +7,7 @@
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "773.68",
+    "speed_ms": "662.43",
     "anonymity": "elite",
     "location": "London"
   },
@@ -31,7 +19,7 @@
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "738.10",
+    "speed_ms": "626.90",
     "anonymity": "elite",
     "location": "London"
   },
@@ -43,8 +31,20 @@
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "769.27",
+    "speed_ms": "582.57",
     "anonymity": "elite",
     "location": "Shibuya City"
+  },
+  {
+    "ip": "104.237.152.124",
+    "port": 3129,
+    "country": "US",
+    "country_code": "US",
+    "asn": 63949,
+    "isp": "Akamai Technologies, Inc.",
+    "protocol": "http",
+    "speed_ms": "1991.47",
+    "anonymity": "elite",
+    "location": "Fremont"
   }
 ]
