@@ -7,7 +7,7 @@
     "asn": 269804,
     "isp": "SEPCOM COMUNICACIONES SAS",
     "protocol": "http",
-    "speed_ms": "1242.91",
+    "speed_ms": "1354.95",
     "anonymity": "transparent",
     "location": "Popayan"
   },
@@ -19,7 +19,7 @@
     "asn": 19429,
     "isp": "ETB - Colombia",
     "protocol": "http",
-    "speed_ms": "1288.23",
+    "speed_ms": "964.10",
     "anonymity": "elite",
     "location": "Bogota"
   },
@@ -31,7 +31,7 @@
     "asn": 269804,
     "isp": "SEPCOM COMUNICACIONES SAS",
     "protocol": "http",
-    "speed_ms": "1060.45",
+    "speed_ms": "1134.65",
     "anonymity": "transparent",
     "location": "Popayan"
   },
@@ -43,8 +43,20 @@
     "asn": 3816,
     "isp": "COLOMBIA TELECOMUNICACIONES S.A. ESP",
     "protocol": "http",
-    "speed_ms": "1182.30",
+    "speed_ms": "942.17",
     "anonymity": "elite",
     "location": "Barranquilla"
+  },
+  {
+    "ip": "190.217.19.185",
+    "port": 999,
+    "country": "CO",
+    "country_code": "CO",
+    "asn": 262191,
+    "isp": "COLUMBUS NETWORKS COLOMBIA",
+    "protocol": "http",
+    "speed_ms": "2287.11",
+    "anonymity": "transparent",
+    "location": "Turbana"
   }
 ]
