@@ -7,9 +7,21 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "1139.84",
+    "speed_ms": "879.40",
     "anonymity": "elite",
     "location": "Roubaix"
+  },
+  {
+    "ip": "51.15.228.52",
+    "port": 8080,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 12876,
+    "isp": "ONLINE S.A.S.",
+    "protocol": "http",
+    "speed_ms": "1169.21",
+    "anonymity": "transparent",
+    "location": "Paris"
   },
   {
     "ip": "178.33.13.233",
@@ -19,21 +31,9 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "1076.36",
+    "speed_ms": "700.72",
     "anonymity": "elite",
     "location": "Roubaix"
-  },
-  {
-    "ip": "195.83.197.222",
-    "port": 80,
-    "country": "FR",
-    "country_code": "FR",
-    "asn": 2200,
-    "isp": "Renater",
-    "protocol": "http",
-    "speed_ms": "794.18",
-    "anonymity": "elite",
-    "location": "Toulouse"
   },
   {
     "ip": "51.83.44.233",
@@ -43,33 +43,9 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "921.19",
+    "speed_ms": "1679.32",
     "anonymity": "elite",
     "location": "Roubaix"
-  },
-  {
-    "ip": "195.83.197.26",
-    "port": 80,
-    "country": "FR",
-    "country_code": "FR",
-    "asn": 2200,
-    "isp": "Renater",
-    "protocol": "http",
-    "speed_ms": "741.55",
-    "anonymity": "elite",
-    "location": "Toulouse"
-  },
-  {
-    "ip": "195.83.197.45",
-    "port": 80,
-    "country": "FR",
-    "country_code": "FR",
-    "asn": 2200,
-    "isp": "Renater",
-    "protocol": "http",
-    "speed_ms": "720.65",
-    "anonymity": "elite",
-    "location": "Toulouse"
   },
   {
     "ip": "163.172.53.142",
@@ -79,20 +55,8 @@
     "asn": 12876,
     "isp": "ONLINE S.A.S.",
     "protocol": "http",
-    "speed_ms": "922.53",
+    "speed_ms": "914.67",
     "anonymity": "elite",
     "location": "Paris"
-  },
-  {
-    "ip": "129.151.227.217",
-    "port": 3128,
-    "country": "FR",
-    "country_code": "FR",
-    "asn": 31898,
-    "isp": "Oracle Corporation",
-    "protocol": "http",
-    "speed_ms": "1944.92",
-    "anonymity": "transparent",
-    "location": "Marseille"
   }
 ]
