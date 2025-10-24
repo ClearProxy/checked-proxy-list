@@ -7,7 +7,7 @@
     "asn": 14618,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "643.37",
+    "speed_ms": "960.06",
     "anonymity": "transparent",
     "location": "Ashburn"
   },
@@ -19,7 +19,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "680.03",
+    "speed_ms": "973.16",
     "anonymity": "elite",
     "location": "San Jose"
   },
@@ -31,7 +31,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "http",
-    "speed_ms": "588.35",
+    "speed_ms": "899.70",
     "anonymity": "elite",
     "location": "Chalco"
   },
@@ -43,7 +43,7 @@
     "asn": 40034,
     "isp": "Confluence Networks Inc",
     "protocol": "http",
-    "speed_ms": "744.15",
+    "speed_ms": "1040.79",
     "anonymity": "elite",
     "location": "Jacksonville (Southside Estates)"
   },
@@ -55,7 +55,7 @@
     "asn": 54179,
     "isp": "Ventura County Office of Education",
     "protocol": "http",
-    "speed_ms": "562.30",
+    "speed_ms": "961.52",
     "anonymity": "elite",
     "location": "Sunnyvale"
   },
@@ -67,7 +67,7 @@
     "asn": 40034,
     "isp": "Confluence Networks Inc",
     "protocol": "http",
-    "speed_ms": "741.47",
+    "speed_ms": "1057.81",
     "anonymity": "elite",
     "location": "Jacksonville (Southside Estates)"
   },
@@ -79,7 +79,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "878.50",
+    "speed_ms": "1255.43",
     "anonymity": "elite",
     "location": "Santa Clara"
   },
@@ -91,7 +91,7 @@
     "asn": 46606,
     "isp": "Unified Layer",
     "protocol": "http",
-    "speed_ms": "540.83",
+    "speed_ms": "755.96",
     "anonymity": "elite",
     "location": "Provo (East Bay)"
   },
@@ -103,7 +103,7 @@
     "asn": 14670,
     "isp": "WHG Hosting Services Ltd",
     "protocol": "http",
-    "speed_ms": "718.09",
+    "speed_ms": "1320.34",
     "anonymity": "elite",
     "location": "Buffalo"
   },
@@ -115,7 +115,7 @@
     "asn": 6461,
     "isp": "Zayo Bandwidth",
     "protocol": "http",
-    "speed_ms": "562.74",
+    "speed_ms": "842.68",
     "anonymity": "elite",
     "location": "Irving"
   },
@@ -127,7 +127,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1016.93",
+    "speed_ms": "1278.17",
     "anonymity": "elite",
     "location": "North Bergen"
   },
@@ -139,7 +139,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "554.34",
+    "speed_ms": "819.55",
     "anonymity": "elite",
     "location": "Clifton"
   },
@@ -151,7 +151,7 @@
     "asn": 14670,
     "isp": "WHG Hosting Services Ltd",
     "protocol": "http",
-    "speed_ms": "656.53",
+    "speed_ms": "1280.61",
     "anonymity": "elite",
     "location": "Buffalo"
   },
@@ -163,7 +163,7 @@
     "asn": 30058,
     "isp": "FDCservers.net",
     "protocol": "http",
-    "speed_ms": "498.80",
+    "speed_ms": "815.96",
     "anonymity": "transparent",
     "location": "Dallas"
   },
@@ -175,7 +175,7 @@
     "asn": 40021,
     "isp": "Contabo Inc.",
     "protocol": "http",
-    "speed_ms": "490.30",
+    "speed_ms": "813.22",
     "anonymity": "elite",
     "location": "St Louis (Downtown)"
   },
@@ -187,9 +187,21 @@
     "asn": 14670,
     "isp": "WHG Hosting Services Ltd",
     "protocol": "http",
-    "speed_ms": "641.39",
+    "speed_ms": "1262.62",
     "anonymity": "elite",
     "location": "Buffalo"
+  },
+  {
+    "ip": "107.161.25.224",
+    "port": 8080,
+    "country": "US",
+    "country_code": "US",
+    "asn": 3842,
+    "isp": "InMotion Hosting, Inc.",
+    "protocol": "http",
+    "speed_ms": "679.66",
+    "anonymity": "elite",
+    "location": "Seattle"
   },
   {
     "ip": "154.38.189.6",
@@ -199,7 +211,7 @@
     "asn": 40021,
     "isp": "Contabo Inc.",
     "protocol": "http",
-    "speed_ms": "525.19",
+    "speed_ms": "744.38",
     "anonymity": "elite",
     "location": "New York"
   },
@@ -211,7 +223,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "776.50",
+    "speed_ms": "1095.80",
     "anonymity": "elite",
     "location": "Santa Clara"
   },
@@ -223,21 +235,9 @@
     "asn": 14618,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "741.08",
+    "speed_ms": "1001.02",
     "anonymity": "elite",
     "location": "Ashburn"
-  },
-  {
-    "ip": "147.75.66.234",
-    "port": 9400,
-    "country": "US",
-    "country_code": "US",
-    "asn": 15830,
-    "isp": "Equinix (EMEA) Acquisition Enterprises B.V.",
-    "protocol": "http",
-    "speed_ms": "2464.68",
-    "anonymity": "transparent",
-    "location": "Secaucus"
   },
   {
     "ip": "188.40.57.101",
@@ -247,7 +247,7 @@
     "asn": 212238,
     "isp": "Datacamp Limited",
     "protocol": "http",
-    "speed_ms": "915.98",
+    "speed_ms": "1238.20",
     "anonymity": "elite",
     "location": "New York"
   },
@@ -259,7 +259,7 @@
     "asn": 32162,
     "isp": "Carbon Lehigh Intermediate Unit 21",
     "protocol": "http",
-    "speed_ms": "506.58",
+    "speed_ms": "699.11",
     "anonymity": "elite",
     "location": "Schnecksville"
   },
@@ -271,7 +271,7 @@
     "asn": 33604,
     "isp": "Burlington Telecom",
     "protocol": "http",
-    "speed_ms": "515.67",
+    "speed_ms": "681.47",
     "anonymity": "elite",
     "location": "Burlington"
   },
@@ -283,7 +283,7 @@
     "asn": 14670,
     "isp": "WHG Hosting Services Ltd",
     "protocol": "http",
-    "speed_ms": "883.36",
+    "speed_ms": "1293.12",
     "anonymity": "elite",
     "location": "Buffalo"
   },
@@ -295,7 +295,7 @@
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "574.11",
+    "speed_ms": "1038.92",
     "anonymity": "elite",
     "location": "Richardson"
   },
@@ -307,7 +307,7 @@
     "asn": 30058,
     "isp": "FDCservers.net",
     "protocol": "http",
-    "speed_ms": "425.23",
+    "speed_ms": "696.50",
     "anonymity": "transparent",
     "location": "Dallas"
   },
@@ -319,7 +319,7 @@
     "asn": 14670,
     "isp": "WHG Hosting Services Ltd",
     "protocol": "http",
-    "speed_ms": "618.63",
+    "speed_ms": "1160.75",
     "anonymity": "elite",
     "location": "Buffalo"
   },
@@ -331,7 +331,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "443.77",
+    "speed_ms": "674.19",
     "anonymity": "elite",
     "location": "Dublin"
   },
@@ -343,7 +343,7 @@
     "asn": 212317,
     "isp": "Hetzner Online GmbH",
     "protocol": "http",
-    "speed_ms": "441.13",
+    "speed_ms": "726.67",
     "anonymity": "elite",
     "location": "Hillsboro"
   },
@@ -355,7 +355,7 @@
     "asn": 396982,
     "isp": "Google LLC",
     "protocol": "http",
-    "speed_ms": "425.04",
+    "speed_ms": "622.57",
     "anonymity": "elite",
     "location": "Kansas City"
   },
@@ -367,7 +367,7 @@
     "asn": 32162,
     "isp": "Carbon Lehigh Intermediate Unit 21",
     "protocol": "http",
-    "speed_ms": "496.25",
+    "speed_ms": "662.93",
     "anonymity": "elite",
     "location": "Schnecksville"
   },
@@ -379,7 +379,7 @@
     "asn": 22616,
     "isp": "ZSCALER, INC.",
     "protocol": "http",
-    "speed_ms": "1274.42",
+    "speed_ms": "1597.10",
     "anonymity": "elite",
     "location": "Reston"
   },
@@ -391,7 +391,7 @@
     "asn": 36351,
     "isp": "IBM Cloud",
     "protocol": "http",
-    "speed_ms": "560.20",
+    "speed_ms": "797.85",
     "anonymity": "elite",
     "location": "Dallas"
   },
@@ -403,7 +403,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "937.06",
+    "speed_ms": "863.01",
     "anonymity": "elite",
     "location": "Santa Clara"
   },
@@ -415,7 +415,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "394.93",
+    "speed_ms": "479.89",
     "anonymity": "elite",
     "location": "San Jose"
   },
@@ -427,7 +427,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "461.22",
+    "speed_ms": "618.57",
     "anonymity": "elite",
     "location": "Ashburn"
   },
@@ -439,7 +439,7 @@
     "asn": 14618,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "522.80",
+    "speed_ms": "735.10",
     "anonymity": "elite",
     "location": "Ashburn"
   },
@@ -451,7 +451,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "388.01",
+    "speed_ms": "620.06",
     "anonymity": "transparent",
     "location": "San Jose"
   },
@@ -463,7 +463,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "383.81",
+    "speed_ms": "599.50",
     "anonymity": "elite",
     "location": "North Bergen"
   },
@@ -475,21 +475,9 @@
     "asn": 20473,
     "isp": "The Constant Company, LLC",
     "protocol": "http",
-    "speed_ms": "380.68",
+    "speed_ms": "643.41",
     "anonymity": "elite",
     "location": "Kent"
-  },
-  {
-    "ip": "147.75.66.234",
-    "port": 443,
-    "country": "US",
-    "country_code": "US",
-    "asn": 15830,
-    "isp": "Equinix (EMEA) Acquisition Enterprises B.V.",
-    "protocol": "http",
-    "speed_ms": "1098.41",
-    "anonymity": "transparent",
-    "location": "Secaucus"
   },
   {
     "ip": "154.16.146.44",
@@ -499,7 +487,7 @@
     "asn": 14670,
     "isp": "WHG Hosting Services Ltd",
     "protocol": "http",
-    "speed_ms": "841.89",
+    "speed_ms": "1135.01",
     "anonymity": "elite",
     "location": "Buffalo"
   },
@@ -511,7 +499,7 @@
     "asn": 32162,
     "isp": "Carbon Lehigh Intermediate Unit 21",
     "protocol": "http",
-    "speed_ms": "415.02",
+    "speed_ms": "560.33",
     "anonymity": "elite",
     "location": "Schnecksville"
   },
@@ -523,7 +511,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "840.09",
+    "speed_ms": "1057.00",
     "anonymity": "elite",
     "location": "Clifton"
   },
@@ -535,7 +523,7 @@
     "asn": 6360,
     "isp": "University of Hawaii",
     "protocol": "http",
-    "speed_ms": "359.51",
+    "speed_ms": "543.73",
     "anonymity": "elite",
     "location": "Honolulu (Manoa)"
   },
@@ -547,7 +535,7 @@
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "424.07",
+    "speed_ms": "640.99",
     "anonymity": "elite",
     "location": "Atlanta"
   },
@@ -559,7 +547,7 @@
     "asn": 209,
     "isp": "CenturyLink Communications, LLC",
     "protocol": "http",
-    "speed_ms": "339.55",
+    "speed_ms": "540.52",
     "anonymity": "elite",
     "location": "Albuquerque"
   },
@@ -571,7 +559,7 @@
     "asn": 32162,
     "isp": "Carbon Lehigh Intermediate Unit 21",
     "protocol": "http",
-    "speed_ms": "396.02",
+    "speed_ms": "601.71",
     "anonymity": "elite",
     "location": "Schnecksville"
   },
@@ -583,7 +571,7 @@
     "asn": 212317,
     "isp": "Hetzner Online GmbH",
     "protocol": "http",
-    "speed_ms": "338.20",
+    "speed_ms": "513.66",
     "anonymity": "elite",
     "location": "Hillsboro"
   },
@@ -595,7 +583,7 @@
     "asn": 20473,
     "isp": "The Constant Company, LLC",
     "protocol": "http",
-    "speed_ms": "457.60",
+    "speed_ms": "643.83",
     "anonymity": "elite",
     "location": "Piscataway"
   },
@@ -607,7 +595,7 @@
     "asn": 40034,
     "isp": "Confluence Networks Inc",
     "protocol": "http",
-    "speed_ms": "445.34",
+    "speed_ms": "600.41",
     "anonymity": "elite",
     "location": "Jacksonville (Southside Estates)"
   },
@@ -619,7 +607,7 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "301.18",
+    "speed_ms": "461.75",
     "anonymity": "elite",
     "location": "Minkler"
   },
@@ -631,7 +619,7 @@
     "asn": 14618,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "382.11",
+    "speed_ms": "599.33",
     "anonymity": "elite",
     "location": "Ashburn"
   },
@@ -643,7 +631,7 @@
     "asn": 32162,
     "isp": "Carbon Lehigh Intermediate Unit 21",
     "protocol": "http",
-    "speed_ms": "378.40",
+    "speed_ms": "595.87",
     "anonymity": "elite",
     "location": "Schnecksville"
   },
@@ -655,7 +643,7 @@
     "asn": 36236,
     "isp": "NetActuate, Inc",
     "protocol": "http",
-    "speed_ms": "738.18",
+    "speed_ms": "717.99",
     "anonymity": "elite",
     "location": "West Hollywood (Central-Alameda)"
   },
@@ -667,7 +655,7 @@
     "asn": 14670,
     "isp": "WHG Hosting Services Ltd",
     "protocol": "http",
-    "speed_ms": "724.88",
+    "speed_ms": "1197.60",
     "anonymity": "elite",
     "location": "Buffalo"
   },
@@ -679,7 +667,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "793.34",
+    "speed_ms": "996.40",
     "anonymity": "elite",
     "location": "North Bergen"
   },
@@ -691,7 +679,7 @@
     "asn": 40021,
     "isp": "Contabo Inc.",
     "protocol": "http",
-    "speed_ms": "279.64",
+    "speed_ms": "476.55",
     "anonymity": "elite",
     "location": "St Louis"
   },
@@ -703,7 +691,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "http",
-    "speed_ms": "383.49",
+    "speed_ms": "602.69",
     "anonymity": "elite",
     "location": "Providence"
   },
@@ -715,7 +703,7 @@
     "asn": 36352,
     "isp": "HostPapa",
     "protocol": "http",
-    "speed_ms": "452.37",
+    "speed_ms": "779.28",
     "anonymity": "elite",
     "location": "Buffalo"
   },
@@ -727,7 +715,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "740.19",
+    "speed_ms": "921.85",
     "anonymity": "elite",
     "location": "North Bergen"
   },
@@ -739,7 +727,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "738.33",
+    "speed_ms": "919.06",
     "anonymity": "elite",
     "location": "North Bergen"
   },
@@ -751,9 +739,21 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "736.41",
+    "speed_ms": "923.28",
     "anonymity": "elite",
     "location": "North Bergen"
+  },
+  {
+    "ip": "154.16.146.48",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 14670,
+    "isp": "WHG Hosting Services Ltd",
+    "protocol": "http",
+    "speed_ms": "1148.62",
+    "anonymity": "elite",
+    "location": "Buffalo"
   },
   {
     "ip": "159.65.245.255",
@@ -763,9 +763,21 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "878.44",
+    "speed_ms": "2117.52",
     "anonymity": "elite",
     "location": "Clifton"
+  },
+  {
+    "ip": "50.237.153.243",
+    "port": 8081,
+    "country": "US",
+    "country_code": "US",
+    "asn": 7922,
+    "isp": "Comcast Cable Communications, LLC",
+    "protocol": "http",
+    "speed_ms": "439.53",
+    "anonymity": "elite",
+    "location": "Ivyland"
   },
   {
     "ip": "35.197.89.213",
@@ -775,7 +787,7 @@
     "asn": 396982,
     "isp": "Google LLC",
     "protocol": "http",
-    "speed_ms": "245.38",
+    "speed_ms": "620.04",
     "anonymity": "elite",
     "location": "The Dalles"
   },
@@ -787,7 +799,7 @@
     "asn": 8075,
     "isp": "Microsoft Corporation",
     "protocol": "http",
-    "speed_ms": "1090.68",
+    "speed_ms": "1325.98",
     "anonymity": "anonymous",
     "location": "Washington"
   },
@@ -799,8 +811,20 @@
     "asn": 33604,
     "isp": "Burlington Telecom",
     "protocol": "http",
-    "speed_ms": "298.20",
+    "speed_ms": "458.26",
     "anonymity": "elite",
     "location": "Burlington"
+  },
+  {
+    "ip": "104.238.228.201",
+    "port": 3128,
+    "country": "US",
+    "country_code": "US",
+    "asn": 397731,
+    "isp": "EliteWork LLC",
+    "protocol": "http",
+    "speed_ms": "414.82",
+    "anonymity": "transparent",
+    "location": "Kirkland (North Rose Hill)"
   }
 ]

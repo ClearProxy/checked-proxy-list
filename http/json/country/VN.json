@@ -1,17 +1,5 @@
 [
   {
-    "ip": "123.30.154.171",
-    "port": 7777,
-    "country": "VN",
-    "country_code": "VN",
-    "asn": 135905,
-    "isp": "VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",
-    "protocol": "http",
-    "speed_ms": "2411.51",
-    "anonymity": "elite",
-    "location": "Hanoi"
-  },
-  {
     "ip": "152.32.249.30",
     "port": 8080,
     "country": "VN",
@@ -19,7 +7,7 @@
     "asn": 135377,
     "isp": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
     "protocol": "http",
-    "speed_ms": "899.10",
+    "speed_ms": "1121.49",
     "anonymity": "elite",
     "location": "Ho Chi Minh City"
   },
@@ -31,7 +19,7 @@
     "asn": 135918,
     "isp": "VIET DIGITAL TECHNOLOGY LIABILITY COMPANY",
     "protocol": "http",
-    "speed_ms": "837.36",
+    "speed_ms": "1006.47",
     "anonymity": "elite",
     "location": "Da Nang"
   },
@@ -43,7 +31,7 @@
     "asn": 7552,
     "isp": "Viettel Group",
     "protocol": "http",
-    "speed_ms": "782.93",
+    "speed_ms": "1022.70",
     "anonymity": "elite",
     "location": "Ho Chi Minh City"
   },
@@ -55,8 +43,32 @@
     "asn": 135905,
     "isp": "VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",
     "protocol": "http",
-    "speed_ms": "2109.91",
+    "speed_ms": "1375.94",
     "anonymity": "elite",
     "location": "Hanoi"
+  },
+  {
+    "ip": "27.73.5.5",
+    "port": 6615,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 7552,
+    "isp": "Viettel Group",
+    "protocol": "http",
+    "speed_ms": "1458.79",
+    "anonymity": "transparent",
+    "location": "Hanoi"
+  },
+  {
+    "ip": "160.191.17.64",
+    "port": 8888,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 142294,
+    "isp": "TELECOM TRADE AND SERVER LLC",
+    "protocol": "http",
+    "speed_ms": "721.24",
+    "anonymity": "elite",
+    "location": "Nhon Trach (Phuong Hoa Thanh)"
   }
 ]
