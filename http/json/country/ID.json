@@ -7,7 +7,7 @@
     "asn": 9341,
     "isp": "PT Indonesia Comnets Plus",
     "protocol": "http",
-    "speed_ms": "1485.60",
+    "speed_ms": "1364.63",
     "anonymity": "elite",
     "location": "Jakarta"
   },
@@ -19,7 +19,7 @@
     "asn": 140429,
     "isp": "PT. MEDIA DISTRIBUSI PRIMA",
     "protocol": "http",
-    "speed_ms": "1181.18",
+    "speed_ms": "1012.63",
     "anonymity": "elite",
     "location": "Pameungpeuk"
   },
@@ -31,7 +31,7 @@
     "asn": 7713,
     "isp": "Telekomunikasi Indonesia (PT)",
     "protocol": "http",
-    "speed_ms": "1203.23",
+    "speed_ms": "1024.18",
     "anonymity": "elite",
     "location": "Jakarta"
   },
@@ -43,9 +43,21 @@
     "asn": 7713,
     "isp": "Telekomunikasi Indonesia (PT)",
     "protocol": "http",
-    "speed_ms": "1318.75",
+    "speed_ms": "1156.79",
     "anonymity": "elite",
     "location": "Jakarta"
+  },
+  {
+    "ip": "103.52.114.95",
+    "port": 3128,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 136052,
+    "isp": "PT Cloud Hosting Indonesia",
+    "protocol": "http",
+    "speed_ms": "1428.96",
+    "anonymity": "transparent",
+    "location": "Cicurug"
   },
   {
     "ip": "203.189.88.156",
@@ -55,7 +67,7 @@
     "asn": 38765,
     "isp": "Departemen Energi dan Sumber Daya Mineral",
     "protocol": "http",
-    "speed_ms": "1180.76",
+    "speed_ms": "1016.09",
     "anonymity": "elite",
     "location": "Jakarta"
   },
@@ -67,43 +79,19 @@
     "asn": 137287,
     "isp": "DINAS KOMUNIKASI DAN INFORMATIKA KAB. BEKASI",
     "protocol": "http",
-    "speed_ms": "1057.80",
+    "speed_ms": "900.37",
     "anonymity": "elite",
     "location": "Cikarang"
   },
   {
-    "ip": "16.78.104.244",
-    "port": 34044,
+    "ip": "118.98.232.106",
+    "port": 80,
     "country": "ID",
     "country_code": "ID",
-    "asn": 16509,
-    "isp": "Amazon.com, Inc.",
+    "asn": 18051,
+    "isp": "Departemen Pendidikan Nasional",
     "protocol": "http",
-    "speed_ms": "1055.34",
-    "anonymity": "elite",
-    "location": "Jakarta"
-  },
-  {
-    "ip": "16.78.104.244",
-    "port": 8085,
-    "country": "ID",
-    "country_code": "ID",
-    "asn": 16509,
-    "isp": "Amazon.com, Inc.",
-    "protocol": "http",
-    "speed_ms": "914.87",
-    "anonymity": "elite",
-    "location": "Jakarta"
-  },
-  {
-    "ip": "16.78.105.11",
-    "port": 8060,
-    "country": "ID",
-    "country_code": "ID",
-    "asn": 16509,
-    "isp": "Amazon.com, Inc.",
-    "protocol": "http",
-    "speed_ms": "842.06",
+    "speed_ms": "964.19",
     "anonymity": "elite",
     "location": "Jakarta"
   },
@@ -115,21 +103,9 @@
     "asn": 135463,
     "isp": "PDE Setda Kabupaten Sukoharjo",
     "protocol": "http",
-    "speed_ms": "1270.30",
+    "speed_ms": "1204.82",
     "anonymity": "transparent",
     "location": "Jombor"
-  },
-  {
-    "ip": "16.78.82.73",
-    "port": 353,
-    "country": "ID",
-    "country_code": "ID",
-    "asn": 16509,
-    "isp": "Amazon.com, Inc.",
-    "protocol": "http",
-    "speed_ms": "822.30",
-    "anonymity": "elite",
-    "location": "Jakarta"
   },
   {
     "ip": "34.101.62.47",
@@ -139,55 +115,7 @@
     "asn": 396982,
     "isp": "Google LLC",
     "protocol": "http",
-    "speed_ms": "798.97",
-    "anonymity": "elite",
-    "location": "Jakarta"
-  },
-  {
-    "ip": "16.78.105.11",
-    "port": 6211,
-    "country": "ID",
-    "country_code": "ID",
-    "asn": 16509,
-    "isp": "Amazon.com, Inc.",
-    "protocol": "http",
-    "speed_ms": "765.12",
-    "anonymity": "elite",
-    "location": "Jakarta"
-  },
-  {
-    "ip": "16.78.105.11",
-    "port": 552,
-    "country": "ID",
-    "country_code": "ID",
-    "asn": 16509,
-    "isp": "Amazon.com, Inc.",
-    "protocol": "http",
-    "speed_ms": "729.96",
-    "anonymity": "elite",
-    "location": "Jakarta"
-  },
-  {
-    "ip": "16.78.105.11",
-    "port": 19006,
-    "country": "ID",
-    "country_code": "ID",
-    "asn": 16509,
-    "isp": "Amazon.com, Inc.",
-    "protocol": "http",
-    "speed_ms": "703.75",
-    "anonymity": "elite",
-    "location": "Jakarta"
-  },
-  {
-    "ip": "16.78.105.11",
-    "port": 1029,
-    "country": "ID",
-    "country_code": "ID",
-    "asn": 16509,
-    "isp": "Amazon.com, Inc.",
-    "protocol": "http",
-    "speed_ms": "704.17",
+    "speed_ms": "800.23",
     "anonymity": "elite",
     "location": "Jakarta"
   }
