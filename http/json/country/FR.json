@@ -7,7 +7,7 @@
     "asn": 3215,
     "isp": "Orange S.A.",
     "protocol": "http",
-    "speed_ms": "1680.21",
+    "speed_ms": "1318.82",
     "anonymity": "elite",
     "location": "Paris"
   },
@@ -19,21 +19,9 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "1280.36",
+    "speed_ms": "1179.12",
     "anonymity": "elite",
     "location": "Roubaix"
-  },
-  {
-    "ip": "67.43.236.20",
-    "port": 12207,
-    "country": "FR",
-    "country_code": "FR",
-    "asn": 5410,
-    "isp": "Bouygues Telecom SA",
-    "protocol": "http",
-    "speed_ms": "1417.22",
-    "anonymity": "elite",
-    "location": "Paris"
   },
   {
     "ip": "178.33.13.233",
@@ -43,21 +31,9 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "1256.26",
+    "speed_ms": "1180.06",
     "anonymity": "elite",
     "location": "Roubaix"
-  },
-  {
-    "ip": "72.10.164.178",
-    "port": 29005,
-    "country": "FR",
-    "country_code": "FR",
-    "asn": 51207,
-    "isp": "Free Mobile SAS",
-    "protocol": "http",
-    "speed_ms": "1299.11",
-    "anonymity": "elite",
-    "location": "Stains"
   },
   {
     "ip": "195.83.197.222",
@@ -67,7 +43,7 @@
     "asn": 2200,
     "isp": "Renater",
     "protocol": "http",
-    "speed_ms": "1020.93",
+    "speed_ms": "1030.38",
     "anonymity": "elite",
     "location": "Toulouse"
   },
@@ -79,7 +55,7 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "1258.73",
+    "speed_ms": "1102.04",
     "anonymity": "elite",
     "location": "Roubaix"
   },
@@ -91,7 +67,7 @@
     "asn": 2200,
     "isp": "Renater",
     "protocol": "http",
-    "speed_ms": "957.90",
+    "speed_ms": "961.77",
     "anonymity": "elite",
     "location": "Toulouse"
   },
@@ -103,7 +79,7 @@
     "asn": 2200,
     "isp": "Renater",
     "protocol": "http",
-    "speed_ms": "1040.73",
+    "speed_ms": "882.38",
     "anonymity": "elite",
     "location": "Toulouse"
   },
@@ -115,8 +91,20 @@
     "asn": 12876,
     "isp": "ONLINE S.A.S.",
     "protocol": "http",
-    "speed_ms": "1140.40",
+    "speed_ms": "1073.55",
     "anonymity": "elite",
     "location": "Paris"
+  },
+  {
+    "ip": "129.151.227.217",
+    "port": 3128,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 31898,
+    "isp": "Oracle Corporation",
+    "protocol": "http",
+    "speed_ms": "863.69",
+    "anonymity": "transparent",
+    "location": "Marseille"
   }
 ]
