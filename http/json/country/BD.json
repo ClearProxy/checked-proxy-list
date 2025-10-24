@@ -1,15 +1,27 @@
 [
   {
-    "ip": "59.153.100.98",
-    "port": 80,
+    "ip": "202.5.52.112",
+    "port": 2727,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 45326,
+    "isp": "Broad Band Telecom Services Ltd",
+    "protocol": "http",
+    "speed_ms": "2481.56",
+    "anonymity": "transparent",
+    "location": "Chittagong (Double Moorings)"
+  },
+  {
+    "ip": "72.10.164.178",
+    "port": 9239,
     "country": "BD",
     "country_code": "BD",
     "asn": 134732,
     "isp": "Dot Internet",
     "protocol": "http",
-    "speed_ms": "1454.99",
-    "anonymity": "anonymous",
-    "location": "Dhaka"
+    "speed_ms": "2002.75",
+    "anonymity": "elite",
+    "location": "Kafrul"
   },
   {
     "ip": "103.49.202.252",
@@ -19,8 +31,32 @@
     "asn": 133957,
     "isp": "SOL-BD",
     "protocol": "http",
-    "speed_ms": "907.20",
+    "speed_ms": "2437.90",
     "anonymity": "anonymous",
     "location": "Tungipara"
+  },
+  {
+    "ip": "59.153.100.98",
+    "port": 80,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 134732,
+    "isp": "Dot Internet",
+    "protocol": "http",
+    "speed_ms": "1775.79",
+    "anonymity": "anonymous",
+    "location": "Dhaka"
+  },
+  {
+    "ip": "103.138.145.34",
+    "port": 80,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 139008,
+    "isp": "NEEF IT LIMITED",
+    "protocol": "http",
+    "speed_ms": "2037.66",
+    "anonymity": "anonymous",
+    "location": "Nagar Naluakot"
   }
 ]

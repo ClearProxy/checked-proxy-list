@@ -1,29 +1,5 @@
 [
   {
-    "ip": "176.58.125.65",
-    "port": 80,
-    "country": "GB",
-    "country_code": "GB",
-    "asn": 63949,
-    "isp": "Akamai Technologies, Inc.",
-    "protocol": "http",
-    "speed_ms": "905.94",
-    "anonymity": "elite",
-    "location": "London"
-  },
-  {
-    "ip": "104.237.152.124",
-    "port": 3129,
-    "country": "US",
-    "country_code": "US",
-    "asn": 63949,
-    "isp": "Akamai Technologies, Inc.",
-    "protocol": "http",
-    "speed_ms": "1056.17",
-    "anonymity": "elite",
-    "location": "Fremont"
-  },
-  {
     "ip": "198.58.120.206",
     "port": 80,
     "country": "US",
@@ -31,33 +7,21 @@
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "775.74",
+    "speed_ms": "1812.86",
     "anonymity": "elite",
     "location": "Richardson"
   },
   {
-    "ip": "45.56.114.82",
+    "ip": "176.58.125.65",
     "port": 80,
-    "country": "US",
-    "country_code": "US",
+    "country": "GB",
+    "country_code": "GB",
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "836.79",
+    "speed_ms": "2060.53",
     "anonymity": "elite",
-    "location": "Atlanta"
-  },
-  {
-    "ip": "172.237.21.212",
-    "port": 80,
-    "country": "JP",
-    "country_code": "JP",
-    "asn": 63949,
-    "isp": "Akamai Technologies, Inc.",
-    "protocol": "http",
-    "speed_ms": "822.03",
-    "anonymity": "elite",
-    "location": "Shibuya City"
+    "location": "London"
   },
   {
     "ip": "178.79.129.126",
@@ -67,8 +31,32 @@
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "575.97",
+    "speed_ms": "2182.14",
     "anonymity": "elite",
     "location": "London"
+  },
+  {
+    "ip": "172.237.21.212",
+    "port": 80,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 63949,
+    "isp": "Akamai Technologies, Inc.",
+    "protocol": "http",
+    "speed_ms": "2163.12",
+    "anonymity": "elite",
+    "location": "Shibuya City"
+  },
+  {
+    "ip": "104.237.152.124",
+    "port": 3129,
+    "country": "US",
+    "country_code": "US",
+    "asn": 63949,
+    "isp": "Akamai Technologies, Inc.",
+    "protocol": "http",
+    "speed_ms": "2500.00",
+    "anonymity": "elite",
+    "location": "Fremont"
   }
 ]
