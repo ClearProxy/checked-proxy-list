@@ -7,7 +7,7 @@
     "asn": 24940,
     "isp": "Hetzner Online GmbH",
     "protocol": "http",
-    "speed_ms": "1524.55",
+    "speed_ms": "1326.64",
     "anonymity": "elite",
     "location": "Nuremberg"
   },
@@ -19,7 +19,7 @@
     "asn": 4230,
     "isp": "CLARO S.A.",
     "protocol": "http",
-    "speed_ms": "1252.34",
+    "speed_ms": "1094.28",
     "anonymity": "elite",
     "location": "Sao Paulo"
   },
@@ -31,7 +31,7 @@
     "asn": 265763,
     "isp": "Interret Villa Angela SRL",
     "protocol": "http",
-    "speed_ms": "1568.42",
+    "speed_ms": "1114.76",
     "anonymity": "transparent",
     "location": "Villa Angela"
   },
@@ -43,9 +43,21 @@
     "asn": 9829,
     "isp": "Bharat Sanchar Nigam Ltd",
     "protocol": "http",
-    "speed_ms": "1252.38",
+    "speed_ms": "1112.12",
     "anonymity": "elite",
     "location": "Mangaluru"
+  },
+  {
+    "ip": "45.4.55.40",
+    "port": 80,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 266040,
+    "isp": "EBER DEJANI PEREIRA DE ALBERNAZ CIA LTDA",
+    "protocol": "http",
+    "speed_ms": "1892.45",
+    "anonymity": "elite",
+    "location": "Santa Vitoria do Palmar"
   },
   {
     "ip": "82.145.209.253",
@@ -55,7 +67,7 @@
     "asn": 39832,
     "isp": "Opera Software AS",
     "protocol": "http",
-    "speed_ms": "1093.54",
+    "speed_ms": "850.29",
     "anonymity": "elite",
     "location": "Amsterdam"
   },
@@ -67,7 +79,7 @@
     "asn": 6360,
     "isp": "University of Hawaii",
     "protocol": "http",
-    "speed_ms": "841.78",
+    "speed_ms": "647.03",
     "anonymity": "elite",
     "location": "Honolulu (Manoa)"
   },
@@ -79,7 +91,7 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "1442.93",
+    "speed_ms": "1144.76",
     "anonymity": "elite",
     "location": "Roubaix"
   },
@@ -91,7 +103,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1044.32",
+    "speed_ms": "821.52",
     "anonymity": "elite",
     "location": "Alexandria"
   },
@@ -103,9 +115,21 @@
     "asn": 40034,
     "isp": "Confluence Networks Inc",
     "protocol": "http",
-    "speed_ms": "1785.06",
+    "speed_ms": "757.88",
     "anonymity": "elite",
     "location": "Road Town"
+  },
+  {
+    "ip": "168.235.81.149",
+    "port": 8080,
+    "country": "US",
+    "country_code": "US",
+    "asn": 3842,
+    "isp": "InMotion Hosting, Inc.",
+    "protocol": "http",
+    "speed_ms": "640.66",
+    "anonymity": "elite",
+    "location": "Newark"
   },
   {
     "ip": "167.99.158.35",
@@ -115,21 +139,9 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "944.20",
+    "speed_ms": "684.65",
     "anonymity": "elite",
     "location": "North Bergen"
-  },
-  {
-    "ip": "78.188.152.209",
-    "port": 1454,
-    "country": "TR",
-    "country_code": "TR",
-    "asn": 9121,
-    "isp": "Turk Telekomunikasyon Anonim Sirketi",
-    "protocol": "http",
-    "speed_ms": "1184.08",
-    "anonymity": "elite",
-    "location": "Istanbul"
   },
   {
     "ip": "5.182.34.27",
@@ -139,7 +151,7 @@
     "asn": 209242,
     "isp": "Cloudflare London, LLC",
     "protocol": "http",
-    "speed_ms": "780.28",
+    "speed_ms": "536.93",
     "anonymity": "elite",
     "location": "Rome"
   },
@@ -151,7 +163,7 @@
     "asn": 5384,
     "isp": "EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",
     "protocol": "http",
-    "speed_ms": "1221.53",
+    "speed_ms": "1098.84",
     "anonymity": "elite",
     "location": "Bur Dubai"
   },
@@ -163,7 +175,7 @@
     "asn": 396982,
     "isp": "Google LLC",
     "protocol": "http",
-    "speed_ms": "1155.74",
+    "speed_ms": "960.35",
     "anonymity": "elite",
     "location": "Jakarta"
   },
@@ -175,7 +187,7 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "2153.71",
+    "speed_ms": "2005.05",
     "anonymity": "transparent",
     "location": "Seoul"
   },
@@ -187,21 +199,9 @@
     "asn": 135463,
     "isp": "PDE Setda Kabupaten Sukoharjo",
     "protocol": "http",
-    "speed_ms": "1668.10",
+    "speed_ms": "1164.87",
     "anonymity": "transparent",
     "location": "Jombor"
-  },
-  {
-    "ip": "103.39.232.254",
-    "port": 80,
-    "country": "CN",
-    "country_code": "CN",
-    "asn": 4816,
-    "isp": "China Telecom (Group)",
-    "protocol": "http",
-    "speed_ms": "1356.93",
-    "anonymity": "elite",
-    "location": "Guangzhou"
   },
   {
     "ip": "190.242.157.215",
@@ -211,7 +211,7 @@
     "asn": 269804,
     "isp": "SEPCOM COMUNICACIONES SAS",
     "protocol": "http",
-    "speed_ms": "1245.16",
+    "speed_ms": "1060.10",
     "anonymity": "transparent",
     "location": "Popayan"
   },
@@ -223,7 +223,7 @@
     "asn": 4766,
     "isp": "Korea Telecom",
     "protocol": "http",
-    "speed_ms": "1180.59",
+    "speed_ms": "1017.64",
     "anonymity": "elite",
     "location": "Seongnam-si (Buljeong-ro)"
   },
@@ -235,7 +235,7 @@
     "asn": 9123,
     "isp": "TimeWeb LLC",
     "protocol": "http",
-    "speed_ms": "1163.07",
+    "speed_ms": "1062.78",
     "anonymity": "elite",
     "location": "St Petersburg"
   },
@@ -247,7 +247,7 @@
     "asn": 3269,
     "isp": "Telecom Italia S.p.A.",
     "protocol": "http",
-    "speed_ms": "1103.08",
+    "speed_ms": "879.74",
     "anonymity": "elite",
     "location": "Rome"
   },
@@ -259,7 +259,7 @@
     "asn": 209,
     "isp": "CenturyLink Communications, LLC",
     "protocol": "http",
-    "speed_ms": "842.28",
+    "speed_ms": "544.00",
     "anonymity": "elite",
     "location": "Albuquerque"
   },
@@ -271,7 +271,7 @@
     "asn": 24940,
     "isp": "Hetzner Online GmbH",
     "protocol": "http",
-    "speed_ms": "1041.67",
+    "speed_ms": "820.11",
     "anonymity": "elite",
     "location": "Falkenstein"
   },
@@ -283,7 +283,7 @@
     "asn": 40021,
     "isp": "Contabo Inc.",
     "protocol": "http",
-    "speed_ms": "798.62",
+    "speed_ms": "541.42",
     "anonymity": "elite",
     "location": "St Louis (Downtown)"
   },
@@ -295,7 +295,7 @@
     "asn": 40021,
     "isp": "Contabo Inc.",
     "protocol": "http",
-    "speed_ms": "798.69",
+    "speed_ms": "578.40",
     "anonymity": "elite",
     "location": "St Louis"
   },
@@ -307,7 +307,7 @@
     "asn": 140429,
     "isp": "PT. MEDIA DISTRIBUSI PRIMA",
     "protocol": "http",
-    "speed_ms": "1136.94",
+    "speed_ms": "907.82",
     "anonymity": "elite",
     "location": "Pameungpeuk"
   },
@@ -319,7 +319,7 @@
     "asn": 265763,
     "isp": "Interret Villa Angela SRL",
     "protocol": "http",
-    "speed_ms": "1336.99",
+    "speed_ms": "1062.31",
     "anonymity": "transparent",
     "location": "Villa Angela"
   },
@@ -331,7 +331,7 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "864.89",
+    "speed_ms": "659.71",
     "anonymity": "elite",
     "location": "Montreal (Ville-Marie)"
   },
@@ -343,7 +343,7 @@
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "880.56",
+    "speed_ms": "580.11",
     "anonymity": "elite",
     "location": "Richardson"
   },
@@ -355,7 +355,7 @@
     "asn": 265763,
     "isp": "Interret Villa Angela SRL",
     "protocol": "http",
-    "speed_ms": "1294.25",
+    "speed_ms": "1061.87",
     "anonymity": "transparent",
     "location": "Villa Angela"
   },
@@ -367,9 +367,21 @@
     "asn": 265763,
     "isp": "Interret Villa Angela SRL",
     "protocol": "http",
-    "speed_ms": "1303.17",
+    "speed_ms": "1078.60",
     "anonymity": "transparent",
     "location": "Villa Angela"
+  },
+  {
+    "ip": "208.87.243.199",
+    "port": 7878,
+    "country": "US",
+    "country_code": "US",
+    "asn": 40676,
+    "isp": "Psychz Networks",
+    "protocol": "http",
+    "speed_ms": "876.35",
+    "anonymity": "transparent",
+    "location": "Los Angeles"
   },
   {
     "ip": "195.137.203.242",
@@ -379,7 +391,7 @@
     "asn": 29491,
     "isp": "KIEVLINE LLC",
     "protocol": "http",
-    "speed_ms": "1121.61",
+    "speed_ms": "1038.88",
     "anonymity": "elite",
     "location": "Kyiv"
   },
@@ -391,7 +403,7 @@
     "asn": 265763,
     "isp": "Interret Villa Angela SRL",
     "protocol": "http",
-    "speed_ms": "1487.79",
+    "speed_ms": "1078.96",
     "anonymity": "transparent",
     "location": "Villa Angela"
   },
@@ -403,7 +415,7 @@
     "asn": 265763,
     "isp": "Interret Villa Angela SRL",
     "protocol": "http",
-    "speed_ms": "1479.35",
+    "speed_ms": "1091.65",
     "anonymity": "transparent",
     "location": "Villa Angela"
   },
@@ -415,7 +427,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1064.71",
+    "speed_ms": "911.40",
     "anonymity": "elite",
     "location": "Singapore (Pioneer)"
   },
@@ -427,7 +439,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "860.80",
+    "speed_ms": "600.45",
     "anonymity": "elite",
     "location": "Ashburn"
   },
@@ -439,7 +451,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "939.93",
+    "speed_ms": "714.25",
     "anonymity": "elite",
     "location": "North Bergen"
   },
@@ -451,7 +463,7 @@
     "asn": 4837,
     "isp": "CHINA UNICOM China169 Backbone",
     "protocol": "http",
-    "speed_ms": "985.43",
+    "speed_ms": "901.83",
     "anonymity": "elite",
     "location": "Hangzhou"
   },
@@ -463,7 +475,7 @@
     "asn": 18051,
     "isp": "Departemen Pendidikan Nasional",
     "protocol": "http",
-    "speed_ms": "1140.28",
+    "speed_ms": "1025.14",
     "anonymity": "elite",
     "location": "Jakarta"
   },
@@ -475,7 +487,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "923.33",
+    "speed_ms": "680.44",
     "anonymity": "elite",
     "location": "Santa Clara"
   },
@@ -487,7 +499,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "857.44",
+    "speed_ms": "583.37",
     "anonymity": "elite",
     "location": "North Bergen"
   },
@@ -499,7 +511,7 @@
     "asn": 212317,
     "isp": "Hetzner Online GmbH",
     "protocol": "http",
-    "speed_ms": "804.64",
+    "speed_ms": "518.48",
     "anonymity": "elite",
     "location": "Hillsboro"
   },
@@ -511,7 +523,7 @@
     "asn": 38841,
     "isp": "kbro CO. Ltd.",
     "protocol": "http",
-    "speed_ms": "1272.76",
+    "speed_ms": "1166.47",
     "anonymity": "elite",
     "location": "Hsinchu"
   },
@@ -523,7 +535,7 @@
     "asn": 4134,
     "isp": "Chinanet",
     "protocol": "http",
-    "speed_ms": "976.49",
+    "speed_ms": "813.94",
     "anonymity": "elite",
     "location": "Julun"
   },
@@ -535,7 +547,7 @@
     "asn": 58485,
     "isp": "WIFIAN ID",
     "protocol": "http",
-    "speed_ms": "1541.29",
+    "speed_ms": "1436.83",
     "anonymity": "elite",
     "location": "Wonosobo"
   },
@@ -547,7 +559,7 @@
     "asn": 56041,
     "isp": "China Mobile Communications Corporation",
     "protocol": "http",
-    "speed_ms": "977.68",
+    "speed_ms": "899.26",
     "anonymity": "elite",
     "location": "Hangzhou"
   },
@@ -559,7 +571,7 @@
     "asn": 14618,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "858.65",
+    "speed_ms": "579.68",
     "anonymity": "transparent",
     "location": "Ashburn"
   },
@@ -571,7 +583,7 @@
     "asn": 32162,
     "isp": "Carbon Lehigh Intermediate Unit 21",
     "protocol": "http",
-    "speed_ms": "838.55",
+    "speed_ms": "598.78",
     "anonymity": "elite",
     "location": "Schnecksville"
   },
@@ -583,7 +595,7 @@
     "asn": 8075,
     "isp": "Microsoft Corporation",
     "protocol": "http",
-    "speed_ms": "1189.25",
+    "speed_ms": "996.74",
     "anonymity": "anonymous",
     "location": "Washington"
   },
@@ -595,7 +607,7 @@
     "asn": 40034,
     "isp": "Confluence Networks Inc",
     "protocol": "http",
-    "speed_ms": "717.74",
+    "speed_ms": "592.83",
     "anonymity": "elite",
     "location": "Road Town"
   },
@@ -607,7 +619,7 @@
     "asn": 12876,
     "isp": "ONLINE S.A.S.",
     "protocol": "http",
-    "speed_ms": "1118.97",
+    "speed_ms": "975.97",
     "anonymity": "elite",
     "location": "Paris"
   },
@@ -619,7 +631,7 @@
     "asn": 9009,
     "isp": "M247 Europe SRL",
     "protocol": "http",
-    "speed_ms": "1154.81",
+    "speed_ms": "997.42",
     "anonymity": "elite",
     "location": "Ballerup Municipality"
   },
@@ -631,7 +643,7 @@
     "asn": 47583,
     "isp": "Hostinger International Limited",
     "protocol": "http",
-    "speed_ms": "1132.73",
+    "speed_ms": "1024.94",
     "anonymity": "elite",
     "location": "Mumbai"
   },
@@ -643,9 +655,21 @@
     "asn": 265763,
     "isp": "Interret Villa Angela SRL",
     "protocol": "http",
-    "speed_ms": "1420.53",
+    "speed_ms": "1025.63",
     "anonymity": "transparent",
     "location": "Villa Angela"
+  },
+  {
+    "ip": "222.117.64.146",
+    "port": 80,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 4766,
+    "isp": "Korea Telecom",
+    "protocol": "http",
+    "speed_ms": "943.84",
+    "anonymity": "elite",
+    "location": "Seongnam-si (Buljeong-ro)"
   },
   {
     "ip": "138.68.59.191",
@@ -655,7 +679,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "883.84",
+    "speed_ms": "660.42",
     "anonymity": "elite",
     "location": "Santa Clara"
   },
@@ -667,7 +691,7 @@
     "asn": 39832,
     "isp": "Opera Software AS",
     "protocol": "http",
-    "speed_ms": "1006.29",
+    "speed_ms": "901.87",
     "anonymity": "elite",
     "location": "Singapore"
   },
@@ -679,9 +703,21 @@
     "asn": 45544,
     "isp": "SUPERDATA-VN",
     "protocol": "http",
-    "speed_ms": "1099.32",
+    "speed_ms": "1003.84",
     "anonymity": "elite",
     "location": "Quan Ba"
+  },
+  {
+    "ip": "211.195.74.89",
+    "port": 80,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 4766,
+    "isp": "Korea Telecom",
+    "protocol": "http",
+    "speed_ms": "883.81",
+    "anonymity": "elite",
+    "location": "Seongnam-si (Buljeong-ro)"
   },
   {
     "ip": "5.180.241.126",
@@ -691,7 +727,7 @@
     "asn": 47626,
     "isp": "Timer, LLC",
     "protocol": "http",
-    "speed_ms": "1043.76",
+    "speed_ms": "919.56",
     "anonymity": "elite",
     "location": "Aksay"
   },
@@ -703,7 +739,7 @@
     "asn": 265763,
     "isp": "Interret Villa Angela SRL",
     "protocol": "http",
-    "speed_ms": "1420.51",
+    "speed_ms": "1041.02",
     "anonymity": "transparent",
     "location": "Villa Angela"
   },
@@ -715,7 +751,7 @@
     "asn": 32162,
     "isp": "Carbon Lehigh Intermediate Unit 21",
     "protocol": "http",
-    "speed_ms": "819.72",
+    "speed_ms": "580.04",
     "anonymity": "elite",
     "location": "Schnecksville"
   },
@@ -727,7 +763,7 @@
     "asn": 135375,
     "isp": "Today Communication Co.,Ltd",
     "protocol": "http",
-    "speed_ms": "1060.06",
+    "speed_ms": "953.61",
     "anonymity": "elite",
     "location": "Phnom Penh"
   },
@@ -739,7 +775,7 @@
     "asn": 59466,
     "isp": "EuroExpress Ltd.",
     "protocol": "http",
-    "speed_ms": "984.19",
+    "speed_ms": "843.16",
     "anonymity": "elite",
     "location": "Stara Zagora"
   },
@@ -751,7 +787,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "783.67",
+    "speed_ms": "523.81",
     "anonymity": "elite",
     "location": "Clifton"
   },
@@ -763,7 +799,7 @@
     "asn": 56046,
     "isp": "China Mobile Communications Corporation",
     "protocol": "http",
-    "speed_ms": "984.58",
+    "speed_ms": "857.52",
     "anonymity": "elite",
     "location": "Qinnan"
   },
@@ -775,7 +811,7 @@
     "asn": 265763,
     "isp": "Interret Villa Angela SRL",
     "protocol": "http",
-    "speed_ms": "1396.97",
+    "speed_ms": "1020.41",
     "anonymity": "transparent",
     "location": "Villa Angela"
   },
@@ -787,9 +823,33 @@
     "asn": 32098,
     "isp": "Transtelco Inc",
     "protocol": "http",
-    "speed_ms": "861.06",
+    "speed_ms": "659.92",
     "anonymity": "transparent",
     "location": "Buena Vista"
+  },
+  {
+    "ip": "208.87.243.199",
+    "port": 7878,
+    "country": "US",
+    "country_code": "US",
+    "asn": 40676,
+    "isp": "Psychz Networks",
+    "protocol": "http",
+    "speed_ms": "858.36",
+    "anonymity": "transparent",
+    "location": "Los Angeles"
+  },
+  {
+    "ip": "213.142.156.97",
+    "port": 80,
+    "country": "TR",
+    "country_code": "TR",
+    "asn": 207459,
+    "isp": "TEKNOSOS BILISIM HIZMETLERI VE TIC. LTD. STI.",
+    "protocol": "http",
+    "speed_ms": "2051.29",
+    "anonymity": "elite",
+    "location": "Bahcelievler"
   },
   {
     "ip": "185.26.180.143",
@@ -799,7 +859,7 @@
     "asn": 39832,
     "isp": "Opera Software AS",
     "protocol": "http",
-    "speed_ms": "861.16",
+    "speed_ms": "656.58",
     "anonymity": "elite",
     "location": "Amsterdam"
   },
@@ -811,7 +871,7 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "962.88",
+    "speed_ms": "903.20",
     "anonymity": "elite",
     "location": "Roubaix"
   },
@@ -823,7 +883,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "702.53",
+    "speed_ms": "542.95",
     "anonymity": "elite",
     "location": "San Jose"
   },
@@ -835,7 +895,7 @@
     "asn": 32162,
     "isp": "Carbon Lehigh Intermediate Unit 21",
     "protocol": "http",
-    "speed_ms": "761.91",
+    "speed_ms": "559.78",
     "anonymity": "elite",
     "location": "Schnecksville"
   },
@@ -847,7 +907,7 @@
     "asn": 39832,
     "isp": "Opera Software AS",
     "protocol": "http",
-    "speed_ms": "976.51",
+    "speed_ms": "858.87",
     "anonymity": "elite",
     "location": "Singapore"
   },
@@ -859,7 +919,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "722.76",
+    "speed_ms": "440.45",
     "anonymity": "elite",
     "location": "Santa Clara"
   },
@@ -871,7 +931,7 @@
     "asn": 39832,
     "isp": "Opera Software AS",
     "protocol": "http",
-    "speed_ms": "944.63",
+    "speed_ms": "860.57",
     "anonymity": "elite",
     "location": "Singapore"
   },
@@ -883,7 +943,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "822.92",
+    "speed_ms": "697.87",
     "anonymity": "elite",
     "location": "Clifton"
   },
@@ -895,7 +955,7 @@
     "asn": 39832,
     "isp": "Opera Software AS",
     "protocol": "http",
-    "speed_ms": "836.10",
+    "speed_ms": "639.09",
     "anonymity": "elite",
     "location": "Amsterdam"
   },
@@ -907,7 +967,7 @@
     "asn": 39832,
     "isp": "Opera Software AS",
     "protocol": "http",
-    "speed_ms": "836.58",
+    "speed_ms": "639.11",
     "anonymity": "elite",
     "location": "Amsterdam"
   },
@@ -919,7 +979,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "744.50",
+    "speed_ms": "526.73",
     "anonymity": "transparent",
     "location": "North Bergen"
   },
@@ -931,7 +991,7 @@
     "asn": 265763,
     "isp": "Interret Villa Angela SRL",
     "protocol": "http",
-    "speed_ms": "1161.16",
+    "speed_ms": "998.70",
     "anonymity": "transparent",
     "location": "Villa Angela"
   },
@@ -943,7 +1003,7 @@
     "asn": 31898,
     "isp": "Oracle Corporation",
     "protocol": "http",
-    "speed_ms": "881.87",
+    "speed_ms": "776.55",
     "anonymity": "elite",
     "location": "Frankfurt am Main (Innenstadt I)"
   },
@@ -955,7 +1015,7 @@
     "asn": 135375,
     "isp": "Today Communication Co.,Ltd",
     "protocol": "http",
-    "speed_ms": "1343.71",
+    "speed_ms": "1269.04",
     "anonymity": "elite",
     "location": "Phnom Penh"
   },
@@ -967,7 +1027,7 @@
     "asn": 51167,
     "isp": "Contabo GmbH",
     "protocol": "http",
-    "speed_ms": "982.94",
+    "speed_ms": "958.58",
     "anonymity": "elite",
     "location": "London"
   },
@@ -979,7 +1039,7 @@
     "asn": 39832,
     "isp": "Opera Software AS",
     "protocol": "http",
-    "speed_ms": "942.81",
+    "speed_ms": "834.12",
     "anonymity": "elite",
     "location": "Singapore"
   },
@@ -991,7 +1051,7 @@
     "asn": 137287,
     "isp": "DINAS KOMUNIKASI DAN INFORMATIKA KAB. BEKASI",
     "protocol": "http",
-    "speed_ms": "957.24",
+    "speed_ms": "857.37",
     "anonymity": "elite",
     "location": "Cikarang"
   },
@@ -1003,7 +1063,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "786.76",
+    "speed_ms": "600.21",
     "anonymity": "elite",
     "location": "North Bergen"
   },
@@ -1015,7 +1075,7 @@
     "asn": 2200,
     "isp": "Renater",
     "protocol": "http",
-    "speed_ms": "1006.35",
+    "speed_ms": "897.92",
     "anonymity": "elite",
     "location": "Toulouse"
   },
@@ -1027,7 +1087,7 @@
     "asn": 32162,
     "isp": "Carbon Lehigh Intermediate Unit 21",
     "protocol": "http",
-    "speed_ms": "759.53",
+    "speed_ms": "517.47",
     "anonymity": "elite",
     "location": "Schnecksville"
   },
@@ -1039,7 +1099,7 @@
     "asn": 8075,
     "isp": "Microsoft Corporation",
     "protocol": "http",
-    "speed_ms": "1378.58",
+    "speed_ms": "1137.79",
     "anonymity": "elite",
     "location": "Sydney"
   },
@@ -1051,9 +1111,21 @@
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "821.05",
+    "speed_ms": "656.49",
     "anonymity": "elite",
     "location": "London"
+  },
+  {
+    "ip": "112.216.83.10",
+    "port": 3128,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 3786,
+    "isp": "LG DACOM Corporation",
+    "protocol": "http",
+    "speed_ms": "1093.01",
+    "anonymity": "transparent",
+    "location": "Yongsan-dong (Hangang-daero)"
   },
   {
     "ip": "190.242.157.215",
@@ -1063,7 +1135,7 @@
     "asn": 269804,
     "isp": "SEPCOM COMUNICACIONES SAS",
     "protocol": "http",
-    "speed_ms": "1045.33",
+    "speed_ms": "875.64",
     "anonymity": "transparent",
     "location": "Popayan"
   },
@@ -1075,7 +1147,7 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "1048.37",
+    "speed_ms": "921.95",
     "anonymity": "transparent",
     "location": "Seoul"
   },
@@ -1087,21 +1159,9 @@
     "asn": 40034,
     "isp": "Confluence Networks Inc",
     "protocol": "http",
-    "speed_ms": "743.90",
+    "speed_ms": "545.16",
     "anonymity": "elite",
     "location": "Jacksonville (Southside Estates)"
-  },
-  {
-    "ip": "147.75.66.234",
-    "port": 9443,
-    "country": "US",
-    "country_code": "US",
-    "asn": 15830,
-    "isp": "Equinix (EMEA) Acquisition Enterprises B.V.",
-    "protocol": "http",
-    "speed_ms": "1064.21",
-    "anonymity": "transparent",
-    "location": "Secaucus"
   },
   {
     "ip": "35.169.4.155",
@@ -1111,7 +1171,7 @@
     "asn": 14618,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "718.84",
+    "speed_ms": "507.05",
     "anonymity": "elite",
     "location": "Ashburn"
   },
@@ -1123,7 +1183,7 @@
     "asn": 265763,
     "isp": "Interret Villa Angela SRL",
     "protocol": "http",
-    "speed_ms": "1317.44",
+    "speed_ms": "959.38",
     "anonymity": "transparent",
     "location": "Villa Angela"
   },
@@ -1135,7 +1195,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "697.27",
+    "speed_ms": "506.34",
     "anonymity": "transparent",
     "location": "North Bergen"
   },
@@ -1147,7 +1207,7 @@
     "asn": 24940,
     "isp": "Hetzner Online GmbH",
     "protocol": "http",
-    "speed_ms": "857.23",
+    "speed_ms": "739.53",
     "anonymity": "elite",
     "location": "Nuremberg"
   },
@@ -1159,7 +1219,7 @@
     "asn": 4134,
     "isp": "Chinanet",
     "protocol": "http",
-    "speed_ms": "816.75",
+    "speed_ms": "663.27",
     "anonymity": "elite",
     "location": "Hefei (Shushan Qu)"
   },
@@ -1171,7 +1231,7 @@
     "asn": 39832,
     "isp": "Opera Software AS",
     "protocol": "http",
-    "speed_ms": "821.29",
+    "speed_ms": "683.56",
     "anonymity": "elite",
     "location": "Amsterdam"
   },
@@ -1183,7 +1243,7 @@
     "asn": 40034,
     "isp": "Confluence Networks Inc",
     "protocol": "http",
-    "speed_ms": "739.14",
+    "speed_ms": "558.69",
     "anonymity": "elite",
     "location": "Jacksonville (Southside Estates)"
   },
@@ -1195,7 +1255,7 @@
     "asn": 24940,
     "isp": "Hetzner Online GmbH",
     "protocol": "http",
-    "speed_ms": "854.97",
+    "speed_ms": "779.68",
     "anonymity": "elite",
     "location": "Helsinki"
   },
@@ -1207,7 +1267,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1015.71",
+    "speed_ms": "958.48",
     "anonymity": "elite",
     "location": "Wembley"
   },
@@ -1219,7 +1279,7 @@
     "asn": 45899,
     "isp": "VNPT Corp",
     "protocol": "http",
-    "speed_ms": "1460.25",
+    "speed_ms": "1403.32",
     "anonymity": "elite",
     "location": "Hanoi"
   },
@@ -1231,7 +1291,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "960.59",
+    "speed_ms": "900.33",
     "anonymity": "elite",
     "location": "Singapore (Pioneer)"
   },
@@ -1243,7 +1303,7 @@
     "asn": 135905,
     "isp": "VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",
     "protocol": "http",
-    "speed_ms": "1470.34",
+    "speed_ms": "1350.62",
     "anonymity": "elite",
     "location": "Hanoi"
   },
@@ -1255,7 +1315,7 @@
     "asn": 36236,
     "isp": "NetActuate, Inc",
     "protocol": "http",
-    "speed_ms": "624.21",
+    "speed_ms": "499.31",
     "anonymity": "elite",
     "location": "West Hollywood (Central-Alameda)"
   },
@@ -1267,7 +1327,7 @@
     "asn": 9123,
     "isp": "TimeWeb LLC",
     "protocol": "http",
-    "speed_ms": "863.48",
+    "speed_ms": "793.86",
     "anonymity": "elite",
     "location": "St Petersburg"
   },
@@ -1279,7 +1339,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "817.91",
+    "speed_ms": "701.76",
     "anonymity": "elite",
     "location": "Frankfurt am Main"
   },
@@ -1291,7 +1351,7 @@
     "asn": 38765,
     "isp": "Departemen Energi dan Sumber Daya Mineral",
     "protocol": "http",
-    "speed_ms": "902.35",
+    "speed_ms": "805.37",
     "anonymity": "elite",
     "location": "Jakarta"
   },
@@ -1303,7 +1363,7 @@
     "asn": 214399,
     "isp": "Parsian Technology Innovative Solution Co., PJS.",
     "protocol": "http",
-    "speed_ms": "919.54",
+    "speed_ms": "845.19",
     "anonymity": "anonymous",
     "location": "Tehran (District 6)"
   },
@@ -1315,7 +1375,7 @@
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "775.97",
+    "speed_ms": "665.41",
     "anonymity": "elite",
     "location": "London"
   },
@@ -1327,7 +1387,7 @@
     "asn": 30058,
     "isp": "FDCservers.net",
     "protocol": "http",
-    "speed_ms": "557.57",
+    "speed_ms": "382.60",
     "anonymity": "transparent",
     "location": "Dallas"
   },
@@ -1339,7 +1399,7 @@
     "asn": 265763,
     "isp": "Interret Villa Angela SRL",
     "protocol": "http",
-    "speed_ms": "1271.52",
+    "speed_ms": "1128.28",
     "anonymity": "transparent",
     "location": "Villa Angela"
   },
@@ -1351,7 +1411,7 @@
     "asn": 32162,
     "isp": "Carbon Lehigh Intermediate Unit 21",
     "protocol": "http",
-    "speed_ms": "699.30",
+    "speed_ms": "468.76",
     "anonymity": "elite",
     "location": "Schnecksville"
   },
@@ -1363,7 +1423,7 @@
     "asn": 265763,
     "isp": "Interret Villa Angela SRL",
     "protocol": "http",
-    "speed_ms": "1269.57",
+    "speed_ms": "1103.45",
     "anonymity": "transparent",
     "location": "Villa Angela"
   },
@@ -1375,7 +1435,7 @@
     "asn": 14618,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "901.33",
+    "speed_ms": "703.14",
     "anonymity": "elite",
     "location": "Ashburn"
   },
@@ -1387,7 +1447,7 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "799.14",
+    "speed_ms": "708.08",
     "anonymity": "elite",
     "location": "Frankfurt am Main"
   },
@@ -1399,7 +1459,7 @@
     "asn": 9198,
     "isp": "JSC Kazakhtelecom",
     "protocol": "http",
-    "speed_ms": "922.87",
+    "speed_ms": "877.82",
     "anonymity": "elite",
     "location": "Kostanay"
   },
@@ -1411,7 +1471,7 @@
     "asn": 4134,
     "isp": "Chinanet",
     "protocol": "http",
-    "speed_ms": "826.59",
+    "speed_ms": "726.03",
     "anonymity": "elite",
     "location": "Taiyuan"
   },
@@ -1423,7 +1483,7 @@
     "asn": 46606,
     "isp": "Unified Layer",
     "protocol": "http",
-    "speed_ms": "564.60",
+    "speed_ms": "357.63",
     "anonymity": "elite",
     "location": "Provo (East Bay)"
   },
@@ -1435,7 +1495,7 @@
     "asn": 202108,
     "isp": "united-domains AG",
     "protocol": "http",
-    "speed_ms": "882.55",
+    "speed_ms": "845.26",
     "anonymity": "elite",
     "location": "Starnberg"
   },
@@ -1447,7 +1507,7 @@
     "asn": 135463,
     "isp": "PDE Setda Kabupaten Sukoharjo",
     "protocol": "http",
-    "speed_ms": "1409.88",
+    "speed_ms": "959.76",
     "anonymity": "transparent",
     "location": "Jombor"
   },
@@ -1459,7 +1519,7 @@
     "asn": 20473,
     "isp": "The Constant Company, LLC",
     "protocol": "http",
-    "speed_ms": "601.27",
+    "speed_ms": "340.73",
     "anonymity": "elite",
     "location": "Kent"
   },
@@ -1471,7 +1531,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "703.14",
+    "speed_ms": "684.63",
     "anonymity": "elite",
     "location": "North Bergen"
   },
@@ -1483,7 +1543,7 @@
     "asn": 24940,
     "isp": "Hetzner Online GmbH",
     "protocol": "http",
-    "speed_ms": "817.28",
+    "speed_ms": "678.28",
     "anonymity": "elite",
     "location": "Falkenstein"
   },
@@ -1495,7 +1555,7 @@
     "asn": 13036,
     "isp": "T-Mobile Czech Republic a.s.",
     "protocol": "http",
-    "speed_ms": "1002.80",
+    "speed_ms": "928.63",
     "anonymity": "elite",
     "location": "Prague"
   },
@@ -1507,7 +1567,7 @@
     "asn": 46997,
     "isp": "Black Mesa Corporation",
     "protocol": "http",
-    "speed_ms": "576.34",
+    "speed_ms": "456.36",
     "anonymity": "elite",
     "location": "Frankfurt am Main"
   },
@@ -1519,7 +1579,7 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "642.49",
+    "speed_ms": "436.21",
     "anonymity": "elite",
     "location": "Beauharnois"
   },
@@ -1531,7 +1591,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "683.99",
+    "speed_ms": "575.77",
     "anonymity": "elite",
     "location": "North Bergen"
   },
@@ -1543,7 +1603,7 @@
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "679.35",
+    "speed_ms": "501.76",
     "anonymity": "elite",
     "location": "Shibuya City"
   },
@@ -1555,7 +1615,7 @@
     "asn": 265763,
     "isp": "Interret Villa Angela SRL",
     "protocol": "http",
-    "speed_ms": "1035.33",
+    "speed_ms": "881.06",
     "anonymity": "transparent",
     "location": "Villa Angela"
   },
@@ -1567,7 +1627,7 @@
     "asn": 52469,
     "isp": "Offshore Racks S.A",
     "protocol": "http",
-    "speed_ms": "969.12",
+    "speed_ms": "857.22",
     "anonymity": "elite",
     "location": "Panama City"
   },
@@ -1579,7 +1639,7 @@
     "asn": 1257,
     "isp": "Tele2 Sverige AB",
     "protocol": "http",
-    "speed_ms": "1068.60",
+    "speed_ms": "1020.08",
     "anonymity": "elite",
     "location": "Jonkoping"
   },
@@ -1591,7 +1651,7 @@
     "asn": 202108,
     "isp": "united-domains AG",
     "protocol": "http",
-    "speed_ms": "858.63",
+    "speed_ms": "825.63",
     "anonymity": "elite",
     "location": "Starnberg"
   },
@@ -1603,7 +1663,7 @@
     "asn": 39832,
     "isp": "Opera Software AS",
     "protocol": "http",
-    "speed_ms": "802.01",
+    "speed_ms": "703.77",
     "anonymity": "elite",
     "location": "Singapore"
   },
@@ -1615,7 +1675,7 @@
     "asn": 40034,
     "isp": "Confluence Networks Inc",
     "protocol": "http",
-    "speed_ms": "642.30",
+    "speed_ms": "479.64",
     "anonymity": "elite",
     "location": "Road Town"
   },
@@ -1627,7 +1687,7 @@
     "asn": 39832,
     "isp": "Opera Software AS",
     "protocol": "http",
-    "speed_ms": "756.45",
+    "speed_ms": "659.30",
     "anonymity": "elite",
     "location": "Amsterdam"
   },
@@ -1639,7 +1699,7 @@
     "asn": 7552,
     "isp": "Viettel Group",
     "protocol": "http",
-    "speed_ms": "796.39",
+    "speed_ms": "716.57",
     "anonymity": "elite",
     "location": "Ho Chi Minh City"
   },
@@ -1651,7 +1711,7 @@
     "asn": 14618,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "657.25",
+    "speed_ms": "460.54",
     "anonymity": "elite",
     "location": "Ashburn"
   },
@@ -1663,7 +1723,7 @@
     "asn": 39832,
     "isp": "Opera Software AS",
     "protocol": "http",
-    "speed_ms": "815.44",
+    "speed_ms": "720.22",
     "anonymity": "elite",
     "location": "Singapore"
   },
@@ -1675,7 +1735,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "1034.28",
+    "speed_ms": "945.56",
     "anonymity": "elite",
     "location": "Mumbai"
   },
@@ -1687,7 +1747,7 @@
     "asn": 265763,
     "isp": "Interret Villa Angela SRL",
     "protocol": "http",
-    "speed_ms": "1890.78",
+    "speed_ms": "874.61",
     "anonymity": "transparent",
     "location": "Villa Angela"
   },
@@ -1699,9 +1759,21 @@
     "asn": 212317,
     "isp": "Hetzner Online GmbH",
     "protocol": "http",
-    "speed_ms": "501.63",
+    "speed_ms": "322.29",
     "anonymity": "elite",
     "location": "Hillsboro"
+  },
+  {
+    "ip": "43.226.40.203",
+    "port": 80,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 134762,
+    "isp": "CHINANET Liaoning province Dalian MAN network",
+    "protocol": "http",
+    "speed_ms": "1300.34",
+    "anonymity": "elite",
+    "location": "Guangzhou"
   },
   {
     "ip": "5.182.34.73",
@@ -1711,7 +1783,7 @@
     "asn": 209242,
     "isp": "Cloudflare London, LLC",
     "protocol": "http",
-    "speed_ms": "460.20",
+    "speed_ms": "282.29",
     "anonymity": "elite",
     "location": "Rome"
   },
@@ -1723,7 +1795,7 @@
     "asn": 9891,
     "isp": "CS Loxinfo Public Company Limited",
     "protocol": "http",
-    "speed_ms": "1324.85",
+    "speed_ms": "1225.53",
     "anonymity": "anonymous",
     "location": "Huai Khwang (Khwaeng Huai Khwang)"
   },
@@ -1735,7 +1807,7 @@
     "asn": 265763,
     "isp": "Interret Villa Angela SRL",
     "protocol": "http",
-    "speed_ms": "1192.83",
+    "speed_ms": "1029.84",
     "anonymity": "transparent",
     "location": "Villa Angela"
   },
@@ -1747,9 +1819,21 @@
     "asn": 44566,
     "isp": "KDS-Kabel Net DOO",
     "protocol": "http",
-    "speed_ms": "780.88",
+    "speed_ms": "721.70",
     "anonymity": "elite",
     "location": "Prilep"
+  },
+  {
+    "ip": "213.142.156.97",
+    "port": 80,
+    "country": "TR",
+    "country_code": "TR",
+    "asn": 207459,
+    "isp": "TEKNOSOS BILISIM HIZMETLERI VE TIC. LTD. STI.",
+    "protocol": "http",
+    "speed_ms": "1887.48",
+    "anonymity": "elite",
+    "location": "Bahcelievler"
   },
   {
     "ip": "104.248.102.227",
@@ -1759,7 +1843,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "898.26",
+    "speed_ms": "842.95",
     "anonymity": "elite",
     "location": "Frankfurt am Main"
   },
@@ -1771,7 +1855,7 @@
     "asn": 16814,
     "isp": "NSS S.A.",
     "protocol": "http",
-    "speed_ms": "986.00",
+    "speed_ms": "846.91",
     "anonymity": "elite",
     "location": "Rosario"
   },
@@ -1783,7 +1867,7 @@
     "asn": 31898,
     "isp": "Oracle Corporation",
     "protocol": "http",
-    "speed_ms": "757.34",
+    "speed_ms": "659.49",
     "anonymity": "elite",
     "location": "Madrid"
   },
@@ -1795,7 +1879,7 @@
     "asn": 137952,
     "isp": "ANGKOR E & C (CAMBODIA) Co.,Ltd.",
     "protocol": "http",
-    "speed_ms": "855.42",
+    "speed_ms": "784.89",
     "anonymity": "elite",
     "location": "Phnom Penh"
   },
@@ -1807,7 +1891,7 @@
     "asn": 30058,
     "isp": "FDCservers.net",
     "protocol": "http",
-    "speed_ms": "446.15",
+    "speed_ms": "281.92",
     "anonymity": "transparent",
     "location": "Dallas"
   },
@@ -1819,7 +1903,7 @@
     "asn": 3842,
     "isp": "InMotion Hosting, Inc.",
     "protocol": "http",
-    "speed_ms": "504.19",
+    "speed_ms": "263.50",
     "anonymity": "elite",
     "location": "Seattle"
   },
@@ -1831,7 +1915,7 @@
     "asn": 54179,
     "isp": "Ventura County Office of Education",
     "protocol": "http",
-    "speed_ms": "505.34",
+    "speed_ms": "207.91",
     "anonymity": "elite",
     "location": "Sunnyvale"
   },
@@ -1843,9 +1927,21 @@
     "asn": 2200,
     "isp": "Renater",
     "protocol": "http",
-    "speed_ms": "844.20",
+    "speed_ms": "703.11",
     "anonymity": "elite",
     "location": "Toulouse"
+  },
+  {
+    "ip": "34.16.129.212",
+    "port": 3128,
+    "country": "US",
+    "country_code": "US",
+    "asn": 396982,
+    "isp": "Google LLC",
+    "protocol": "http",
+    "speed_ms": "627.92",
+    "anonymity": "transparent",
+    "location": "Las Vegas"
   },
   {
     "ip": "113.44.168.202",
@@ -1855,7 +1951,7 @@
     "asn": 55990,
     "isp": "Huawei Cloud Service data center",
     "protocol": "http",
-    "speed_ms": "682.68",
+    "speed_ms": "602.39",
     "anonymity": "elite",
     "location": "Beijing"
   },
@@ -1867,9 +1963,33 @@
     "asn": 265763,
     "isp": "Interret Villa Angela SRL",
     "protocol": "http",
-    "speed_ms": "1796.73",
+    "speed_ms": "817.28",
     "anonymity": "transparent",
     "location": "Villa Angela"
+  },
+  {
+    "ip": "220.122.70.189",
+    "port": 80,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 4766,
+    "isp": "Korea Telecom",
+    "protocol": "http",
+    "speed_ms": "603.00",
+    "anonymity": "elite",
+    "location": "Seongnam-si (Buljeong-ro)"
+  },
+  {
+    "ip": "46.99.204.38",
+    "port": 80,
+    "country": "XK",
+    "country_code": "XK",
+    "asn": 21246,
+    "isp": "IPKO Telecommunications LLC",
+    "protocol": "http",
+    "speed_ms": "716.45",
+    "anonymity": "elite",
+    "location": "Vushtrri"
   },
   {
     "ip": "208.91.197.21",
@@ -1879,9 +1999,21 @@
     "asn": 40034,
     "isp": "Confluence Networks Inc",
     "protocol": "http",
-    "speed_ms": "541.85",
+    "speed_ms": "416.71",
     "anonymity": "elite",
     "location": "Road Town"
+  },
+  {
+    "ip": "220.119.146.79",
+    "port": 80,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 4766,
+    "isp": "Korea Telecom",
+    "protocol": "http",
+    "speed_ms": "601.38",
+    "anonymity": "elite",
+    "location": "Seongnam-si (Buljeong-ro)"
   },
   {
     "ip": "5.188.31.140",
@@ -1891,7 +2023,7 @@
     "asn": 200487,
     "isp": "OOO VPS",
     "protocol": "http",
-    "speed_ms": "1025.17",
+    "speed_ms": "1009.20",
     "anonymity": "elite",
     "location": "St Petersburg"
   },
@@ -1903,7 +2035,7 @@
     "asn": 133957,
     "isp": "SOL-BD",
     "protocol": "http",
-    "speed_ms": "758.40",
+    "speed_ms": "737.32",
     "anonymity": "anonymous",
     "location": "Tungipara"
   },
@@ -1915,7 +2047,7 @@
     "asn": 396982,
     "isp": "Google LLC",
     "protocol": "http",
-    "speed_ms": "396.16",
+    "speed_ms": "314.44",
     "anonymity": "elite",
     "location": "Kansas City"
   },
@@ -1927,7 +2059,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "561.01",
+    "speed_ms": "490.57",
     "anonymity": "elite",
     "location": "Clifton"
   },
@@ -1939,7 +2071,7 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "738.37",
+    "speed_ms": "679.30",
     "anonymity": "elite",
     "location": "Roubaix"
   },
@@ -1951,9 +2083,21 @@
     "asn": 265763,
     "isp": "Interret Villa Angela SRL",
     "protocol": "http",
-    "speed_ms": "1776.28",
+    "speed_ms": "811.17",
     "anonymity": "transparent",
     "location": "Villa Angela"
+  },
+  {
+    "ip": "221.153.80.5",
+    "port": 80,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 4766,
+    "isp": "Korea Telecom",
+    "protocol": "http",
+    "speed_ms": "597.54",
+    "anonymity": "elite",
+    "location": "Seongnam-si (Buljeong-ro)"
   },
   {
     "ip": "185.25.188.3",
@@ -1963,7 +2107,7 @@
     "asn": 16353,
     "isp": "Merula Limited",
     "protocol": "http",
-    "speed_ms": "582.31",
+    "speed_ms": "602.02",
     "anonymity": "elite",
     "location": "Manchester"
   },
@@ -1975,7 +2119,7 @@
     "asn": 39832,
     "isp": "Opera Software AS",
     "protocol": "http",
-    "speed_ms": "560.89",
+    "speed_ms": "520.45",
     "anonymity": "elite",
     "location": "Amsterdam"
   },
@@ -1987,7 +2131,7 @@
     "asn": 40034,
     "isp": "Confluence Networks Inc",
     "protocol": "http",
-    "speed_ms": "523.38",
+    "speed_ms": "399.66",
     "anonymity": "elite",
     "location": "Jacksonville (Southside Estates)"
   },
@@ -1999,7 +2143,7 @@
     "asn": 44020,
     "isp": "Modern Solutions LTD",
     "protocol": "http",
-    "speed_ms": "737.49",
+    "speed_ms": "716.87",
     "anonymity": "elite",
     "location": "Mugreyevskiy"
   },
@@ -2011,7 +2155,7 @@
     "asn": 40034,
     "isp": "Confluence Networks Inc",
     "protocol": "http",
-    "speed_ms": "538.54",
+    "speed_ms": "398.67",
     "anonymity": "elite",
     "location": "Road Town"
   },
@@ -2023,7 +2167,7 @@
     "asn": 4134,
     "isp": "Chinanet",
     "protocol": "http",
-    "speed_ms": "596.20",
+    "speed_ms": "502.72",
     "anonymity": "elite",
     "location": "Beijing"
   },
@@ -2035,21 +2179,9 @@
     "asn": 39832,
     "isp": "Opera Software AS",
     "protocol": "http",
-    "speed_ms": "601.18",
+    "speed_ms": "603.70",
     "anonymity": "elite",
     "location": "Amsterdam"
-  },
-  {
-    "ip": "82.18.249.208",
-    "port": 8118,
-    "country": "NL",
-    "country_code": "NL",
-    "asn": 39351,
-    "isp": "31173 Services AB",
-    "protocol": "http",
-    "speed_ms": "841.88",
-    "anonymity": "elite",
-    "location": "Amsterdam (Amsterdam-Zuidoost)"
   },
   {
     "ip": "36.67.136.27",
@@ -2059,7 +2191,7 @@
     "asn": 7713,
     "isp": "Telekomunikasi Indonesia (PT)",
     "protocol": "http",
-    "speed_ms": "715.71",
+    "speed_ms": "831.76",
     "anonymity": "elite",
     "location": "Jakarta"
   },
@@ -2071,7 +2203,7 @@
     "asn": 1101,
     "isp": "SURF B.V.",
     "protocol": "http",
-    "speed_ms": "598.45",
+    "speed_ms": "587.48",
     "anonymity": "elite",
     "location": "Utrecht"
   },
@@ -2083,7 +2215,7 @@
     "asn": 134732,
     "isp": "Dot Internet",
     "protocol": "http",
-    "speed_ms": "771.90",
+    "speed_ms": "743.74",
     "anonymity": "anonymous",
     "location": "Dhaka"
   },
@@ -2095,7 +2227,7 @@
     "asn": 7713,
     "isp": "Telekomunikasi Indonesia (PT)",
     "protocol": "http",
-    "speed_ms": "792.97",
+    "speed_ms": "744.19",
     "anonymity": "elite",
     "location": "Jakarta"
   },
@@ -2107,7 +2239,7 @@
     "asn": 20473,
     "isp": "The Constant Company, LLC",
     "protocol": "http",
-    "speed_ms": "522.69",
+    "speed_ms": "379.69",
     "anonymity": "elite",
     "location": "Piscataway"
   },
@@ -2119,7 +2251,7 @@
     "asn": 40034,
     "isp": "Confluence Networks Inc",
     "protocol": "http",
-    "speed_ms": "520.02",
+    "speed_ms": "381.44",
     "anonymity": "elite",
     "location": "Road Town"
   },
@@ -2131,7 +2263,7 @@
     "asn": 4134,
     "isp": "Chinanet",
     "protocol": "http",
-    "speed_ms": "681.12",
+    "speed_ms": "674.47",
     "anonymity": "elite",
     "location": "Xingfulu"
   },
@@ -2143,7 +2275,7 @@
     "asn": 269806,
     "isp": "PEREZ TITO JULIO CESAR(FASTNETT)",
     "protocol": "http",
-    "speed_ms": "832.41",
+    "speed_ms": "745.90",
     "anonymity": "transparent",
     "location": "Ascazubi"
   },
@@ -2155,7 +2287,7 @@
     "asn": 401696,
     "isp": "cognetcloud INC",
     "protocol": "http",
-    "speed_ms": "498.53",
+    "speed_ms": "566.77",
     "anonymity": "elite",
     "location": "Ha Kwai Chung"
   },
@@ -2167,7 +2299,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "476.74",
+    "speed_ms": "348.32",
     "anonymity": "elite",
     "location": "Montreal"
   },
@@ -2179,7 +2311,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "500.26",
+    "speed_ms": "439.54",
     "anonymity": "elite",
     "location": "Clifton"
   },
@@ -2191,7 +2323,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "562.11",
+    "speed_ms": "577.19",
     "anonymity": "elite",
     "location": "Amsterdam"
   },
@@ -2203,7 +2335,7 @@
     "asn": 4766,
     "isp": "Korea Telecom",
     "protocol": "http",
-    "speed_ms": "680.43",
+    "speed_ms": "1460.49",
     "anonymity": "elite",
     "location": "Seongnam-si (Buljeong-ro)"
   },
@@ -2215,7 +2347,7 @@
     "asn": 40034,
     "isp": "Confluence Networks Inc",
     "protocol": "http",
-    "speed_ms": "478.70",
+    "speed_ms": "361.73",
     "anonymity": "elite",
     "location": "Road Town"
   },
@@ -2227,7 +2359,7 @@
     "asn": 39832,
     "isp": "Opera Software AS",
     "protocol": "http",
-    "speed_ms": "516.60",
+    "speed_ms": "478.93",
     "anonymity": "elite",
     "location": "Amsterdam"
   },
@@ -2239,7 +2371,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "844.77",
+    "speed_ms": "763.19",
     "anonymity": "elite",
     "location": "Bengaluru"
   },
@@ -2251,7 +2383,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "477.56",
+    "speed_ms": "356.44",
     "anonymity": "elite",
     "location": "Clifton"
   },
@@ -2263,21 +2395,9 @@
     "asn": 396982,
     "isp": "Google LLC",
     "protocol": "http",
-    "speed_ms": "298.85",
+    "speed_ms": "258.43",
     "anonymity": "elite",
     "location": "The Dalles"
-  },
-  {
-    "ip": "164.163.42.16",
-    "port": 10000,
-    "country": "AR",
-    "country_code": "AR",
-    "asn": 265763,
-    "isp": "Interret Villa Angela SRL",
-    "protocol": "http",
-    "speed_ms": "1741.62",
-    "anonymity": "transparent",
-    "location": "Villa Angela"
   },
   {
     "ip": "180.167.238.98",
@@ -2287,7 +2407,7 @@
     "asn": 4812,
     "isp": "China Telecom (Group)",
     "protocol": "http",
-    "speed_ms": "514.71",
+    "speed_ms": "514.50",
     "anonymity": "elite",
     "location": "Shanghai"
   },
@@ -2299,7 +2419,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "http",
-    "speed_ms": "474.03",
+    "speed_ms": "356.21",
     "anonymity": "elite",
     "location": "Providence"
   },
@@ -2311,7 +2431,7 @@
     "asn": 135375,
     "isp": "Today Communication Co.,Ltd",
     "protocol": "http",
-    "speed_ms": "646.71",
+    "speed_ms": "697.86",
     "anonymity": "elite",
     "location": "Phnom Penh"
   },
@@ -2323,7 +2443,7 @@
     "asn": 149117,
     "isp": "VTC MOBILE SERVICES JOINT STOCK COMPANY",
     "protocol": "http",
-    "speed_ms": "600.31",
+    "speed_ms": "613.00",
     "anonymity": "elite",
     "location": "Vinhomes Times City"
   },
@@ -2335,21 +2455,9 @@
     "asn": 4766,
     "isp": "Korea Telecom",
     "protocol": "http",
-    "speed_ms": "666.54",
+    "speed_ms": "712.41",
     "anonymity": "elite",
     "location": "Ansan-si (Danwon-gu)"
-  },
-  {
-    "ip": "67.43.228.253",
-    "port": 19167,
-    "country": "CR",
-    "country_code": "CR",
-    "asn": 52228,
-    "isp": "Cable Tica",
-    "protocol": "http",
-    "speed_ms": "1482.15",
-    "anonymity": "elite",
-    "location": "San Felipe"
   },
   {
     "ip": "104.237.152.124",
@@ -2359,7 +2467,7 @@
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "463.93",
+    "speed_ms": "710.53",
     "anonymity": "elite",
     "location": "Fremont"
   },
@@ -2371,7 +2479,7 @@
     "asn": 2200,
     "isp": "Renater",
     "protocol": "http",
-    "speed_ms": "718.66",
+    "speed_ms": "711.78",
     "anonymity": "elite",
     "location": "Toulouse"
   },
@@ -2383,7 +2491,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "617.35",
+    "speed_ms": "601.84",
     "anonymity": "elite",
     "location": "Zaragoza"
   },
@@ -2395,7 +2503,7 @@
     "asn": 6461,
     "isp": "Zayo Bandwidth",
     "protocol": "http",
-    "speed_ms": "383.36",
+    "speed_ms": "282.70",
     "anonymity": "elite",
     "location": "Irving"
   },
@@ -2407,9 +2515,21 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "335.73",
+    "speed_ms": "199.86",
     "anonymity": "transparent",
     "location": "San Jose"
+  },
+  {
+    "ip": "220.88.5.106",
+    "port": 80,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 4766,
+    "isp": "Korea Telecom",
+    "protocol": "http",
+    "speed_ms": "1425.72",
+    "anonymity": "elite",
+    "location": "Seongnam-si (Buljeong-ro)"
   },
   {
     "ip": "77.238.66.2",
@@ -2419,7 +2539,7 @@
     "asn": 39135,
     "isp": "Fiber 1 Ltd.",
     "protocol": "http",
-    "speed_ms": "583.74",
+    "speed_ms": "561.68",
     "anonymity": "elite",
     "location": "Sofia"
   },
@@ -2431,7 +2551,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "415.88",
+    "speed_ms": "298.53",
     "anonymity": "elite",
     "location": "Dublin"
   },
@@ -2443,7 +2563,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "http",
-    "speed_ms": "375.95",
+    "speed_ms": "240.39",
     "anonymity": "elite",
     "location": "Chalco"
   },
@@ -2455,7 +2575,7 @@
     "asn": 2200,
     "isp": "Renater",
     "protocol": "http",
-    "speed_ms": "677.99",
+    "speed_ms": "680.96",
     "anonymity": "elite",
     "location": "Toulouse"
   },
@@ -2467,7 +2587,7 @@
     "asn": 63835,
     "isp": "No.293,Wanbao Avenue",
     "protocol": "http",
-    "speed_ms": "454.71",
+    "speed_ms": "539.35",
     "anonymity": "elite",
     "location": "Guangzhou"
   },
@@ -2479,7 +2599,7 @@
     "asn": 39832,
     "isp": "Opera Software AS",
     "protocol": "http",
-    "speed_ms": "474.57",
+    "speed_ms": "458.86",
     "anonymity": "elite",
     "location": "Amsterdam"
   },
@@ -2491,7 +2611,7 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "655.86",
+    "speed_ms": "661.07",
     "anonymity": "elite",
     "location": "Singapore"
   },
@@ -2503,7 +2623,7 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "789.50",
+    "speed_ms": "813.48",
     "anonymity": "elite",
     "location": "Roubaix"
   },
@@ -2515,7 +2635,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "545.33",
+    "speed_ms": "523.73",
     "anonymity": "elite",
     "location": "Hong Kong"
   }
