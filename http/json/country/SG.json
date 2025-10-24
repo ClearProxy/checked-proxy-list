@@ -7,7 +7,7 @@
     "asn": 39832,
     "isp": "Opera Software AS",
     "protocol": "http",
-    "speed_ms": "1684.96",
+    "speed_ms": "1661.35",
     "anonymity": "elite",
     "location": "Singapore"
   },
@@ -19,7 +19,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1086.94",
+    "speed_ms": "1257.79",
     "anonymity": "elite",
     "location": "Singapore (Pioneer)"
   },
@@ -31,21 +31,9 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1382.14",
+    "speed_ms": "1541.49",
     "anonymity": "transparent",
     "location": "Singapore (Pioneer)"
-  },
-  {
-    "ip": "141.0.8.24",
-    "port": 80,
-    "country": "SG",
-    "country_code": "SG",
-    "asn": 39832,
-    "isp": "Opera Software AS",
-    "protocol": "http",
-    "speed_ms": "1143.47",
-    "anonymity": "elite",
-    "location": "Singapore"
   },
   {
     "ip": "141.0.11.241",
@@ -55,7 +43,7 @@
     "asn": 39832,
     "isp": "Opera Software AS",
     "protocol": "http",
-    "speed_ms": "1688.55",
+    "speed_ms": "1316.28",
     "anonymity": "elite",
     "location": "Singapore"
   },
@@ -67,9 +55,21 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "893.68",
+    "speed_ms": "961.11",
     "anonymity": "elite",
     "location": "Singapore (Pioneer)"
+  },
+  {
+    "ip": "141.0.11.254",
+    "port": 80,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 39832,
+    "isp": "Opera Software AS",
+    "protocol": "http",
+    "speed_ms": "1432.77",
+    "anonymity": "elite",
+    "location": "Singapore"
   },
   {
     "ip": "47.245.109.134",
@@ -79,7 +79,31 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "899.79",
+    "speed_ms": "882.39",
+    "anonymity": "elite",
+    "location": "Singapore"
+  },
+  {
+    "ip": "18.143.167.190",
+    "port": 30520,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 16509,
+    "isp": "Amazon.com, Inc.",
+    "protocol": "http",
+    "speed_ms": "699.38",
+    "anonymity": "elite",
+    "location": "Singapore"
+  },
+  {
+    "ip": "18.143.167.190",
+    "port": 9114,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 16509,
+    "isp": "Amazon.com, Inc.",
+    "protocol": "http",
+    "speed_ms": "663.35",
     "anonymity": "elite",
     "location": "Singapore"
   },
@@ -91,8 +115,20 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "878.56",
+    "speed_ms": "840.10",
     "anonymity": "elite",
     "location": "Singapore (Pioneer)"
+  },
+  {
+    "ip": "18.143.167.190",
+    "port": 58765,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 16509,
+    "isp": "Amazon.com, Inc.",
+    "protocol": "http",
+    "speed_ms": "657.98",
+    "anonymity": "elite",
+    "location": "Singapore"
   }
 ]

@@ -1,5 +1,29 @@
 [
   {
+    "ip": "201.174.239.25",
+    "port": 8080,
+    "country": "MX",
+    "country_code": "MX",
+    "asn": 32098,
+    "isp": "Transtelco Inc",
+    "protocol": "http",
+    "speed_ms": "1317.53",
+    "anonymity": "transparent",
+    "location": "Buena Vista"
+  },
+  {
+    "ip": "78.13.74.125",
+    "port": 20549,
+    "country": "MX",
+    "country_code": "MX",
+    "asn": 16509,
+    "isp": "Amazon.com, Inc.",
+    "protocol": "http",
+    "speed_ms": "756.04",
+    "anonymity": "elite",
+    "location": "Queretaro City"
+  },
+  {
     "ip": "78.12.82.74",
     "port": 54733,
     "country": "MX",
@@ -7,7 +31,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "579.22",
+    "speed_ms": "623.91",
     "anonymity": "elite",
     "location": "Queretaro City"
   },
@@ -19,7 +43,19 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "561.40",
+    "speed_ms": "560.50",
+    "anonymity": "elite",
+    "location": "Queretaro City"
+  },
+  {
+    "ip": "78.13.74.125",
+    "port": 26527,
+    "country": "MX",
+    "country_code": "MX",
+    "asn": 16509,
+    "isp": "Amazon.com, Inc.",
+    "protocol": "http",
+    "speed_ms": "560.56",
     "anonymity": "elite",
     "location": "Queretaro City"
   },
@@ -31,7 +67,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "473.85",
+    "speed_ms": "498.63",
     "anonymity": "elite",
     "location": "Queretaro City"
   },
@@ -43,7 +79,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "462.00",
+    "speed_ms": "500.22",
     "anonymity": "elite",
     "location": "Queretaro City"
   },
@@ -55,7 +91,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "438.70",
+    "speed_ms": "476.77",
     "anonymity": "elite",
     "location": "Queretaro City"
   },
@@ -67,21 +103,9 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "419.99",
+    "speed_ms": "443.28",
     "anonymity": "elite",
     "location": "Queretaro City"
-  },
-  {
-    "ip": "45.167.93.24",
-    "port": 999,
-    "country": "MX",
-    "country_code": "MX",
-    "asn": 265561,
-    "isp": "LANTOINTERNET SA DE CV",
-    "protocol": "http",
-    "speed_ms": "659.08",
-    "anonymity": "transparent",
-    "location": "Ticul"
   },
   {
     "ip": "78.12.82.74",
@@ -91,7 +115,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "418.03",
+    "speed_ms": "420.41",
     "anonymity": "elite",
     "location": "Queretaro City"
   }
