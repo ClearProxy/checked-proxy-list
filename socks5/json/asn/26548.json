@@ -1,13 +1,37 @@
 [
   {
     "ip": "137.184.152.66",
-    "port": 20441,
+    "port": 20139,
     "country": "US",
     "country_code": "US",
     "asn": 26548,
     "isp": "PureVoltage Hosting Inc.",
     "protocol": "socks5",
-    "speed_ms": "1837.47",
+    "speed_ms": "1487.71",
+    "anonymity": "elite",
+    "location": "New York"
+  },
+  {
+    "ip": "137.184.152.66",
+    "port": 20645,
+    "country": "US",
+    "country_code": "US",
+    "asn": 26548,
+    "isp": "PureVoltage Hosting Inc.",
+    "protocol": "socks5",
+    "speed_ms": "2116.48",
+    "anonymity": "elite",
+    "location": "Seattle"
+  },
+  {
+    "ip": "137.184.152.66",
+    "port": 20002,
+    "country": "US",
+    "country_code": "US",
+    "asn": 26548,
+    "isp": "PureVoltage Hosting Inc.",
+    "protocol": "socks5",
+    "speed_ms": "1272.84",
     "anonymity": "elite",
     "location": "Portland"
   }
