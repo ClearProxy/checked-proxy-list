@@ -7,7 +7,7 @@
     "asn": 28240,
     "isp": "VIP - SERVICOS DE TELECOMUNICACOES LTDA.",
     "protocol": "http",
-    "speed_ms": "1941.50",
+    "speed_ms": "1498.30",
     "anonymity": "elite",
     "location": "Vilhena"
   },
@@ -19,7 +19,7 @@
     "asn": 262875,
     "isp": "IP AMERICA TELECOM LTDA",
     "protocol": "http",
-    "speed_ms": "1661.50",
+    "speed_ms": "1440.67",
     "anonymity": "elite",
     "location": "Abadia de Goias"
   },
@@ -31,7 +31,7 @@
     "asn": 4230,
     "isp": "CLARO S.A.",
     "protocol": "http",
-    "speed_ms": "2019.86",
+    "speed_ms": "1578.85",
     "anonymity": "elite",
     "location": "Sao Paulo"
   },
@@ -43,9 +43,21 @@
     "asn": 31898,
     "isp": "Oracle Corporation",
     "protocol": "http",
-    "speed_ms": "1704.03",
+    "speed_ms": "1461.37",
     "anonymity": "transparent",
     "location": "Macae"
+  },
+  {
+    "ip": "200.174.198.158",
+    "port": 8888,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 4230,
+    "isp": "CLARO S.A.",
+    "protocol": "http",
+    "speed_ms": "1343.09",
+    "anonymity": "anonymous",
+    "location": "Rio de Janeiro"
   },
   {
     "ip": "140.238.184.182",
@@ -55,8 +67,20 @@
     "asn": 31898,
     "isp": "Oracle Corporation",
     "protocol": "http",
-    "speed_ms": "1641.86",
+    "speed_ms": "1374.84",
     "anonymity": "transparent",
     "location": "Macae"
+  },
+  {
+    "ip": "200.174.198.158",
+    "port": 8888,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 4230,
+    "isp": "CLARO S.A.",
+    "protocol": "http",
+    "speed_ms": "1115.10",
+    "anonymity": "anonymous",
+    "location": "Rio de Janeiro"
   }
 ]
