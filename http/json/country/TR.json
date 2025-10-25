@@ -1,17 +1,5 @@
 [
   {
-    "ip": "195.62.50.21",
-    "port": 8080,
-    "country": "TR",
-    "country_code": "TR",
-    "asn": 202561,
-    "isp": "High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.",
-    "protocol": "http",
-    "speed_ms": "1697.26",
-    "anonymity": "transparent",
-    "location": "Istanbul"
-  },
-  {
     "ip": "194.27.90.143",
     "port": 8077,
     "country": "TR",
@@ -19,9 +7,21 @@
     "asn": 8517,
     "isp": "National Academic Network and Information Center",
     "protocol": "http",
-    "speed_ms": "1158.93",
+    "speed_ms": "1378.13",
     "anonymity": "elite",
     "location": "Ankara"
+  },
+  {
+    "ip": "213.142.156.97",
+    "port": 80,
+    "country": "TR",
+    "country_code": "TR",
+    "asn": 207459,
+    "isp": "TEKNOSOS BILISIM HIZMETLERI VE TIC. LTD. STI.",
+    "protocol": "http",
+    "speed_ms": "1757.60",
+    "anonymity": "elite",
+    "location": "Bahcelievler"
   },
   {
     "ip": "78.186.40.188",
@@ -31,7 +31,7 @@
     "asn": 47331,
     "isp": "TTNet A.S.",
     "protocol": "http",
-    "speed_ms": "1436.94",
+    "speed_ms": "1404.18",
     "anonymity": "elite",
     "location": "Trabzon"
   },
@@ -43,7 +43,7 @@
     "asn": 47331,
     "isp": "TTNet A.S.",
     "protocol": "http",
-    "speed_ms": "1035.10",
+    "speed_ms": "856.87",
     "anonymity": "elite",
     "location": "Istanbul"
   },
@@ -55,7 +55,7 @@
     "asn": 47331,
     "isp": "TTNet A.S.",
     "protocol": "http",
-    "speed_ms": "1281.28",
+    "speed_ms": "1153.14",
     "anonymity": "elite",
     "location": "Bursa"
   }
