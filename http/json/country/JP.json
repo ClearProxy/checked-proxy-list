@@ -7,7 +7,7 @@
     "asn": 58791,
     "isp": "GMO Internet,Inc",
     "protocol": "http",
-    "speed_ms": "1915.81",
+    "speed_ms": "1738.27",
     "anonymity": "elite",
     "location": "Chiyoda"
   },
@@ -19,7 +19,7 @@
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "1334.07",
+    "speed_ms": "1601.14",
     "anonymity": "elite",
     "location": "Shibuya City"
   },
@@ -31,21 +31,33 @@
     "asn": 2497,
     "isp": "Internet Initiative Japan Inc.",
     "protocol": "http",
-    "speed_ms": "1298.61",
+    "speed_ms": "1302.10",
     "anonymity": "elite",
     "location": "Kurihama"
   },
   {
-    "ip": "160.251.142.232",
+    "ip": "8.209.255.13",
+    "port": 3128,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "1762.55",
+    "anonymity": "transparent",
+    "location": "Shibuya City"
+  },
+  {
+    "ip": "133.18.234.13",
     "port": 80,
     "country": "JP",
     "country_code": "JP",
-    "asn": 58791,
-    "isp": "GMO Internet,Inc",
+    "asn": 24282,
+    "isp": "KAGOYA JAPAN Inc.",
     "protocol": "http",
-    "speed_ms": "1357.35",
+    "speed_ms": "1385.11",
     "anonymity": "elite",
-    "location": "Chiyoda"
+    "location": "Chiyoda City"
   },
   {
     "ip": "8.209.255.13",
@@ -55,44 +67,8 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "1663.71",
+    "speed_ms": "1680.24",
     "anonymity": "transparent",
-    "location": "Shibuya City"
-  },
-  {
-    "ip": "8.221.138.111",
-    "port": 3129,
-    "country": "JP",
-    "country_code": "JP",
-    "asn": 45102,
-    "isp": "Alibaba (US) Technology Co., Ltd.",
-    "protocol": "http",
-    "speed_ms": "2490.54",
-    "anonymity": "elite",
-    "location": "Shibuya City"
-  },
-  {
-    "ip": "8.209.255.13",
-    "port": 3128,
-    "country": "JP",
-    "country_code": "JP",
-    "asn": 45102,
-    "isp": "Alibaba (US) Technology Co., Ltd.",
-    "protocol": "http",
-    "speed_ms": "1500.09",
-    "anonymity": "transparent",
-    "location": "Shibuya City"
-  },
-  {
-    "ip": "8.221.138.111",
-    "port": 8083,
-    "country": "JP",
-    "country_code": "JP",
-    "asn": 45102,
-    "isp": "Alibaba (US) Technology Co., Ltd.",
-    "protocol": "http",
-    "speed_ms": "2460.28",
-    "anonymity": "elite",
     "location": "Shibuya City"
   }
 ]
