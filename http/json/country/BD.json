@@ -7,7 +7,7 @@
     "asn": 45326,
     "isp": "Broad Band Telecom Services Ltd",
     "protocol": "http",
-    "speed_ms": "1465.18",
+    "speed_ms": "1405.54",
     "anonymity": "transparent",
     "location": "Chittagong (Double Moorings)"
   },
@@ -19,7 +19,7 @@
     "asn": 133957,
     "isp": "SOL-BD",
     "protocol": "http",
-    "speed_ms": "857.73",
+    "speed_ms": "842.54",
     "anonymity": "anonymous",
     "location": "Tungipara"
   },
@@ -31,8 +31,20 @@
     "asn": 134732,
     "isp": "Dot Internet",
     "protocol": "http",
-    "speed_ms": "879.46",
+    "speed_ms": "856.54",
     "anonymity": "anonymous",
     "location": "Dhaka"
+  },
+  {
+    "ip": "103.138.145.34",
+    "port": 80,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 139008,
+    "isp": "NEEF IT LIMITED",
+    "protocol": "http",
+    "speed_ms": "774.86",
+    "anonymity": "anonymous",
+    "location": "Nagar Naluakot"
   }
 ]
