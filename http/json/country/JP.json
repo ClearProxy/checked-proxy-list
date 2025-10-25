@@ -7,7 +7,7 @@
     "asn": 58791,
     "isp": "GMO Internet,Inc",
     "protocol": "http",
-    "speed_ms": "1480.16",
+    "speed_ms": "1857.19",
     "anonymity": "elite",
     "location": "Chiyoda"
   },
@@ -19,7 +19,7 @@
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "1337.90",
+    "speed_ms": "1539.28",
     "anonymity": "elite",
     "location": "Shibuya City"
   },
@@ -31,7 +31,7 @@
     "asn": 2497,
     "isp": "Internet Initiative Japan Inc.",
     "protocol": "http",
-    "speed_ms": "1140.87",
+    "speed_ms": "1558.01",
     "anonymity": "elite",
     "location": "Kurihama"
   },
@@ -43,7 +43,7 @@
     "asn": 58791,
     "isp": "GMO Internet,Inc",
     "protocol": "http",
-    "speed_ms": "1243.87",
+    "speed_ms": "1599.62",
     "anonymity": "elite",
     "location": "Chiyoda"
   },
@@ -55,20 +55,8 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "1137.26",
+    "speed_ms": "1622.72",
     "anonymity": "transparent",
-    "location": "Shibuya City"
-  },
-  {
-    "ip": "8.221.141.88",
-    "port": 1200,
-    "country": "JP",
-    "country_code": "JP",
-    "asn": 45102,
-    "isp": "Alibaba (US) Technology Co., Ltd.",
-    "protocol": "http",
-    "speed_ms": "2497.68",
-    "anonymity": "elite",
     "location": "Shibuya City"
   },
   {
@@ -79,7 +67,7 @@
     "asn": 24282,
     "isp": "KAGOYA JAPAN Inc.",
     "protocol": "http",
-    "speed_ms": "1242.51",
+    "speed_ms": "2144.27",
     "anonymity": "elite",
     "location": "Chiyoda City"
   },
@@ -91,8 +79,20 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "1058.11",
+    "speed_ms": "1579.23",
     "anonymity": "transparent",
     "location": "Shibuya City"
+  },
+  {
+    "ip": "116.80.93.161",
+    "port": 3172,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 2514,
+    "isp": "NTT PC Communications, Inc.",
+    "protocol": "http",
+    "speed_ms": "1976.23",
+    "anonymity": "transparent",
+    "location": "Chiyoda"
   }
 ]
