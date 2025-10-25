@@ -7,7 +7,7 @@
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "1423.75",
+    "speed_ms": "1242.99",
     "anonymity": "elite",
     "location": "Shibuya City"
   },
@@ -19,8 +19,20 @@
     "asn": 24282,
     "isp": "KAGOYA JAPAN Inc.",
     "protocol": "http",
-    "speed_ms": "1401.11",
+    "speed_ms": "1440.22",
     "anonymity": "elite",
     "location": "Chiyoda City"
+  },
+  {
+    "ip": "116.80.93.161",
+    "port": 3172,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 2514,
+    "isp": "NTT PC Communications, Inc.",
+    "protocol": "http",
+    "speed_ms": "1840.18",
+    "anonymity": "transparent",
+    "location": "Chiyoda"
   }
 ]
