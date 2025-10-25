@@ -1,13 +1,13 @@
 [
   {
-    "ip": "135.181.200.157",
+    "ip": "135.181.152.54",
     "port": 8080,
     "country": "FI",
     "country_code": "FI",
     "asn": 24940,
     "isp": "Hetzner Online GmbH",
     "protocol": "http",
-    "speed_ms": "2324.74",
+    "speed_ms": "2144.60",
     "anonymity": "elite",
     "location": "Helsinki"
   },
@@ -19,7 +19,19 @@
     "asn": 24940,
     "isp": "Hetzner Online GmbH",
     "protocol": "http",
-    "speed_ms": "1779.62",
+    "speed_ms": "2280.35",
+    "anonymity": "elite",
+    "location": "Helsinki"
+  },
+  {
+    "ip": "135.181.200.157",
+    "port": 8080,
+    "country": "FI",
+    "country_code": "FI",
+    "asn": 24940,
+    "isp": "Hetzner Online GmbH",
+    "protocol": "http",
+    "speed_ms": "1142.39",
     "anonymity": "elite",
     "location": "Helsinki"
   }

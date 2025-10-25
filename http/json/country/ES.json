@@ -1,15 +1,27 @@
 [
   {
-    "ip": "51.48.124.225",
-    "port": 20898,
+    "ip": "143.47.62.167",
+    "port": 8080,
     "country": "ES",
     "country_code": "ES",
-    "asn": 16509,
-    "isp": "Amazon.com, Inc.",
+    "asn": 31898,
+    "isp": "Oracle Corporation",
     "protocol": "http",
-    "speed_ms": "1892.22",
+    "speed_ms": "1382.30",
     "anonymity": "elite",
-    "location": "Zaragoza"
+    "location": "Madrid"
+  },
+  {
+    "ip": "90.162.35.34",
+    "port": 80,
+    "country": "ES",
+    "country_code": "ES",
+    "asn": 12479,
+    "isp": "Orange Espagne SA",
+    "protocol": "http",
+    "speed_ms": "2339.46",
+    "anonymity": "elite",
+    "location": "Valencia"
   },
   {
     "ip": "51.92.20.48",
@@ -19,19 +31,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "2223.02",
-    "anonymity": "elite",
-    "location": "Zaragoza"
-  },
-  {
-    "ip": "51.48.124.225",
-    "port": 8821,
-    "country": "ES",
-    "country_code": "ES",
-    "asn": 16509,
-    "isp": "Amazon.com, Inc.",
-    "protocol": "http",
-    "speed_ms": "2019.93",
+    "speed_ms": "2362.22",
     "anonymity": "elite",
     "location": "Zaragoza"
   },
@@ -43,68 +43,8 @@
     "asn": 12479,
     "isp": "Orange Espagne SA",
     "protocol": "http",
-    "speed_ms": "2195.28",
+    "speed_ms": "1429.63",
     "anonymity": "elite",
     "location": "Valencia"
-  },
-  {
-    "ip": "51.48.124.225",
-    "port": 9876,
-    "country": "ES",
-    "country_code": "ES",
-    "asn": 16509,
-    "isp": "Amazon.com, Inc.",
-    "protocol": "http",
-    "speed_ms": "2438.93",
-    "anonymity": "elite",
-    "location": "Zaragoza"
-  },
-  {
-    "ip": "51.48.124.225",
-    "port": 8084,
-    "country": "ES",
-    "country_code": "ES",
-    "asn": 16509,
-    "isp": "Amazon.com, Inc.",
-    "protocol": "http",
-    "speed_ms": "1793.46",
-    "anonymity": "elite",
-    "location": "Zaragoza"
-  },
-  {
-    "ip": "51.48.124.225",
-    "port": 12,
-    "country": "ES",
-    "country_code": "ES",
-    "asn": 16509,
-    "isp": "Amazon.com, Inc.",
-    "protocol": "http",
-    "speed_ms": "1580.55",
-    "anonymity": "elite",
-    "location": "Zaragoza"
-  },
-  {
-    "ip": "51.48.124.225",
-    "port": 9330,
-    "country": "ES",
-    "country_code": "ES",
-    "asn": 16509,
-    "isp": "Amazon.com, Inc.",
-    "protocol": "http",
-    "speed_ms": "1500.92",
-    "anonymity": "elite",
-    "location": "Zaragoza"
-  },
-  {
-    "ip": "143.47.62.167",
-    "port": 8080,
-    "country": "ES",
-    "country_code": "ES",
-    "asn": 31898,
-    "isp": "Oracle Corporation",
-    "protocol": "http",
-    "speed_ms": "2040.57",
-    "anonymity": "elite",
-    "location": "Madrid"
   }
 ]
