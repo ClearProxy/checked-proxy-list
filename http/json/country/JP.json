@@ -7,7 +7,7 @@
     "asn": 58791,
     "isp": "GMO Internet,Inc",
     "protocol": "http",
-    "speed_ms": "1559.34",
+    "speed_ms": "1837.38",
     "anonymity": "elite",
     "location": "Chiyoda"
   },
@@ -19,7 +19,7 @@
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "1320.31",
+    "speed_ms": "1457.73",
     "anonymity": "elite",
     "location": "Shibuya City"
   },
@@ -31,7 +31,7 @@
     "asn": 2497,
     "isp": "Internet Initiative Japan Inc.",
     "protocol": "http",
-    "speed_ms": "1558.68",
+    "speed_ms": "1438.23",
     "anonymity": "elite",
     "location": "Kurihama"
   },
@@ -43,7 +43,7 @@
     "asn": 58791,
     "isp": "GMO Internet,Inc",
     "protocol": "http",
-    "speed_ms": "1478.98",
+    "speed_ms": "1617.46",
     "anonymity": "elite",
     "location": "Chiyoda"
   },
@@ -55,8 +55,32 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "2380.86",
+    "speed_ms": "1900.68",
     "anonymity": "transparent",
+    "location": "Shibuya City"
+  },
+  {
+    "ip": "8.221.141.88",
+    "port": 50,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2500.00",
+    "anonymity": "elite",
+    "location": "Shibuya City"
+  },
+  {
+    "ip": "8.221.141.88",
+    "port": 1200,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2488.36",
+    "anonymity": "elite",
     "location": "Shibuya City"
   },
   {
@@ -67,9 +91,21 @@
     "asn": 24282,
     "isp": "KAGOYA JAPAN Inc.",
     "protocol": "http",
-    "speed_ms": "1421.58",
+    "speed_ms": "1558.06",
     "anonymity": "elite",
     "location": "Chiyoda City"
+  },
+  {
+    "ip": "8.221.138.111",
+    "port": 3129,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2470.86",
+    "anonymity": "elite",
+    "location": "Shibuya City"
   },
   {
     "ip": "8.209.255.13",
@@ -79,20 +115,20 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "1458.93",
+    "speed_ms": "1677.26",
     "anonymity": "transparent",
     "location": "Shibuya City"
   },
   {
-    "ip": "116.80.93.161",
-    "port": 3172,
+    "ip": "8.221.138.111",
+    "port": 8083,
     "country": "JP",
     "country_code": "JP",
-    "asn": 2514,
-    "isp": "NTT PC Communications, Inc.",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "1837.53",
-    "anonymity": "transparent",
-    "location": "Chiyoda"
+    "speed_ms": "2458.44",
+    "anonymity": "elite",
+    "location": "Shibuya City"
   }
 ]
