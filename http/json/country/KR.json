@@ -7,19 +7,31 @@
     "asn": 4766,
     "isp": "Korea Telecom",
     "protocol": "http",
-    "speed_ms": "1278.95",
+    "speed_ms": "1126.24",
     "anonymity": "elite",
     "location": "Gwangyo-dong"
   },
   {
-    "ip": "183.103.250.4",
+    "ip": "8.213.151.128",
+    "port": 3128,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "1138.44",
+    "anonymity": "transparent",
+    "location": "Seoul"
+  },
+  {
+    "ip": "211.195.74.89",
     "port": 80,
     "country": "KR",
     "country_code": "KR",
     "asn": 4766,
     "isp": "Korea Telecom",
     "protocol": "http",
-    "speed_ms": "1180.69",
+    "speed_ms": "981.19",
     "anonymity": "elite",
     "location": "Seongnam-si (Buljeong-ro)"
   },
@@ -31,7 +43,7 @@
     "asn": 3786,
     "isp": "LG DACOM Corporation",
     "protocol": "http",
-    "speed_ms": "1271.06",
+    "speed_ms": "1692.37",
     "anonymity": "transparent",
     "location": "Yongsan-dong (Hangang-daero)"
   },
@@ -43,7 +55,7 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "1509.12",
+    "speed_ms": "917.56",
     "anonymity": "transparent",
     "location": "Seoul"
   },
@@ -55,7 +67,19 @@
     "asn": 4766,
     "isp": "Korea Telecom",
     "protocol": "http",
-    "speed_ms": "864.98",
+    "speed_ms": "716.92",
+    "anonymity": "elite",
+    "location": "Seongnam-si (Buljeong-ro)"
+  },
+  {
+    "ip": "121.143.214.170",
+    "port": 80,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 4766,
+    "isp": "Korea Telecom",
+    "protocol": "http",
+    "speed_ms": "1823.43",
     "anonymity": "elite",
     "location": "Seongnam-si (Buljeong-ro)"
   },
@@ -67,20 +91,8 @@
     "asn": 4766,
     "isp": "Korea Telecom",
     "protocol": "http",
-    "speed_ms": "719.47",
+    "speed_ms": "655.00",
     "anonymity": "elite",
     "location": "Ansan-si (Danwon-gu)"
-  },
-  {
-    "ip": "220.88.5.106",
-    "port": 80,
-    "country": "KR",
-    "country_code": "KR",
-    "asn": 4766,
-    "isp": "Korea Telecom",
-    "protocol": "http",
-    "speed_ms": "701.83",
-    "anonymity": "elite",
-    "location": "Seongnam-si (Buljeong-ro)"
   }
 ]
