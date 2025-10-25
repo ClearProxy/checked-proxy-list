@@ -7,7 +7,7 @@
     "asn": 4766,
     "isp": "Korea Telecom",
     "protocol": "http",
-    "speed_ms": "981.70",
+    "speed_ms": "1449.12",
     "anonymity": "elite",
     "location": "Gwangyo-dong"
   },
@@ -19,7 +19,7 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "1020.71",
+    "speed_ms": "1638.90",
     "anonymity": "transparent",
     "location": "Seoul"
   },
@@ -31,7 +31,7 @@
     "asn": 4766,
     "isp": "Korea Telecom",
     "protocol": "http",
-    "speed_ms": "900.72",
+    "speed_ms": "1272.38",
     "anonymity": "elite",
     "location": "Seongnam-si (Buljeong-ro)"
   },
@@ -43,9 +43,21 @@
     "asn": 4766,
     "isp": "Korea Telecom",
     "protocol": "http",
-    "speed_ms": "922.21",
+    "speed_ms": "1050.12",
     "anonymity": "elite",
     "location": "Seongnam-si (Buljeong-ro)"
+  },
+  {
+    "ip": "112.216.83.10",
+    "port": 3128,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 3786,
+    "isp": "LG DACOM Corporation",
+    "protocol": "http",
+    "speed_ms": "2193.98",
+    "anonymity": "transparent",
+    "location": "Yongsan-dong (Hangang-daero)"
   },
   {
     "ip": "8.213.151.128",
@@ -55,33 +67,9 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "842.58",
+    "speed_ms": "1000.37",
     "anonymity": "transparent",
     "location": "Seoul"
-  },
-  {
-    "ip": "3.38.101.138",
-    "port": 1090,
-    "country": "KR",
-    "country_code": "KR",
-    "asn": 16509,
-    "isp": "Amazon.com, Inc.",
-    "protocol": "http",
-    "speed_ms": "499.99",
-    "anonymity": "elite",
-    "location": "Incheon"
-  },
-  {
-    "ip": "3.38.101.138",
-    "port": 39920,
-    "country": "KR",
-    "country_code": "KR",
-    "asn": 16509,
-    "isp": "Amazon.com, Inc.",
-    "protocol": "http",
-    "speed_ms": "499.70",
-    "anonymity": "elite",
-    "location": "Incheon"
   },
   {
     "ip": "220.122.70.189",
@@ -91,7 +79,19 @@
     "asn": 4766,
     "isp": "Korea Telecom",
     "protocol": "http",
-    "speed_ms": "614.44",
+    "speed_ms": "817.15",
+    "anonymity": "elite",
+    "location": "Seongnam-si (Buljeong-ro)"
+  },
+  {
+    "ip": "221.153.80.5",
+    "port": 80,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 4766,
+    "isp": "Korea Telecom",
+    "protocol": "http",
+    "speed_ms": "2310.89",
     "anonymity": "elite",
     "location": "Seongnam-si (Buljeong-ro)"
   },
@@ -103,20 +103,8 @@
     "asn": 4766,
     "isp": "Korea Telecom",
     "protocol": "http",
-    "speed_ms": "540.67",
+    "speed_ms": "704.35",
     "anonymity": "elite",
     "location": "Ansan-si (Danwon-gu)"
-  },
-  {
-    "ip": "3.38.101.138",
-    "port": 27,
-    "country": "KR",
-    "country_code": "KR",
-    "asn": 16509,
-    "isp": "Amazon.com, Inc.",
-    "protocol": "http",
-    "speed_ms": "393.38",
-    "anonymity": "elite",
-    "location": "Incheon"
   }
 ]
