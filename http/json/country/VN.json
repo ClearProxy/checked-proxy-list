@@ -1,27 +1,15 @@
 [
   {
-    "ip": "112.213.87.154",
-    "port": 8080,
+    "ip": "113.176.92.71",
+    "port": 3128,
     "country": "VN",
     "country_code": "VN",
-    "asn": 45544,
-    "isp": "SUPERDATA-VN",
+    "asn": 45899,
+    "isp": "VNPT Corp",
     "protocol": "http",
-    "speed_ms": "1065.41",
-    "anonymity": "elite",
-    "location": "Quan Ba"
-  },
-  {
-    "ip": "123.30.154.171",
-    "port": 7777,
-    "country": "VN",
-    "country_code": "VN",
-    "asn": 135905,
-    "isp": "VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",
-    "protocol": "http",
-    "speed_ms": "1386.39",
-    "anonymity": "elite",
-    "location": "Hanoi"
+    "speed_ms": "2246.18",
+    "anonymity": "transparent",
+    "location": "Ca Mau"
   },
   {
     "ip": "115.75.184.174",
@@ -31,20 +19,32 @@
     "asn": 7552,
     "isp": "Viettel Group",
     "protocol": "http",
-    "speed_ms": "773.22",
+    "speed_ms": "1825.06",
     "anonymity": "elite",
     "location": "Ho Chi Minh City"
   },
   {
-    "ip": "103.190.202.92",
+    "ip": "152.32.249.30",
     "port": 8080,
     "country": "VN",
     "country_code": "VN",
-    "asn": 149117,
-    "isp": "VTC MOBILE SERVICES JOINT STOCK COMPANY",
+    "asn": 135377,
+    "isp": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
     "protocol": "http",
-    "speed_ms": "825.82",
+    "speed_ms": "1912.77",
     "anonymity": "elite",
-    "location": "Vinhomes Times City"
+    "location": "Ho Chi Minh City"
+  },
+  {
+    "ip": "112.213.87.154",
+    "port": 8080,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 45544,
+    "isp": "SUPERDATA-VN",
+    "protocol": "http",
+    "speed_ms": "2500.00",
+    "anonymity": "elite",
+    "location": "Quan Ba"
   }
 ]

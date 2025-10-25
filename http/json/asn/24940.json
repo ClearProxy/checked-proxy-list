@@ -1,5 +1,17 @@
 [
   {
+    "ip": "128.140.113.110",
+    "port": 5678,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 24940,
+    "isp": "Hetzner Online GmbH",
+    "protocol": "http",
+    "speed_ms": "2436.52",
+    "anonymity": "elite",
+    "location": "Falkenstein"
+  },
+  {
     "ip": "138.201.245.91",
     "port": 8080,
     "country": "DE",
@@ -7,9 +19,33 @@
     "asn": 24940,
     "isp": "Hetzner Online GmbH",
     "protocol": "http",
-    "speed_ms": "905.96",
+    "speed_ms": "1978.31",
     "anonymity": "elite",
     "location": "Falkenstein"
+  },
+  {
+    "ip": "5.9.88.169",
+    "port": 80,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 24940,
+    "isp": "Hetzner Online GmbH",
+    "protocol": "http",
+    "speed_ms": "2089.08",
+    "anonymity": "elite",
+    "location": "Falkenstein"
+  },
+  {
+    "ip": "135.181.200.157",
+    "port": 8080,
+    "country": "FI",
+    "country_code": "FI",
+    "asn": 24940,
+    "isp": "Hetzner Online GmbH",
+    "protocol": "http",
+    "speed_ms": "2324.74",
+    "anonymity": "elite",
+    "location": "Helsinki"
   },
   {
     "ip": "78.47.133.198",
@@ -19,21 +55,9 @@
     "asn": 24940,
     "isp": "Hetzner Online GmbH",
     "protocol": "http",
-    "speed_ms": "828.16",
+    "speed_ms": "2018.40",
     "anonymity": "elite",
     "location": "Nuremberg"
-  },
-  {
-    "ip": "65.109.239.59",
-    "port": 80,
-    "country": "FI",
-    "country_code": "FI",
-    "asn": 24940,
-    "isp": "Hetzner Online GmbH",
-    "protocol": "http",
-    "speed_ms": "859.53",
-    "anonymity": "elite",
-    "location": "Helsinki"
   },
   {
     "ip": "167.235.232.44",
@@ -43,8 +67,32 @@
     "asn": 24940,
     "isp": "Hetzner Online GmbH",
     "protocol": "http",
-    "speed_ms": "766.30",
+    "speed_ms": "1636.03",
     "anonymity": "elite",
     "location": "Falkenstein"
+  },
+  {
+    "ip": "128.140.113.110",
+    "port": 8080,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 24940,
+    "isp": "Hetzner Online GmbH",
+    "protocol": "http",
+    "speed_ms": "2022.47",
+    "anonymity": "elite",
+    "location": "Falkenstein"
+  },
+  {
+    "ip": "65.109.239.59",
+    "port": 80,
+    "country": "FI",
+    "country_code": "FI",
+    "asn": 24940,
+    "isp": "Hetzner Online GmbH",
+    "protocol": "http",
+    "speed_ms": "1779.62",
+    "anonymity": "elite",
+    "location": "Helsinki"
   }
 ]
