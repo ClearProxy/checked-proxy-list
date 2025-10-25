@@ -7,7 +7,7 @@
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "1256.23",
+    "speed_ms": "1401.83",
     "anonymity": "elite",
     "location": "London"
   },
@@ -19,7 +19,7 @@
     "asn": 16353,
     "isp": "Merula Limited",
     "protocol": "http",
-    "speed_ms": "1300.25",
+    "speed_ms": "1379.11",
     "anonymity": "elite",
     "location": "Manchester"
   },
@@ -31,7 +31,7 @@
     "asn": 51167,
     "isp": "Contabo GmbH",
     "protocol": "http",
-    "speed_ms": "1920.40",
+    "speed_ms": "1737.13",
     "anonymity": "elite",
     "location": "London"
   },
@@ -43,7 +43,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "2099.70",
+    "speed_ms": "1700.69",
     "anonymity": "elite",
     "location": "Wembley"
   },
@@ -55,7 +55,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1879.93",
+    "speed_ms": "1513.07",
     "anonymity": "elite",
     "location": "Hackney"
   },
@@ -67,7 +67,19 @@
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "1001.80",
+    "speed_ms": "839.99",
+    "anonymity": "elite",
+    "location": "London"
+  },
+  {
+    "ip": "154.65.39.7",
+    "port": 80,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 37649,
+    "isp": "SAGA AFRICA HOLDINGS LIMITED",
+    "protocol": "http",
+    "speed_ms": "1783.06",
     "anonymity": "elite",
     "location": "London"
   },
@@ -79,8 +91,20 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1561.32",
+    "speed_ms": "1206.42",
     "anonymity": "elite",
     "location": "Solihull"
+  },
+  {
+    "ip": "8.211.195.139",
+    "port": 9080,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2448.69",
+    "anonymity": "elite",
+    "location": "London"
   }
 ]
