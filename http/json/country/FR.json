@@ -1,5 +1,17 @@
 [
   {
+    "ip": "67.43.228.251",
+    "port": 11647,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 3215,
+    "isp": "Orange S.A.",
+    "protocol": "http",
+    "speed_ms": "1424.03",
+    "anonymity": "elite",
+    "location": "Plougonver"
+  },
+  {
     "ip": "178.33.13.233",
     "port": 80,
     "country": "FR",
@@ -7,7 +19,7 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "1843.94",
+    "speed_ms": "1359.66",
     "anonymity": "elite",
     "location": "Roubaix"
   },
@@ -19,7 +31,7 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "2241.83",
+    "speed_ms": "2072.42",
     "anonymity": "elite",
     "location": "Roubaix"
   },
@@ -31,7 +43,7 @@
     "asn": 3920,
     "isp": "ESTOXY OU",
     "protocol": "http",
-    "speed_ms": "1645.99",
+    "speed_ms": "1480.21",
     "anonymity": "transparent",
     "location": "Paris"
   },
@@ -43,7 +55,7 @@
     "asn": 2200,
     "isp": "Renater",
     "protocol": "http",
-    "speed_ms": "1323.15",
+    "speed_ms": "1402.02",
     "anonymity": "elite",
     "location": "Toulouse"
   },
@@ -55,21 +67,9 @@
     "asn": 12876,
     "isp": "ONLINE S.A.S.",
     "protocol": "http",
-    "speed_ms": "1574.78",
+    "speed_ms": "1385.88",
     "anonymity": "elite",
     "location": "Paris"
-  },
-  {
-    "ip": "72.10.160.174",
-    "port": 26555,
-    "country": "FR",
-    "country_code": "FR",
-    "asn": 15557,
-    "isp": "Societe Francaise Du Radiotelephone - SFR SA",
-    "protocol": "http",
-    "speed_ms": "1482.34",
-    "anonymity": "elite",
-    "location": "Thionville"
   },
   {
     "ip": "51.83.44.233",
@@ -79,7 +79,7 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "2097.44",
+    "speed_ms": "1702.90",
     "anonymity": "elite",
     "location": "Roubaix"
   },
@@ -91,7 +91,7 @@
     "asn": 2200,
     "isp": "Renater",
     "protocol": "http",
-    "speed_ms": "1247.18",
+    "speed_ms": "1104.12",
     "anonymity": "elite",
     "location": "Toulouse"
   },
@@ -103,45 +103,9 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "1424.52",
+    "speed_ms": "962.17",
     "anonymity": "elite",
     "location": "Roubaix"
-  },
-  {
-    "ip": "72.10.160.170",
-    "port": 26555,
-    "country": "FR",
-    "country_code": "FR",
-    "asn": 15557,
-    "isp": "Societe Francaise Du Radiotelephone - SFR SA",
-    "protocol": "http",
-    "speed_ms": "1240.06",
-    "anonymity": "elite",
-    "location": "Thionville"
-  },
-  {
-    "ip": "72.10.160.174",
-    "port": 26555,
-    "country": "FR",
-    "country_code": "FR",
-    "asn": 15557,
-    "isp": "Societe Francaise Du Radiotelephone - SFR SA",
-    "protocol": "http",
-    "speed_ms": "1161.89",
-    "anonymity": "elite",
-    "location": "Thionville"
-  },
-  {
-    "ip": "72.10.160.170",
-    "port": 26555,
-    "country": "FR",
-    "country_code": "FR",
-    "asn": 15557,
-    "isp": "Societe Francaise Du Radiotelephone - SFR SA",
-    "protocol": "http",
-    "speed_ms": "1161.01",
-    "anonymity": "elite",
-    "location": "Thionville"
   },
   {
     "ip": "195.83.197.177",
@@ -151,7 +115,7 @@
     "asn": 2200,
     "isp": "Renater",
     "protocol": "http",
-    "speed_ms": "1054.58",
+    "speed_ms": "811.82",
     "anonymity": "elite",
     "location": "Toulouse"
   },
@@ -163,7 +127,7 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "1424.79",
+    "speed_ms": "1357.87",
     "anonymity": "elite",
     "location": "Roubaix"
   },
@@ -175,9 +139,21 @@
     "asn": 3920,
     "isp": "ESTOXY OU",
     "protocol": "http",
-    "speed_ms": "1044.17",
+    "speed_ms": "1002.50",
     "anonymity": "transparent",
     "location": "Paris"
+  },
+  {
+    "ip": "91.134.216.98",
+    "port": 80,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 16276,
+    "isp": "OVH SAS",
+    "protocol": "http",
+    "speed_ms": "1181.03",
+    "anonymity": "elite",
+    "location": "Roubaix"
   },
   {
     "ip": "195.83.197.222",
@@ -187,7 +163,7 @@
     "asn": 2200,
     "isp": "Renater",
     "protocol": "http",
-    "speed_ms": "958.37",
+    "speed_ms": "739.72",
     "anonymity": "elite",
     "location": "Toulouse"
   }
