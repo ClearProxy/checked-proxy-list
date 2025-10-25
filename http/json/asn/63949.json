@@ -7,7 +7,7 @@
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "946.23",
+    "speed_ms": "923.13",
     "anonymity": "elite",
     "location": "Richardson"
   },
@@ -19,7 +19,7 @@
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "903.18",
+    "speed_ms": "760.24",
     "anonymity": "elite",
     "location": "London"
   },
@@ -31,7 +31,7 @@
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "851.30",
+    "speed_ms": "719.04",
     "anonymity": "elite",
     "location": "London"
   },
@@ -43,8 +43,20 @@
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "917.90",
+    "speed_ms": "721.73",
     "anonymity": "elite",
     "location": "Shibuya City"
+  },
+  {
+    "ip": "104.237.152.124",
+    "port": 3129,
+    "country": "US",
+    "country_code": "US",
+    "asn": 63949,
+    "isp": "Akamai Technologies, Inc.",
+    "protocol": "http",
+    "speed_ms": "1971.83",
+    "anonymity": "elite",
+    "location": "Fremont"
   }
 ]
