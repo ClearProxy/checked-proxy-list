@@ -1,5 +1,17 @@
 [
   {
+    "ip": "195.62.50.21",
+    "port": 8080,
+    "country": "TR",
+    "country_code": "TR",
+    "asn": 202561,
+    "isp": "High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.",
+    "protocol": "http",
+    "speed_ms": "2099.20",
+    "anonymity": "transparent",
+    "location": "Istanbul"
+  },
+  {
     "ip": "194.27.90.143",
     "port": 8077,
     "country": "TR",
@@ -7,9 +19,33 @@
     "asn": 8517,
     "isp": "National Academic Network and Information Center",
     "protocol": "http",
-    "speed_ms": "1462.68",
+    "speed_ms": "1484.64",
     "anonymity": "elite",
     "location": "Ankara"
+  },
+  {
+    "ip": "213.142.156.97",
+    "port": 80,
+    "country": "TR",
+    "country_code": "TR",
+    "asn": 207459,
+    "isp": "TEKNOSOS BILISIM HIZMETLERI VE TIC. LTD. STI.",
+    "protocol": "http",
+    "speed_ms": "1618.21",
+    "anonymity": "elite",
+    "location": "Bahcelievler"
+  },
+  {
+    "ip": "78.186.40.188",
+    "port": 3310,
+    "country": "TR",
+    "country_code": "TR",
+    "asn": 47331,
+    "isp": "TTNet A.S.",
+    "protocol": "http",
+    "speed_ms": "1493.81",
+    "anonymity": "elite",
+    "location": "Trabzon"
   },
   {
     "ip": "88.249.83.177",
@@ -19,7 +55,19 @@
     "asn": 47331,
     "isp": "TTNet A.S.",
     "protocol": "http",
-    "speed_ms": "977.20",
+    "speed_ms": "1136.26",
+    "anonymity": "elite",
+    "location": "Istanbul"
+  },
+  {
+    "ip": "129.226.150.86",
+    "port": 20253,
+    "country": "TR",
+    "country_code": "TR",
+    "asn": 197450,
+    "isp": "SUNUCUN BILGI ILETISIM TEKNOLOJILERI VE TICARET LIMITED SIRKETI",
+    "protocol": "http",
+    "speed_ms": "1778.64",
     "anonymity": "elite",
     "location": "Istanbul"
   },
@@ -31,7 +79,7 @@
     "asn": 47331,
     "isp": "TTNet A.S.",
     "protocol": "http",
-    "speed_ms": "1221.57",
+    "speed_ms": "1295.19",
     "anonymity": "elite",
     "location": "Bursa"
   }
