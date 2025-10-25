@@ -7,7 +7,7 @@
     "asn": 31898,
     "isp": "Oracle Corporation",
     "protocol": "http",
-    "speed_ms": "1198.48",
+    "speed_ms": "1080.08",
     "anonymity": "elite",
     "location": "Madrid"
   },
@@ -19,7 +19,7 @@
     "asn": 12479,
     "isp": "Orange Espagne SA",
     "protocol": "http",
-    "speed_ms": "1321.52",
+    "speed_ms": "1520.79",
     "anonymity": "elite",
     "location": "Valencia"
   },
@@ -31,8 +31,20 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "1166.18",
+    "speed_ms": "1037.94",
     "anonymity": "elite",
     "location": "Zaragoza"
+  },
+  {
+    "ip": "90.162.35.34",
+    "port": 80,
+    "country": "ES",
+    "country_code": "ES",
+    "asn": 12479,
+    "isp": "Orange Espagne SA",
+    "protocol": "http",
+    "speed_ms": "1418.21",
+    "anonymity": "elite",
+    "location": "Valencia"
   }
 ]
