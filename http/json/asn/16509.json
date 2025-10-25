@@ -7,7 +7,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "802.28",
+    "speed_ms": "902.58",
     "anonymity": "elite",
     "location": "Ashburn"
   },
@@ -19,8 +19,20 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "658.47",
+    "speed_ms": "709.72",
     "anonymity": "elite",
+    "location": "San Jose"
+  },
+  {
+    "ip": "34.127.40.229",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 16509,
+    "isp": "Amazon.com, Inc.",
+    "protocol": "http",
+    "speed_ms": "780.23",
+    "anonymity": "transparent",
     "location": "San Jose"
   },
   {
@@ -31,9 +43,21 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "1000.18",
+    "speed_ms": "1055.76",
     "anonymity": "elite",
     "location": "Mumbai"
+  },
+  {
+    "ip": "3.38.101.138",
+    "port": 1090,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 16509,
+    "isp": "Amazon.com, Inc.",
+    "protocol": "http",
+    "speed_ms": "643.84",
+    "anonymity": "elite",
+    "location": "Incheon"
   },
   {
     "ip": "35.182.162.62",
@@ -43,7 +67,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "515.78",
+    "speed_ms": "536.45",
     "anonymity": "elite",
     "location": "Montreal"
   },
@@ -55,7 +79,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "654.58",
+    "speed_ms": "683.58",
     "anonymity": "elite",
     "location": "Zaragoza"
   },
@@ -67,7 +91,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "317.47",
+    "speed_ms": "319.42",
     "anonymity": "transparent",
     "location": "San Jose"
   },
@@ -79,9 +103,33 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "430.02",
+    "speed_ms": "484.20",
     "anonymity": "elite",
     "location": "Dublin"
+  },
+  {
+    "ip": "3.38.101.138",
+    "port": 27,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 16509,
+    "isp": "Amazon.com, Inc.",
+    "protocol": "http",
+    "speed_ms": "500.02",
+    "anonymity": "elite",
+    "location": "Incheon"
+  },
+  {
+    "ip": "3.38.101.138",
+    "port": 154,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 16509,
+    "isp": "Amazon.com, Inc.",
+    "protocol": "http",
+    "speed_ms": "480.26",
+    "anonymity": "elite",
+    "location": "Incheon"
   },
   {
     "ip": "16.163.88.228",
@@ -91,7 +139,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "577.21",
+    "speed_ms": "619.95",
     "anonymity": "elite",
     "location": "Hong Kong"
   }
