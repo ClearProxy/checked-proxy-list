@@ -1,17 +1,5 @@
 [
   {
-    "ip": "167.172.168.155",
-    "port": 8080,
-    "country": "DE",
-    "country_code": "DE",
-    "asn": 14061,
-    "isp": "DigitalOcean, LLC",
-    "protocol": "http",
-    "speed_ms": "1878.96",
-    "anonymity": "elite",
-    "location": "Frankfurt am Main"
-  },
-  {
     "ip": "139.59.213.145",
     "port": 80,
     "country": "DE",
@@ -19,7 +7,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "2060.01",
+    "speed_ms": "1918.14",
     "anonymity": "elite",
     "location": "Eggolsheim"
   },
@@ -31,7 +19,7 @@
     "asn": 31898,
     "isp": "Oracle Corporation",
     "protocol": "http",
-    "speed_ms": "1579.12",
+    "speed_ms": "1399.69",
     "anonymity": "elite",
     "location": "Frankfurt am Main (Innenstadt I)"
   },
@@ -43,7 +31,7 @@
     "asn": 202108,
     "isp": "united-domains AG",
     "protocol": "http",
-    "speed_ms": "1821.07",
+    "speed_ms": "1741.32",
     "anonymity": "elite",
     "location": "Starnberg"
   },
@@ -55,7 +43,7 @@
     "asn": 20473,
     "isp": "The Constant Company, LLC",
     "protocol": "http",
-    "speed_ms": "1622.95",
+    "speed_ms": "1677.93",
     "anonymity": "elite",
     "location": "Frankfurt am Main (Innenstadt I)"
   },
@@ -67,7 +55,7 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "1400.95",
+    "speed_ms": "1236.95",
     "anonymity": "elite",
     "location": "Frankfurt am Main"
   },
@@ -79,7 +67,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1342.93",
+    "speed_ms": "1216.26",
     "anonymity": "elite",
     "location": "Frankfurt am Main"
   },
@@ -91,7 +79,7 @@
     "asn": 197540,
     "isp": "netcup GmbH",
     "protocol": "http",
-    "speed_ms": "1622.34",
+    "speed_ms": "1564.31",
     "anonymity": "elite",
     "location": "Halle"
   },
@@ -103,7 +91,7 @@
     "asn": 24940,
     "isp": "Hetzner Online GmbH",
     "protocol": "http",
-    "speed_ms": "1343.86",
+    "speed_ms": "1256.49",
     "anonymity": "elite",
     "location": "Falkenstein"
   },
@@ -115,7 +103,7 @@
     "asn": 24940,
     "isp": "Hetzner Online GmbH",
     "protocol": "http",
-    "speed_ms": "1679.02",
+    "speed_ms": "1583.66",
     "anonymity": "elite",
     "location": "Falkenstein"
   },
@@ -127,7 +115,7 @@
     "asn": 197540,
     "isp": "netcup GmbH",
     "protocol": "http",
-    "speed_ms": "1441.04",
+    "speed_ms": "1382.41",
     "anonymity": "elite",
     "location": "Nuremberg"
   },
@@ -139,7 +127,7 @@
     "asn": 202108,
     "isp": "united-domains AG",
     "protocol": "http",
-    "speed_ms": "1446.98",
+    "speed_ms": "1441.29",
     "anonymity": "elite",
     "location": "Starnberg"
   },
@@ -151,9 +139,21 @@
     "asn": 202108,
     "isp": "united-domains AG",
     "protocol": "http",
-    "speed_ms": "1443.35",
+    "speed_ms": "1437.88",
     "anonymity": "elite",
     "location": "Starnberg"
+  },
+  {
+    "ip": "89.58.57.45",
+    "port": 80,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 197540,
+    "isp": "netcup GmbH",
+    "protocol": "http",
+    "speed_ms": "1395.38",
+    "anonymity": "elite",
+    "location": "Nuremberg"
   },
   {
     "ip": "167.235.232.44",
@@ -163,7 +163,7 @@
     "asn": 24940,
     "isp": "Hetzner Online GmbH",
     "protocol": "http",
-    "speed_ms": "1195.40",
+    "speed_ms": "1102.14",
     "anonymity": "elite",
     "location": "Falkenstein"
   },
@@ -175,7 +175,7 @@
     "asn": 197540,
     "isp": "netcup GmbH",
     "protocol": "http",
-    "speed_ms": "1378.87",
+    "speed_ms": "1335.59",
     "anonymity": "elite",
     "location": "Nuremberg"
   },
@@ -187,7 +187,19 @@
     "asn": 24940,
     "isp": "Hetzner Online GmbH",
     "protocol": "http",
-    "speed_ms": "1134.87",
+    "speed_ms": "1057.80",
+    "anonymity": "elite",
+    "location": "Nuremberg"
+  },
+  {
+    "ip": "89.58.57.45",
+    "port": 80,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 197540,
+    "isp": "netcup GmbH",
+    "protocol": "http",
+    "speed_ms": "1310.16",
     "anonymity": "elite",
     "location": "Nuremberg"
   },
@@ -199,7 +211,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1892.67",
+    "speed_ms": "1863.59",
     "anonymity": "elite",
     "location": "Frankfurt am Main"
   },
@@ -211,7 +223,7 @@
     "asn": 202108,
     "isp": "united-domains AG",
     "protocol": "http",
-    "speed_ms": "1285.04",
+    "speed_ms": "1298.64",
     "anonymity": "elite",
     "location": "Starnberg"
   },
@@ -223,7 +235,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1401.40",
+    "speed_ms": "1360.56",
     "anonymity": "elite",
     "location": "Frankfurt am Main"
   },
@@ -235,7 +247,7 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "1724.39",
+    "speed_ms": "1938.83",
     "anonymity": "transparent",
     "location": "Frankfurt am Main"
   },
@@ -247,7 +259,7 @@
     "asn": 202269,
     "isp": "BitCommand LLC",
     "protocol": "http",
-    "speed_ms": "1063.26",
+    "speed_ms": "1081.81",
     "anonymity": "elite",
     "location": "Nuremberg (West)"
   }
