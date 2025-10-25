@@ -1,5 +1,17 @@
 [
   {
+    "ip": "193.123.237.191",
+    "port": 8080,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 31898,
+    "isp": "Oracle Corporation",
+    "protocol": "http",
+    "speed_ms": "2057.71",
+    "anonymity": "elite",
+    "location": "Yangcheondong"
+  },
+  {
     "ip": "130.61.72.88",
     "port": 8080,
     "country": "DE",
@@ -7,21 +19,21 @@
     "asn": 31898,
     "isp": "Oracle Corporation",
     "protocol": "http",
-    "speed_ms": "1483.30",
+    "speed_ms": "1496.89",
     "anonymity": "elite",
     "location": "Frankfurt am Main (Innenstadt I)"
   },
   {
-    "ip": "140.238.184.182",
-    "port": 3128,
-    "country": "BR",
-    "country_code": "BR",
+    "ip": "193.123.237.191",
+    "port": 8080,
+    "country": "KR",
+    "country_code": "KR",
     "asn": 31898,
     "isp": "Oracle Corporation",
     "protocol": "http",
-    "speed_ms": "1797.26",
-    "anonymity": "transparent",
-    "location": "Macae"
+    "speed_ms": "1896.41",
+    "anonymity": "elite",
+    "location": "Yangcheondong"
   },
   {
     "ip": "140.238.184.182",
@@ -31,7 +43,31 @@
     "asn": 31898,
     "isp": "Oracle Corporation",
     "protocol": "http",
-    "speed_ms": "1737.53",
+    "speed_ms": "1603.70",
+    "anonymity": "transparent",
+    "location": "Macae"
+  },
+  {
+    "ip": "129.153.107.221",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 31898,
+    "isp": "Oracle Corporation",
+    "protocol": "http",
+    "speed_ms": "1500.84",
+    "anonymity": "anonymous",
+    "location": "Phoenix"
+  },
+  {
+    "ip": "140.238.184.182",
+    "port": 3128,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 31898,
+    "isp": "Oracle Corporation",
+    "protocol": "http",
+    "speed_ms": "1540.11",
     "anonymity": "transparent",
     "location": "Macae"
   },
@@ -43,7 +79,7 @@
     "asn": 31898,
     "isp": "Oracle Corporation",
     "protocol": "http",
-    "speed_ms": "1042.58",
+    "speed_ms": "1118.07",
     "anonymity": "elite",
     "location": "Madrid"
   }
