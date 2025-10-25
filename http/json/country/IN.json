@@ -7,7 +7,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "2155.08",
+    "speed_ms": "2121.38",
     "anonymity": "elite",
     "location": "Bengaluru"
   },
@@ -19,7 +19,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "1659.70",
+    "speed_ms": "1605.19",
     "anonymity": "elite",
     "location": "Mumbai"
   },
@@ -31,7 +31,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "1682.03",
+    "speed_ms": "1641.43",
     "anonymity": "transparent",
     "location": "Hyderabad"
   },
@@ -43,7 +43,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "1657.59",
+    "speed_ms": "1616.74",
     "anonymity": "transparent",
     "location": "Hyderabad"
   },
@@ -55,7 +55,7 @@
     "asn": 47583,
     "isp": "Hostinger International Limited",
     "protocol": "http",
-    "speed_ms": "1374.19",
+    "speed_ms": "1497.33",
     "anonymity": "elite",
     "location": "Mumbai"
   },
@@ -67,7 +67,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1499.89",
+    "speed_ms": "1559.37",
     "anonymity": "elite",
     "location": "Bengaluru"
   },
@@ -79,8 +79,20 @@
     "asn": 394695,
     "isp": "PDR",
     "protocol": "http",
-    "speed_ms": "1717.30",
+    "speed_ms": "1631.00",
     "anonymity": "elite",
     "location": "Mumbai (Powai)"
+  },
+  {
+    "ip": "40.192.3.100",
+    "port": 8090,
+    "country": "IN",
+    "country_code": "IN",
+    "asn": 16509,
+    "isp": "Amazon.com, Inc.",
+    "protocol": "http",
+    "speed_ms": "1035.97",
+    "anonymity": "elite",
+    "location": "Hyderabad"
   }
 ]
