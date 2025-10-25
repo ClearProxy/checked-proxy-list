@@ -7,20 +7,8 @@
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "1376.02",
+    "speed_ms": "1821.43",
     "anonymity": "elite",
-    "location": "Shibuya City"
-  },
-  {
-    "ip": "8.209.255.13",
-    "port": 3128,
-    "country": "JP",
-    "country_code": "JP",
-    "asn": 45102,
-    "isp": "Alibaba (US) Technology Co., Ltd.",
-    "protocol": "http",
-    "speed_ms": "1758.01",
-    "anonymity": "transparent",
     "location": "Shibuya City"
   },
   {
@@ -31,7 +19,7 @@
     "asn": 24282,
     "isp": "KAGOYA JAPAN Inc.",
     "protocol": "http",
-    "speed_ms": "1343.76",
+    "speed_ms": "1523.23",
     "anonymity": "elite",
     "location": "Chiyoda City"
   },
@@ -43,8 +31,20 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "2397.01",
+    "speed_ms": "2272.18",
     "anonymity": "transparent",
     "location": "Shibuya City"
+  },
+  {
+    "ip": "116.80.93.161",
+    "port": 3172,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 2514,
+    "isp": "NTT PC Communications, Inc.",
+    "protocol": "http",
+    "speed_ms": "2038.90",
+    "anonymity": "transparent",
+    "location": "Chiyoda"
   }
 ]
