@@ -1,5 +1,17 @@
 [
   {
+    "ip": "93.62.194.49",
+    "port": 80,
+    "country": "IT",
+    "country_code": "IT",
+    "asn": 12874,
+    "isp": "Fastweb SpA",
+    "protocol": "http",
+    "speed_ms": "1462.05",
+    "anonymity": "elite",
+    "location": "Milan"
+  },
+  {
     "ip": "95.110.215.164",
     "port": 80,
     "country": "IT",
@@ -7,7 +19,7 @@
     "asn": 31034,
     "isp": "Aruba S.p.A.",
     "protocol": "http",
-    "speed_ms": "1399.04",
+    "speed_ms": "1401.16",
     "anonymity": "elite",
     "location": "Arezzo"
   },
@@ -19,7 +31,7 @@
     "asn": 3269,
     "isp": "Telecom Italia S.p.A.",
     "protocol": "http",
-    "speed_ms": "1263.79",
+    "speed_ms": "1358.67",
     "anonymity": "elite",
     "location": "Rome"
   },
@@ -31,33 +43,21 @@
     "asn": 31034,
     "isp": "Aruba S.p.A.",
     "protocol": "http",
-    "speed_ms": "1340.25",
+    "speed_ms": "1593.96",
     "anonymity": "elite",
     "location": "Arezzo"
   },
   {
-    "ip": "77.242.177.57",
-    "port": 3128,
+    "ip": "185.5.209.146",
+    "port": 8080,
     "country": "IT",
     "country_code": "IT",
-    "asn": 42669,
-    "isp": "CITTA' STUDI S.P.A.",
+    "asn": 24994,
+    "isp": "genesys informatica srl",
     "protocol": "http",
-    "speed_ms": "1581.21",
-    "anonymity": "anonymous",
-    "location": "Biella"
-  },
-  {
-    "ip": "77.242.177.57",
-    "port": 3128,
-    "country": "IT",
-    "country_code": "IT",
-    "asn": 42669,
-    "isp": "CITTA' STUDI S.P.A.",
-    "protocol": "http",
-    "speed_ms": "1420.69",
-    "anonymity": "anonymous",
-    "location": "Biella"
+    "speed_ms": "1141.24",
+    "anonymity": "elite",
+    "location": "Florence"
   },
   {
     "ip": "5.182.34.73",
@@ -67,7 +67,7 @@
     "asn": 209242,
     "isp": "Cloudflare London, LLC",
     "protocol": "http",
-    "speed_ms": "397.95",
+    "speed_ms": "575.59",
     "anonymity": "elite",
     "location": "Rome"
   },
@@ -79,7 +79,7 @@
     "asn": 209242,
     "isp": "Cloudflare London, LLC",
     "protocol": "http",
-    "speed_ms": "374.14",
+    "speed_ms": "459.96",
     "anonymity": "elite",
     "location": "Rome"
   }
