@@ -7,7 +7,7 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "777.66",
+    "speed_ms": "782.57",
     "anonymity": "elite",
     "location": "Montreal (Ville-Marie)"
   },
@@ -19,7 +19,7 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "556.67",
+    "speed_ms": "582.40",
     "anonymity": "elite",
     "location": "Beauharnois"
   },
@@ -31,8 +31,20 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "378.08",
+    "speed_ms": "496.37",
     "anonymity": "elite",
     "location": "Montreal"
+  },
+  {
+    "ip": "72.10.164.178",
+    "port": 12211,
+    "country": "CA",
+    "country_code": "CA",
+    "asn": 398721,
+    "isp": "OXIO",
+    "protocol": "http",
+    "speed_ms": "821.91",
+    "anonymity": "elite",
+    "location": "Vancouver"
   }
 ]
