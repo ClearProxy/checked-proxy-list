@@ -1,13 +1,25 @@
 [
   {
-    "ip": "164.163.42.1",
+    "ip": "164.163.43.102",
     "port": 10000,
     "country": "AR",
     "country_code": "AR",
     "asn": 265763,
     "isp": "Interret Villa Angela SRL",
     "protocol": "http",
-    "speed_ms": "1378.20",
+    "speed_ms": "879.42",
+    "anonymity": "transparent",
+    "location": "Villa Angela"
+  },
+  {
+    "ip": "164.163.42.16",
+    "port": 10000,
+    "country": "AR",
+    "country_code": "AR",
+    "asn": 265763,
+    "isp": "Interret Villa Angela SRL",
+    "protocol": "http",
+    "speed_ms": "1720.38",
     "anonymity": "transparent",
     "location": "Villa Angela"
   }
