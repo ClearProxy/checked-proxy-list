@@ -7,9 +7,21 @@
     "asn": 8075,
     "isp": "Microsoft Corporation",
     "protocol": "http",
-    "speed_ms": "2263.30",
+    "speed_ms": "2061.05",
     "anonymity": "elite",
     "location": "Amsterdam"
+  },
+  {
+    "ip": "4.156.78.45",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 8075,
+    "isp": "Microsoft Corporation",
+    "protocol": "http",
+    "speed_ms": "1417.58",
+    "anonymity": "anonymous",
+    "location": "Washington"
   },
   {
     "ip": "4.195.16.140",
@@ -19,7 +31,7 @@
     "asn": 8075,
     "isp": "Microsoft Corporation",
     "protocol": "http",
-    "speed_ms": "2161.10",
+    "speed_ms": "1998.37",
     "anonymity": "elite",
     "location": "Sydney"
   },
@@ -31,7 +43,7 @@
     "asn": 8075,
     "isp": "Microsoft Corporation",
     "protocol": "http",
-    "speed_ms": "1941.55",
+    "speed_ms": "1821.94",
     "anonymity": "elite",
     "location": "Sydney"
   },
@@ -43,7 +55,7 @@
     "asn": 8075,
     "isp": "Microsoft Corporation",
     "protocol": "http",
-    "speed_ms": "1860.22",
+    "speed_ms": "1342.82",
     "anonymity": "anonymous",
     "location": "Washington"
   },
@@ -55,31 +67,19 @@
     "asn": 8075,
     "isp": "Microsoft Corporation",
     "protocol": "http",
-    "speed_ms": "1743.49",
+    "speed_ms": "1644.89",
     "anonymity": "elite",
     "location": "Amsterdam"
   },
   {
-    "ip": "108.141.130.146",
+    "ip": "4.156.78.45",
     "port": 80,
-    "country": "NL",
-    "country_code": "NL",
-    "asn": 8075,
-    "isp": "Microsoft Corporation",
-    "protocol": "http",
-    "speed_ms": "1623.76",
-    "anonymity": "elite",
-    "location": "Amsterdam"
-  },
-  {
-    "ip": "172.210.101.217",
-    "port": 3128,
     "country": "US",
     "country_code": "US",
     "asn": 8075,
     "isp": "Microsoft Corporation",
     "protocol": "http",
-    "speed_ms": "1423.39",
+    "speed_ms": "1201.30",
     "anonymity": "anonymous",
     "location": "Washington"
   },
@@ -91,7 +91,31 @@
     "asn": 8075,
     "isp": "Microsoft Corporation",
     "protocol": "http",
-    "speed_ms": "1605.70",
+    "speed_ms": "1576.90",
+    "anonymity": "elite",
+    "location": "Amsterdam"
+  },
+  {
+    "ip": "172.210.101.217",
+    "port": 3128,
+    "country": "US",
+    "country_code": "US",
+    "asn": 8075,
+    "isp": "Microsoft Corporation",
+    "protocol": "http",
+    "speed_ms": "1197.97",
+    "anonymity": "anonymous",
+    "location": "Washington"
+  },
+  {
+    "ip": "108.141.130.146",
+    "port": 80,
+    "country": "NL",
+    "country_code": "NL",
+    "asn": 8075,
+    "isp": "Microsoft Corporation",
+    "protocol": "http",
+    "speed_ms": "1557.95",
     "anonymity": "elite",
     "location": "Amsterdam"
   }
