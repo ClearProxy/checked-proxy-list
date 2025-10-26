@@ -7,7 +7,7 @@
     "asn": 51167,
     "isp": "Contabo GmbH",
     "protocol": "http",
-    "speed_ms": "2283.91",
+    "speed_ms": "2320.24",
     "anonymity": "elite",
     "location": "London"
   },
@@ -19,7 +19,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "2160.29",
+    "speed_ms": "2219.95",
     "anonymity": "elite",
     "location": "Wembley"
   },
@@ -31,7 +31,7 @@
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "1447.17",
+    "speed_ms": "1392.16",
     "anonymity": "elite",
     "location": "London"
   },
@@ -43,7 +43,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "2062.90",
+    "speed_ms": "2144.15",
     "anonymity": "elite",
     "location": "Hackney"
   },
@@ -55,20 +55,8 @@
     "asn": 51167,
     "isp": "Contabo GmbH",
     "protocol": "http",
-    "speed_ms": "1847.69",
+    "speed_ms": "2021.69",
     "anonymity": "elite",
-    "location": "London"
-  },
-  {
-    "ip": "149.88.73.182",
-    "port": 10809,
-    "country": "GB",
-    "country_code": "GB",
-    "asn": 401696,
-    "isp": "cognetcloud INC",
-    "protocol": "http",
-    "speed_ms": "2078.44",
-    "anonymity": "transparent",
     "location": "London"
   },
   {
@@ -79,7 +67,7 @@
     "asn": 37649,
     "isp": "SAGA AFRICA HOLDINGS LIMITED",
     "protocol": "http",
-    "speed_ms": "1858.85",
+    "speed_ms": "1794.57",
     "anonymity": "elite",
     "location": "London"
   },
@@ -91,7 +79,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1840.07",
+    "speed_ms": "1965.64",
     "anonymity": "elite",
     "location": "Solihull"
   },
@@ -103,9 +91,21 @@
     "asn": 16353,
     "isp": "Merula Limited",
     "protocol": "http",
-    "speed_ms": "1221.61",
+    "speed_ms": "1238.31",
     "anonymity": "elite",
     "location": "Manchester"
+  },
+  {
+    "ip": "149.88.73.182",
+    "port": 10809,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 401696,
+    "isp": "cognetcloud INC",
+    "protocol": "http",
+    "speed_ms": "2408.46",
+    "anonymity": "transparent",
+    "location": "London"
   },
   {
     "ip": "176.58.125.65",
@@ -115,7 +115,7 @@
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "1023.43",
+    "speed_ms": "932.26",
     "anonymity": "elite",
     "location": "London"
   }

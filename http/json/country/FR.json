@@ -7,7 +7,7 @@
     "asn": 2200,
     "isp": "Renater",
     "protocol": "http",
-    "speed_ms": "1557.45",
+    "speed_ms": "1441.93",
     "anonymity": "elite",
     "location": "Toulouse"
   },
@@ -19,7 +19,7 @@
     "asn": 2200,
     "isp": "Renater",
     "protocol": "http",
-    "speed_ms": "1557.38",
+    "speed_ms": "1437.91",
     "anonymity": "elite",
     "location": "Toulouse"
   },
@@ -31,21 +31,9 @@
     "asn": 2200,
     "isp": "Renater",
     "protocol": "http",
-    "speed_ms": "1355.81",
+    "speed_ms": "1359.10",
     "anonymity": "elite",
     "location": "Toulouse"
-  },
-  {
-    "ip": "51.15.241.34",
-    "port": 3128,
-    "country": "FR",
-    "country_code": "FR",
-    "asn": 12876,
-    "isp": "ONLINE S.A.S.",
-    "protocol": "http",
-    "speed_ms": "1741.77",
-    "anonymity": "transparent",
-    "location": "Paris"
   },
   {
     "ip": "178.33.13.233",
@@ -55,7 +43,7 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "1557.99",
+    "speed_ms": "1678.16",
     "anonymity": "elite",
     "location": "Roubaix"
   },
@@ -67,7 +55,7 @@
     "asn": 12876,
     "isp": "ONLINE S.A.S.",
     "protocol": "http",
-    "speed_ms": "1423.17",
+    "speed_ms": "1431.20",
     "anonymity": "anonymous",
     "location": "Vitry-sur-Seine"
   },
@@ -79,7 +67,7 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "1888.15",
+    "speed_ms": "1981.69",
     "anonymity": "elite",
     "location": "Roubaix"
   },
@@ -91,7 +79,7 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "1522.99",
+    "speed_ms": "1676.03",
     "anonymity": "elite",
     "location": "Roubaix"
   },
@@ -103,7 +91,7 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "1406.46",
+    "speed_ms": "1437.55",
     "anonymity": "elite",
     "location": "Roubaix"
   },
@@ -115,9 +103,21 @@
     "asn": 2200,
     "isp": "Renater",
     "protocol": "http",
-    "speed_ms": "1076.91",
+    "speed_ms": "1003.13",
     "anonymity": "elite",
     "location": "Toulouse"
+  },
+  {
+    "ip": "51.254.78.223",
+    "port": 80,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 16276,
+    "isp": "OVH SAS",
+    "protocol": "http",
+    "speed_ms": "1458.74",
+    "anonymity": "transparent",
+    "location": "Roubaix"
   },
   {
     "ip": "163.172.53.142",
@@ -127,7 +127,7 @@
     "asn": 12876,
     "isp": "ONLINE S.A.S.",
     "protocol": "http",
-    "speed_ms": "1140.88",
+    "speed_ms": "1432.48",
     "anonymity": "elite",
     "location": "Paris"
   }
