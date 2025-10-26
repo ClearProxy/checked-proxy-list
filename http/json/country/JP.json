@@ -7,7 +7,7 @@
     "asn": 58791,
     "isp": "GMO Internet,Inc",
     "protocol": "http",
-    "speed_ms": "1580.24",
+    "speed_ms": "1920.07",
     "anonymity": "elite",
     "location": "Chiyoda"
   },
@@ -19,7 +19,7 @@
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "1483.80",
+    "speed_ms": "1357.13",
     "anonymity": "elite",
     "location": "Shibuya City"
   },
@@ -31,7 +31,7 @@
     "asn": 2497,
     "isp": "Internet Initiative Japan Inc.",
     "protocol": "http",
-    "speed_ms": "1456.19",
+    "speed_ms": "1122.20",
     "anonymity": "elite",
     "location": "Kurihama"
   },
@@ -43,7 +43,7 @@
     "asn": 58791,
     "isp": "GMO Internet,Inc",
     "protocol": "http",
-    "speed_ms": "1381.22",
+    "speed_ms": "1295.22",
     "anonymity": "elite",
     "location": "Chiyoda"
   },
@@ -55,8 +55,20 @@
     "asn": 24282,
     "isp": "KAGOYA JAPAN Inc.",
     "protocol": "http",
-    "speed_ms": "1325.57",
+    "speed_ms": "1615.26",
     "anonymity": "elite",
     "location": "Chiyoda City"
+  },
+  {
+    "ip": "116.80.93.161",
+    "port": 3172,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 2514,
+    "isp": "NTT PC Communications, Inc.",
+    "protocol": "http",
+    "speed_ms": "1835.89",
+    "anonymity": "transparent",
+    "location": "Chiyoda"
   }
 ]
