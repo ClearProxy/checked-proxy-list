@@ -1,63 +1,27 @@
 [
   {
-    "ip": "46.146.220.247",
+    "ip": "46.146.220.180",
     "port": 1080,
     "country": "RU",
     "country_code": "RU",
     "asn": 12768,
     "isp": "JSC \"ER-Telecom Holding\"",
     "protocol": "socks5",
-    "speed_ms": "2346.79",
+    "speed_ms": "2490.99",
     "anonymity": "elite",
     "location": "Perm"
   },
   {
-    "ip": "45.8.88.236",
-    "port": 1080,
+    "ip": "217.25.90.44",
+    "port": 5050,
     "country": "RU",
     "country_code": "RU",
-    "asn": 43991,
-    "isp": "Voronezh Telecom LLC",
+    "asn": 9123,
+    "isp": "TimeWeb LLC",
     "protocol": "socks5",
-    "speed_ms": "2356.34",
+    "speed_ms": "2368.42",
     "anonymity": "elite",
-    "location": "Voronezh"
-  },
-  {
-    "ip": "109.196.140.199",
-    "port": 1080,
-    "country": "RU",
-    "country_code": "RU",
-    "asn": 61431,
-    "isp": "TELECOMMUNICATION COMPANY KAMA - LINK LLC.",
-    "protocol": "socks5",
-    "speed_ms": "2316.50",
-    "anonymity": "elite",
-    "location": "Chaykovskiy"
-  },
-  {
-    "ip": "89.148.196.156",
-    "port": 1080,
-    "country": "RU",
-    "country_code": "RU",
-    "asn": 15640,
-    "isp": "MTS PJSC",
-    "protocol": "socks5",
-    "speed_ms": "2470.72",
-    "anonymity": "elite",
-    "location": "Perm (Leninskiy Rayon)"
-  },
-  {
-    "ip": "31.129.147.102",
-    "port": 1080,
-    "country": "RU",
-    "country_code": "RU",
-    "asn": 51669,
-    "isp": "Home Computer Networks ltd.",
-    "protocol": "socks5",
-    "speed_ms": "1909.14",
-    "anonymity": "elite",
-    "location": "Tver'"
+    "location": "St Petersburg"
   },
   {
     "ip": "217.173.31.28",
@@ -67,33 +31,9 @@
     "asn": 29194,
     "isp": "MTS PJSC",
     "protocol": "socks5",
-    "speed_ms": "2081.74",
+    "speed_ms": "2110.50",
     "anonymity": "elite",
     "location": "Kazan\u2019"
-  },
-  {
-    "ip": "185.149.240.155",
-    "port": 1080,
-    "country": "RU",
-    "country_code": "RU",
-    "asn": 49505,
-    "isp": "JSC Selectel",
-    "protocol": "socks5",
-    "speed_ms": "2399.45",
-    "anonymity": "elite",
-    "location": "St Petersburg"
-  },
-  {
-    "ip": "85.172.55.85",
-    "port": 1080,
-    "country": "RU",
-    "country_code": "RU",
-    "asn": 12389,
-    "isp": "PJSC Rostelecom",
-    "protocol": "socks5",
-    "speed_ms": "2423.76",
-    "anonymity": "elite",
-    "location": "Krasnodar"
   },
   {
     "ip": "78.29.46.43",
@@ -103,20 +43,44 @@
     "asn": 8369,
     "isp": "Intersvyaz-2 JSC",
     "protocol": "socks5",
-    "speed_ms": "2069.45",
+    "speed_ms": "2390.03",
     "anonymity": "elite",
     "location": "Chelyabinsk"
   },
   {
-    "ip": "85.172.55.85",
+    "ip": "185.149.240.155",
     "port": 1080,
     "country": "RU",
     "country_code": "RU",
-    "asn": 12389,
-    "isp": "PJSC Rostelecom",
+    "asn": 49505,
+    "isp": "JSC Selectel",
     "protocol": "socks5",
-    "speed_ms": "2311.58",
+    "speed_ms": "2430.09",
     "anonymity": "elite",
-    "location": "Krasnodar"
+    "location": "St Petersburg"
+  },
+  {
+    "ip": "109.196.140.199",
+    "port": 1080,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 61431,
+    "isp": "TELECOMMUNICATION COMPANY KAMA - LINK LLC.",
+    "protocol": "socks5",
+    "speed_ms": "2316.55",
+    "anonymity": "elite",
+    "location": "Chaykovskiy"
+  },
+  {
+    "ip": "217.25.90.44",
+    "port": 5050,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 9123,
+    "isp": "TimeWeb LLC",
+    "protocol": "socks5",
+    "speed_ms": "2419.23",
+    "anonymity": "elite",
+    "location": "St Petersburg"
   }
 ]
