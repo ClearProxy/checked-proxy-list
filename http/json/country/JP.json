@@ -1,15 +1,27 @@
 [
   {
-    "ip": "133.18.234.13",
-    "port": 80,
+    "ip": "116.80.93.114",
+    "port": 3172,
     "country": "JP",
     "country_code": "JP",
-    "asn": 24282,
-    "isp": "KAGOYA JAPAN Inc.",
+    "asn": 2514,
+    "isp": "NTT PC Communications, Inc.",
     "protocol": "http",
-    "speed_ms": "923.39",
+    "speed_ms": "2177.02",
+    "anonymity": "transparent",
+    "location": "Chiyoda"
+  },
+  {
+    "ip": "74.113.96.35",
+    "port": 8080,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 18526,
+    "isp": "DDPS Networks, LLC",
+    "protocol": "http",
+    "speed_ms": "876.90",
     "anonymity": "elite",
-    "location": "Chiyoda City"
+    "location": "Chiyoda City (Otemachi)"
   },
   {
     "ip": "172.237.21.212",
@@ -19,7 +31,7 @@
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "477.29",
+    "speed_ms": "656.55",
     "anonymity": "elite",
     "location": "Shibuya City"
   }
