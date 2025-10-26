@@ -1,17 +1,5 @@
 [
   {
-    "ip": "142.54.237.38",
-    "port": 4145,
-    "country": "US",
-    "country_code": "US",
-    "asn": 46562,
-    "isp": "Performive LLC",
-    "protocol": "socks5",
-    "speed_ms": "513.44",
-    "anonymity": "elite",
-    "location": "Los Angeles"
-  },
-  {
     "ip": "192.252.209.158",
     "port": 4145,
     "country": "US",
@@ -19,9 +7,21 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks5",
-    "speed_ms": "709.80",
+    "speed_ms": "873.87",
     "anonymity": "elite",
     "location": "Atlanta"
+  },
+  {
+    "ip": "142.54.228.193",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks5",
+    "speed_ms": "549.29",
+    "anonymity": "elite",
+    "location": "Los Angeles"
   },
   {
     "ip": "192.111.130.5",
@@ -31,7 +31,7 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks5",
-    "speed_ms": "679.92",
+    "speed_ms": "861.93",
     "anonymity": "elite",
     "location": "Atlanta (Fairlie-Poplar)"
   },
@@ -43,7 +43,7 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks5",
-    "speed_ms": "657.66",
+    "speed_ms": "1234.85",
     "anonymity": "elite",
     "location": "Atlanta"
   },
@@ -55,19 +55,7 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks5",
-    "speed_ms": "676.80",
-    "anonymity": "elite",
-    "location": "Atlanta"
-  },
-  {
-    "ip": "192.252.214.17",
-    "port": 4145,
-    "country": "US",
-    "country_code": "US",
-    "asn": 46562,
-    "isp": "Performive LLC",
-    "protocol": "socks5",
-    "speed_ms": "654.83",
+    "speed_ms": "1236.13",
     "anonymity": "elite",
     "location": "Atlanta"
   },
@@ -79,31 +67,7 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks5",
-    "speed_ms": "643.93",
-    "anonymity": "elite",
-    "location": "Atlanta"
-  },
-  {
-    "ip": "192.111.135.18",
-    "port": 18301,
-    "country": "US",
-    "country_code": "US",
-    "asn": 46562,
-    "isp": "Performive LLC",
-    "protocol": "socks5",
-    "speed_ms": "630.46",
-    "anonymity": "elite",
-    "location": "Atlanta (Fairlie-Poplar)"
-  },
-  {
-    "ip": "192.252.208.70",
-    "port": 14282,
-    "country": "US",
-    "country_code": "US",
-    "asn": 46562,
-    "isp": "Performive LLC",
-    "protocol": "socks5",
-    "speed_ms": "608.33",
+    "speed_ms": "842.00",
     "anonymity": "elite",
     "location": "Atlanta"
   },
@@ -115,7 +79,7 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks5",
-    "speed_ms": "605.87",
+    "speed_ms": "771.14",
     "anonymity": "elite",
     "location": "Atlanta (Fairlie-Poplar)"
   },
@@ -127,19 +91,55 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks5",
-    "speed_ms": "594.81",
+    "speed_ms": "774.25",
     "anonymity": "elite",
     "location": "Atlanta"
   },
   {
-    "ip": "192.111.139.165",
+    "ip": "192.252.214.20",
+    "port": 15864,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks5",
+    "speed_ms": "757.83",
+    "anonymity": "elite",
+    "location": "Atlanta"
+  },
+  {
+    "ip": "199.116.112.6",
     "port": 4145,
     "country": "US",
     "country_code": "US",
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks5",
-    "speed_ms": "615.40",
+    "speed_ms": "750.58",
+    "anonymity": "elite",
+    "location": "Atlanta (Fairlie-Poplar)"
+  },
+  {
+    "ip": "198.8.94.174",
+    "port": 39078,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks5",
+    "speed_ms": "747.38",
+    "anonymity": "elite",
+    "location": "Atlanta (Fairlie-Poplar)"
+  },
+  {
+    "ip": "192.111.139.162",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks5",
+    "speed_ms": "759.31",
     "anonymity": "elite",
     "location": "Atlanta (Fairlie-Poplar)"
   }
