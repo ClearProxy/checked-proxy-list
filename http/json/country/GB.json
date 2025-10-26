@@ -7,7 +7,7 @@
     "asn": 51167,
     "isp": "Contabo GmbH",
     "protocol": "http",
-    "speed_ms": "2263.98",
+    "speed_ms": "2018.21",
     "anonymity": "elite",
     "location": "London"
   },
@@ -19,7 +19,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "2180.81",
+    "speed_ms": "1923.83",
     "anonymity": "elite",
     "location": "Wembley"
   },
@@ -31,7 +31,7 @@
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "1556.92",
+    "speed_ms": "1300.21",
     "anonymity": "elite",
     "location": "London"
   },
@@ -43,7 +43,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "2099.25",
+    "speed_ms": "1821.64",
     "anonymity": "elite",
     "location": "Hackney"
   },
@@ -55,8 +55,20 @@
     "asn": 51167,
     "isp": "Contabo GmbH",
     "protocol": "http",
-    "speed_ms": "1899.94",
+    "speed_ms": "1661.86",
     "anonymity": "elite",
+    "location": "London"
+  },
+  {
+    "ip": "149.88.73.182",
+    "port": 10809,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 401696,
+    "isp": "cognetcloud INC",
+    "protocol": "http",
+    "speed_ms": "1613.41",
+    "anonymity": "transparent",
     "location": "London"
   },
   {
@@ -67,7 +79,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1895.58",
+    "speed_ms": "1605.80",
     "anonymity": "elite",
     "location": "Solihull"
   },
@@ -79,9 +91,21 @@
     "asn": 16353,
     "isp": "Merula Limited",
     "protocol": "http",
-    "speed_ms": "1362.55",
+    "speed_ms": "1117.17",
     "anonymity": "elite",
     "location": "Manchester"
+  },
+  {
+    "ip": "149.88.73.182",
+    "port": 10809,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 401696,
+    "isp": "cognetcloud INC",
+    "protocol": "http",
+    "speed_ms": "1481.40",
+    "anonymity": "transparent",
+    "location": "London"
   },
   {
     "ip": "176.58.125.65",
@@ -91,7 +115,7 @@
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "978.91",
+    "speed_ms": "962.81",
     "anonymity": "elite",
     "location": "London"
   }
