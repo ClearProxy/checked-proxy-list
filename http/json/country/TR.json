@@ -1,17 +1,5 @@
 [
   {
-    "ip": "78.188.152.209",
-    "port": 1454,
-    "country": "TR",
-    "country_code": "TR",
-    "asn": 9121,
-    "isp": "Turk Telekomunikasyon Anonim Sirketi",
-    "protocol": "http",
-    "speed_ms": "1197.51",
-    "anonymity": "elite",
-    "location": "Istanbul"
-  },
-  {
     "ip": "78.186.40.188",
     "port": 3310,
     "country": "TR",
@@ -19,7 +7,7 @@
     "asn": 47331,
     "isp": "TTNet A.S.",
     "protocol": "http",
-    "speed_ms": "1157.22",
+    "speed_ms": "1006.51",
     "anonymity": "elite",
     "location": "Trabzon"
   },
@@ -31,7 +19,7 @@
     "asn": 47331,
     "isp": "TTNet A.S.",
     "protocol": "http",
-    "speed_ms": "1000.06",
+    "speed_ms": "849.06",
     "anonymity": "elite",
     "location": "Bursa"
   },
@@ -43,8 +31,20 @@
     "asn": 47331,
     "isp": "TTNet A.S.",
     "protocol": "http",
-    "speed_ms": "764.86",
+    "speed_ms": "681.10",
     "anonymity": "elite",
     "location": "Istanbul"
+  },
+  {
+    "ip": "194.27.90.143",
+    "port": 8077,
+    "country": "TR",
+    "country_code": "TR",
+    "asn": 8517,
+    "isp": "National Academic Network and Information Center",
+    "protocol": "http",
+    "speed_ms": "678.99",
+    "anonymity": "elite",
+    "location": "Ankara"
   }
 ]
