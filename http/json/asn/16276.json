@@ -7,7 +7,7 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "739.40",
+    "speed_ms": "958.91",
     "anonymity": "elite",
     "location": "Beauharnois"
   },
@@ -19,7 +19,7 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "1134.40",
+    "speed_ms": "1158.24",
     "anonymity": "elite",
     "location": "Roubaix"
   },
@@ -31,8 +31,20 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "621.10",
+    "speed_ms": "779.75",
     "anonymity": "elite",
     "location": "Montreal (Ville-Marie)"
+  },
+  {
+    "ip": "51.91.109.83",
+    "port": 80,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 16276,
+    "isp": "OVH SAS",
+    "protocol": "http",
+    "speed_ms": "1904.58",
+    "anonymity": "transparent",
+    "location": "Roubaix"
   }
 ]
