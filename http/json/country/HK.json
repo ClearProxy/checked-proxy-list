@@ -1,17 +1,5 @@
 [
   {
-    "ip": "45.136.197.139",
-    "port": 8080,
-    "country": "HK",
-    "country_code": "HK",
-    "asn": 9009,
-    "isp": "M247 Europe SRL",
-    "protocol": "http",
-    "speed_ms": "1447.91",
-    "anonymity": "elite",
-    "location": "Hong Kong"
-  },
-  {
     "ip": "47.56.110.204",
     "port": 8989,
     "country": "HK",
@@ -19,7 +7,19 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "1481.77",
+    "speed_ms": "2278.44",
+    "anonymity": "elite",
+    "location": "Hong Kong"
+  },
+  {
+    "ip": "203.19.38.114",
+    "port": 1080,
+    "country": "HK",
+    "country_code": "HK",
+    "asn": 23764,
+    "isp": "China Telecom Global Limited",
+    "protocol": "http",
+    "speed_ms": "2178.62",
     "anonymity": "elite",
     "location": "Hong Kong"
   },
@@ -31,7 +31,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "1041.12",
+    "speed_ms": "1216.80",
     "anonymity": "elite",
     "location": "Hong Kong"
   },
@@ -43,8 +43,20 @@
     "asn": 401696,
     "isp": "cognetcloud INC",
     "protocol": "http",
-    "speed_ms": "839.69",
+    "speed_ms": "998.15",
     "anonymity": "elite",
     "location": "Ha Kwai Chung"
+  },
+  {
+    "ip": "47.243.92.199",
+    "port": 3128,
+    "country": "HK",
+    "country_code": "HK",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2189.42",
+    "anonymity": "transparent",
+    "location": "Hong Kong"
   }
 ]
