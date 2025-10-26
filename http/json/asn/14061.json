@@ -7,7 +7,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1200.81",
+    "speed_ms": "924.33",
     "anonymity": "elite",
     "location": "Amsterdam"
   },
@@ -19,7 +19,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1197.64",
+    "speed_ms": "875.99",
     "anonymity": "elite",
     "location": "Alexandria"
   },
@@ -31,7 +31,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1358.41",
+    "speed_ms": "1220.65",
     "anonymity": "elite",
     "location": "Santa Clara"
   },
@@ -43,7 +43,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "947.53",
+    "speed_ms": "575.36",
     "anonymity": "elite",
     "location": "Clifton"
   },
@@ -55,7 +55,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1341.43",
+    "speed_ms": "1218.71",
     "anonymity": "elite",
     "location": "North Bergen"
   },
@@ -67,7 +67,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1318.42",
+    "speed_ms": "1201.52",
     "anonymity": "elite",
     "location": "North Bergen"
   },
@@ -79,7 +79,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1100.21",
+    "speed_ms": "998.59",
     "anonymity": "elite",
     "location": "Singapore (Pioneer)"
   },
@@ -91,7 +91,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1279.10",
+    "speed_ms": "1185.47",
     "anonymity": "elite",
     "location": "North Bergen"
   },
@@ -103,7 +103,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1279.64",
+    "speed_ms": "1199.97",
     "anonymity": "elite",
     "location": "Frankfurt am Main"
   },
@@ -115,7 +115,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1142.80",
+    "speed_ms": "1122.31",
     "anonymity": "elite",
     "location": "Santa Clara"
   },
@@ -127,7 +127,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1224.87",
+    "speed_ms": "1119.64",
     "anonymity": "elite",
     "location": "North Bergen"
   },
@@ -139,7 +139,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "838.27",
+    "speed_ms": "506.49",
     "anonymity": "elite",
     "location": "Santa Clara"
   },
@@ -151,7 +151,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1235.02",
+    "speed_ms": "1120.98",
     "anonymity": "elite",
     "location": "Bengaluru"
   },
@@ -163,7 +163,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "843.97",
+    "speed_ms": "554.28",
     "anonymity": "elite",
     "location": "Clifton"
   },
@@ -175,33 +175,9 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1156.98",
+    "speed_ms": "1018.98",
     "anonymity": "elite",
     "location": "Clifton"
-  },
-  {
-    "ip": "159.65.245.255",
-    "port": 80,
-    "country": "US",
-    "country_code": "US",
-    "asn": 14061,
-    "isp": "DigitalOcean, LLC",
-    "protocol": "http",
-    "speed_ms": "1789.38",
-    "anonymity": "elite",
-    "location": "Clifton"
-  },
-  {
-    "ip": "138.68.235.51",
-    "port": 80,
-    "country": "US",
-    "country_code": "US",
-    "asn": 14061,
-    "isp": "DigitalOcean, LLC",
-    "protocol": "http",
-    "speed_ms": "1840.33",
-    "anonymity": "elite",
-    "location": "Santa Clara"
   },
   {
     "ip": "68.183.15.169",
@@ -211,7 +187,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "936.34",
+    "speed_ms": "941.94",
     "anonymity": "elite",
     "location": "Amsterdam"
   },
@@ -223,9 +199,21 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1059.93",
+    "speed_ms": "975.72",
     "anonymity": "elite",
     "location": "North Bergen"
+  },
+  {
+    "ip": "143.244.207.176",
+    "port": 1024,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "http",
+    "speed_ms": "1479.14",
+    "anonymity": "elite",
+    "location": "Frankfurt am Main"
   },
   {
     "ip": "138.197.112.162",
@@ -235,7 +223,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1040.19",
+    "speed_ms": "958.19",
     "anonymity": "elite",
     "location": "Clifton"
   },
@@ -247,7 +235,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "947.84",
+    "speed_ms": "902.60",
     "anonymity": "elite",
     "location": "Singapore (Pioneer)"
   },
@@ -259,7 +247,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "980.40",
+    "speed_ms": "905.19",
     "anonymity": "elite",
     "location": "North Bergen"
   },
@@ -271,7 +259,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "616.86",
+    "speed_ms": "320.28",
     "anonymity": "elite",
     "location": "North Bergen"
   },
@@ -283,7 +271,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "624.64",
+    "speed_ms": "420.09",
     "anonymity": "elite",
     "location": "North Bergen"
   },
@@ -295,7 +283,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "961.01",
+    "speed_ms": "897.79",
     "anonymity": "elite",
     "location": "Singapore (Pioneer)"
   },
@@ -307,7 +295,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "697.15",
+    "speed_ms": "605.98",
     "anonymity": "elite",
     "location": "Frankfurt am Main"
   },
@@ -319,7 +307,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "897.73",
+    "speed_ms": "82.66",
     "anonymity": "elite",
     "location": "Santa Clara"
   },
@@ -331,7 +319,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "900.52",
+    "speed_ms": "879.14",
     "anonymity": "elite",
     "location": "Eggolsheim"
   }
