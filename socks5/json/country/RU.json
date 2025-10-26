@@ -1,38 +1,62 @@
 [
   {
-    "ip": "5.128.254.99",
+    "ip": "91.185.45.92",
+    "port": 1080,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 8345,
+    "isp": "JSC \"ER-Telecom Holding\"",
+    "protocol": "socks5",
+    "speed_ms": "2357.82",
+    "anonymity": "elite",
+    "location": "Irkutsk"
+  },
+  {
+    "ip": "90.189.215.229",
+    "port": 1080,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 12389,
+    "isp": "PJSC Rostelecom",
+    "protocol": "socks5",
+    "speed_ms": "2261.94",
+    "anonymity": "elite",
+    "location": "Novosibirsk"
+  },
+  {
+    "ip": "37.192.133.82",
     "port": 1080,
     "country": "RU",
     "country_code": "RU",
     "asn": 31200,
     "isp": "Novotelecom Ltd",
     "protocol": "socks5",
-    "speed_ms": "2438.81",
+    "speed_ms": "2265.46",
     "anonymity": "elite",
     "location": "Novosibirsk"
   },
   {
-    "ip": "188.191.164.55",
-    "port": 4890,
-    "country": "RU",
-    "country_code": "RU",
-    "asn": 50577,
-    "isp": "Intelsc Ltd.",
-    "protocol": "socks5",
-    "speed_ms": "2500.00",
-    "anonymity": "elite",
-    "location": "Ramenskoye"
-  },
-  {
-    "ip": "84.54.227.27",
+    "ip": "37.192.133.82",
     "port": 1080,
     "country": "RU",
     "country_code": "RU",
-    "asn": 12683,
-    "isp": "PJSC Rostelecom",
+    "asn": 31200,
+    "isp": "Novotelecom Ltd",
     "protocol": "socks5",
-    "speed_ms": "2331.83",
+    "speed_ms": "2494.28",
     "anonymity": "elite",
-    "location": "Stavropol"
+    "location": "Novosibirsk"
+  },
+  {
+    "ip": "185.149.240.155",
+    "port": 1080,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 49505,
+    "isp": "JSC Selectel",
+    "protocol": "socks5",
+    "speed_ms": "2392.42",
+    "anonymity": "elite",
+    "location": "St Petersburg"
   }
 ]
