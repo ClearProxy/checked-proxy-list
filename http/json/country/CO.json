@@ -1,17 +1,5 @@
 [
   {
-    "ip": "186.180.73.50",
-    "port": 9090,
-    "country": "CO",
-    "country_code": "CO",
-    "asn": 27831,
-    "isp": "Colombia Movil",
-    "protocol": "http",
-    "speed_ms": "1395.46",
-    "anonymity": "transparent",
-    "location": "Bogota (Engativa)"
-  },
-  {
     "ip": "190.90.100.195",
     "port": 999,
     "country": "CO",
@@ -19,7 +7,7 @@
     "asn": 262186,
     "isp": "TV AZTECA SUCURSAL COLOMBIA",
     "protocol": "http",
-    "speed_ms": "1452.39",
+    "speed_ms": "1459.50",
     "anonymity": "transparent",
     "location": "Restrepo"
   },
@@ -31,7 +19,7 @@
     "asn": 3356,
     "isp": "Level 3 Communications, Inc.",
     "protocol": "http",
-    "speed_ms": "998.92",
+    "speed_ms": "1060.17",
     "anonymity": "transparent",
     "location": "Bogota (Suba)"
   },
@@ -43,9 +31,21 @@
     "asn": 262186,
     "isp": "TV AZTECA SUCURSAL COLOMBIA",
     "protocol": "http",
-    "speed_ms": "1131.01",
+    "speed_ms": "1155.70",
     "anonymity": "transparent",
     "location": "Restrepo"
+  },
+  {
+    "ip": "190.242.157.215",
+    "port": 8080,
+    "country": "CO",
+    "country_code": "CO",
+    "asn": 269804,
+    "isp": "SEPCOM COMUNICACIONES SAS",
+    "protocol": "http",
+    "speed_ms": "863.02",
+    "anonymity": "transparent",
+    "location": "Popayan"
   },
   {
     "ip": "8.243.68.10",
@@ -55,7 +55,7 @@
     "asn": 3356,
     "isp": "Level 3 Communications, Inc.",
     "protocol": "http",
-    "speed_ms": "764.37",
+    "speed_ms": "815.10",
     "anonymity": "transparent",
     "location": "Bogota (Suba)"
   }
