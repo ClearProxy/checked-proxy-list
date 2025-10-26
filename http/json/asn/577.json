@@ -1,15 +1,15 @@
 [
   {
-    "ip": "67.43.228.250",
-    "port": 4607,
+    "ip": "72.10.164.178",
+    "port": 4223,
     "country": "CA",
     "country_code": "CA",
     "asn": 577,
     "isp": "Bell Canada",
     "protocol": "http",
-    "speed_ms": "1518.12",
+    "speed_ms": "1321.56",
     "anonymity": "elite",
-    "location": "Markham"
+    "location": "Toronto (Scarborough)"
   },
   {
     "ip": "72.10.164.178",
@@ -19,8 +19,20 @@
     "asn": 577,
     "isp": "Bell Canada",
     "protocol": "http",
-    "speed_ms": "2057.73",
+    "speed_ms": "1905.35",
     "anonymity": "elite",
     "location": "Toronto (Scarborough)"
+  },
+  {
+    "ip": "67.43.228.250",
+    "port": 4607,
+    "country": "CA",
+    "country_code": "CA",
+    "asn": 577,
+    "isp": "Bell Canada",
+    "protocol": "http",
+    "speed_ms": "1858.24",
+    "anonymity": "elite",
+    "location": "Markham"
   }
 ]

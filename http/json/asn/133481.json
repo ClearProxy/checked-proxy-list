@@ -1,17 +1,5 @@
 [
   {
-    "ip": "184.82.255.229",
-    "port": 8080,
-    "country": "TH",
-    "country_code": "TH",
-    "asn": 133481,
-    "isp": "ADVANCED WIRELESS NETWORK COMPANY LIMITED",
-    "protocol": "http",
-    "speed_ms": "2477.54",
-    "anonymity": "elite",
-    "location": "Bang Kruai"
-  },
-  {
     "ip": "49.229.100.235",
     "port": 8080,
     "country": "TH",
@@ -19,9 +7,21 @@
     "asn": 133481,
     "isp": "ADVANCED WIRELESS NETWORK COMPANY LIMITED",
     "protocol": "http",
-    "speed_ms": "2056.03",
+    "speed_ms": "1841.50",
     "anonymity": "transparent",
     "location": "Si Maha Phot"
+  },
+  {
+    "ip": "184.82.38.108",
+    "port": 8080,
+    "country": "TH",
+    "country_code": "TH",
+    "asn": 133481,
+    "isp": "ADVANCED WIRELESS NETWORK COMPANY LIMITED",
+    "protocol": "http",
+    "speed_ms": "2353.59",
+    "anonymity": "transparent",
+    "location": "Phaya Thai"
   },
   {
     "ip": "67.43.228.252",
@@ -31,7 +31,7 @@
     "asn": 133481,
     "isp": "ADVANCED WIRELESS NETWORK COMPANY LIMITED",
     "protocol": "http",
-    "speed_ms": "2226.27",
+    "speed_ms": "1875.31",
     "anonymity": "elite",
     "location": "Ko Chang"
   },
@@ -43,7 +43,7 @@
     "asn": 133481,
     "isp": "ADVANCED WIRELESS NETWORK COMPANY LIMITED",
     "protocol": "http",
-    "speed_ms": "2364.18",
+    "speed_ms": "2401.96",
     "anonymity": "transparent",
     "location": "Si Maha Phot"
   }

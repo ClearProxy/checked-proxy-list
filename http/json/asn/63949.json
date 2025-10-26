@@ -1,5 +1,17 @@
 [
   {
+    "ip": "23.239.10.167",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 63949,
+    "isp": "Akamai Technologies, Inc.",
+    "protocol": "http",
+    "speed_ms": "1891.13",
+    "anonymity": "elite",
+    "location": "Hanover (Cedar Knolls)"
+  },
+  {
     "ip": "172.237.21.212",
     "port": 80,
     "country": "JP",
@@ -7,21 +19,9 @@
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "1782.87",
+    "speed_ms": "1276.66",
     "anonymity": "elite",
     "location": "Shibuya City"
-  },
-  {
-    "ip": "176.58.125.65",
-    "port": 80,
-    "country": "GB",
-    "country_code": "GB",
-    "asn": 63949,
-    "isp": "Akamai Technologies, Inc.",
-    "protocol": "http",
-    "speed_ms": "1837.19",
-    "anonymity": "elite",
-    "location": "London"
   },
   {
     "ip": "178.79.129.126",
@@ -31,7 +31,7 @@
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "1724.34",
+    "speed_ms": "1541.30",
     "anonymity": "elite",
     "location": "London"
   },
@@ -43,7 +43,7 @@
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "1185.12",
+    "speed_ms": "880.41",
     "anonymity": "elite",
     "location": "Richardson"
   },
@@ -55,20 +55,20 @@
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "2265.79",
+    "speed_ms": "1672.33",
     "anonymity": "elite",
     "location": "Singapore (Somapah)"
   },
   {
-    "ip": "172.237.80.233",
-    "port": 8080,
-    "country": "SG",
-    "country_code": "SG",
+    "ip": "176.58.125.65",
+    "port": 80,
+    "country": "GB",
+    "country_code": "GB",
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "2128.83",
+    "speed_ms": "2275.42",
     "anonymity": "elite",
-    "location": "Singapore (Somapah)"
+    "location": "London"
   }
 ]
