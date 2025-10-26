@@ -7,7 +7,7 @@
     "asn": 2200,
     "isp": "Renater",
     "protocol": "http",
-    "speed_ms": "1198.70",
+    "speed_ms": "1139.06",
     "anonymity": "elite",
     "location": "Toulouse"
   },
@@ -19,9 +19,21 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "1224.97",
+    "speed_ms": "938.58",
     "anonymity": "elite",
     "location": "Roubaix"
+  },
+  {
+    "ip": "51.15.228.52",
+    "port": 8080,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 12876,
+    "isp": "ONLINE S.A.S.",
+    "protocol": "http",
+    "speed_ms": "962.56",
+    "anonymity": "transparent",
+    "location": "Paris"
   },
   {
     "ip": "195.83.197.26",
@@ -31,7 +43,7 @@
     "asn": 2200,
     "isp": "Renater",
     "protocol": "http",
-    "speed_ms": "939.25",
+    "speed_ms": "927.93",
     "anonymity": "elite",
     "location": "Toulouse"
   },
@@ -43,7 +55,7 @@
     "asn": 2200,
     "isp": "Renater",
     "protocol": "http",
-    "speed_ms": "915.68",
+    "speed_ms": "866.05",
     "anonymity": "elite",
     "location": "Toulouse"
   },
@@ -55,8 +67,20 @@
     "asn": 2200,
     "isp": "Renater",
     "protocol": "http",
-    "speed_ms": "863.68",
+    "speed_ms": "826.48",
     "anonymity": "elite",
     "location": "Toulouse"
+  },
+  {
+    "ip": "51.15.228.52",
+    "port": 8080,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 12876,
+    "isp": "ONLINE S.A.S.",
+    "protocol": "http",
+    "speed_ms": "971.97",
+    "anonymity": "transparent",
+    "location": "Paris"
   }
 ]
