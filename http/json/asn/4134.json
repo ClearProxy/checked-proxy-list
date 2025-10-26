@@ -1,27 +1,15 @@
 [
   {
-    "ip": "220.178.229.83",
+    "ip": "222.83.110.83",
     "port": 7302,
     "country": "CN",
     "country_code": "CN",
     "asn": 4134,
     "isp": "Chinanet",
     "protocol": "http",
-    "speed_ms": "1501.73",
+    "speed_ms": "1897.16",
     "anonymity": "elite",
-    "location": "Hefei (Shushan Qu)"
-  },
-  {
-    "ip": "59.49.79.173",
-    "port": 8089,
-    "country": "CN",
-    "country_code": "CN",
-    "asn": 4134,
-    "isp": "Chinanet",
-    "protocol": "http",
-    "speed_ms": "1539.53",
-    "anonymity": "elite",
-    "location": "Taiyuan"
+    "location": "Xingfulu"
   },
   {
     "ip": "1.71.170.146",
@@ -31,21 +19,33 @@
     "asn": 4134,
     "isp": "Chinanet",
     "protocol": "http",
-    "speed_ms": "1535.99",
+    "speed_ms": "2500.00",
     "anonymity": "elite",
     "location": "Julun"
   },
   {
-    "ip": "115.239.234.43",
+    "ip": "220.178.229.83",
     "port": 7302,
     "country": "CN",
     "country_code": "CN",
     "asn": 4134,
     "isp": "Chinanet",
     "protocol": "http",
-    "speed_ms": "1139.52",
+    "speed_ms": "1977.12",
     "anonymity": "elite",
-    "location": "Beijing"
+    "location": "Hefei (Shushan Qu)"
+  },
+  {
+    "ip": "14.29.236.128",
+    "port": 7897,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 4134,
+    "isp": "Chinanet",
+    "protocol": "http",
+    "speed_ms": "2500.00",
+    "anonymity": "transparent",
+    "location": "Guangzhou"
   },
   {
     "ip": "218.21.91.214",
@@ -55,8 +55,32 @@
     "asn": 4134,
     "isp": "Chinanet",
     "protocol": "http",
-    "speed_ms": "1987.72",
+    "speed_ms": "2245.37",
     "anonymity": "elite",
     "location": "Liuzhou"
+  },
+  {
+    "ip": "59.49.79.173",
+    "port": 8089,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 4134,
+    "isp": "Chinanet",
+    "protocol": "http",
+    "speed_ms": "1863.97",
+    "anonymity": "elite",
+    "location": "Taiyuan"
+  },
+  {
+    "ip": "115.239.234.43",
+    "port": 7302,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 4134,
+    "isp": "Chinanet",
+    "protocol": "http",
+    "speed_ms": "1979.30",
+    "anonymity": "elite",
+    "location": "Beijing"
   }
 ]

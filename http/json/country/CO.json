@@ -1,27 +1,27 @@
 [
   {
-    "ip": "8.243.68.10",
-    "port": 8080,
+    "ip": "186.180.73.50",
+    "port": 9090,
     "country": "CO",
     "country_code": "CO",
-    "asn": 3356,
-    "isp": "Level 3 Communications, Inc.",
+    "asn": 27831,
+    "isp": "Colombia Movil",
     "protocol": "http",
-    "speed_ms": "1557.79",
+    "speed_ms": "2500.00",
     "anonymity": "transparent",
-    "location": "Bogota (Suba)"
+    "location": "Bogota (Engativa)"
   },
   {
-    "ip": "72.10.160.90",
-    "port": 14827,
+    "ip": "67.43.236.18",
+    "port": 16087,
     "country": "CO",
     "country_code": "CO",
-    "asn": 19429,
-    "isp": "ETB - Colombia",
+    "asn": 10620,
+    "isp": "Telmex Colombia S.A.",
     "protocol": "http",
-    "speed_ms": "1597.75",
+    "speed_ms": "1857.17",
     "anonymity": "elite",
-    "location": "Bogota"
+    "location": "Soacha"
   },
   {
     "ip": "190.90.100.195",
@@ -31,33 +31,9 @@
     "asn": 262186,
     "isp": "TV AZTECA SUCURSAL COLOMBIA",
     "protocol": "http",
-    "speed_ms": "1577.42",
+    "speed_ms": "2097.67",
     "anonymity": "transparent",
     "location": "Restrepo"
-  },
-  {
-    "ip": "8.243.68.10",
-    "port": 8080,
-    "country": "CO",
-    "country_code": "CO",
-    "asn": 3356,
-    "isp": "Level 3 Communications, Inc.",
-    "protocol": "http",
-    "speed_ms": "1538.36",
-    "anonymity": "transparent",
-    "location": "Bogota (Suba)"
-  },
-  {
-    "ip": "72.10.160.90",
-    "port": 14827,
-    "country": "CO",
-    "country_code": "CO",
-    "asn": 19429,
-    "isp": "ETB - Colombia",
-    "protocol": "http",
-    "speed_ms": "1300.36",
-    "anonymity": "elite",
-    "location": "Bogota"
   },
   {
     "ip": "190.242.157.215",
@@ -67,7 +43,55 @@
     "asn": 269804,
     "isp": "SEPCOM COMUNICACIONES SAS",
     "protocol": "http",
-    "speed_ms": "1078.59",
+    "speed_ms": "2296.37",
+    "anonymity": "transparent",
+    "location": "Popayan"
+  },
+  {
+    "ip": "72.10.160.174",
+    "port": 23923,
+    "country": "CO",
+    "country_code": "CO",
+    "asn": 10620,
+    "isp": "Telmex Colombia S.A.",
+    "protocol": "http",
+    "speed_ms": "2142.48",
+    "anonymity": "elite",
+    "location": "Cota"
+  },
+  {
+    "ip": "8.243.68.10",
+    "port": 8080,
+    "country": "CO",
+    "country_code": "CO",
+    "asn": 3356,
+    "isp": "Level 3 Communications, Inc.",
+    "protocol": "http",
+    "speed_ms": "2311.34",
+    "anonymity": "transparent",
+    "location": "Bogota (Suba)"
+  },
+  {
+    "ip": "190.90.100.195",
+    "port": 999,
+    "country": "CO",
+    "country_code": "CO",
+    "asn": 262186,
+    "isp": "TV AZTECA SUCURSAL COLOMBIA",
+    "protocol": "http",
+    "speed_ms": "2125.07",
+    "anonymity": "transparent",
+    "location": "Restrepo"
+  },
+  {
+    "ip": "190.242.157.215",
+    "port": 8080,
+    "country": "CO",
+    "country_code": "CO",
+    "asn": 269804,
+    "isp": "SEPCOM COMUNICACIONES SAS",
+    "protocol": "http",
+    "speed_ms": "2401.08",
     "anonymity": "transparent",
     "location": "Popayan"
   },
@@ -79,8 +103,32 @@
     "asn": 14080,
     "isp": "Telmex Colombia S.A.",
     "protocol": "http",
-    "speed_ms": "1284.81",
+    "speed_ms": "2432.46",
     "anonymity": "elite",
     "location": "Neiva"
+  },
+  {
+    "ip": "72.10.164.178",
+    "port": 8113,
+    "country": "CO",
+    "country_code": "CO",
+    "asn": 27831,
+    "isp": "Colombia Movil",
+    "protocol": "http",
+    "speed_ms": "2174.05",
+    "anonymity": "elite",
+    "location": "La Ceja"
+  },
+  {
+    "ip": "8.243.68.10",
+    "port": 8080,
+    "country": "CO",
+    "country_code": "CO",
+    "asn": 3356,
+    "isp": "Level 3 Communications, Inc.",
+    "protocol": "http",
+    "speed_ms": "2282.10",
+    "anonymity": "transparent",
+    "location": "Bogota (Suba)"
   }
 ]

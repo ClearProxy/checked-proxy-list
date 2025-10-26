@@ -1,29 +1,5 @@
 [
   {
-    "ip": "198.58.120.206",
-    "port": 80,
-    "country": "US",
-    "country_code": "US",
-    "asn": 63949,
-    "isp": "Akamai Technologies, Inc.",
-    "protocol": "http",
-    "speed_ms": "1065.10",
-    "anonymity": "elite",
-    "location": "Richardson"
-  },
-  {
-    "ip": "172.237.21.212",
-    "port": 80,
-    "country": "JP",
-    "country_code": "JP",
-    "asn": 63949,
-    "isp": "Akamai Technologies, Inc.",
-    "protocol": "http",
-    "speed_ms": "1601.17",
-    "anonymity": "elite",
-    "location": "Shibuya City"
-  },
-  {
     "ip": "176.58.125.65",
     "port": 80,
     "country": "GB",
@@ -31,33 +7,33 @@
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "1120.28",
+    "speed_ms": "1833.35",
     "anonymity": "elite",
     "location": "London"
   },
   {
-    "ip": "104.237.152.124",
-    "port": 3129,
-    "country": "US",
-    "country_code": "US",
-    "asn": 63949,
-    "isp": "Akamai Technologies, Inc.",
-    "protocol": "http",
-    "speed_ms": "1596.25",
-    "anonymity": "elite",
-    "location": "Fremont"
-  },
-  {
-    "ip": "97.107.136.153",
+    "ip": "198.58.120.206",
     "port": 80,
     "country": "US",
     "country_code": "US",
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "874.95",
+    "speed_ms": "1739.45",
     "anonymity": "elite",
-    "location": "Hanover (Cedar Knolls)"
+    "location": "Richardson"
+  },
+  {
+    "ip": "45.56.114.82",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 63949,
+    "isp": "Akamai Technologies, Inc.",
+    "protocol": "http",
+    "speed_ms": "2306.53",
+    "anonymity": "elite",
+    "location": "Atlanta"
   },
   {
     "ip": "178.79.129.126",
@@ -67,7 +43,7 @@
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "1061.41",
+    "speed_ms": "1935.74",
     "anonymity": "elite",
     "location": "London"
   },
@@ -79,8 +55,20 @@
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "1084.04",
+    "speed_ms": "2480.71",
     "anonymity": "elite",
     "location": "Hanover (Cedar Knolls)"
+  },
+  {
+    "ip": "172.237.21.212",
+    "port": 80,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 63949,
+    "isp": "Akamai Technologies, Inc.",
+    "protocol": "http",
+    "speed_ms": "2357.38",
+    "anonymity": "elite",
+    "location": "Shibuya City"
   }
 ]

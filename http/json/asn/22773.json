@@ -1,29 +1,5 @@
 [
   {
-    "ip": "68.107.241.150",
-    "port": 8080,
-    "country": "US",
-    "country_code": "US",
-    "asn": 22773,
-    "isp": "Cox Communications Inc.",
-    "protocol": "http",
-    "speed_ms": "1283.23",
-    "anonymity": "elite",
-    "location": "Providence"
-  },
-  {
-    "ip": "184.180.9.150",
-    "port": 3128,
-    "country": "US",
-    "country_code": "US",
-    "asn": 22773,
-    "isp": "Cox Communications Inc.",
-    "protocol": "http",
-    "speed_ms": "1378.42",
-    "anonymity": "transparent",
-    "location": "Alexandria"
-  },
-  {
     "ip": "98.172.140.76",
     "port": 8080,
     "country": "US",
@@ -31,8 +7,20 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "http",
-    "speed_ms": "780.73",
+    "speed_ms": "1577.11",
     "anonymity": "elite",
     "location": "Chalco"
+  },
+  {
+    "ip": "68.107.241.150",
+    "port": 8080,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "http",
+    "speed_ms": "1622.19",
+    "anonymity": "elite",
+    "location": "Providence"
   }
 ]

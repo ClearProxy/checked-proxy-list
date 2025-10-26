@@ -1,5 +1,17 @@
 [
   {
+    "ip": "185.5.209.146",
+    "port": 8080,
+    "country": "IT",
+    "country_code": "IT",
+    "asn": 24994,
+    "isp": "genesys informatica srl",
+    "protocol": "http",
+    "speed_ms": "1998.79",
+    "anonymity": "elite",
+    "location": "Florence"
+  },
+  {
     "ip": "5.182.34.27",
     "port": 80,
     "country": "IT",
@@ -7,19 +19,7 @@
     "asn": 209242,
     "isp": "Cloudflare London, LLC",
     "protocol": "http",
-    "speed_ms": "1198.81",
-    "anonymity": "elite",
-    "location": "Rome"
-  },
-  {
-    "ip": "195.120.185.218",
-    "port": 80,
-    "country": "IT",
-    "country_code": "IT",
-    "asn": 3269,
-    "isp": "Telecom Italia S.p.A.",
-    "protocol": "http",
-    "speed_ms": "1520.70",
+    "speed_ms": "1459.47",
     "anonymity": "elite",
     "location": "Rome"
   },
@@ -31,7 +31,7 @@
     "asn": 209242,
     "isp": "Cloudflare London, LLC",
     "protocol": "http",
-    "speed_ms": "1040.11",
+    "speed_ms": "1601.73",
     "anonymity": "elite",
     "location": "Rome"
   },
@@ -43,7 +43,7 @@
     "asn": 31034,
     "isp": "Aruba S.p.A.",
     "protocol": "http",
-    "speed_ms": "1063.30",
+    "speed_ms": "2137.95",
     "anonymity": "elite",
     "location": "Arezzo"
   },
@@ -55,8 +55,20 @@
     "asn": 12874,
     "isp": "Fastweb SpA",
     "protocol": "http",
-    "speed_ms": "1072.92",
+    "speed_ms": "1526.30",
     "anonymity": "elite",
     "location": "Milan"
+  },
+  {
+    "ip": "195.120.185.218",
+    "port": 80,
+    "country": "IT",
+    "country_code": "IT",
+    "asn": 3269,
+    "isp": "Telecom Italia S.p.A.",
+    "protocol": "http",
+    "speed_ms": "2039.86",
+    "anonymity": "elite",
+    "location": "Rome"
   }
 ]

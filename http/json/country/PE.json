@@ -1,5 +1,29 @@
 [
   {
+    "ip": "72.10.160.170",
+    "port": 24049,
+    "country": "PE",
+    "country_code": "PE",
+    "asn": 6147,
+    "isp": "Telefonica del Peru S.A.A.",
+    "protocol": "http",
+    "speed_ms": "2376.79",
+    "anonymity": "elite",
+    "location": "San Borja"
+  },
+  {
+    "ip": "72.10.160.90",
+    "port": 13315,
+    "country": "PE",
+    "country_code": "PE",
+    "asn": 265691,
+    "isp": "WI-NET TELECOM S.A.C.",
+    "protocol": "http",
+    "speed_ms": "2500.00",
+    "anonymity": "elite",
+    "location": "San Isidro"
+  },
+  {
     "ip": "72.10.160.173",
     "port": 21021,
     "country": "PE",
@@ -7,32 +31,20 @@
     "asn": 6147,
     "isp": "Telefonica del Peru S.A.A.",
     "protocol": "http",
-    "speed_ms": "1744.79",
+    "speed_ms": "2487.66",
     "anonymity": "elite",
     "location": "Huaraz"
   },
   {
-    "ip": "72.10.160.90",
-    "port": 13315,
+    "ip": "72.10.160.173",
+    "port": 4931,
     "country": "PE",
     "country_code": "PE",
-    "asn": 265691,
-    "isp": "WI-NET TELECOM S.A.C.",
+    "asn": 12252,
+    "isp": "America Movil Peru S.A.C.",
     "protocol": "http",
-    "speed_ms": "1971.44",
+    "speed_ms": "2154.01",
     "anonymity": "elite",
-    "location": "San Isidro"
-  },
-  {
-    "ip": "72.10.160.90",
-    "port": 13315,
-    "country": "PE",
-    "country_code": "PE",
-    "asn": 265691,
-    "isp": "WI-NET TELECOM S.A.C.",
-    "protocol": "http",
-    "speed_ms": "1873.28",
-    "anonymity": "elite",
-    "location": "San Isidro"
+    "location": "Lima"
   }
 ]
