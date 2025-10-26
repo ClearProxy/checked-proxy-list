@@ -7,7 +7,7 @@
     "asn": 132203,
     "isp": "Shenzhen Tencent Computer Systems Company Limited",
     "protocol": "socks5",
-    "speed_ms": "991.52",
+    "speed_ms": "910.47",
     "anonymity": "elite",
     "location": "Frankfurt am Main"
   },
@@ -19,7 +19,7 @@
     "asn": 8560,
     "isp": "IONOS SE",
     "protocol": "socks5",
-    "speed_ms": "2178.66",
+    "speed_ms": "2101.71",
     "anonymity": "elite",
     "location": "Frankfurt am Main"
   },
@@ -31,8 +31,20 @@
     "asn": 132203,
     "isp": "Shenzhen Tencent Computer Systems Company Limited",
     "protocol": "socks5",
-    "speed_ms": "902.26",
+    "speed_ms": "864.93",
     "anonymity": "elite",
     "location": "Frankfurt am Main"
+  },
+  {
+    "ip": "161.35.31.237",
+    "port": 1080,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "socks5",
+    "speed_ms": "1176.39",
+    "anonymity": "elite",
+    "location": "Gelnhausen"
   }
 ]
