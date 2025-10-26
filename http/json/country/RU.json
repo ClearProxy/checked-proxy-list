@@ -7,7 +7,7 @@
     "asn": 9123,
     "isp": "TimeWeb LLC",
     "protocol": "http",
-    "speed_ms": "1241.75",
+    "speed_ms": "1099.53",
     "anonymity": "elite",
     "location": "St Petersburg"
   },
@@ -19,21 +19,9 @@
     "asn": 44020,
     "isp": "Modern Solutions LTD",
     "protocol": "http",
-    "speed_ms": "1372.23",
+    "speed_ms": "1194.51",
     "anonymity": "elite",
     "location": "Mugreyevskiy"
-  },
-  {
-    "ip": "46.47.197.210",
-    "port": 3128,
-    "country": "RU",
-    "country_code": "RU",
-    "asn": 20632,
-    "isp": "PJSC MegaFon",
-    "protocol": "http",
-    "speed_ms": "1380.54",
-    "anonymity": "elite",
-    "location": "St Petersburg"
   },
   {
     "ip": "185.175.46.185",
@@ -43,7 +31,7 @@
     "asn": 50340,
     "isp": "JSC Selectel",
     "protocol": "http",
-    "speed_ms": "1062.90",
+    "speed_ms": "999.85",
     "anonymity": "elite",
     "location": "Moscow"
   },
@@ -55,9 +43,21 @@
     "asn": 47626,
     "isp": "Timer, LLC",
     "protocol": "http",
-    "speed_ms": "1002.90",
+    "speed_ms": "993.64",
     "anonymity": "elite",
     "location": "Aksay"
+  },
+  {
+    "ip": "185.144.60.130",
+    "port": 8095,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 43991,
+    "isp": "Voronezh Telecom LLC",
+    "protocol": "http",
+    "speed_ms": "1672.83",
+    "anonymity": "transparent",
+    "location": "Voronezh"
   },
   {
     "ip": "84.201.171.221",
@@ -67,7 +67,7 @@
     "asn": 200350,
     "isp": "Yandex.Cloud LLC",
     "protocol": "http",
-    "speed_ms": "1004.85",
+    "speed_ms": "1035.12",
     "anonymity": "elite",
     "location": "Moscow"
   },
@@ -79,20 +79,8 @@
     "asn": 35598,
     "isp": "INETCOM CARRIER LLC",
     "protocol": "http",
-    "speed_ms": "839.21",
+    "speed_ms": "799.47",
     "anonymity": "elite",
     "location": "Moscow"
-  },
-  {
-    "ip": "46.47.197.210",
-    "port": 3128,
-    "country": "RU",
-    "country_code": "RU",
-    "asn": 20632,
-    "isp": "PJSC MegaFon",
-    "protocol": "http",
-    "speed_ms": "1503.41",
-    "anonymity": "elite",
-    "location": "St Petersburg"
   }
 ]
