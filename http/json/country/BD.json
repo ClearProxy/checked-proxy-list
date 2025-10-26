@@ -1,5 +1,17 @@
 [
   {
+    "ip": "103.161.69.17",
+    "port": 2698,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 137967,
+    "isp": "Digicon Telecommunication Ltd",
+    "protocol": "http",
+    "speed_ms": "2317.25",
+    "anonymity": "transparent",
+    "location": "Chittagong"
+  },
+  {
     "ip": "103.138.145.34",
     "port": 80,
     "country": "BD",
@@ -7,33 +19,9 @@
     "asn": 139008,
     "isp": "NEEF IT LIMITED",
     "protocol": "http",
-    "speed_ms": "2244.43",
+    "speed_ms": "1664.06",
     "anonymity": "anonymous",
     "location": "Nagar Naluakot"
-  },
-  {
-    "ip": "202.191.124.141",
-    "port": 26265,
-    "country": "BD",
-    "country_code": "BD",
-    "asn": 24556,
-    "isp": "Bijoy Online Ltd",
-    "protocol": "http",
-    "speed_ms": "2500.00",
-    "anonymity": "transparent",
-    "location": "Dhaka"
-  },
-  {
-    "ip": "59.153.18.93",
-    "port": 19201,
-    "country": "BD",
-    "country_code": "BD",
-    "asn": 64043,
-    "isp": "EUROtelbd Online Ltd.",
-    "protocol": "http",
-    "speed_ms": "2500.00",
-    "anonymity": "transparent",
-    "location": "Patuakhali"
   },
   {
     "ip": "59.153.100.98",
@@ -43,7 +31,7 @@
     "asn": 134732,
     "isp": "Dot Internet",
     "protocol": "http",
-    "speed_ms": "2179.37",
+    "speed_ms": "1785.17",
     "anonymity": "anonymous",
     "location": "Dhaka"
   },
@@ -55,9 +43,21 @@
     "asn": 139008,
     "isp": "NEEF IT LIMITED",
     "protocol": "http",
-    "speed_ms": "1876.86",
+    "speed_ms": "1499.56",
     "anonymity": "anonymous",
     "location": "Nagar Naluakot"
+  },
+  {
+    "ip": "202.5.52.112",
+    "port": 2727,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 45326,
+    "isp": "Broad Band Telecom Services Ltd",
+    "protocol": "http",
+    "speed_ms": "1845.40",
+    "anonymity": "transparent",
+    "location": "Chittagong (Double Moorings)"
   },
   {
     "ip": "103.49.202.252",
@@ -67,7 +67,7 @@
     "asn": 133957,
     "isp": "SOL-BD",
     "protocol": "http",
-    "speed_ms": "1681.53",
+    "speed_ms": "1381.97",
     "anonymity": "anonymous",
     "location": "Tungipara"
   }

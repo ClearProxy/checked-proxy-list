@@ -7,7 +7,7 @@
     "asn": 19429,
     "isp": "ETB - Colombia",
     "protocol": "http",
-    "speed_ms": "2160.61",
+    "speed_ms": "1804.07",
     "anonymity": "elite",
     "location": "Bogota"
   },
@@ -19,7 +19,7 @@
     "asn": 3816,
     "isp": "COLOMBIA TELECOMUNICACIONES S.A. ESP",
     "protocol": "http",
-    "speed_ms": "2364.01",
+    "speed_ms": "1937.98",
     "anonymity": "elite",
     "location": "Santiago de Cali"
   },
@@ -31,21 +31,9 @@
     "asn": 262186,
     "isp": "TV AZTECA SUCURSAL COLOMBIA",
     "protocol": "http",
-    "speed_ms": "2213.05",
+    "speed_ms": "1737.26",
     "anonymity": "transparent",
     "location": "Restrepo"
-  },
-  {
-    "ip": "72.10.160.170",
-    "port": 15997,
-    "country": "CO",
-    "country_code": "CO",
-    "asn": 27831,
-    "isp": "Colombia Movil",
-    "protocol": "http",
-    "speed_ms": "2242.50",
-    "anonymity": "elite",
-    "location": "Piedecuesta"
   },
   {
     "ip": "8.243.68.10",
@@ -55,7 +43,7 @@
     "asn": 3356,
     "isp": "Level 3 Communications, Inc.",
     "protocol": "http",
-    "speed_ms": "1917.83",
+    "speed_ms": "1533.66",
     "anonymity": "transparent",
     "location": "Bogota (Suba)"
   },
@@ -67,7 +55,7 @@
     "asn": 262186,
     "isp": "TV AZTECA SUCURSAL COLOMBIA",
     "protocol": "http",
-    "speed_ms": "2022.58",
+    "speed_ms": "1718.53",
     "anonymity": "transparent",
     "location": "Restrepo"
   },
@@ -79,7 +67,7 @@
     "asn": 19429,
     "isp": "ETB - Colombia",
     "protocol": "http",
-    "speed_ms": "1642.13",
+    "speed_ms": "1355.64",
     "anonymity": "elite",
     "location": "Bogota"
   },
@@ -91,7 +79,7 @@
     "asn": 269804,
     "isp": "SEPCOM COMUNICACIONES SAS",
     "protocol": "http",
-    "speed_ms": "1617.41",
+    "speed_ms": "1204.59",
     "anonymity": "transparent",
     "location": "Popayan"
   },
@@ -103,7 +91,7 @@
     "asn": 3816,
     "isp": "COLOMBIA TELECOMUNICACIONES S.A. ESP",
     "protocol": "http",
-    "speed_ms": "1803.69",
+    "speed_ms": "1220.00",
     "anonymity": "elite",
     "location": "Santiago de Cali"
   },
@@ -115,8 +103,20 @@
     "asn": 269804,
     "isp": "SEPCOM COMUNICACIONES SAS",
     "protocol": "http",
-    "speed_ms": "1037.89",
+    "speed_ms": "1219.43",
     "anonymity": "transparent",
     "location": "Popayan"
+  },
+  {
+    "ip": "72.10.160.170",
+    "port": 1245,
+    "country": "CO",
+    "country_code": "CO",
+    "asn": 3816,
+    "isp": "COLOMBIA TELECOMUNICACIONES S.A. ESP",
+    "protocol": "http",
+    "speed_ms": "1166.85",
+    "anonymity": "elite",
+    "location": "Piedecuesta"
   }
 ]
