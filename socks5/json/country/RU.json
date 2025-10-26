@@ -1,5 +1,29 @@
 [
   {
+    "ip": "90.189.215.229",
+    "port": 1080,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 12389,
+    "isp": "PJSC Rostelecom",
+    "protocol": "socks5",
+    "speed_ms": "2042.84",
+    "anonymity": "elite",
+    "location": "Novosibirsk"
+  },
+  {
+    "ip": "37.194.232.54",
+    "port": 1080,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 31200,
+    "isp": "Novotelecom Ltd",
+    "protocol": "socks5",
+    "speed_ms": "2347.84",
+    "anonymity": "elite",
+    "location": "Novosibirsk"
+  },
+  {
     "ip": "89.148.196.156",
     "port": 1080,
     "country": "RU",
@@ -7,7 +31,7 @@
     "asn": 15640,
     "isp": "MTS PJSC",
     "protocol": "socks5",
-    "speed_ms": "1395.01",
+    "speed_ms": "2347.62",
     "anonymity": "elite",
     "location": "Perm (Leninskiy Rayon)"
   },
@@ -19,32 +43,20 @@
     "asn": 9123,
     "isp": "TimeWeb LLC",
     "protocol": "socks5",
-    "speed_ms": "1067.56",
+    "speed_ms": "2378.46",
     "anonymity": "elite",
     "location": "St Petersburg"
   },
   {
-    "ip": "176.108.146.179",
+    "ip": "89.148.196.156",
     "port": 1080,
     "country": "RU",
     "country_code": "RU",
-    "asn": 49821,
-    "isp": "Electrica LLC",
+    "asn": 15640,
+    "isp": "MTS PJSC",
     "protocol": "socks5",
-    "speed_ms": "1598.93",
+    "speed_ms": "2480.74",
     "anonymity": "elite",
-    "location": "Vologda"
-  },
-  {
-    "ip": "78.140.46.48",
-    "port": 1080,
-    "country": "RU",
-    "country_code": "RU",
-    "asn": 34573,
-    "isp": "Information-Computer Center Oberon Plus, LLC",
-    "protocol": "socks5",
-    "speed_ms": "1313.88",
-    "anonymity": "elite",
-    "location": "Seversk"
+    "location": "Perm (Leninskiy Rayon)"
   }
 ]
