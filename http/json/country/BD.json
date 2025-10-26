@@ -1,27 +1,39 @@
 [
   {
-    "ip": "103.138.145.34",
-    "port": 80,
+    "ip": "103.30.30.5",
+    "port": 10521,
     "country": "BD",
     "country_code": "BD",
-    "asn": 139008,
-    "isp": "NEEF IT LIMITED",
+    "asn": 140244,
+    "isp": "Invision IT",
     "protocol": "http",
-    "speed_ms": "1626.50",
-    "anonymity": "anonymous",
-    "location": "Nagar Naluakot"
+    "speed_ms": "2322.46",
+    "anonymity": "transparent",
+    "location": "Kafrul"
   },
   {
-    "ip": "59.153.100.98",
-    "port": 80,
+    "ip": "72.10.160.90",
+    "port": 11763,
     "country": "BD",
     "country_code": "BD",
     "asn": 134732,
     "isp": "Dot Internet",
     "protocol": "http",
-    "speed_ms": "1558.33",
-    "anonymity": "anonymous",
-    "location": "Dhaka"
+    "speed_ms": "2457.72",
+    "anonymity": "elite",
+    "location": "Kafrul"
+  },
+  {
+    "ip": "72.10.164.178",
+    "port": 22353,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 10075,
+    "isp": "Fiber@Home Global Limited",
+    "protocol": "http",
+    "speed_ms": "2197.26",
+    "anonymity": "elite",
+    "location": "Satkhira"
   },
   {
     "ip": "103.138.145.34",
@@ -31,7 +43,19 @@
     "asn": 139008,
     "isp": "NEEF IT LIMITED",
     "protocol": "http",
-    "speed_ms": "1458.65",
+    "speed_ms": "2236.49",
+    "anonymity": "anonymous",
+    "location": "Nagar Naluakot"
+  },
+  {
+    "ip": "103.138.145.34",
+    "port": 80,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 139008,
+    "isp": "NEEF IT LIMITED",
+    "protocol": "http",
+    "speed_ms": "1940.78",
     "anonymity": "anonymous",
     "location": "Nagar Naluakot"
   },
@@ -43,8 +67,20 @@
     "asn": 133957,
     "isp": "SOL-BD",
     "protocol": "http",
-    "speed_ms": "1207.99",
+    "speed_ms": "2103.92",
     "anonymity": "anonymous",
     "location": "Tungipara"
+  },
+  {
+    "ip": "59.153.100.98",
+    "port": 80,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 134732,
+    "isp": "Dot Internet",
+    "protocol": "http",
+    "speed_ms": "2094.09",
+    "anonymity": "anonymous",
+    "location": "Dhaka"
   }
 ]

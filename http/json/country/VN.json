@@ -1,51 +1,39 @@
 [
   {
-    "ip": "112.213.87.154",
-    "port": 8080,
+    "ip": "72.10.160.174",
+    "port": 19887,
     "country": "VN",
     "country_code": "VN",
-    "asn": 45544,
-    "isp": "SUPERDATA-VN",
+    "asn": 45899,
+    "isp": "VNPT Corp",
     "protocol": "http",
-    "speed_ms": "1903.35",
+    "speed_ms": "2376.16",
     "anonymity": "elite",
-    "location": "Quan Ba"
+    "location": "Hanoi"
   },
   {
-    "ip": "103.190.202.92",
-    "port": 8080,
+    "ip": "113.22.253.75",
+    "port": 12825,
     "country": "VN",
     "country_code": "VN",
-    "asn": 149117,
-    "isp": "VTC MOBILE SERVICES JOINT STOCK COMPANY",
+    "asn": 18403,
+    "isp": "FPT Telecom Company",
     "protocol": "http",
-    "speed_ms": "1223.90",
-    "anonymity": "elite",
-    "location": "Vinhomes Times City"
-  },
-  {
-    "ip": "163.223.7.111",
-    "port": 8888,
-    "country": "VN",
-    "country_code": "VN",
-    "asn": 153647,
-    "isp": "Viet Homes Furniture Manufacturing Company Limited",
-    "protocol": "http",
-    "speed_ms": "1294.61",
-    "anonymity": "elite",
-    "location": "Thuan An"
-  },
-  {
-    "ip": "152.32.249.30",
-    "port": 8080,
-    "country": "VN",
-    "country_code": "VN",
-    "asn": 135377,
-    "isp": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-    "protocol": "http",
-    "speed_ms": "1342.47",
+    "speed_ms": "2206.70",
     "anonymity": "elite",
     "location": "Ho Chi Minh City"
+  },
+  {
+    "ip": "113.176.92.71",
+    "port": 3128,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 45899,
+    "isp": "VNPT Corp",
+    "protocol": "http",
+    "speed_ms": "2483.46",
+    "anonymity": "transparent",
+    "location": "Ca Mau"
   },
   {
     "ip": "123.30.154.171",
@@ -55,7 +43,7 @@
     "asn": 135905,
     "isp": "VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",
     "protocol": "http",
-    "speed_ms": "1559.84",
+    "speed_ms": "2077.51",
     "anonymity": "elite",
     "location": "Hanoi"
   },
@@ -67,45 +55,9 @@
     "asn": 7552,
     "isp": "Viettel Group",
     "protocol": "http",
-    "speed_ms": "1216.52",
+    "speed_ms": "2405.66",
     "anonymity": "elite",
     "location": "Ho Chi Minh City"
-  },
-  {
-    "ip": "103.9.207.117",
-    "port": 8080,
-    "country": "VN",
-    "country_code": "VN",
-    "asn": 135905,
-    "isp": "VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",
-    "protocol": "http",
-    "speed_ms": "1338.43",
-    "anonymity": "elite",
-    "location": "Hue"
-  },
-  {
-    "ip": "103.121.90.119",
-    "port": 8080,
-    "country": "VN",
-    "country_code": "VN",
-    "asn": 135967,
-    "isp": "Bach Kim Network solutions Join stock company",
-    "protocol": "http",
-    "speed_ms": "1530.07",
-    "anonymity": "elite",
-    "location": "Vinhomes Royal City"
-  },
-  {
-    "ip": "160.191.17.64",
-    "port": 8888,
-    "country": "VN",
-    "country_code": "VN",
-    "asn": 142294,
-    "isp": "TELECOM TRADE AND SERVER LLC",
-    "protocol": "http",
-    "speed_ms": "1138.96",
-    "anonymity": "elite",
-    "location": "Nhon Trach (Phuong Hoa Thanh)"
   },
   {
     "ip": "202.158.244.17",
@@ -115,8 +67,20 @@
     "asn": 135918,
     "isp": "VIET DIGITAL TECHNOLOGY LIABILITY COMPANY",
     "protocol": "http",
-    "speed_ms": "1139.75",
+    "speed_ms": "2500.00",
     "anonymity": "elite",
     "location": "Da Nang"
+  },
+  {
+    "ip": "152.32.249.30",
+    "port": 8080,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 135377,
+    "isp": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+    "protocol": "http",
+    "speed_ms": "2263.19",
+    "anonymity": "elite",
+    "location": "Ho Chi Minh City"
   }
 ]
