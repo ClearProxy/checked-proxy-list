@@ -1,14 +1,26 @@
 [
   {
-    "ip": "163.172.53.142",
+    "ip": "62.210.215.36",
     "port": 80,
     "country": "FR",
     "country_code": "FR",
     "asn": 12876,
     "isp": "ONLINE S.A.S.",
     "protocol": "http",
-    "speed_ms": "2244.77",
-    "anonymity": "elite",
+    "speed_ms": "1788.14",
+    "anonymity": "anonymous",
+    "location": "Vitry-sur-Seine"
+  },
+  {
+    "ip": "51.15.241.34",
+    "port": 3128,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 12876,
+    "isp": "ONLINE S.A.S.",
+    "protocol": "http",
+    "speed_ms": "2014.43",
+    "anonymity": "transparent",
     "location": "Paris"
   },
   {
@@ -19,21 +31,9 @@
     "asn": 12876,
     "isp": "ONLINE S.A.S.",
     "protocol": "http",
-    "speed_ms": "2186.14",
+    "speed_ms": "1761.40",
     "anonymity": "transparent",
     "location": "Paris"
-  },
-  {
-    "ip": "62.210.215.36",
-    "port": 80,
-    "country": "FR",
-    "country_code": "FR",
-    "asn": 12876,
-    "isp": "ONLINE S.A.S.",
-    "protocol": "http",
-    "speed_ms": "1752.51",
-    "anonymity": "anonymous",
-    "location": "Vitry-sur-Seine"
   },
   {
     "ip": "51.15.228.52",
@@ -43,19 +43,31 @@
     "asn": 12876,
     "isp": "ONLINE S.A.S.",
     "protocol": "http",
-    "speed_ms": "2500.00",
+    "speed_ms": "2379.50",
     "anonymity": "transparent",
     "location": "Paris"
   },
   {
-    "ip": "51.15.241.34",
-    "port": 3128,
+    "ip": "163.172.53.142",
+    "port": 80,
     "country": "FR",
     "country_code": "FR",
     "asn": 12876,
     "isp": "ONLINE S.A.S.",
     "protocol": "http",
-    "speed_ms": "2341.10",
+    "speed_ms": "2462.97",
+    "anonymity": "elite",
+    "location": "Paris"
+  },
+  {
+    "ip": "51.15.228.52",
+    "port": 8080,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 12876,
+    "isp": "ONLINE S.A.S.",
+    "protocol": "http",
+    "speed_ms": "2083.18",
     "anonymity": "transparent",
     "location": "Paris"
   }

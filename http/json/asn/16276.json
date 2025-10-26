@@ -1,29 +1,5 @@
 [
   {
-    "ip": "145.239.196.123",
-    "port": 80,
-    "country": "FR",
-    "country_code": "FR",
-    "asn": 16276,
-    "isp": "OVH SAS",
-    "protocol": "http",
-    "speed_ms": "2180.86",
-    "anonymity": "elite",
-    "location": "Strasbourg"
-  },
-  {
-    "ip": "188.165.194.17",
-    "port": 80,
-    "country": "FR",
-    "country_code": "FR",
-    "asn": 16276,
-    "isp": "OVH SAS",
-    "protocol": "http",
-    "speed_ms": "2440.92",
-    "anonymity": "elite",
-    "location": "Roubaix"
-  },
-  {
     "ip": "51.75.206.209",
     "port": 80,
     "country": "FR",
@@ -31,55 +7,7 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "1993.23",
-    "anonymity": "elite",
-    "location": "Roubaix"
-  },
-  {
-    "ip": "148.113.172.51",
-    "port": 8080,
-    "country": "CA",
-    "country_code": "CA",
-    "asn": 16276,
-    "isp": "OVH SAS",
-    "protocol": "http",
-    "speed_ms": "1879.23",
-    "anonymity": "transparent",
-    "location": "Beauharnois"
-  },
-  {
-    "ip": "142.4.197.209",
-    "port": 80,
-    "country": "CA",
-    "country_code": "CA",
-    "asn": 16276,
-    "isp": "OVH SAS",
-    "protocol": "http",
-    "speed_ms": "1863.22",
-    "anonymity": "elite",
-    "location": "Montreal (Ville-Marie)"
-  },
-  {
-    "ip": "94.23.9.170",
-    "port": 80,
-    "country": "FR",
-    "country_code": "FR",
-    "asn": 16276,
-    "isp": "OVH SAS",
-    "protocol": "http",
-    "speed_ms": "2241.84",
-    "anonymity": "elite",
-    "location": "Roubaix"
-  },
-  {
-    "ip": "178.33.13.233",
-    "port": 80,
-    "country": "FR",
-    "country_code": "FR",
-    "asn": 16276,
-    "isp": "OVH SAS",
-    "protocol": "http",
-    "speed_ms": "2256.42",
+    "speed_ms": "1685.48",
     "anonymity": "elite",
     "location": "Roubaix"
   },
@@ -91,33 +19,9 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "1861.18",
+    "speed_ms": "1906.92",
     "anonymity": "transparent",
     "location": "Roubaix"
-  },
-  {
-    "ip": "139.99.237.62",
-    "port": 80,
-    "country": "AU",
-    "country_code": "AU",
-    "asn": 16276,
-    "isp": "OVH SAS",
-    "protocol": "http",
-    "speed_ms": "2500.00",
-    "anonymity": "elite",
-    "location": "North Sydney"
-  },
-  {
-    "ip": "148.113.172.51",
-    "port": 8080,
-    "country": "CA",
-    "country_code": "CA",
-    "asn": 16276,
-    "isp": "OVH SAS",
-    "protocol": "http",
-    "speed_ms": "1819.53",
-    "anonymity": "transparent",
-    "location": "Beauharnois"
   },
   {
     "ip": "142.44.163.98",
@@ -127,8 +31,80 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "1782.61",
+    "speed_ms": "1719.79",
     "anonymity": "elite",
     "location": "Beauharnois"
+  },
+  {
+    "ip": "148.113.172.51",
+    "port": 8080,
+    "country": "CA",
+    "country_code": "CA",
+    "asn": 16276,
+    "isp": "OVH SAS",
+    "protocol": "http",
+    "speed_ms": "2500.00",
+    "anonymity": "transparent",
+    "location": "Beauharnois"
+  },
+  {
+    "ip": "148.113.172.51",
+    "port": 8080,
+    "country": "CA",
+    "country_code": "CA",
+    "asn": 16276,
+    "isp": "OVH SAS",
+    "protocol": "http",
+    "speed_ms": "1581.82",
+    "anonymity": "transparent",
+    "location": "Beauharnois"
+  },
+  {
+    "ip": "51.254.78.223",
+    "port": 80,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 16276,
+    "isp": "OVH SAS",
+    "protocol": "http",
+    "speed_ms": "2240.29",
+    "anonymity": "transparent",
+    "location": "Roubaix"
+  },
+  {
+    "ip": "91.134.216.98",
+    "port": 80,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 16276,
+    "isp": "OVH SAS",
+    "protocol": "http",
+    "speed_ms": "2423.82",
+    "anonymity": "elite",
+    "location": "Roubaix"
+  },
+  {
+    "ip": "142.4.197.209",
+    "port": 80,
+    "country": "CA",
+    "country_code": "CA",
+    "asn": 16276,
+    "isp": "OVH SAS",
+    "protocol": "http",
+    "speed_ms": "1180.92",
+    "anonymity": "elite",
+    "location": "Montreal (Ville-Marie)"
+  },
+  {
+    "ip": "46.105.44.110",
+    "port": 80,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 16276,
+    "isp": "OVH SAS",
+    "protocol": "http",
+    "speed_ms": "2437.50",
+    "anonymity": "elite",
+    "location": "Roubaix"
   }
 ]

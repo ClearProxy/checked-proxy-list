@@ -1,26 +1,14 @@
 [
   {
-    "ip": "147.45.219.101",
-    "port": 3129,
-    "country": "RU",
-    "country_code": "RU",
-    "asn": 33842,
-    "isp": "Citytelecom LLC",
-    "protocol": "http",
-    "speed_ms": "1998.47",
-    "anonymity": "transparent",
-    "location": "Moscow"
-  },
-  {
-    "ip": "87.239.28.2",
-    "port": 8080,
+    "ip": "87.239.31.42",
+    "port": 80,
     "country": "RU",
     "country_code": "RU",
     "asn": 35598,
     "isp": "INETCOM CARRIER LLC",
     "protocol": "http",
-    "speed_ms": "2225.19",
-    "anonymity": "elite",
+    "speed_ms": "2323.90",
+    "anonymity": "anonymous",
     "location": "Moscow"
   },
   {
@@ -31,81 +19,57 @@
     "asn": 208677,
     "isp": "\"Cloud Technologies\" LLC trading as Cloud.ru",
     "protocol": "http",
-    "speed_ms": "2482.42",
+    "speed_ms": "2500.00",
     "anonymity": "elite",
     "location": "Moscow"
   },
   {
-    "ip": "47.252.29.28",
-    "port": 11222,
+    "ip": "31.28.4.192",
+    "port": 80,
     "country": "RU",
     "country_code": "RU",
-    "asn": 209372,
-    "isp": "WS Telecom Inc",
+    "asn": 29076,
+    "isp": "Citytelecom LLC",
     "protocol": "http",
-    "speed_ms": "2404.99",
+    "speed_ms": "2448.10",
     "anonymity": "elite",
-    "location": "Fatezh"
+    "location": "Moscow"
   },
   {
-    "ip": "185.175.46.185",
+    "ip": "72.10.164.178",
+    "port": 27643,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 30922,
+    "isp": "MTS PJSC",
+    "protocol": "http",
+    "speed_ms": "2375.94",
+    "anonymity": "elite",
+    "location": "Elitnyy"
+  },
+  {
+    "ip": "87.239.28.2",
     "port": 8080,
-    "country": "RU",
-    "country_code": "RU",
-    "asn": 50340,
-    "isp": "JSC Selectel",
-    "protocol": "http",
-    "speed_ms": "2499.96",
-    "anonymity": "elite",
-    "location": "Moscow"
-  },
-  {
-    "ip": "5.180.241.126",
-    "port": 80,
-    "country": "RU",
-    "country_code": "RU",
-    "asn": 47626,
-    "isp": "Timer, LLC",
-    "protocol": "http",
-    "speed_ms": "1878.95",
-    "anonymity": "elite",
-    "location": "Aksay"
-  },
-  {
-    "ip": "87.239.31.42",
-    "port": 80,
     "country": "RU",
     "country_code": "RU",
     "asn": 35598,
     "isp": "INETCOM CARRIER LLC",
     "protocol": "http",
-    "speed_ms": "2219.54",
-    "anonymity": "anonymous",
-    "location": "Moscow"
-  },
-  {
-    "ip": "79.98.9.7",
-    "port": 80,
-    "country": "RU",
-    "country_code": "RU",
-    "asn": 44020,
-    "isp": "Modern Solutions LTD",
-    "protocol": "http",
-    "speed_ms": "2500.00",
+    "speed_ms": "1779.69",
     "anonymity": "elite",
-    "location": "Mugreyevskiy"
+    "location": "Moscow"
   },
   {
-    "ip": "147.45.219.101",
-    "port": 3129,
+    "ip": "91.219.101.244",
+    "port": 3128,
     "country": "RU",
     "country_code": "RU",
-    "asn": 33842,
-    "isp": "Citytelecom LLC",
+    "asn": 41929,
+    "isp": "Sistemy Svyazi Llc",
     "protocol": "http",
-    "speed_ms": "2158.48",
-    "anonymity": "transparent",
-    "location": "Moscow"
+    "speed_ms": "2399.27",
+    "anonymity": "elite",
+    "location": "Tambov"
   },
   {
     "ip": "92.53.104.180",
@@ -115,7 +79,7 @@
     "asn": 9123,
     "isp": "TimeWeb LLC",
     "protocol": "http",
-    "speed_ms": "2299.24",
+    "speed_ms": "1719.86",
     "anonymity": "elite",
     "location": "St Petersburg"
   },
@@ -127,8 +91,56 @@
     "asn": 49505,
     "isp": "JSC Selectel",
     "protocol": "http",
-    "speed_ms": "1536.92",
+    "speed_ms": "1839.68",
     "anonymity": "elite",
     "location": "St Petersburg"
+  },
+  {
+    "ip": "5.180.241.126",
+    "port": 80,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 47626,
+    "isp": "Timer, LLC",
+    "protocol": "http",
+    "speed_ms": "2321.82",
+    "anonymity": "elite",
+    "location": "Aksay"
+  },
+  {
+    "ip": "5.188.31.140",
+    "port": 80,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 200487,
+    "isp": "OOO VPS",
+    "protocol": "http",
+    "speed_ms": "2193.44",
+    "anonymity": "elite",
+    "location": "St Petersburg"
+  },
+  {
+    "ip": "79.98.9.7",
+    "port": 80,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 44020,
+    "isp": "Modern Solutions LTD",
+    "protocol": "http",
+    "speed_ms": "1881.44",
+    "anonymity": "elite",
+    "location": "Mugreyevskiy"
+  },
+  {
+    "ip": "185.175.46.185",
+    "port": 8080,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 50340,
+    "isp": "JSC Selectel",
+    "protocol": "http",
+    "speed_ms": "2421.67",
+    "anonymity": "elite",
+    "location": "Moscow"
   }
 ]

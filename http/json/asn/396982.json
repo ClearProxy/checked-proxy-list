@@ -1,5 +1,17 @@
 [
   {
+    "ip": "34.8.43.236",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 396982,
+    "isp": "Google LLC",
+    "protocol": "http",
+    "speed_ms": "965.12",
+    "anonymity": "elite",
+    "location": "Kansas City"
+  },
+  {
     "ip": "104.155.15.30",
     "port": 80,
     "country": "BE",
@@ -7,7 +19,7 @@
     "asn": 396982,
     "isp": "Google LLC",
     "protocol": "http",
-    "speed_ms": "2380.36",
+    "speed_ms": "2237.56",
     "anonymity": "elite",
     "location": "Brussels"
   },
@@ -19,33 +31,9 @@
     "asn": 396982,
     "isp": "Google LLC",
     "protocol": "http",
-    "speed_ms": "1476.65",
+    "speed_ms": "2018.71",
     "anonymity": "elite",
     "location": "The Dalles"
-  },
-  {
-    "ip": "34.111.2.182",
-    "port": 8443,
-    "country": "US",
-    "country_code": "US",
-    "asn": 396982,
-    "isp": "Google LLC",
-    "protocol": "http",
-    "speed_ms": "1794.41",
-    "anonymity": "elite",
-    "location": "Mountain View"
-  },
-  {
-    "ip": "34.8.43.236",
-    "port": 80,
-    "country": "US",
-    "country_code": "US",
-    "asn": 396982,
-    "isp": "Google LLC",
-    "protocol": "http",
-    "speed_ms": "1679.32",
-    "anonymity": "elite",
-    "location": "Kansas City"
   },
   {
     "ip": "34.101.62.47",
@@ -55,7 +43,7 @@
     "asn": 396982,
     "isp": "Google LLC",
     "protocol": "http",
-    "speed_ms": "1998.10",
+    "speed_ms": "1903.89",
     "anonymity": "elite",
     "location": "Jakarta"
   },
@@ -67,8 +55,20 @@
     "asn": 396982,
     "isp": "Google LLC",
     "protocol": "http",
-    "speed_ms": "2500.00",
+    "speed_ms": "2377.83",
     "anonymity": "elite",
     "location": "Brussels"
+  },
+  {
+    "ip": "34.111.2.182",
+    "port": 8443,
+    "country": "US",
+    "country_code": "US",
+    "asn": 396982,
+    "isp": "Google LLC",
+    "protocol": "http",
+    "speed_ms": "1294.53",
+    "anonymity": "elite",
+    "location": "Mountain View"
   }
 ]

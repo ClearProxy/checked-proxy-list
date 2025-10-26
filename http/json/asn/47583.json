@@ -1,17 +1,5 @@
 [
   {
-    "ip": "156.67.214.232",
-    "port": 80,
-    "country": "SG",
-    "country_code": "SG",
-    "asn": 47583,
-    "isp": "Hostinger International Limited",
-    "protocol": "http",
-    "speed_ms": "2072.87",
-    "anonymity": "elite",
-    "location": "Singapore"
-  },
-  {
     "ip": "62.72.56.132",
     "port": 80,
     "country": "IN",
@@ -19,20 +7,32 @@
     "asn": 47583,
     "isp": "Hostinger International Limited",
     "protocol": "http",
-    "speed_ms": "2070.37",
+    "speed_ms": "2127.45",
     "anonymity": "elite",
     "location": "Mumbai"
   },
   {
-    "ip": "88.222.244.151",
-    "port": 3128,
-    "country": "IN",
-    "country_code": "IN",
+    "ip": "45.9.190.7",
+    "port": 8888,
+    "country": "NL",
+    "country_code": "NL",
     "asn": 47583,
     "isp": "Hostinger International Limited",
     "protocol": "http",
-    "speed_ms": "2322.56",
+    "speed_ms": "1641.05",
     "anonymity": "transparent",
-    "location": "Mumbai"
+    "location": "Meppel"
+  },
+  {
+    "ip": "156.67.214.232",
+    "port": 80,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 47583,
+    "isp": "Hostinger International Limited",
+    "protocol": "http",
+    "speed_ms": "1876.53",
+    "anonymity": "elite",
+    "location": "Singapore"
   }
 ]

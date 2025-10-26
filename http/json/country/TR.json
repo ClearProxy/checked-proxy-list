@@ -1,5 +1,41 @@
 [
   {
+    "ip": "194.27.90.143",
+    "port": 8077,
+    "country": "TR",
+    "country_code": "TR",
+    "asn": 8517,
+    "isp": "National Academic Network and Information Center",
+    "protocol": "http",
+    "speed_ms": "1404.96",
+    "anonymity": "elite",
+    "location": "Ankara"
+  },
+  {
+    "ip": "78.188.152.209",
+    "port": 1454,
+    "country": "TR",
+    "country_code": "TR",
+    "asn": 9121,
+    "isp": "Turk Telekomunikasyon Anonim Sirketi",
+    "protocol": "http",
+    "speed_ms": "1778.28",
+    "anonymity": "elite",
+    "location": "Istanbul"
+  },
+  {
+    "ip": "78.189.18.193",
+    "port": 3310,
+    "country": "TR",
+    "country_code": "TR",
+    "asn": 47331,
+    "isp": "TTNet A.S.",
+    "protocol": "http",
+    "speed_ms": "1923.39",
+    "anonymity": "elite",
+    "location": "Bursa"
+  },
+  {
     "ip": "130.185.120.38",
     "port": 8080,
     "country": "TR",
@@ -7,7 +43,7 @@
     "asn": 57568,
     "isp": "ARVANCLOUD GLOBAL TECHNOLOGIES L.L.C",
     "protocol": "http",
-    "speed_ms": "1695.24",
+    "speed_ms": "2063.76",
     "anonymity": "transparent",
     "location": "Istanbul"
   },
@@ -19,7 +55,7 @@
     "asn": 47331,
     "isp": "TTNet A.S.",
     "protocol": "http",
-    "speed_ms": "2395.76",
+    "speed_ms": "2003.86",
     "anonymity": "elite",
     "location": "Istanbul"
   },
@@ -31,32 +67,20 @@
     "asn": 207459,
     "isp": "TEKNOSOS BILISIM HIZMETLERI VE TIC. LTD. STI.",
     "protocol": "http",
-    "speed_ms": "2337.27",
+    "speed_ms": "1603.94",
     "anonymity": "elite",
     "location": "Bahcelievler"
   },
   {
-    "ip": "78.189.18.193",
-    "port": 3310,
+    "ip": "130.185.120.38",
+    "port": 8080,
     "country": "TR",
     "country_code": "TR",
-    "asn": 47331,
-    "isp": "TTNet A.S.",
+    "asn": 57568,
+    "isp": "ARVANCLOUD GLOBAL TECHNOLOGIES L.L.C",
     "protocol": "http",
-    "speed_ms": "1773.46",
-    "anonymity": "elite",
-    "location": "Bursa"
-  },
-  {
-    "ip": "194.27.90.143",
-    "port": 8077,
-    "country": "TR",
-    "country_code": "TR",
-    "asn": 8517,
-    "isp": "National Academic Network and Information Center",
-    "protocol": "http",
-    "speed_ms": "2222.06",
-    "anonymity": "elite",
-    "location": "Ankara"
+    "speed_ms": "2218.30",
+    "anonymity": "transparent",
+    "location": "Istanbul"
   }
 ]
