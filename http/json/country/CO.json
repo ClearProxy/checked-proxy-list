@@ -7,7 +7,7 @@
     "asn": 27831,
     "isp": "Colombia Movil",
     "protocol": "http",
-    "speed_ms": "1435.42",
+    "speed_ms": "1358.00",
     "anonymity": "transparent",
     "location": "Bogota (Engativa)"
   },
@@ -19,31 +19,7 @@
     "asn": 262186,
     "isp": "TV AZTECA SUCURSAL COLOMBIA",
     "protocol": "http",
-    "speed_ms": "1700.02",
-    "anonymity": "transparent",
-    "location": "Restrepo"
-  },
-  {
-    "ip": "8.243.68.10",
-    "port": 8080,
-    "country": "CO",
-    "country_code": "CO",
-    "asn": 3356,
-    "isp": "Level 3 Communications, Inc.",
-    "protocol": "http",
-    "speed_ms": "1174.18",
-    "anonymity": "transparent",
-    "location": "Bogota (Suba)"
-  },
-  {
-    "ip": "190.90.100.195",
-    "port": 999,
-    "country": "CO",
-    "country_code": "CO",
-    "asn": 262186,
-    "isp": "TV AZTECA SUCURSAL COLOMBIA",
-    "protocol": "http",
-    "speed_ms": "1209.47",
+    "speed_ms": "1531.80",
     "anonymity": "transparent",
     "location": "Restrepo"
   },
@@ -55,7 +31,7 @@
     "asn": 269804,
     "isp": "SEPCOM COMUNICACIONES SAS",
     "protocol": "http",
-    "speed_ms": "939.95",
+    "speed_ms": "1004.25",
     "anonymity": "transparent",
     "location": "Popayan"
   },
@@ -67,7 +43,43 @@
     "asn": 3356,
     "isp": "Level 3 Communications, Inc.",
     "protocol": "http",
-    "speed_ms": "950.01",
+    "speed_ms": "1060.87",
+    "anonymity": "transparent",
+    "location": "Bogota (Suba)"
+  },
+  {
+    "ip": "190.90.100.195",
+    "port": 999,
+    "country": "CO",
+    "country_code": "CO",
+    "asn": 262186,
+    "isp": "TV AZTECA SUCURSAL COLOMBIA",
+    "protocol": "http",
+    "speed_ms": "1225.46",
+    "anonymity": "transparent",
+    "location": "Restrepo"
+  },
+  {
+    "ip": "190.242.157.215",
+    "port": 8080,
+    "country": "CO",
+    "country_code": "CO",
+    "asn": 269804,
+    "isp": "SEPCOM COMUNICACIONES SAS",
+    "protocol": "http",
+    "speed_ms": "842.28",
+    "anonymity": "transparent",
+    "location": "Popayan"
+  },
+  {
+    "ip": "8.243.68.10",
+    "port": 8080,
+    "country": "CO",
+    "country_code": "CO",
+    "asn": 3356,
+    "isp": "Level 3 Communications, Inc.",
+    "protocol": "http",
+    "speed_ms": "861.14",
     "anonymity": "transparent",
     "location": "Bogota (Suba)"
   }
