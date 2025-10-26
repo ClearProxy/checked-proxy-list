@@ -1,15 +1,51 @@
 [
   {
-    "ip": "72.10.160.172",
-    "port": 29825,
+    "ip": "57.128.188.167",
+    "port": 8181,
     "country": "PH",
     "country_code": "PH",
     "asn": 9299,
     "isp": "Philippine Long Distance Telephone Co.",
     "protocol": "http",
-    "speed_ms": "2077.33",
+    "speed_ms": "2369.47",
     "anonymity": "elite",
-    "location": "Mandaluyong"
+    "location": "Manila (Sampaloc)"
+  },
+  {
+    "ip": "180.190.202.175",
+    "port": 8082,
+    "country": "PH",
+    "country_code": "PH",
+    "asn": 132199,
+    "isp": "Globe Telecom Inc.",
+    "protocol": "http",
+    "speed_ms": "1900.60",
+    "anonymity": "transparent",
+    "location": "Malabuyoc"
+  },
+  {
+    "ip": "120.28.68.108",
+    "port": 8082,
+    "country": "PH",
+    "country_code": "PH",
+    "asn": 132199,
+    "isp": "Globe Telecom Inc.",
+    "protocol": "http",
+    "speed_ms": "2326.02",
+    "anonymity": "transparent",
+    "location": "Antipolo City"
+  },
+  {
+    "ip": "57.128.188.167",
+    "port": 9062,
+    "country": "PH",
+    "country_code": "PH",
+    "asn": 9299,
+    "isp": "Philippine Long Distance Telephone Co.",
+    "protocol": "http",
+    "speed_ms": "2381.32",
+    "anonymity": "elite",
+    "location": "Teresa"
   },
   {
     "ip": "67.43.228.251",
@@ -19,32 +55,44 @@
     "asn": 9299,
     "isp": "Philippine Long Distance Telephone Co.",
     "protocol": "http",
-    "speed_ms": "2200.86",
+    "speed_ms": "1959.59",
     "anonymity": "elite",
     "location": "Iloilo City"
   },
   {
-    "ip": "72.10.160.172",
-    "port": 29825,
+    "ip": "57.128.188.167",
+    "port": 8085,
     "country": "PH",
     "country_code": "PH",
     "asn": 9299,
     "isp": "Philippine Long Distance Telephone Co.",
     "protocol": "http",
-    "speed_ms": "1562.94",
+    "speed_ms": "2180.16",
     "anonymity": "elite",
-    "location": "Mandaluyong"
+    "location": "San Juan City"
   },
   {
-    "ip": "206.201.3.83",
-    "port": 8095,
+    "ip": "57.128.188.167",
+    "port": 8182,
     "country": "PH",
     "country_code": "PH",
-    "asn": 17639,
-    "isp": "ComClark Network & Technology Corp",
+    "asn": 9299,
+    "isp": "Philippine Long Distance Telephone Co.",
     "protocol": "http",
-    "speed_ms": "1960.29",
-    "anonymity": "transparent",
-    "location": "Pasig"
+    "speed_ms": "1796.48",
+    "anonymity": "elite",
+    "location": "Manila (Sampaloc)"
+  },
+  {
+    "ip": "8.212.168.170",
+    "port": 808,
+    "country": "PH",
+    "country_code": "PH",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2494.10",
+    "anonymity": "elite",
+    "location": "Manila"
   }
 ]

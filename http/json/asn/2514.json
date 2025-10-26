@@ -1,25 +1,37 @@
 [
   {
-    "ip": "160.248.7.177",
-    "port": 80,
-    "country": "JP",
-    "country_code": "JP",
-    "asn": 2514,
-    "isp": "NTT PC Communications, Inc.",
-    "protocol": "http",
-    "speed_ms": "2138.44",
-    "anonymity": "elite",
-    "location": "Minato"
-  },
-  {
-    "ip": "116.80.78.200",
+    "ip": "116.80.93.160",
     "port": 3172,
     "country": "JP",
     "country_code": "JP",
     "asn": 2514,
     "isp": "NTT PC Communications, Inc.",
     "protocol": "http",
-    "speed_ms": "2055.15",
+    "speed_ms": "1801.99",
+    "anonymity": "transparent",
+    "location": "Chiyoda"
+  },
+  {
+    "ip": "116.80.93.161",
+    "port": 3172,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 2514,
+    "isp": "NTT PC Communications, Inc.",
+    "protocol": "http",
+    "speed_ms": "2398.58",
+    "anonymity": "transparent",
+    "location": "Chiyoda"
+  },
+  {
+    "ip": "116.80.59.172",
+    "port": 3172,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 2514,
+    "isp": "NTT PC Communications, Inc.",
+    "protocol": "http",
+    "speed_ms": "1819.64",
     "anonymity": "transparent",
     "location": "Chiyoda"
   }

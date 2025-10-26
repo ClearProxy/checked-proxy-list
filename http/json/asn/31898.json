@@ -1,15 +1,27 @@
 [
   {
-    "ip": "130.61.72.88",
-    "port": 8080,
-    "country": "DE",
-    "country_code": "DE",
+    "ip": "141.253.118.12",
+    "port": 3138,
+    "country": "FR",
+    "country_code": "FR",
     "asn": 31898,
     "isp": "Oracle Corporation",
     "protocol": "http",
-    "speed_ms": "1084.50",
-    "anonymity": "elite",
-    "location": "Frankfurt am Main (Innenstadt I)"
+    "speed_ms": "1734.46",
+    "anonymity": "transparent",
+    "location": "Paris"
+  },
+  {
+    "ip": "141.253.101.157",
+    "port": 3231,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 31898,
+    "isp": "Oracle Corporation",
+    "protocol": "http",
+    "speed_ms": "2380.65",
+    "anonymity": "transparent",
+    "location": "Paris"
   },
   {
     "ip": "143.47.62.167",
@@ -19,8 +31,32 @@
     "asn": 31898,
     "isp": "Oracle Corporation",
     "protocol": "http",
-    "speed_ms": "2048.22",
+    "speed_ms": "2145.58",
     "anonymity": "elite",
     "location": "Madrid"
+  },
+  {
+    "ip": "130.61.72.88",
+    "port": 8080,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 31898,
+    "isp": "Oracle Corporation",
+    "protocol": "http",
+    "speed_ms": "2020.11",
+    "anonymity": "elite",
+    "location": "Frankfurt am Main (Innenstadt I)"
+  },
+  {
+    "ip": "193.123.237.191",
+    "port": 8080,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 31898,
+    "isp": "Oracle Corporation",
+    "protocol": "http",
+    "speed_ms": "1739.03",
+    "anonymity": "elite",
+    "location": "Yangcheondong"
   }
 ]

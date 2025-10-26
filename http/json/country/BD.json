@@ -1,27 +1,15 @@
 [
   {
-    "ip": "103.49.202.252",
-    "port": 80,
+    "ip": "103.161.69.17",
+    "port": 2698,
     "country": "BD",
     "country_code": "BD",
-    "asn": 133957,
-    "isp": "SOL-BD",
+    "asn": 137967,
+    "isp": "Digicon Telecommunication Ltd",
     "protocol": "http",
-    "speed_ms": "2500.00",
-    "anonymity": "anonymous",
-    "location": "Tungipara"
-  },
-  {
-    "ip": "43.224.116.218",
-    "port": 10521,
-    "country": "BD",
-    "country_code": "BD",
-    "asn": 9441,
-    "isp": "Next Online Ltd.",
-    "protocol": "http",
-    "speed_ms": "1948.01",
+    "speed_ms": "2411.75",
     "anonymity": "transparent",
-    "location": "Dhaka (Cantonment)"
+    "location": "Chittagong"
   },
   {
     "ip": "103.138.145.34",
@@ -31,9 +19,81 @@
     "asn": 139008,
     "isp": "NEEF IT LIMITED",
     "protocol": "http",
-    "speed_ms": "2118.40",
+    "speed_ms": "2500.00",
     "anonymity": "anonymous",
     "location": "Nagar Naluakot"
+  },
+  {
+    "ip": "103.230.62.197",
+    "port": 10521,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 23956,
+    "isp": "Dhakacom Limited",
+    "protocol": "http",
+    "speed_ms": "2248.13",
+    "anonymity": "transparent",
+    "location": "Mymensingh"
+  },
+  {
+    "ip": "202.191.124.141",
+    "port": 26265,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 24556,
+    "isp": "Bijoy Online Ltd",
+    "protocol": "http",
+    "speed_ms": "2386.55",
+    "anonymity": "transparent",
+    "location": "Dhaka"
+  },
+  {
+    "ip": "59.153.18.93",
+    "port": 19201,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 64043,
+    "isp": "EUROtelbd Online Ltd.",
+    "protocol": "http",
+    "speed_ms": "2349.07",
+    "anonymity": "transparent",
+    "location": "Patuakhali"
+  },
+  {
+    "ip": "103.85.159.150",
+    "port": 19201,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 23956,
+    "isp": "Dhakacom Limited",
+    "protocol": "http",
+    "speed_ms": "2270.72",
+    "anonymity": "transparent",
+    "location": "Mymensingh"
+  },
+  {
+    "ip": "103.245.109.70",
+    "port": 21458,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 58800,
+    "isp": "ACE IT Networks Limited",
+    "protocol": "http",
+    "speed_ms": "2326.17",
+    "anonymity": "transparent",
+    "location": "Paltan"
+  },
+  {
+    "ip": "72.10.160.90",
+    "port": 30763,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 134732,
+    "isp": "Dot Internet",
+    "protocol": "http",
+    "speed_ms": "2145.49",
+    "anonymity": "elite",
+    "location": "Kafrul"
   },
   {
     "ip": "59.153.100.98",
@@ -43,7 +103,7 @@
     "asn": 134732,
     "isp": "Dot Internet",
     "protocol": "http",
-    "speed_ms": "1706.89",
+    "speed_ms": "2422.36",
     "anonymity": "anonymous",
     "location": "Dhaka"
   },
@@ -55,8 +115,68 @@
     "asn": 139008,
     "isp": "NEEF IT LIMITED",
     "protocol": "http",
-    "speed_ms": "2000.82",
+    "speed_ms": "1622.85",
     "anonymity": "anonymous",
     "location": "Nagar Naluakot"
+  },
+  {
+    "ip": "119.18.147.67",
+    "port": 19201,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 45326,
+    "isp": "Broad Band Telecom Services Ltd",
+    "protocol": "http",
+    "speed_ms": "2297.82",
+    "anonymity": "transparent",
+    "location": "Chittagong (Double Moorings)"
+  },
+  {
+    "ip": "202.191.124.141",
+    "port": 26265,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 24556,
+    "isp": "Bijoy Online Ltd",
+    "protocol": "http",
+    "speed_ms": "2198.21",
+    "anonymity": "transparent",
+    "location": "Dhaka"
+  },
+  {
+    "ip": "202.5.52.112",
+    "port": 2727,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 45326,
+    "isp": "Broad Band Telecom Services Ltd",
+    "protocol": "http",
+    "speed_ms": "1702.08",
+    "anonymity": "transparent",
+    "location": "Chittagong (Double Moorings)"
+  },
+  {
+    "ip": "103.49.202.252",
+    "port": 80,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 133957,
+    "isp": "SOL-BD",
+    "protocol": "http",
+    "speed_ms": "1935.17",
+    "anonymity": "anonymous",
+    "location": "Tungipara"
+  },
+  {
+    "ip": "59.153.18.93",
+    "port": 19201,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 64043,
+    "isp": "EUROtelbd Online Ltd.",
+    "protocol": "http",
+    "speed_ms": "2481.38",
+    "anonymity": "transparent",
+    "location": "Patuakhali"
   }
 ]
