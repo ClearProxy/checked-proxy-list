@@ -7,7 +7,7 @@
     "asn": 24444,
     "isp": "China Mobile",
     "protocol": "http",
-    "speed_ms": "1323.39",
+    "speed_ms": "1314.35",
     "anonymity": "elite",
     "location": "Jinan"
   },
@@ -19,7 +19,7 @@
     "asn": 4837,
     "isp": "CHINA UNICOM China169 Backbone",
     "protocol": "http",
-    "speed_ms": "1238.93",
+    "speed_ms": "1087.16",
     "anonymity": "elite",
     "location": "Hangzhou"
   },
@@ -31,7 +31,7 @@
     "asn": 4134,
     "isp": "Chinanet",
     "protocol": "http",
-    "speed_ms": "1273.56",
+    "speed_ms": "1239.18",
     "anonymity": "elite",
     "location": "Xingfulu"
   },
@@ -43,7 +43,7 @@
     "asn": 4134,
     "isp": "Chinanet",
     "protocol": "http",
-    "speed_ms": "1096.26",
+    "speed_ms": "1014.19",
     "anonymity": "elite",
     "location": "Julun"
   },
@@ -55,7 +55,7 @@
     "asn": 56041,
     "isp": "China Mobile Communications Corporation",
     "protocol": "http",
-    "speed_ms": "1022.28",
+    "speed_ms": "942.45",
     "anonymity": "elite",
     "location": "Hangzhou"
   },
@@ -67,7 +67,7 @@
     "asn": 4134,
     "isp": "Chinanet",
     "protocol": "http",
-    "speed_ms": "1000.33",
+    "speed_ms": "904.11",
     "anonymity": "elite",
     "location": "Hefei (Shushan Qu)"
   },
@@ -79,9 +79,33 @@
     "asn": 55990,
     "isp": "Huawei Cloud Service data center",
     "protocol": "http",
-    "speed_ms": "1019.42",
+    "speed_ms": "959.66",
     "anonymity": "elite",
     "location": "Beijing"
+  },
+  {
+    "ip": "39.185.41.193",
+    "port": 5911,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 56041,
+    "isp": "China Mobile Communications Corporation",
+    "protocol": "http",
+    "speed_ms": "1528.03",
+    "anonymity": "transparent",
+    "location": "Hangzhou"
+  },
+  {
+    "ip": "120.92.212.16",
+    "port": 7890,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 133119,
+    "isp": "China Unicom IP network",
+    "protocol": "http",
+    "speed_ms": "2394.23",
+    "anonymity": "elite",
+    "location": "Jinrongjie (Xicheng District)"
   },
   {
     "ip": "218.21.91.214",
@@ -91,7 +115,7 @@
     "asn": 4134,
     "isp": "Chinanet",
     "protocol": "http",
-    "speed_ms": "1847.44",
+    "speed_ms": "1363.49",
     "anonymity": "elite",
     "location": "Liuzhou"
   },
@@ -103,7 +127,19 @@
     "asn": 63835,
     "isp": "No.293,Wanbao Avenue",
     "protocol": "http",
-    "speed_ms": "880.17",
+    "speed_ms": "759.51",
+    "anonymity": "elite",
+    "location": "Guangzhou"
+  },
+  {
+    "ip": "36.138.53.26",
+    "port": 10017,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 9808,
+    "isp": "China Mobile",
+    "protocol": "http",
+    "speed_ms": "1481.27",
     "anonymity": "elite",
     "location": "Guangzhou"
   },
@@ -115,7 +151,7 @@
     "asn": 4812,
     "isp": "China Telecom (Group)",
     "protocol": "http",
-    "speed_ms": "899.15",
+    "speed_ms": "803.28",
     "anonymity": "elite",
     "location": "Shanghai"
   },
@@ -127,7 +163,7 @@
     "asn": 4837,
     "isp": "CHINA UNICOM China169 Backbone",
     "protocol": "http",
-    "speed_ms": "2184.24",
+    "speed_ms": "1220.87",
     "anonymity": "elite",
     "location": "Hangzhou"
   },
@@ -139,21 +175,9 @@
     "asn": 4134,
     "isp": "Chinanet",
     "protocol": "http",
-    "speed_ms": "837.88",
+    "speed_ms": "783.33",
     "anonymity": "elite",
     "location": "Taiyuan"
-  },
-  {
-    "ip": "36.147.78.166",
-    "port": 80,
-    "country": "CN",
-    "country_code": "CN",
-    "asn": 9808,
-    "isp": "China Mobile",
-    "protocol": "http",
-    "speed_ms": "1357.53",
-    "anonymity": "elite",
-    "location": "Guangzhou"
   },
   {
     "ip": "115.239.234.43",
@@ -163,7 +187,7 @@
     "asn": 4134,
     "isp": "Chinanet",
     "protocol": "http",
-    "speed_ms": "714.72",
+    "speed_ms": "678.47",
     "anonymity": "elite",
     "location": "Beijing"
   },
@@ -175,7 +199,7 @@
     "asn": 56046,
     "isp": "China Mobile Communications Corporation",
     "protocol": "http",
-    "speed_ms": "677.56",
+    "speed_ms": "761.86",
     "anonymity": "elite",
     "location": "Qinnan"
   }
