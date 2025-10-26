@@ -1,13 +1,25 @@
 [
   {
-    "ip": "198.98.48.76",
+    "ip": "198.98.57.213",
     "port": 31280,
     "country": "US",
     "country_code": "US",
     "asn": 53667,
     "isp": "FranTech Solutions",
     "protocol": "http",
-    "speed_ms": "776.97",
+    "speed_ms": "422.29",
+    "anonymity": "elite",
+    "location": "Staten Island"
+  },
+  {
+    "ip": "198.98.57.213",
+    "port": 31280,
+    "country": "US",
+    "country_code": "US",
+    "asn": 53667,
+    "isp": "FranTech Solutions",
+    "protocol": "http",
+    "speed_ms": "661.22",
     "anonymity": "elite",
     "location": "Staten Island"
   },
@@ -19,7 +31,19 @@
     "asn": 53667,
     "isp": "FranTech Solutions",
     "protocol": "http",
-    "speed_ms": "636.46",
+    "speed_ms": "454.74",
+    "anonymity": "elite",
+    "location": "Staten Island"
+  },
+  {
+    "ip": "198.98.48.76",
+    "port": 31280,
+    "country": "US",
+    "country_code": "US",
+    "asn": 53667,
+    "isp": "FranTech Solutions",
+    "protocol": "http",
+    "speed_ms": "341.75",
     "anonymity": "elite",
     "location": "Staten Island"
   }
