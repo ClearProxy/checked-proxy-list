@@ -1,5 +1,29 @@
 [
   {
+    "ip": "195.114.209.50",
+    "port": 80,
+    "country": "ES",
+    "country_code": "ES",
+    "asn": 57286,
+    "isp": "GIGAS HOSTING S.A.",
+    "protocol": "http",
+    "speed_ms": "2383.19",
+    "anonymity": "elite",
+    "location": "Alcobendas"
+  },
+  {
+    "ip": "2.139.62.85",
+    "port": 3128,
+    "country": "ES",
+    "country_code": "ES",
+    "asn": 3352,
+    "isp": "TELEFONICA DE ESPANA S.A.U.",
+    "protocol": "http",
+    "speed_ms": "2177.16",
+    "anonymity": "transparent",
+    "location": "Ciudad Lineal"
+  },
+  {
     "ip": "143.47.62.167",
     "port": 8080,
     "country": "ES",
@@ -7,7 +31,7 @@
     "asn": 31898,
     "isp": "Oracle Corporation",
     "protocol": "http",
-    "speed_ms": "1257.93",
+    "speed_ms": "1875.71",
     "anonymity": "elite",
     "location": "Madrid"
   },
@@ -19,7 +43,7 @@
     "asn": 12479,
     "isp": "Orange Espagne SA",
     "protocol": "http",
-    "speed_ms": "1620.33",
+    "speed_ms": "2422.07",
     "anonymity": "elite",
     "location": "Valencia"
   },
@@ -31,20 +55,8 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "1240.45",
+    "speed_ms": "2122.32",
     "anonymity": "elite",
     "location": "Zaragoza"
-  },
-  {
-    "ip": "90.162.35.34",
-    "port": 80,
-    "country": "ES",
-    "country_code": "ES",
-    "asn": 12479,
-    "isp": "Orange Espagne SA",
-    "protocol": "http",
-    "speed_ms": "1702.50",
-    "anonymity": "elite",
-    "location": "Valencia"
   }
 ]

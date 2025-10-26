@@ -1,5 +1,29 @@
 [
   {
+    "ip": "72.10.160.91",
+    "port": 22195,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 263263,
+    "isp": "Star Servicos de Internet LTDA",
+    "protocol": "http",
+    "speed_ms": "1899.19",
+    "anonymity": "elite",
+    "location": "Rolante"
+  },
+  {
+    "ip": "200.174.198.158",
+    "port": 8888,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 4230,
+    "isp": "CLARO S.A.",
+    "protocol": "http",
+    "speed_ms": "1839.83",
+    "anonymity": "anonymous",
+    "location": "Rio de Janeiro"
+  },
+  {
     "ip": "187.0.163.71",
     "port": 80,
     "country": "BR",
@@ -7,9 +31,21 @@
     "asn": 28240,
     "isp": "VIP - SERVICOS DE TELECOMUNICACOES LTDA.",
     "protocol": "http",
-    "speed_ms": "1863.54",
+    "speed_ms": "2085.09",
     "anonymity": "elite",
     "location": "Vilhena"
+  },
+  {
+    "ip": "45.7.80.12",
+    "port": 80,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 266575,
+    "isp": "ISOLTEC TELECOM LTDA - ME",
+    "protocol": "http",
+    "speed_ms": "2057.09",
+    "anonymity": "elite",
+    "location": "Alpercata"
   },
   {
     "ip": "45.6.0.114",
@@ -19,44 +55,32 @@
     "asn": 262875,
     "isp": "IP AMERICA TELECOM LTDA",
     "protocol": "http",
-    "speed_ms": "1762.72",
+    "speed_ms": "2383.11",
     "anonymity": "elite",
     "location": "Abadia de Goias"
   },
   {
-    "ip": "201.44.24.98",
-    "port": 80,
+    "ip": "45.226.80.115",
+    "port": 8080,
     "country": "BR",
     "country_code": "BR",
-    "asn": 4230,
-    "isp": "CLARO S.A.",
+    "asn": 266989,
+    "isp": "ETH ENTERPRISE TECNOLOGIA LTDA",
     "protocol": "http",
-    "speed_ms": "1857.74",
+    "speed_ms": "2121.19",
+    "anonymity": "transparent",
+    "location": "Fazenda Rio Grande"
+  },
+  {
+    "ip": "72.10.164.178",
+    "port": 11275,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 28220,
+    "isp": "CABO SERVICOS DE TELECOMUNICACOES LTDA",
+    "protocol": "http",
+    "speed_ms": "2404.05",
     "anonymity": "elite",
     "location": "Sao Paulo"
-  },
-  {
-    "ip": "200.174.198.158",
-    "port": 8888,
-    "country": "BR",
-    "country_code": "BR",
-    "asn": 4230,
-    "isp": "CLARO S.A.",
-    "protocol": "http",
-    "speed_ms": "1742.13",
-    "anonymity": "anonymous",
-    "location": "Rio de Janeiro"
-  },
-  {
-    "ip": "200.174.198.158",
-    "port": 8888,
-    "country": "BR",
-    "country_code": "BR",
-    "asn": 4230,
-    "isp": "CLARO S.A.",
-    "protocol": "http",
-    "speed_ms": "1500.74",
-    "anonymity": "anonymous",
-    "location": "Rio de Janeiro"
   }
 ]
