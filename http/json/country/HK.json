@@ -7,7 +7,7 @@
     "asn": 23764,
     "isp": "China Telecom Global Limited",
     "protocol": "http",
-    "speed_ms": "1780.08",
+    "speed_ms": "2161.52",
     "anonymity": "elite",
     "location": "Hong Kong"
   },
@@ -19,7 +19,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "1339.16",
+    "speed_ms": "1460.31",
     "anonymity": "elite",
     "location": "Hong Kong"
   },
@@ -31,8 +31,20 @@
     "asn": 401696,
     "isp": "cognetcloud INC",
     "protocol": "http",
-    "speed_ms": "1040.15",
+    "speed_ms": "1278.00",
     "anonymity": "elite",
     "location": "Ha Kwai Chung"
+  },
+  {
+    "ip": "47.243.92.199",
+    "port": 3128,
+    "country": "HK",
+    "country_code": "HK",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "1769.94",
+    "anonymity": "transparent",
+    "location": "Hong Kong"
   }
 ]
