@@ -7,7 +7,7 @@
     "asn": 58791,
     "isp": "GMO Internet,Inc",
     "protocol": "http",
-    "speed_ms": "2440.17",
+    "speed_ms": "2021.61",
     "anonymity": "elite",
     "location": "Chiyoda"
   },
@@ -19,21 +19,9 @@
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "1881.16",
+    "speed_ms": "1855.13",
     "anonymity": "elite",
     "location": "Shibuya City"
-  },
-  {
-    "ip": "150.31.248.151",
-    "port": 5000,
-    "country": "JP",
-    "country_code": "JP",
-    "asn": 2497,
-    "isp": "Internet Initiative Japan Inc.",
-    "protocol": "http",
-    "speed_ms": "2259.50",
-    "anonymity": "elite",
-    "location": "Kurihama"
   },
   {
     "ip": "160.251.142.232",
@@ -43,7 +31,7 @@
     "asn": 58791,
     "isp": "GMO Internet,Inc",
     "protocol": "http",
-    "speed_ms": "1661.06",
+    "speed_ms": "1581.22",
     "anonymity": "elite",
     "location": "Chiyoda"
   },
@@ -55,7 +43,7 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "1984.34",
+    "speed_ms": "1517.76",
     "anonymity": "transparent",
     "location": "Shibuya City"
   },
@@ -67,7 +55,7 @@
     "asn": 24282,
     "isp": "KAGOYA JAPAN Inc.",
     "protocol": "http",
-    "speed_ms": "1602.08",
+    "speed_ms": "1518.22",
     "anonymity": "elite",
     "location": "Chiyoda City"
   },
@@ -79,8 +67,20 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "1918.12",
+    "speed_ms": "1539.80",
     "anonymity": "transparent",
     "location": "Shibuya City"
+  },
+  {
+    "ip": "116.80.93.161",
+    "port": 3172,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 2514,
+    "isp": "NTT PC Communications, Inc.",
+    "protocol": "http",
+    "speed_ms": "2057.73",
+    "anonymity": "transparent",
+    "location": "Chiyoda"
   }
 ]
