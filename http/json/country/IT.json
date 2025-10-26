@@ -1,5 +1,29 @@
 [
   {
+    "ip": "5.182.34.73",
+    "port": 80,
+    "country": "IT",
+    "country_code": "IT",
+    "asn": 209242,
+    "isp": "Cloudflare London, LLC",
+    "protocol": "http",
+    "speed_ms": "1243.43",
+    "anonymity": "elite",
+    "location": "Rome"
+  },
+  {
+    "ip": "15.160.181.77",
+    "port": 2618,
+    "country": "IT",
+    "country_code": "IT",
+    "asn": 16509,
+    "isp": "Amazon.com, Inc.",
+    "protocol": "http",
+    "speed_ms": "2442.94",
+    "anonymity": "elite",
+    "location": "Milan"
+  },
+  {
     "ip": "80.211.172.25",
     "port": 80,
     "country": "IT",
@@ -7,7 +31,19 @@
     "asn": 31034,
     "isp": "Aruba S.p.A.",
     "protocol": "http",
-    "speed_ms": "1941.28",
+    "speed_ms": "2280.35",
+    "anonymity": "elite",
+    "location": "Arezzo"
+  },
+  {
+    "ip": "95.110.215.164",
+    "port": 80,
+    "country": "IT",
+    "country_code": "IT",
+    "asn": 31034,
+    "isp": "Aruba S.p.A.",
+    "protocol": "http",
+    "speed_ms": "2162.37",
     "anonymity": "elite",
     "location": "Arezzo"
   },
@@ -19,19 +55,19 @@
     "asn": 209242,
     "isp": "Cloudflare London, LLC",
     "protocol": "http",
-    "speed_ms": "1021.87",
+    "speed_ms": "1265.60",
     "anonymity": "elite",
     "location": "Rome"
   },
   {
-    "ip": "93.62.194.49",
-    "port": 80,
+    "ip": "15.160.186.74",
+    "port": 5333,
     "country": "IT",
     "country_code": "IT",
-    "asn": 12874,
-    "isp": "Fastweb SpA",
+    "asn": 16509,
+    "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "1479.68",
+    "speed_ms": "2235.27",
     "anonymity": "elite",
     "location": "Milan"
   },
@@ -43,21 +79,69 @@
     "asn": 3269,
     "isp": "Telecom Italia S.p.A.",
     "protocol": "http",
-    "speed_ms": "1275.87",
+    "speed_ms": "2177.95",
     "anonymity": "elite",
     "location": "Rome"
   },
   {
-    "ip": "5.182.34.73",
+    "ip": "15.160.186.74",
+    "port": 8177,
+    "country": "IT",
+    "country_code": "IT",
+    "asn": 16509,
+    "isp": "Amazon.com, Inc.",
+    "protocol": "http",
+    "speed_ms": "1876.79",
+    "anonymity": "elite",
+    "location": "Milan"
+  },
+  {
+    "ip": "15.160.186.74",
+    "port": 521,
+    "country": "IT",
+    "country_code": "IT",
+    "asn": 16509,
+    "isp": "Amazon.com, Inc.",
+    "protocol": "http",
+    "speed_ms": "2124.57",
+    "anonymity": "elite",
+    "location": "Milan"
+  },
+  {
+    "ip": "15.160.186.74",
+    "port": 9551,
+    "country": "IT",
+    "country_code": "IT",
+    "asn": 16509,
+    "isp": "Amazon.com, Inc.",
+    "protocol": "http",
+    "speed_ms": "2226.48",
+    "anonymity": "elite",
+    "location": "Milan"
+  },
+  {
+    "ip": "93.62.194.49",
     "port": 80,
     "country": "IT",
     "country_code": "IT",
-    "asn": 209242,
-    "isp": "Cloudflare London, LLC",
+    "asn": 12874,
+    "isp": "Fastweb SpA",
     "protocol": "http",
-    "speed_ms": "759.01",
+    "speed_ms": "1740.70",
     "anonymity": "elite",
-    "location": "Rome"
+    "location": "Milan"
+  },
+  {
+    "ip": "15.160.186.74",
+    "port": 9030,
+    "country": "IT",
+    "country_code": "IT",
+    "asn": 16509,
+    "isp": "Amazon.com, Inc.",
+    "protocol": "http",
+    "speed_ms": "1693.81",
+    "anonymity": "elite",
+    "location": "Milan"
   },
   {
     "ip": "185.5.209.146",
@@ -67,20 +151,8 @@
     "asn": 24994,
     "isp": "genesys informatica srl",
     "protocol": "http",
-    "speed_ms": "1083.93",
+    "speed_ms": "2394.99",
     "anonymity": "elite",
     "location": "Florence"
-  },
-  {
-    "ip": "95.110.215.164",
-    "port": 80,
-    "country": "IT",
-    "country_code": "IT",
-    "asn": 31034,
-    "isp": "Aruba S.p.A.",
-    "protocol": "http",
-    "speed_ms": "1037.86",
-    "anonymity": "elite",
-    "location": "Arezzo"
   }
 ]
