@@ -1,39 +1,27 @@
 [
   {
-    "ip": "110.171.40.132",
+    "ip": "182.52.165.147",
     "port": 8080,
     "country": "TH",
     "country_code": "TH",
-    "asn": 17552,
-    "isp": "TRUE INTERNET CORPORATION CO. LTD.",
+    "asn": 23974,
+    "isp": "Ministry of Education - EMISC",
     "protocol": "http",
-    "speed_ms": "2049.18",
+    "speed_ms": "2133.92",
+    "anonymity": "elite",
+    "location": "Khwaeng Thung Song Hong"
+  },
+  {
+    "ip": "43.229.79.217",
+    "port": 3128,
+    "country": "TH",
+    "country_code": "TH",
+    "asn": 56309,
+    "isp": "Siamdata Communication Co.,ltd.",
+    "protocol": "http",
+    "speed_ms": "1737.10",
     "anonymity": "transparent",
-    "location": "Pak Kret"
-  },
-  {
-    "ip": "182.52.165.147",
-    "port": 8080,
-    "country": "TH",
-    "country_code": "TH",
-    "asn": 23974,
-    "isp": "Ministry of Education - EMISC",
-    "protocol": "http",
-    "speed_ms": "1762.80",
-    "anonymity": "elite",
-    "location": "Khwaeng Thung Song Hong"
-  },
-  {
-    "ip": "182.52.165.147",
-    "port": 8080,
-    "country": "TH",
-    "country_code": "TH",
-    "asn": 23974,
-    "isp": "Ministry of Education - EMISC",
-    "protocol": "http",
-    "speed_ms": "1712.59",
-    "anonymity": "elite",
-    "location": "Khwaeng Thung Song Hong"
+    "location": "Ban Dan"
   },
   {
     "ip": "27.254.217.116",
@@ -43,7 +31,7 @@
     "asn": 9891,
     "isp": "CS Loxinfo Public Company Limited",
     "protocol": "http",
-    "speed_ms": "1542.48",
+    "speed_ms": "1626.63",
     "anonymity": "anonymous",
     "location": "Huai Khwang (Khwaeng Huai Khwang)"
   }
