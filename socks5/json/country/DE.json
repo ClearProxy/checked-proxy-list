@@ -1,17 +1,5 @@
 [
   {
-    "ip": "43.131.9.114",
-    "port": 1777,
-    "country": "DE",
-    "country_code": "DE",
-    "asn": 132203,
-    "isp": "Shenzhen Tencent Computer Systems Company Limited",
-    "protocol": "socks5",
-    "speed_ms": "870.90",
-    "anonymity": "elite",
-    "location": "Frankfurt am Main"
-  },
-  {
     "ip": "43.157.34.94",
     "port": 1777,
     "country": "DE",
@@ -19,8 +7,20 @@
     "asn": 132203,
     "isp": "Shenzhen Tencent Computer Systems Company Limited",
     "protocol": "socks5",
-    "speed_ms": "829.90",
+    "speed_ms": "930.83",
     "anonymity": "elite",
     "location": "Frankfurt am Main"
+  },
+  {
+    "ip": "161.35.31.237",
+    "port": 1080,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "socks5",
+    "speed_ms": "935.15",
+    "anonymity": "elite",
+    "location": "Gelnhausen"
   }
 ]
