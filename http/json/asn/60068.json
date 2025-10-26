@@ -1,13 +1,25 @@
 [
   {
-    "ip": "95.173.218.66",
+    "ip": "95.173.218.75",
     "port": 8082,
     "country": "SG",
     "country_code": "SG",
     "asn": 60068,
     "isp": "Datacamp Limited",
     "protocol": "http",
-    "speed_ms": "1421.88",
+    "speed_ms": "2096.44",
+    "anonymity": "elite",
+    "location": "Singapore"
+  },
+  {
+    "ip": "95.173.218.76",
+    "port": 8081,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 60068,
+    "isp": "Datacamp Limited",
+    "protocol": "http",
+    "speed_ms": "2489.28",
     "anonymity": "elite",
     "location": "Singapore"
   },
@@ -19,7 +31,19 @@
     "asn": 60068,
     "isp": "Datacamp Limited",
     "protocol": "http",
-    "speed_ms": "1414.75",
+    "speed_ms": "2333.21",
+    "anonymity": "elite",
+    "location": "Singapore"
+  },
+  {
+    "ip": "95.173.218.66",
+    "port": 8082,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 60068,
+    "isp": "Datacamp Limited",
+    "protocol": "http",
+    "speed_ms": "2166.73",
     "anonymity": "elite",
     "location": "Singapore"
   }
