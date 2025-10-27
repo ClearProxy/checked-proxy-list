@@ -7,7 +7,7 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "1177.83",
+    "speed_ms": "1136.76",
     "anonymity": "elite",
     "location": "Roubaix"
   },
@@ -19,9 +19,21 @@
     "asn": 12876,
     "isp": "ONLINE S.A.S.",
     "protocol": "http",
-    "speed_ms": "1277.77",
+    "speed_ms": "1137.65",
     "anonymity": "transparent",
     "location": "Paris"
+  },
+  {
+    "ip": "195.83.197.26",
+    "port": 80,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 2200,
+    "isp": "Renater",
+    "protocol": "http",
+    "speed_ms": "1001.39",
+    "anonymity": "elite",
+    "location": "Toulouse"
   },
   {
     "ip": "163.172.53.142",
@@ -31,7 +43,7 @@
     "asn": 12876,
     "isp": "ONLINE S.A.S.",
     "protocol": "http",
-    "speed_ms": "1141.26",
+    "speed_ms": "1256.86",
     "anonymity": "elite",
     "location": "Paris"
   },
@@ -43,7 +55,7 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "976.92",
+    "speed_ms": "916.56",
     "anonymity": "elite",
     "location": "Roubaix"
   },
@@ -55,8 +67,44 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "1111.24",
+    "speed_ms": "1140.76",
     "anonymity": "elite",
     "location": "Roubaix"
+  },
+  {
+    "ip": "195.83.197.177",
+    "port": 80,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 2200,
+    "isp": "Renater",
+    "protocol": "http",
+    "speed_ms": "977.48",
+    "anonymity": "elite",
+    "location": "Toulouse"
+  },
+  {
+    "ip": "195.83.197.45",
+    "port": 80,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 2200,
+    "isp": "Renater",
+    "protocol": "http",
+    "speed_ms": "939.97",
+    "anonymity": "elite",
+    "location": "Toulouse"
+  },
+  {
+    "ip": "195.83.197.222",
+    "port": 80,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 2200,
+    "isp": "Renater",
+    "protocol": "http",
+    "speed_ms": "897.60",
+    "anonymity": "elite",
+    "location": "Toulouse"
   }
 ]
