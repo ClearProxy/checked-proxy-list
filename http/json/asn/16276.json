@@ -7,7 +7,7 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "1850.59",
+    "speed_ms": "1998.82",
     "anonymity": "transparent",
     "location": "Beauharnois"
   },
@@ -19,7 +19,7 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "455.67",
+    "speed_ms": "519.35",
     "anonymity": "elite",
     "location": "Beauharnois"
   },
@@ -31,21 +31,9 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "940.39",
+    "speed_ms": "1776.66",
     "anonymity": "transparent",
     "location": "Beauharnois"
-  },
-  {
-    "ip": "51.83.44.233",
-    "port": 80,
-    "country": "FR",
-    "country_code": "FR",
-    "asn": 16276,
-    "isp": "OVH SAS",
-    "protocol": "http",
-    "speed_ms": "1081.85",
-    "anonymity": "elite",
-    "location": "Roubaix"
   },
   {
     "ip": "178.33.13.233",
@@ -55,7 +43,7 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "617.45",
+    "speed_ms": "700.97",
     "anonymity": "elite",
     "location": "Roubaix"
   },
@@ -67,8 +55,20 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "659.42",
+    "speed_ms": "722.15",
     "anonymity": "elite",
+    "location": "Roubaix"
+  },
+  {
+    "ip": "51.254.78.223",
+    "port": 80,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 16276,
+    "isp": "OVH SAS",
+    "protocol": "http",
+    "speed_ms": "1823.30",
+    "anonymity": "transparent",
     "location": "Roubaix"
   }
 ]
