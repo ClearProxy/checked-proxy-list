@@ -7,7 +7,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1102.81",
+    "speed_ms": "880.41",
     "anonymity": "elite",
     "location": "Clifton"
   },
@@ -19,7 +19,7 @@
     "asn": 20473,
     "isp": "The Constant Company, LLC",
     "protocol": "http",
-    "speed_ms": "919.46",
+    "speed_ms": "878.69",
     "anonymity": "elite",
     "location": "Atlanta"
   },
@@ -31,7 +31,7 @@
     "asn": 209,
     "isp": "CenturyLink Communications, LLC",
     "protocol": "http",
-    "speed_ms": "873.91",
+    "speed_ms": "657.97",
     "anonymity": "elite",
     "location": "Albuquerque"
   },
@@ -43,7 +43,7 @@
     "asn": 32162,
     "isp": "Carbon Lehigh Intermediate Unit 21",
     "protocol": "http",
-    "speed_ms": "1104.85",
+    "speed_ms": "714.44",
     "anonymity": "elite",
     "location": "Schnecksville"
   },
@@ -55,7 +55,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1157.95",
+    "speed_ms": "881.15",
     "anonymity": "transparent",
     "location": "North Bergen"
   },
@@ -67,7 +67,7 @@
     "asn": 6461,
     "isp": "Zayo Bandwidth",
     "protocol": "http",
-    "speed_ms": "898.27",
+    "speed_ms": "659.74",
     "anonymity": "elite",
     "location": "Irving"
   },
@@ -79,7 +79,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1499.98",
+    "speed_ms": "1402.99",
     "anonymity": "elite",
     "location": "North Bergen"
   },
@@ -91,7 +91,7 @@
     "asn": 6360,
     "isp": "University of Hawaii",
     "protocol": "http",
-    "speed_ms": "796.22",
+    "speed_ms": "678.03",
     "anonymity": "elite",
     "location": "Honolulu (Manoa)"
   },
@@ -103,7 +103,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1499.41",
+    "speed_ms": "1401.76",
     "anonymity": "elite",
     "location": "North Bergen"
   },
@@ -115,7 +115,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1497.02",
+    "speed_ms": "1400.26",
     "anonymity": "elite",
     "location": "Clifton"
   },
@@ -127,7 +127,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1279.74",
+    "speed_ms": "1333.63",
     "anonymity": "elite",
     "location": "Santa Clara"
   },
@@ -139,7 +139,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1458.70",
+    "speed_ms": "1393.59",
     "anonymity": "elite",
     "location": "Clifton"
   },
@@ -151,7 +151,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1460.23",
+    "speed_ms": "1394.79",
     "anonymity": "elite",
     "location": "North Bergen"
   },
@@ -163,21 +163,9 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1443.25",
+    "speed_ms": "1385.07",
     "anonymity": "elite",
     "location": "North Bergen"
-  },
-  {
-    "ip": "74.220.199.6",
-    "port": 80,
-    "country": "US",
-    "country_code": "US",
-    "asn": 46606,
-    "isp": "Unified Layer",
-    "protocol": "http",
-    "speed_ms": "2072.44",
-    "anonymity": "elite",
-    "location": "Provo (East Bay)"
   },
   {
     "ip": "50.87.225.64",
@@ -187,9 +175,21 @@
     "asn": 46606,
     "isp": "Unified Layer",
     "protocol": "http",
-    "speed_ms": "700.28",
+    "speed_ms": "559.92",
     "anonymity": "elite",
     "location": "Provo (East Bay)"
+  },
+  {
+    "ip": "47.254.36.213",
+    "port": 50,
+    "country": "US",
+    "country_code": "US",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2409.13",
+    "anonymity": "elite",
+    "location": "Minkler"
   },
   {
     "ip": "134.122.25.73",
@@ -199,7 +199,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "756.28",
+    "speed_ms": "596.44",
     "anonymity": "elite",
     "location": "North Bergen"
   },
@@ -211,9 +211,21 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "959.55",
+    "speed_ms": "835.92",
     "anonymity": "elite",
     "location": "North Bergen"
+  },
+  {
+    "ip": "47.251.87.199",
+    "port": 8088,
+    "country": "US",
+    "country_code": "US",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2402.41",
+    "anonymity": "elite",
+    "location": "Minkler"
   },
   {
     "ip": "192.254.226.75",
@@ -223,7 +235,7 @@
     "asn": 46606,
     "isp": "Unified Layer",
     "protocol": "http",
-    "speed_ms": "1018.99",
+    "speed_ms": "1015.24",
     "anonymity": "elite",
     "location": "Jacksonville (Deerwood)"
   },
@@ -235,7 +247,7 @@
     "asn": 36236,
     "isp": "NetActuate, Inc",
     "protocol": "http",
-    "speed_ms": "1159.76",
+    "speed_ms": "777.05",
     "anonymity": "elite",
     "location": "West Hollywood (Central-Alameda)"
   },
@@ -247,7 +259,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1219.19",
+    "speed_ms": "1182.65",
     "anonymity": "elite",
     "location": "Santa Clara"
   },
@@ -259,7 +271,7 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "661.04",
+    "speed_ms": "479.91",
     "anonymity": "elite",
     "location": "Minkler"
   },
@@ -271,21 +283,33 @@
     "asn": 32162,
     "isp": "Carbon Lehigh Intermediate Unit 21",
     "protocol": "http",
-    "speed_ms": "785.05",
+    "speed_ms": "780.02",
     "anonymity": "elite",
     "location": "Schnecksville"
   },
   {
-    "ip": "47.252.29.28",
-    "port": 11222,
+    "ip": "47.251.73.54",
+    "port": 8081,
     "country": "US",
     "country_code": "US",
-    "asn": 212238,
-    "isp": "Datacamp Limited",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "2121.52",
+    "speed_ms": "2374.23",
     "anonymity": "elite",
-    "location": "New York"
+    "location": "Minkler"
+  },
+  {
+    "ip": "199.188.207.170",
+    "port": 8080,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22612,
+    "isp": "Namecheap, Inc.",
+    "protocol": "http",
+    "speed_ms": "1264.89",
+    "anonymity": "elite",
+    "location": "Phoenix"
   },
   {
     "ip": "208.91.197.48",
@@ -295,7 +319,7 @@
     "asn": 40034,
     "isp": "Confluence Networks Inc",
     "protocol": "http",
-    "speed_ms": "1095.31",
+    "speed_ms": "860.00",
     "anonymity": "elite",
     "location": "Jacksonville (Southside Estates)"
   },
@@ -307,9 +331,21 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "956.29",
+    "speed_ms": "798.96",
     "anonymity": "transparent",
     "location": "North Bergen"
+  },
+  {
+    "ip": "47.89.159.212",
+    "port": 9098,
+    "country": "US",
+    "country_code": "US",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2496.45",
+    "anonymity": "elite",
+    "location": "Charlottesville"
   },
   {
     "ip": "198.98.48.76",
@@ -319,7 +355,7 @@
     "asn": 53667,
     "isp": "FranTech Solutions",
     "protocol": "http",
-    "speed_ms": "1046.73",
+    "speed_ms": "796.94",
     "anonymity": "elite",
     "location": "Staten Island"
   },
@@ -331,9 +367,21 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "697.27",
+    "speed_ms": "521.67",
     "anonymity": "elite",
     "location": "Clifton"
+  },
+  {
+    "ip": "47.251.73.54",
+    "port": 111,
+    "country": "US",
+    "country_code": "US",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2340.28",
+    "anonymity": "elite",
+    "location": "Minkler"
   },
   {
     "ip": "167.71.181.243",
@@ -343,7 +391,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1355.22",
+    "speed_ms": "1305.30",
     "anonymity": "elite",
     "location": "Clifton"
   },
@@ -355,7 +403,7 @@
     "asn": 30058,
     "isp": "FDCservers.net",
     "protocol": "http",
-    "speed_ms": "1057.05",
+    "speed_ms": "540.11",
     "anonymity": "transparent",
     "location": "Dallas"
   },
@@ -367,7 +415,7 @@
     "asn": 53667,
     "isp": "FranTech Solutions",
     "protocol": "http",
-    "speed_ms": "1040.19",
+    "speed_ms": "681.96",
     "anonymity": "elite",
     "location": "Staten Island"
   },
@@ -379,7 +427,7 @@
     "asn": 40034,
     "isp": "Confluence Networks Inc",
     "protocol": "http",
-    "speed_ms": "964.10",
+    "speed_ms": "840.43",
     "anonymity": "elite",
     "location": "Jacksonville (Southside Estates)"
   },
@@ -391,9 +439,45 @@
     "asn": 396982,
     "isp": "Google LLC",
     "protocol": "http",
-    "speed_ms": "602.89",
+    "speed_ms": "477.42",
     "anonymity": "elite",
     "location": "Kansas City"
+  },
+  {
+    "ip": "47.252.11.233",
+    "port": 10,
+    "country": "US",
+    "country_code": "US",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2482.31",
+    "anonymity": "elite",
+    "location": "Charlottesville"
+  },
+  {
+    "ip": "47.251.73.54",
+    "port": 9050,
+    "country": "US",
+    "country_code": "US",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2335.76",
+    "anonymity": "elite",
+    "location": "Minkler"
+  },
+  {
+    "ip": "47.89.159.212",
+    "port": 13,
+    "country": "US",
+    "country_code": "US",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2479.31",
+    "anonymity": "elite",
+    "location": "Charlottesville"
   },
   {
     "ip": "167.71.166.185",
@@ -403,7 +487,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1361.33",
+    "speed_ms": "1300.73",
     "anonymity": "elite",
     "location": "Clifton"
   },
@@ -415,9 +499,21 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "581.08",
+    "speed_ms": "878.55",
     "anonymity": "elite",
     "location": "Dublin"
+  },
+  {
+    "ip": "47.251.73.54",
+    "port": 8443,
+    "country": "US",
+    "country_code": "US",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2313.43",
+    "anonymity": "elite",
+    "location": "Minkler"
   },
   {
     "ip": "173.254.109.45",
@@ -427,7 +523,7 @@
     "asn": 46606,
     "isp": "Unified Layer",
     "protocol": "http",
-    "speed_ms": "1399.75",
+    "speed_ms": "1332.88",
     "anonymity": "elite",
     "location": "Provo (East Bay)"
   },
@@ -439,9 +535,45 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1119.30",
+    "speed_ms": "1036.55",
     "anonymity": "elite",
     "location": "Santa Clara"
+  },
+  {
+    "ip": "47.254.36.213",
+    "port": 9098,
+    "country": "US",
+    "country_code": "US",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2273.45",
+    "anonymity": "elite",
+    "location": "Minkler"
+  },
+  {
+    "ip": "47.254.36.213",
+    "port": 8000,
+    "country": "US",
+    "country_code": "US",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2275.09",
+    "anonymity": "elite",
+    "location": "Minkler"
+  },
+  {
+    "ip": "47.252.11.233",
+    "port": 8090,
+    "country": "US",
+    "country_code": "US",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2436.53",
+    "anonymity": "elite",
+    "location": "Charlottesville"
   },
   {
     "ip": "68.183.143.5",
@@ -451,9 +583,21 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1259.62",
+    "speed_ms": "1224.94",
     "anonymity": "elite",
     "location": "North Bergen"
+  },
+  {
+    "ip": "47.252.11.233",
+    "port": 14186,
+    "country": "US",
+    "country_code": "US",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2407.88",
+    "anonymity": "elite",
+    "location": "Charlottesville"
   },
   {
     "ip": "209.126.86.192",
@@ -463,7 +607,7 @@
     "asn": 40021,
     "isp": "Contabo Inc.",
     "protocol": "http",
-    "speed_ms": "506.58",
+    "speed_ms": "486.19",
     "anonymity": "elite",
     "location": "St Louis (Downtown)"
   },
@@ -475,9 +619,21 @@
     "asn": 396982,
     "isp": "Google LLC",
     "protocol": "http",
-    "speed_ms": "621.34",
+    "speed_ms": "483.98",
     "anonymity": "elite",
     "location": "The Dalles"
+  },
+  {
+    "ip": "204.13.42.195",
+    "port": 8080,
+    "country": "US",
+    "country_code": "US",
+    "asn": 33604,
+    "isp": "Burlington Telecom",
+    "protocol": "http",
+    "speed_ms": "636.99",
+    "anonymity": "elite",
+    "location": "Burlington"
   },
   {
     "ip": "142.93.244.64",
@@ -487,7 +643,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1239.38",
+    "speed_ms": "1215.85",
     "anonymity": "elite",
     "location": "North Bergen"
   },
@@ -499,7 +655,7 @@
     "asn": 36351,
     "isp": "IBM Cloud",
     "protocol": "http",
-    "speed_ms": "746.92",
+    "speed_ms": "776.17",
     "anonymity": "elite",
     "location": "Dallas"
   },
@@ -511,7 +667,7 @@
     "asn": 32162,
     "isp": "Carbon Lehigh Intermediate Unit 21",
     "protocol": "http",
-    "speed_ms": "658.99",
+    "speed_ms": "619.91",
     "anonymity": "elite",
     "location": "Schnecksville"
   },
@@ -523,7 +679,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1205.01",
+    "speed_ms": "1200.27",
     "anonymity": "elite",
     "location": "North Bergen"
   },
@@ -535,9 +691,21 @@
     "asn": 32162,
     "isp": "Carbon Lehigh Intermediate Unit 21",
     "protocol": "http",
-    "speed_ms": "618.61",
+    "speed_ms": "537.55",
     "anonymity": "elite",
     "location": "Schnecksville"
+  },
+  {
+    "ip": "47.251.87.74",
+    "port": 8080,
+    "country": "US",
+    "country_code": "US",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2234.35",
+    "anonymity": "elite",
+    "location": "Minkler"
   },
   {
     "ip": "198.58.120.206",
@@ -547,7 +715,7 @@
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "576.76",
+    "speed_ms": "597.18",
     "anonymity": "elite",
     "location": "Richardson"
   },
@@ -559,7 +727,7 @@
     "asn": 20473,
     "isp": "The Constant Company, LLC",
     "protocol": "http",
-    "speed_ms": "458.60",
+    "speed_ms": "519.32",
     "anonymity": "elite",
     "location": "Kent"
   },
@@ -571,7 +739,7 @@
     "asn": 14618,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "801.17",
+    "speed_ms": "703.86",
     "anonymity": "elite",
     "location": "Ashburn"
   },
@@ -583,7 +751,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "http",
-    "speed_ms": "655.78",
+    "speed_ms": "516.65",
     "anonymity": "elite",
     "location": "Providence"
   },
@@ -595,9 +763,21 @@
     "asn": 40021,
     "isp": "Contabo Inc.",
     "protocol": "http",
-    "speed_ms": "476.88",
+    "speed_ms": "559.08",
     "anonymity": "elite",
     "location": "St Louis"
+  },
+  {
+    "ip": "47.251.87.199",
+    "port": 808,
+    "country": "US",
+    "country_code": "US",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2214.62",
+    "anonymity": "elite",
+    "location": "Minkler"
   },
   {
     "ip": "47.251.11.225",
@@ -607,7 +787,19 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "1453.42",
+    "speed_ms": "482.16",
+    "anonymity": "elite",
+    "location": "Minkler"
+  },
+  {
+    "ip": "47.251.87.199",
+    "port": 2002,
+    "country": "US",
+    "country_code": "US",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2201.21",
     "anonymity": "elite",
     "location": "Minkler"
   },
@@ -619,9 +811,21 @@
     "asn": 20473,
     "isp": "The Constant Company, LLC",
     "protocol": "http",
-    "speed_ms": "783.45",
+    "speed_ms": "682.20",
     "anonymity": "elite",
     "location": "Piscataway"
+  },
+  {
+    "ip": "204.13.42.194",
+    "port": 8080,
+    "country": "US",
+    "country_code": "US",
+    "asn": 33604,
+    "isp": "Burlington Telecom",
+    "protocol": "http",
+    "speed_ms": "517.73",
+    "anonymity": "elite",
+    "location": "Burlington"
   },
   {
     "ip": "192.241.147.174",
@@ -631,9 +835,33 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1163.54",
+    "speed_ms": "1158.16",
     "anonymity": "elite",
     "location": "North Bergen"
+  },
+  {
+    "ip": "47.251.87.199",
+    "port": 8123,
+    "country": "US",
+    "country_code": "US",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2200.00",
+    "anonymity": "elite",
+    "location": "Minkler"
+  },
+  {
+    "ip": "34.116.179.210",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 16509,
+    "isp": "Amazon.com, Inc.",
+    "protocol": "http",
+    "speed_ms": "1268.00",
+    "anonymity": "transparent",
+    "location": "San Jose"
   },
   {
     "ip": "138.68.59.191",
@@ -643,7 +871,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "959.25",
+    "speed_ms": "1077.33",
     "anonymity": "elite",
     "location": "Santa Clara"
   },
@@ -655,7 +883,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "581.57",
+    "speed_ms": "560.17",
     "anonymity": "elite",
     "location": "Ashburn"
   },
@@ -667,7 +895,7 @@
     "asn": 212317,
     "isp": "Hetzner Online GmbH",
     "protocol": "http",
-    "speed_ms": "415.47",
+    "speed_ms": "464.37",
     "anonymity": "elite",
     "location": "Hillsboro"
   },
@@ -679,9 +907,21 @@
     "asn": 22616,
     "isp": "ZSCALER, INC.",
     "protocol": "http",
-    "speed_ms": "1607.55",
+    "speed_ms": "1640.87",
     "anonymity": "elite",
     "location": "Reston"
+  },
+  {
+    "ip": "47.251.73.54",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2177.51",
+    "anonymity": "elite",
+    "location": "Minkler"
   },
   {
     "ip": "198.211.109.22",
@@ -691,9 +931,21 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1139.13",
+    "speed_ms": "1136.73",
     "anonymity": "elite",
     "location": "North Bergen"
+  },
+  {
+    "ip": "159.65.245.255",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "http",
+    "speed_ms": "716.97",
+    "anonymity": "elite",
+    "location": "Clifton"
   },
   {
     "ip": "68.183.140.90",
@@ -703,9 +955,21 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "561.16",
+    "speed_ms": "537.49",
     "anonymity": "elite",
     "location": "North Bergen"
+  },
+  {
+    "ip": "47.251.87.199",
+    "port": 4443,
+    "country": "US",
+    "country_code": "US",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2176.51",
+    "anonymity": "elite",
+    "location": "Minkler"
   },
   {
     "ip": "35.169.4.155",
@@ -715,9 +979,33 @@
     "asn": 14618,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "726.20",
+    "speed_ms": "562.03",
     "anonymity": "elite",
     "location": "Ashburn"
+  },
+  {
+    "ip": "47.254.36.213",
+    "port": 8060,
+    "country": "US",
+    "country_code": "US",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2161.52",
+    "anonymity": "elite",
+    "location": "Minkler"
+  },
+  {
+    "ip": "47.251.73.54",
+    "port": 11,
+    "country": "US",
+    "country_code": "US",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2157.32",
+    "anonymity": "elite",
+    "location": "Minkler"
   },
   {
     "ip": "104.129.194.46",
@@ -727,7 +1015,7 @@
     "asn": 22616,
     "isp": "ZSCALER, INC.",
     "protocol": "http",
-    "speed_ms": "1447.90",
+    "speed_ms": "1607.74",
     "anonymity": "elite",
     "location": "Reston"
   },
@@ -739,7 +1027,7 @@
     "asn": 212317,
     "isp": "Hetzner Online GmbH",
     "protocol": "http",
-    "speed_ms": "361.94",
+    "speed_ms": "304.41",
     "anonymity": "elite",
     "location": "Hillsboro"
   },
@@ -751,7 +1039,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "843.33",
+    "speed_ms": "941.49",
     "anonymity": "elite",
     "location": "Santa Clara"
   },
@@ -763,9 +1051,21 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "318.97",
+    "speed_ms": "322.87",
     "anonymity": "transparent",
     "location": "San Jose"
+  },
+  {
+    "ip": "47.251.87.74",
+    "port": 8983,
+    "country": "US",
+    "country_code": "US",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2141.80",
+    "anonymity": "elite",
+    "location": "Minkler"
   },
   {
     "ip": "45.56.114.82",
@@ -775,9 +1075,33 @@
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "657.45",
+    "speed_ms": "621.90",
     "anonymity": "elite",
     "location": "Atlanta"
+  },
+  {
+    "ip": "47.251.87.74",
+    "port": 20125,
+    "country": "US",
+    "country_code": "US",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2151.84",
+    "anonymity": "elite",
+    "location": "Minkler"
+  },
+  {
+    "ip": "47.89.159.212",
+    "port": 8085,
+    "country": "US",
+    "country_code": "US",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2294.18",
+    "anonymity": "elite",
+    "location": "Charlottesville"
   },
   {
     "ip": "208.91.197.49",
@@ -787,9 +1111,33 @@
     "asn": 40034,
     "isp": "Confluence Networks Inc",
     "protocol": "http",
-    "speed_ms": "721.64",
+    "speed_ms": "604.29",
     "anonymity": "elite",
     "location": "Jacksonville (Southside Estates)"
+  },
+  {
+    "ip": "47.251.73.54",
+    "port": 8118,
+    "country": "US",
+    "country_code": "US",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2132.84",
+    "anonymity": "elite",
+    "location": "Minkler"
+  },
+  {
+    "ip": "47.251.87.74",
+    "port": 10001,
+    "country": "US",
+    "country_code": "US",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2133.30",
+    "anonymity": "elite",
+    "location": "Minkler"
   },
   {
     "ip": "72.2.102.228",
@@ -799,9 +1147,21 @@
     "asn": 32162,
     "isp": "Carbon Lehigh Intermediate Unit 21",
     "protocol": "http",
-    "speed_ms": "500.09",
+    "speed_ms": "439.73",
     "anonymity": "elite",
     "location": "Schnecksville"
+  },
+  {
+    "ip": "47.89.159.212",
+    "port": 3128,
+    "country": "US",
+    "country_code": "US",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2276.01",
+    "anonymity": "elite",
+    "location": "Charlottesville"
   },
   {
     "ip": "23.239.10.167",
@@ -811,7 +1171,7 @@
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "901.02",
+    "speed_ms": "1013.95",
     "anonymity": "elite",
     "location": "Hanover (Cedar Knolls)"
   },
@@ -823,7 +1183,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "979.49",
+    "speed_ms": "1042.64",
     "anonymity": "elite",
     "location": "North Bergen"
   },
@@ -835,7 +1195,7 @@
     "asn": 40034,
     "isp": "Confluence Networks Inc",
     "protocol": "http",
-    "speed_ms": "679.31",
+    "speed_ms": "579.26",
     "anonymity": "elite",
     "location": "Jacksonville (Southside Estates)"
   },
@@ -847,7 +1207,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "375.75",
+    "speed_ms": "374.19",
     "anonymity": "elite",
     "location": "San Jose"
   },
@@ -859,7 +1219,7 @@
     "asn": 20473,
     "isp": "The Constant Company, LLC",
     "protocol": "http",
-    "speed_ms": "676.91",
+    "speed_ms": "576.58",
     "anonymity": "elite",
     "location": "Piscataway"
   },
@@ -871,7 +1231,7 @@
     "asn": 54179,
     "isp": "Ventura County Office of Education",
     "protocol": "http",
-    "speed_ms": "495.67",
+    "speed_ms": "153.09",
     "anonymity": "elite",
     "location": "Sunnyvale"
   },
@@ -883,9 +1243,33 @@
     "asn": 14618,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "675.86",
+    "speed_ms": "726.82",
     "anonymity": "elite",
     "location": "Ashburn"
+  },
+  {
+    "ip": "47.251.87.74",
+    "port": 9050,
+    "country": "US",
+    "country_code": "US",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2095.15",
+    "anonymity": "elite",
+    "location": "Minkler"
+  },
+  {
+    "ip": "47.251.73.54",
+    "port": 3128,
+    "country": "US",
+    "country_code": "US",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2094.34",
+    "anonymity": "elite",
+    "location": "Minkler"
   },
   {
     "ip": "34.111.2.182",
@@ -895,7 +1279,7 @@
     "asn": 396982,
     "isp": "Google LLC",
     "protocol": "http",
-    "speed_ms": "158.00",
+    "speed_ms": "139.49",
     "anonymity": "elite",
     "location": "Mountain View"
   },
@@ -907,7 +1291,7 @@
     "asn": 394625,
     "isp": "WhiteLabel IT Solutions Corp",
     "protocol": "http",
-    "speed_ms": "736.95",
+    "speed_ms": "974.72",
     "anonymity": "transparent",
     "location": "New York"
   },
@@ -919,9 +1303,21 @@
     "asn": 30058,
     "isp": "FDCservers.net",
     "protocol": "http",
-    "speed_ms": "695.34",
+    "speed_ms": "419.83",
     "anonymity": "transparent",
     "location": "Dallas"
+  },
+  {
+    "ip": "45.22.209.157",
+    "port": 8888,
+    "country": "US",
+    "country_code": "US",
+    "asn": 137409,
+    "isp": "GSL Networks Pty LTD",
+    "protocol": "http",
+    "speed_ms": "1080.78",
+    "anonymity": "anonymous",
+    "location": "Jackson"
   },
   {
     "ip": "52.200.75.202",
@@ -931,7 +1327,7 @@
     "asn": 14618,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "519.83",
+    "speed_ms": "542.26",
     "anonymity": "elite",
     "location": "Ashburn"
   }
