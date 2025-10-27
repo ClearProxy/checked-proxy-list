@@ -1,17 +1,5 @@
 [
   {
-    "ip": "103.156.16.151",
-    "port": 8818,
-    "country": "ID",
-    "country_code": "ID",
-    "asn": 141077,
-    "isp": "RSTNET",
-    "protocol": "http",
-    "speed_ms": "1497.44",
-    "anonymity": "transparent",
-    "location": "Indramayu"
-  },
-  {
     "ip": "203.189.88.156",
     "port": 8015,
     "country": "ID",
@@ -19,7 +7,7 @@
     "asn": 38765,
     "isp": "Departemen Energi dan Sumber Daya Mineral",
     "protocol": "http",
-    "speed_ms": "977.10",
+    "speed_ms": "1261.34",
     "anonymity": "elite",
     "location": "Jakarta"
   },
@@ -31,7 +19,7 @@
     "asn": 7713,
     "isp": "Telekomunikasi Indonesia (PT)",
     "protocol": "http",
-    "speed_ms": "919.62",
+    "speed_ms": "1104.42",
     "anonymity": "elite",
     "location": "Jakarta"
   },
@@ -43,7 +31,7 @@
     "asn": 140457,
     "isp": "PT Ikhlas Cipta Teknologi",
     "protocol": "http",
-    "speed_ms": "1496.56",
+    "speed_ms": "1679.46",
     "anonymity": "elite",
     "location": "Bekasi"
   },
@@ -55,9 +43,21 @@
     "asn": 131706,
     "isp": "PT SELARAS CITRA TERABIT",
     "protocol": "http",
-    "speed_ms": "1605.83",
+    "speed_ms": "1778.49",
     "anonymity": "elite",
     "location": "Magelang"
+  },
+  {
+    "ip": "103.247.12.18",
+    "port": 1111,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 131706,
+    "isp": "PT SELARAS CITRA TERABIT",
+    "protocol": "http",
+    "speed_ms": "1597.27",
+    "anonymity": "elite",
+    "location": "Mertoyudan"
   },
   {
     "ip": "103.145.143.118",
@@ -67,7 +67,7 @@
     "asn": 9341,
     "isp": "PT Indonesia Comnets Plus",
     "protocol": "http",
-    "speed_ms": "999.75",
+    "speed_ms": "1256.70",
     "anonymity": "elite",
     "location": "Jakarta"
   },
@@ -79,7 +79,7 @@
     "asn": 7713,
     "isp": "Telekomunikasi Indonesia (PT)",
     "protocol": "http",
-    "speed_ms": "960.74",
+    "speed_ms": "1173.26",
     "anonymity": "elite",
     "location": "Jakarta"
   },
@@ -91,7 +91,7 @@
     "asn": 139449,
     "isp": "PT Lintas Data Multimedia",
     "protocol": "http",
-    "speed_ms": "1195.81",
+    "speed_ms": "1439.49",
     "anonymity": "elite",
     "location": "Gadingrejo"
   },
@@ -103,7 +103,7 @@
     "asn": 147113,
     "isp": "PT Eyza Kausa Sinergi Abadi",
     "protocol": "http",
-    "speed_ms": "1323.38",
+    "speed_ms": "1445.26",
     "anonymity": "elite",
     "location": "Cikarang"
   },
@@ -115,7 +115,7 @@
     "asn": 147113,
     "isp": "PT Eyza Kausa Sinergi Abadi",
     "protocol": "http",
-    "speed_ms": "1179.93",
+    "speed_ms": "1403.80",
     "anonymity": "elite",
     "location": "Cikarang"
   },
@@ -127,32 +127,8 @@
     "asn": 396982,
     "isp": "Google LLC",
     "protocol": "http",
-    "speed_ms": "810.78",
+    "speed_ms": "980.83",
     "anonymity": "elite",
     "location": "Jakarta"
-  },
-  {
-    "ip": "103.156.16.151",
-    "port": 8818,
-    "country": "ID",
-    "country_code": "ID",
-    "asn": 141077,
-    "isp": "RSTNET",
-    "protocol": "http",
-    "speed_ms": "1151.81",
-    "anonymity": "transparent",
-    "location": "Indramayu"
-  },
-  {
-    "ip": "103.105.196.30",
-    "port": 80,
-    "country": "ID",
-    "country_code": "ID",
-    "asn": 137287,
-    "isp": "DINAS KOMUNIKASI DAN INFORMATIKA KAB. BEKASI",
-    "protocol": "http",
-    "speed_ms": "784.40",
-    "anonymity": "elite",
-    "location": "Cikarang"
   }
 ]
