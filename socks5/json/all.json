@@ -7,7 +7,7 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks5",
-    "speed_ms": "526.90",
+    "speed_ms": "392.85",
     "anonymity": "elite",
     "location": "Los Angeles"
   },
@@ -19,7 +19,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks5",
-    "speed_ms": "755.63",
+    "speed_ms": "740.99",
     "anonymity": "elite",
     "location": "Chicago"
   },
@@ -31,7 +31,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks5",
-    "speed_ms": "757.60",
+    "speed_ms": "892.15",
     "anonymity": "elite",
     "location": "Norfolk"
   },
@@ -43,7 +43,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks5",
-    "speed_ms": "759.95",
+    "speed_ms": "742.49",
     "anonymity": "elite",
     "location": "Pensacola"
   },
@@ -55,7 +55,7 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks5",
-    "speed_ms": "653.12",
+    "speed_ms": "628.29",
     "anonymity": "elite",
     "location": "Atlanta"
   },
@@ -67,7 +67,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks5",
-    "speed_ms": "757.70",
+    "speed_ms": "735.93",
     "anonymity": "elite",
     "location": "Irvine"
   },
@@ -79,7 +79,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks5",
-    "speed_ms": "769.52",
+    "speed_ms": "728.53",
     "anonymity": "elite",
     "location": "Atlanta (Perimeter Center)"
   },
@@ -91,7 +91,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks5",
-    "speed_ms": "800.05",
+    "speed_ms": "726.36",
     "anonymity": "elite",
     "location": "Chicago"
   },
@@ -103,7 +103,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks5",
-    "speed_ms": "737.94",
+    "speed_ms": "719.02",
     "anonymity": "elite",
     "location": "Norfolk"
   },
@@ -115,7 +115,7 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks5",
-    "speed_ms": "648.02",
+    "speed_ms": "619.39",
     "anonymity": "elite",
     "location": "Atlanta (Fairlie-Poplar)"
   },
@@ -127,33 +127,21 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks5",
-    "speed_ms": "746.24",
+    "speed_ms": "719.02",
     "anonymity": "elite",
     "location": "Buhler"
   },
   {
-    "ip": "121.169.46.116",
-    "port": 1090,
-    "country": "KR",
-    "country_code": "KR",
-    "asn": 4766,
-    "isp": "Korea Telecom",
+    "ip": "43.131.9.114",
+    "port": 1777,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 132203,
+    "isp": "Shenzhen Tencent Computer Systems Company Limited",
     "protocol": "socks5",
-    "speed_ms": "1726.84",
+    "speed_ms": "1832.87",
     "anonymity": "elite",
-    "location": "Yongin-si (Cheoin-gu)"
-  },
-  {
-    "ip": "37.18.73.60",
-    "port": 5566,
-    "country": "RO",
-    "country_code": "RO",
-    "asn": 214209,
-    "isp": "Internet Magnate (Pty) Ltd",
-    "protocol": "socks5",
-    "speed_ms": "1396.55",
-    "anonymity": "elite",
-    "location": "Orastie"
+    "location": "Frankfurt am Main"
   },
   {
     "ip": "184.170.248.5",
@@ -163,7 +151,7 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks5",
-    "speed_ms": "616.31",
+    "speed_ms": "612.07",
     "anonymity": "elite",
     "location": "Atlanta"
   },
@@ -175,9 +163,21 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks5",
-    "speed_ms": "743.91",
+    "speed_ms": "707.58",
     "anonymity": "elite",
     "location": "Pensacola"
+  },
+  {
+    "ip": "65.109.27.32",
+    "port": 1080,
+    "country": "FI",
+    "country_code": "FI",
+    "asn": 24940,
+    "isp": "Hetzner Online GmbH",
+    "protocol": "socks5",
+    "speed_ms": "2380.35",
+    "anonymity": "elite",
+    "location": "Helsinki"
   },
   {
     "ip": "174.75.211.193",
@@ -187,7 +187,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks5",
-    "speed_ms": "714.89",
+    "speed_ms": "723.39",
     "anonymity": "elite",
     "location": "Pensacola"
   },
@@ -199,9 +199,21 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks5",
-    "speed_ms": "744.62",
+    "speed_ms": "693.55",
     "anonymity": "elite",
     "location": "Pensacola"
+  },
+  {
+    "ip": "8.215.47.191",
+    "port": 10080,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "socks5",
+    "speed_ms": "1373.35",
+    "anonymity": "elite",
+    "location": "Jakarta"
   },
   {
     "ip": "192.111.130.5",
@@ -211,7 +223,7 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks5",
-    "speed_ms": "603.41",
+    "speed_ms": "580.73",
     "anonymity": "elite",
     "location": "Atlanta (Fairlie-Poplar)"
   },
@@ -223,7 +235,7 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks5",
-    "speed_ms": "598.20",
+    "speed_ms": "578.98",
     "anonymity": "elite",
     "location": "Atlanta (Fairlie-Poplar)"
   },
@@ -235,7 +247,7 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks5",
-    "speed_ms": "596.91",
+    "speed_ms": "577.07",
     "anonymity": "elite",
     "location": "Atlanta (Fairlie-Poplar)"
   },
@@ -247,9 +259,21 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks5",
-    "speed_ms": "606.02",
+    "speed_ms": "592.15",
     "anonymity": "elite",
     "location": "London"
+  },
+  {
+    "ip": "184.182.240.211",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 22773,
+    "isp": "Cox Communications Inc.",
+    "protocol": "socks5",
+    "speed_ms": "670.79",
+    "anonymity": "elite",
+    "location": "Macon"
   },
   {
     "ip": "98.188.47.132",
@@ -259,7 +283,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks5",
-    "speed_ms": "690.56",
+    "speed_ms": "657.02",
     "anonymity": "elite",
     "location": "Chicago"
   },
@@ -271,7 +295,7 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks5",
-    "speed_ms": "574.28",
+    "speed_ms": "565.67",
     "anonymity": "elite",
     "location": "Atlanta"
   },
@@ -283,7 +307,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks5",
-    "speed_ms": "694.38",
+    "speed_ms": "657.08",
     "anonymity": "elite",
     "location": "Roanoke"
   },
@@ -295,7 +319,7 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks5",
-    "speed_ms": "578.10",
+    "speed_ms": "579.24",
     "anonymity": "elite",
     "location": "Atlanta (Fairlie-Poplar)"
   },
@@ -307,7 +331,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks5",
-    "speed_ms": "670.51",
+    "speed_ms": "668.47",
     "anonymity": "elite",
     "location": "Pensacola"
   },
@@ -319,7 +343,7 @@
     "asn": 49505,
     "isp": "JSC Selectel",
     "protocol": "socks5",
-    "speed_ms": "1026.66",
+    "speed_ms": "991.10",
     "anonymity": "elite",
     "location": "St Petersburg"
   },
@@ -331,7 +355,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks5",
-    "speed_ms": "663.47",
+    "speed_ms": "642.70",
     "anonymity": "elite",
     "location": "Atlanta (Perimeter Center)"
   },
@@ -343,21 +367,9 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks5",
-    "speed_ms": "649.97",
+    "speed_ms": "657.44",
     "anonymity": "elite",
     "location": "Irvine"
-  },
-  {
-    "ip": "8.215.47.191",
-    "port": 10080,
-    "country": "ID",
-    "country_code": "ID",
-    "asn": 45102,
-    "isp": "Alibaba (US) Technology Co., Ltd.",
-    "protocol": "socks5",
-    "speed_ms": "1371.15",
-    "anonymity": "elite",
-    "location": "Jakarta"
   },
   {
     "ip": "192.111.137.34",
@@ -367,7 +379,7 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks5",
-    "speed_ms": "570.42",
+    "speed_ms": "550.10",
     "anonymity": "elite",
     "location": "Atlanta (Fairlie-Poplar)"
   },
@@ -379,21 +391,9 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks5",
-    "speed_ms": "554.10",
+    "speed_ms": "551.28",
     "anonymity": "elite",
     "location": "Atlanta"
-  },
-  {
-    "ip": "223.25.110.37",
-    "port": 8199,
-    "country": "ID",
-    "country_code": "ID",
-    "asn": 136873,
-    "isp": "MEGADATA-ISP",
-    "protocol": "socks5",
-    "speed_ms": "1391.46",
-    "anonymity": "elite",
-    "location": "Purbalingga"
   },
   {
     "ip": "43.157.34.94",
@@ -403,7 +403,7 @@
     "asn": 132203,
     "isp": "Shenzhen Tencent Computer Systems Company Limited",
     "protocol": "socks5",
-    "speed_ms": "1216.48",
+    "speed_ms": "773.05",
     "anonymity": "elite",
     "location": "Frankfurt am Main"
   },
@@ -415,7 +415,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks5",
-    "speed_ms": "644.00",
+    "speed_ms": "653.75",
     "anonymity": "elite",
     "location": "Roanoke"
   },
@@ -427,7 +427,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks5",
-    "speed_ms": "669.61",
+    "speed_ms": "646.24",
     "anonymity": "elite",
     "location": "Pensacola"
   },
@@ -439,7 +439,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks5",
-    "speed_ms": "632.52",
+    "speed_ms": "922.86",
     "anonymity": "elite",
     "location": "Pensacola"
   },
@@ -451,7 +451,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks5",
-    "speed_ms": "618.43",
+    "speed_ms": "930.95",
     "anonymity": "elite",
     "location": "Chicago"
   },
@@ -463,7 +463,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks5",
-    "speed_ms": "622.44",
+    "speed_ms": "769.87",
     "anonymity": "elite",
     "location": "Pensacola"
   },
@@ -475,7 +475,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks5",
-    "speed_ms": "611.53",
+    "speed_ms": "607.34",
     "anonymity": "elite",
     "location": "Pensacola"
   }

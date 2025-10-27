@@ -7,7 +7,7 @@
     "asn": 9123,
     "isp": "TimeWeb LLC",
     "protocol": "http",
-    "speed_ms": "1278.70",
+    "speed_ms": "1262.10",
     "anonymity": "elite",
     "location": "St Petersburg"
   },
@@ -19,7 +19,7 @@
     "asn": 44020,
     "isp": "Modern Solutions LTD",
     "protocol": "http",
-    "speed_ms": "1388.51",
+    "speed_ms": "1345.97",
     "anonymity": "elite",
     "location": "Mugreyevskiy"
   },
@@ -31,7 +31,7 @@
     "asn": 50340,
     "isp": "JSC Selectel",
     "protocol": "http",
-    "speed_ms": "1057.51",
+    "speed_ms": "1100.14",
     "anonymity": "elite",
     "location": "Moscow"
   },
@@ -43,7 +43,7 @@
     "asn": 47626,
     "isp": "Timer, LLC",
     "protocol": "http",
-    "speed_ms": "937.55",
+    "speed_ms": "1015.83",
     "anonymity": "elite",
     "location": "Aksay"
   },
@@ -55,7 +55,7 @@
     "asn": 200350,
     "isp": "Yandex.Cloud LLC",
     "protocol": "http",
-    "speed_ms": "976.11",
+    "speed_ms": "1021.35",
     "anonymity": "elite",
     "location": "Moscow"
   },
@@ -67,8 +67,20 @@
     "asn": 35598,
     "isp": "INETCOM CARRIER LLC",
     "protocol": "http",
-    "speed_ms": "797.48",
+    "speed_ms": "801.96",
     "anonymity": "elite",
     "location": "Moscow"
+  },
+  {
+    "ip": "46.47.197.210",
+    "port": 3128,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 20632,
+    "isp": "PJSC MegaFon",
+    "protocol": "http",
+    "speed_ms": "1752.48",
+    "anonymity": "elite",
+    "location": "St Petersburg"
   }
 ]
