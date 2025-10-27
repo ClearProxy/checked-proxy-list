@@ -1,14 +1,26 @@
 [
   {
-    "ip": "83.111.75.116",
-    "port": 80,
+    "ip": "40.172.232.213",
+    "port": 8180,
     "country": "AE",
     "country_code": "AE",
-    "asn": 5384,
-    "isp": "EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",
+    "asn": 16509,
+    "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "896.26",
+    "speed_ms": "2378.42",
     "anonymity": "elite",
-    "location": "Bur Dubai"
+    "location": "Dubai"
+  },
+  {
+    "ip": "40.172.232.213",
+    "port": 9078,
+    "country": "AE",
+    "country_code": "AE",
+    "asn": 16509,
+    "isp": "Amazon.com, Inc.",
+    "protocol": "http",
+    "speed_ms": "2401.26",
+    "anonymity": "elite",
+    "location": "Dubai"
   }
 ]

@@ -1,17 +1,5 @@
 [
   {
-    "ip": "4.195.16.140",
-    "port": 80,
-    "country": "AU",
-    "country_code": "AU",
-    "asn": 8075,
-    "isp": "Microsoft Corporation",
-    "protocol": "http",
-    "speed_ms": "1763.94",
-    "anonymity": "elite",
-    "location": "Sydney"
-  },
-  {
     "ip": "170.64.182.238",
     "port": 8080,
     "country": "AU",
@@ -19,8 +7,20 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "897.93",
+    "speed_ms": "2040.69",
     "anonymity": "elite",
     "location": "Alexandria"
+  },
+  {
+    "ip": "13.211.233.22",
+    "port": 36619,
+    "country": "AU",
+    "country_code": "AU",
+    "asn": 16509,
+    "isp": "Amazon.com, Inc.",
+    "protocol": "http",
+    "speed_ms": "1862.52",
+    "anonymity": "elite",
+    "location": "Sydney"
   }
 ]
