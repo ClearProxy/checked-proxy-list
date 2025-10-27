@@ -7,7 +7,7 @@
     "asn": 3356,
     "isp": "Level 3 Communications, Inc.",
     "protocol": "http",
-    "speed_ms": "1640.50",
+    "speed_ms": "1379.48",
     "anonymity": "transparent",
     "location": "Bogota (Suba)"
   },
@@ -19,7 +19,7 @@
     "asn": 3356,
     "isp": "Level 3 Communications, Inc.",
     "protocol": "http",
-    "speed_ms": "1497.10",
+    "speed_ms": "1219.64",
     "anonymity": "transparent",
     "location": "Bogota (Suba)"
   },
@@ -31,7 +31,19 @@
     "asn": 269804,
     "isp": "SEPCOM COMUNICACIONES SAS",
     "protocol": "http",
-    "speed_ms": "1200.67",
+    "speed_ms": "1039.53",
+    "anonymity": "transparent",
+    "location": "Popayan"
+  },
+  {
+    "ip": "190.242.157.215",
+    "port": 8080,
+    "country": "CO",
+    "country_code": "CO",
+    "asn": 269804,
+    "isp": "SEPCOM COMUNICACIONES SAS",
+    "protocol": "http",
+    "speed_ms": "840.23",
     "anonymity": "transparent",
     "location": "Popayan"
   }
