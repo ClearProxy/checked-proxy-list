@@ -7,7 +7,7 @@
     "asn": 14080,
     "isp": "Telmex Colombia S.A.",
     "protocol": "http",
-    "speed_ms": "1854.08",
+    "speed_ms": "1335.90",
     "anonymity": "elite",
     "location": "Neiva"
   },
@@ -19,7 +19,7 @@
     "asn": 3356,
     "isp": "Level 3 Communications, Inc.",
     "protocol": "http",
-    "speed_ms": "1400.38",
+    "speed_ms": "1025.26",
     "anonymity": "transparent",
     "location": "Bogota (Suba)"
   },
@@ -31,8 +31,20 @@
     "asn": 3356,
     "isp": "Level 3 Communications, Inc.",
     "protocol": "http",
-    "speed_ms": "1317.58",
+    "speed_ms": "1023.36",
     "anonymity": "transparent",
     "location": "Bogota (Suba)"
+  },
+  {
+    "ip": "190.242.157.215",
+    "port": 8080,
+    "country": "CO",
+    "country_code": "CO",
+    "asn": 269804,
+    "isp": "SEPCOM COMUNICACIONES SAS",
+    "protocol": "http",
+    "speed_ms": "897.05",
+    "anonymity": "transparent",
+    "location": "Popayan"
   }
 ]
