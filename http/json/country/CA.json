@@ -7,7 +7,7 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "817.98",
+    "speed_ms": "641.92",
     "anonymity": "elite",
     "location": "Beauharnois"
   },
@@ -19,7 +19,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "674.66",
+    "speed_ms": "639.84",
     "anonymity": "elite",
     "location": "Montreal"
   },
@@ -31,8 +31,20 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1139.76",
+    "speed_ms": "962.03",
     "anonymity": "elite",
     "location": "Toronto (Old Toronto)"
+  },
+  {
+    "ip": "72.10.160.170",
+    "port": 5791,
+    "country": "CA",
+    "country_code": "CA",
+    "asn": 6327,
+    "isp": "Shaw Communications Inc.",
+    "protocol": "http",
+    "speed_ms": "1613.39",
+    "anonymity": "elite",
+    "location": "Vancouver"
   }
 ]
