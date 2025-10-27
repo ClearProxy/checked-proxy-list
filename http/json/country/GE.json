@@ -1,17 +1,5 @@
 [
   {
-    "ip": "62.3.30.26",
-    "port": 8080,
-    "country": "GE",
-    "country_code": "GE",
-    "asn": 209743,
-    "isp": "Enbinet Ltd.",
-    "protocol": "http",
-    "speed_ms": "1711.59",
-    "anonymity": "elite",
-    "location": "Mtskheta"
-  },
-  {
     "ip": "85.117.56.151",
     "port": 8080,
     "country": "GE",
@@ -19,8 +7,20 @@
     "asn": 20771,
     "isp": "Caucasus Online Ltd.",
     "protocol": "http",
-    "speed_ms": "1691.69",
+    "speed_ms": "1734.91",
     "anonymity": "elite",
     "location": "Bolnisi"
+  },
+  {
+    "ip": "92.51.126.42",
+    "port": 8080,
+    "country": "GE",
+    "country_code": "GE",
+    "asn": 44327,
+    "isp": "DELTA COMM LLC",
+    "protocol": "http",
+    "speed_ms": "1759.82",
+    "anonymity": "elite",
+    "location": "Aghaiani"
   }
 ]
