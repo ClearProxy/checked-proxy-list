@@ -7,7 +7,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "1326.46",
+    "speed_ms": "1554.66",
     "anonymity": "transparent",
     "location": "Shibuya City"
   },
@@ -19,9 +19,21 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "2290.68",
+    "speed_ms": "2472.19",
     "anonymity": "transparent",
     "location": "Shibuya City"
+  },
+  {
+    "ip": "97.74.87.226",
+    "port": 80,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 26496,
+    "isp": "GoDaddy.com, LLC",
+    "protocol": "http",
+    "speed_ms": "2219.62",
+    "anonymity": "elite",
+    "location": "Chiyoda City"
   },
   {
     "ip": "172.237.21.212",
@@ -31,7 +43,7 @@
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "541.80",
+    "speed_ms": "757.85",
     "anonymity": "elite",
     "location": "Shibuya City"
   },
@@ -43,7 +55,19 @@
     "asn": 24282,
     "isp": "KAGOYA JAPAN Inc.",
     "protocol": "http",
-    "speed_ms": "986.97",
+    "speed_ms": "1576.17",
+    "anonymity": "elite",
+    "location": "Chiyoda City"
+  },
+  {
+    "ip": "97.74.87.226",
+    "port": 80,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 26496,
+    "isp": "GoDaddy.com, LLC",
+    "protocol": "http",
+    "speed_ms": "1042.86",
     "anonymity": "elite",
     "location": "Chiyoda City"
   }
