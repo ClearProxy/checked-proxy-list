@@ -7,21 +7,9 @@
     "asn": 269804,
     "isp": "SEPCOM COMUNICACIONES SAS",
     "protocol": "http",
-    "speed_ms": "2220.46",
+    "speed_ms": "2220.37",
     "anonymity": "transparent",
     "location": "Popayan"
-  },
-  {
-    "ip": "181.49.106.19",
-    "port": 80,
-    "country": "CO",
-    "country_code": "CO",
-    "asn": 14080,
-    "isp": "Telmex Colombia S.A.",
-    "protocol": "http",
-    "speed_ms": "1619.31",
-    "anonymity": "elite",
-    "location": "Neiva"
   },
   {
     "ip": "190.242.157.215",
@@ -31,21 +19,21 @@
     "asn": 269804,
     "isp": "SEPCOM COMUNICACIONES SAS",
     "protocol": "http",
-    "speed_ms": "2079.34",
+    "speed_ms": "1240.31",
     "anonymity": "transparent",
     "location": "Popayan"
   },
   {
-    "ip": "186.180.73.50",
-    "port": 9090,
+    "ip": "200.69.78.90",
+    "port": 999,
     "country": "CO",
     "country_code": "CO",
-    "asn": 27831,
-    "isp": "Colombia Movil",
+    "asn": 262186,
+    "isp": "TV AZTECA SUCURSAL COLOMBIA",
     "protocol": "http",
-    "speed_ms": "2298.83",
+    "speed_ms": "2262.47",
     "anonymity": "transparent",
-    "location": "Bogota (Engativa)"
+    "location": "Puerto Yuca"
   },
   {
     "ip": "8.243.68.10",
@@ -55,7 +43,55 @@
     "asn": 3356,
     "isp": "Level 3 Communications, Inc.",
     "protocol": "http",
-    "speed_ms": "2283.47",
+    "speed_ms": "2362.57",
+    "anonymity": "transparent",
+    "location": "Bogota (Suba)"
+  },
+  {
+    "ip": "181.49.106.19",
+    "port": 80,
+    "country": "CO",
+    "country_code": "CO",
+    "asn": 14080,
+    "isp": "Telmex Colombia S.A.",
+    "protocol": "http",
+    "speed_ms": "2401.62",
+    "anonymity": "elite",
+    "location": "Neiva"
+  },
+  {
+    "ip": "181.205.161.187",
+    "port": 999,
+    "country": "CO",
+    "country_code": "CO",
+    "asn": 27831,
+    "isp": "Colombia Movil",
+    "protocol": "http",
+    "speed_ms": "2035.38",
+    "anonymity": "transparent",
+    "location": "Medellin"
+  },
+  {
+    "ip": "209.14.119.122",
+    "port": 999,
+    "country": "CO",
+    "country_code": "CO",
+    "asn": 262186,
+    "isp": "TV AZTECA SUCURSAL COLOMBIA",
+    "protocol": "http",
+    "speed_ms": "2178.41",
+    "anonymity": "transparent",
+    "location": "Villa Caro"
+  },
+  {
+    "ip": "8.243.68.10",
+    "port": 8080,
+    "country": "CO",
+    "country_code": "CO",
+    "asn": 3356,
+    "isp": "Level 3 Communications, Inc.",
+    "protocol": "http",
+    "speed_ms": "1382.67",
     "anonymity": "transparent",
     "location": "Bogota (Suba)"
   }

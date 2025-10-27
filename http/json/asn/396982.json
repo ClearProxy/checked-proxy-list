@@ -1,27 +1,15 @@
 [
   {
-    "ip": "35.197.89.213",
+    "ip": "104.155.15.30",
     "port": 80,
-    "country": "US",
-    "country_code": "US",
+    "country": "BE",
+    "country_code": "BE",
     "asn": 396982,
     "isp": "Google LLC",
     "protocol": "http",
-    "speed_ms": "2004.10",
+    "speed_ms": "1228.70",
     "anonymity": "elite",
-    "location": "The Dalles"
-  },
-  {
-    "ip": "34.8.43.236",
-    "port": 80,
-    "country": "US",
-    "country_code": "US",
-    "asn": 396982,
-    "isp": "Google LLC",
-    "protocol": "http",
-    "speed_ms": "2264.56",
-    "anonymity": "elite",
-    "location": "Kansas City"
+    "location": "Brussels"
   },
   {
     "ip": "34.101.62.47",
@@ -31,9 +19,21 @@
     "asn": 396982,
     "isp": "Google LLC",
     "protocol": "http",
-    "speed_ms": "1937.58",
+    "speed_ms": "1722.93",
     "anonymity": "elite",
     "location": "Jakarta"
+  },
+  {
+    "ip": "35.197.89.213",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 396982,
+    "isp": "Google LLC",
+    "protocol": "http",
+    "speed_ms": "1136.52",
+    "anonymity": "elite",
+    "location": "The Dalles"
   },
   {
     "ip": "34.111.2.182",
@@ -43,8 +43,20 @@
     "asn": 396982,
     "isp": "Google LLC",
     "protocol": "http",
-    "speed_ms": "1603.43",
+    "speed_ms": "2434.68",
     "anonymity": "elite",
     "location": "Mountain View"
+  },
+  {
+    "ip": "34.8.43.236",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 396982,
+    "isp": "Google LLC",
+    "protocol": "http",
+    "speed_ms": "1568.64",
+    "anonymity": "elite",
+    "location": "Kansas City"
   }
 ]

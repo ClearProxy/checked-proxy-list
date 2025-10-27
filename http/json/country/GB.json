@@ -1,17 +1,5 @@
 [
   {
-    "ip": "213.136.87.65",
-    "port": 80,
-    "country": "GB",
-    "country_code": "GB",
-    "asn": 51167,
-    "isp": "Contabo GmbH",
-    "protocol": "http",
-    "speed_ms": "2420.45",
-    "anonymity": "elite",
-    "location": "London"
-  },
-  {
     "ip": "62.3.71.255",
     "port": 8118,
     "country": "GB",
@@ -19,21 +7,21 @@
     "asn": 62240,
     "isp": "Clouvider Limited",
     "protocol": "http",
-    "speed_ms": "2302.95",
+    "speed_ms": "1620.29",
     "anonymity": "elite",
     "location": "Manchester"
   },
   {
-    "ip": "167.71.141.197",
-    "port": 80,
+    "ip": "185.25.188.3",
+    "port": 8080,
     "country": "GB",
     "country_code": "GB",
-    "asn": 14061,
-    "isp": "DigitalOcean, LLC",
+    "asn": 16353,
+    "isp": "Merula Limited",
     "protocol": "http",
-    "speed_ms": "2054.60",
+    "speed_ms": "1962.37",
     "anonymity": "elite",
-    "location": "Hackney"
+    "location": "Manchester"
   },
   {
     "ip": "154.65.39.7",
@@ -43,7 +31,31 @@
     "asn": 37649,
     "isp": "SAGA AFRICA HOLDINGS LIMITED",
     "protocol": "http",
-    "speed_ms": "2200.04",
+    "speed_ms": "2020.11",
+    "anonymity": "elite",
+    "location": "London"
+  },
+  {
+    "ip": "167.71.141.197",
+    "port": 80,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "http",
+    "speed_ms": "1319.69",
+    "anonymity": "elite",
+    "location": "Hackney"
+  },
+  {
+    "ip": "213.136.87.65",
+    "port": 80,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 51167,
+    "isp": "Contabo GmbH",
+    "protocol": "http",
+    "speed_ms": "1903.64",
     "anonymity": "elite",
     "location": "London"
   },
@@ -55,20 +67,20 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "2078.52",
+    "speed_ms": "1122.85",
     "anonymity": "elite",
     "location": "Wembley"
   },
   {
-    "ip": "185.25.188.3",
-    "port": 8080,
+    "ip": "64.227.35.215",
+    "port": 80,
     "country": "GB",
     "country_code": "GB",
-    "asn": 16353,
-    "isp": "Merula Limited",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "2258.15",
+    "speed_ms": "1000.61",
     "anonymity": "elite",
-    "location": "Manchester"
+    "location": "Solihull"
   }
 ]

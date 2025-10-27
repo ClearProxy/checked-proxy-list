@@ -1,14 +1,26 @@
 [
   {
-    "ip": "103.27.22.65",
-    "port": 32650,
+    "ip": "103.153.38.105",
+    "port": 8083,
     "country": "PK",
     "country_code": "PK",
-    "asn": 24435,
-    "isp": "Supernet, PDS Limited",
+    "asn": 140900,
+    "isp": "Getlinks (SMC-Private) Limited",
     "protocol": "http",
-    "speed_ms": "2413.43",
+    "speed_ms": "2405.83",
     "anonymity": "transparent",
-    "location": "Karachi (Block 5)"
+    "location": "Burewala"
+  },
+  {
+    "ip": "67.43.236.18",
+    "port": 13325,
+    "country": "PK",
+    "country_code": "PK",
+    "asn": 135407,
+    "isp": "Trans World Enterprise Services (Private) Limited",
+    "protocol": "http",
+    "speed_ms": "2001.13",
+    "anonymity": "elite",
+    "location": "Karachi"
   }
 ]
