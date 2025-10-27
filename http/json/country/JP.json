@@ -1,5 +1,17 @@
 [
   {
+    "ip": "8.209.255.13",
+    "port": 3128,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "1783.92",
+    "anonymity": "transparent",
+    "location": "Shibuya City"
+  },
+  {
     "ip": "172.237.21.212",
     "port": 80,
     "country": "JP",
@@ -7,7 +19,7 @@
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "1034.46",
+    "speed_ms": "1118.38",
     "anonymity": "elite",
     "location": "Shibuya City"
   },
@@ -19,7 +31,7 @@
     "asn": 24282,
     "isp": "KAGOYA JAPAN Inc.",
     "protocol": "http",
-    "speed_ms": "1639.79",
+    "speed_ms": "1621.83",
     "anonymity": "elite",
     "location": "Chiyoda City"
   },
@@ -31,7 +43,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "1158.38",
+    "speed_ms": "1540.83",
     "anonymity": "transparent",
     "location": "Shibuya City"
   },
@@ -43,8 +55,20 @@
     "asn": 2497,
     "isp": "Internet Initiative Japan Inc.",
     "protocol": "http",
-    "speed_ms": "840.13",
+    "speed_ms": "1652.12",
     "anonymity": "elite",
     "location": "Kurihama"
+  },
+  {
+    "ip": "8.209.255.13",
+    "port": 3128,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "1318.97",
+    "anonymity": "transparent",
+    "location": "Shibuya City"
   }
 ]
