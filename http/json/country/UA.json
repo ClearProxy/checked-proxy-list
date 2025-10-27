@@ -1,5 +1,29 @@
 [
   {
+    "ip": "213.111.124.78",
+    "port": 8208,
+    "country": "UA",
+    "country_code": "UA",
+    "asn": 48683,
+    "isp": "Bilink LLC",
+    "protocol": "http",
+    "speed_ms": "2056.63",
+    "anonymity": "elite",
+    "location": "Sofiyivska Borschagivka"
+  },
+  {
+    "ip": "47.252.29.28",
+    "port": 11222,
+    "country": "UA",
+    "country_code": "UA",
+    "asn": 212238,
+    "isp": "Datacamp Limited",
+    "protocol": "http",
+    "speed_ms": "2139.82",
+    "anonymity": "elite",
+    "location": "Kyiv"
+  },
+  {
     "ip": "77.123.145.21",
     "port": 3128,
     "country": "UA",
@@ -7,8 +31,32 @@
     "asn": 35680,
     "isp": "Volia-Cable LLC",
     "protocol": "http",
-    "speed_ms": "1964.00",
+    "speed_ms": "1298.28",
     "anonymity": "transparent",
+    "location": "Kyiv"
+  },
+  {
+    "ip": "77.123.145.21",
+    "port": 3128,
+    "country": "UA",
+    "country_code": "UA",
+    "asn": 35680,
+    "isp": "Volia-Cable LLC",
+    "protocol": "http",
+    "speed_ms": "1222.26",
+    "anonymity": "transparent",
+    "location": "Kyiv"
+  },
+  {
+    "ip": "195.137.203.242",
+    "port": 80,
+    "country": "UA",
+    "country_code": "UA",
+    "asn": 29491,
+    "isp": "KIEVLINE LLC",
+    "protocol": "http",
+    "speed_ms": "1238.13",
+    "anonymity": "elite",
     "location": "Kyiv"
   }
 ]

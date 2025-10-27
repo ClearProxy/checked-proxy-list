@@ -1,5 +1,29 @@
 [
   {
+    "ip": "138.197.155.38",
+    "port": 80,
+    "country": "CA",
+    "country_code": "CA",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "http",
+    "speed_ms": "1779.34",
+    "anonymity": "elite",
+    "location": "Toronto (Old Toronto)"
+  },
+  {
+    "ip": "148.113.172.51",
+    "port": 8080,
+    "country": "CA",
+    "country_code": "CA",
+    "asn": 16276,
+    "isp": "OVH SAS",
+    "protocol": "http",
+    "speed_ms": "2134.38",
+    "anonymity": "transparent",
+    "location": "Beauharnois"
+  },
+  {
     "ip": "35.182.162.62",
     "port": 80,
     "country": "CA",
@@ -7,81 +31,9 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "1817.40",
+    "speed_ms": "1632.74",
     "anonymity": "elite",
     "location": "Montreal"
-  },
-  {
-    "ip": "35.183.64.191",
-    "port": 44076,
-    "country": "CA",
-    "country_code": "CA",
-    "asn": 16509,
-    "isp": "Amazon.com, Inc.",
-    "protocol": "http",
-    "speed_ms": "1284.75",
-    "anonymity": "elite",
-    "location": "Montreal"
-  },
-  {
-    "ip": "142.4.197.209",
-    "port": 80,
-    "country": "CA",
-    "country_code": "CA",
-    "asn": 16276,
-    "isp": "OVH SAS",
-    "protocol": "http",
-    "speed_ms": "1717.63",
-    "anonymity": "elite",
-    "location": "Montreal (Ville-Marie)"
-  },
-  {
-    "ip": "157.230.69.90",
-    "port": 3000,
-    "country": "CA",
-    "country_code": "CA",
-    "asn": 14061,
-    "isp": "DigitalOcean, LLC",
-    "protocol": "http",
-    "speed_ms": "2359.27",
-    "anonymity": "elite",
-    "location": "Toronto (Old Toronto)"
-  },
-  {
-    "ip": "67.43.228.253",
-    "port": 12663,
-    "country": "CA",
-    "country_code": "CA",
-    "asn": 812,
-    "isp": "Rogers Communications Canada Inc.",
-    "protocol": "http",
-    "speed_ms": "2079.11",
-    "anonymity": "elite",
-    "location": "Vaughan (Woodbridge)"
-  },
-  {
-    "ip": "35.183.64.191",
-    "port": 8406,
-    "country": "CA",
-    "country_code": "CA",
-    "asn": 16509,
-    "isp": "Amazon.com, Inc.",
-    "protocol": "http",
-    "speed_ms": "1439.75",
-    "anonymity": "elite",
-    "location": "Montreal"
-  },
-  {
-    "ip": "72.10.164.178",
-    "port": 7151,
-    "country": "CA",
-    "country_code": "CA",
-    "asn": 11260,
-    "isp": "EastLink",
-    "protocol": "http",
-    "speed_ms": "2396.30",
-    "anonymity": "elite",
-    "location": "Halifax (North End)"
   },
   {
     "ip": "142.44.163.98",
@@ -91,44 +43,32 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "1794.92",
+    "speed_ms": "1523.03",
     "anonymity": "elite",
     "location": "Beauharnois"
   },
   {
-    "ip": "35.183.64.191",
-    "port": 30309,
+    "ip": "157.230.69.90",
+    "port": 3000,
     "country": "CA",
     "country_code": "CA",
-    "asn": 16509,
-    "isp": "Amazon.com, Inc.",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1599.61",
+    "speed_ms": "1657.08",
     "anonymity": "elite",
-    "location": "Montreal"
+    "location": "Toronto (Old Toronto)"
   },
   {
-    "ip": "35.183.64.191",
-    "port": 45148,
-    "country": "CA",
-    "country_code": "CA",
-    "asn": 16509,
-    "isp": "Amazon.com, Inc.",
-    "protocol": "http",
-    "speed_ms": "1457.65",
-    "anonymity": "elite",
-    "location": "Montreal"
-  },
-  {
-    "ip": "142.58.238.61",
+    "ip": "142.4.197.209",
     "port": 80,
     "country": "CA",
     "country_code": "CA",
-    "asn": 11105,
-    "isp": "Simon Fraser University",
+    "asn": 16276,
+    "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "2273.19",
+    "speed_ms": "1787.34",
     "anonymity": "elite",
-    "location": "Burnaby"
+    "location": "Montreal (Ville-Marie)"
   }
 ]
