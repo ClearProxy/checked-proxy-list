@@ -1,5 +1,17 @@
 [
   {
+    "ip": "148.113.172.51",
+    "port": 8080,
+    "country": "CA",
+    "country_code": "CA",
+    "asn": 16276,
+    "isp": "OVH SAS",
+    "protocol": "http",
+    "speed_ms": "1957.52",
+    "anonymity": "transparent",
+    "location": "Beauharnois"
+  },
+  {
     "ip": "142.44.163.98",
     "port": 80,
     "country": "CA",
@@ -7,8 +19,20 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "719.54",
+    "speed_ms": "440.08",
     "anonymity": "elite",
+    "location": "Beauharnois"
+  },
+  {
+    "ip": "148.113.172.51",
+    "port": 8080,
+    "country": "CA",
+    "country_code": "CA",
+    "asn": 16276,
+    "isp": "OVH SAS",
+    "protocol": "http",
+    "speed_ms": "902.73",
+    "anonymity": "transparent",
     "location": "Beauharnois"
   },
   {
@@ -19,7 +43,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "783.95",
+    "speed_ms": "477.42",
     "anonymity": "elite",
     "location": "Montreal"
   },
@@ -31,7 +55,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "902.61",
+    "speed_ms": "756.86",
     "anonymity": "elite",
     "location": "Toronto (Old Toronto)"
   }
