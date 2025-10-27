@@ -1,17 +1,5 @@
 [
   {
-    "ip": "150.31.248.151",
-    "port": 5000,
-    "country": "JP",
-    "country_code": "JP",
-    "asn": 2497,
-    "isp": "Internet Initiative Japan Inc.",
-    "protocol": "http",
-    "speed_ms": "1063.48",
-    "anonymity": "elite",
-    "location": "Kurihama"
-  },
-  {
     "ip": "133.18.234.13",
     "port": 80,
     "country": "JP",
@@ -19,9 +7,21 @@
     "asn": 24282,
     "isp": "KAGOYA JAPAN Inc.",
     "protocol": "http",
-    "speed_ms": "1122.99",
+    "speed_ms": "1026.79",
     "anonymity": "elite",
     "location": "Chiyoda City"
+  },
+  {
+    "ip": "74.113.96.35",
+    "port": 8080,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 18526,
+    "isp": "DDPS Networks, LLC",
+    "protocol": "http",
+    "speed_ms": "851.22",
+    "anonymity": "elite",
+    "location": "Chiyoda City (Otemachi)"
   },
   {
     "ip": "172.237.21.212",
@@ -31,7 +31,7 @@
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "565.22",
+    "speed_ms": "500.82",
     "anonymity": "elite",
     "location": "Shibuya City"
   }
