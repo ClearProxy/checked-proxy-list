@@ -1,13 +1,25 @@
 [
   {
-    "ip": "171.248.211.164",
+    "ip": "171.250.220.255",
     "port": 1080,
     "country": "VN",
     "country_code": "VN",
     "asn": 7552,
     "isp": "Viettel Group",
     "protocol": "socks4",
-    "speed_ms": "1172.88",
+    "speed_ms": "1225.76",
+    "anonymity": "elite",
+    "location": "Hanoi"
+  },
+  {
+    "ip": "27.65.243.182",
+    "port": 1080,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 7552,
+    "isp": "Viettel Group",
+    "protocol": "socks4",
+    "speed_ms": "1114.14",
     "anonymity": "elite",
     "location": "Hanoi"
   }
