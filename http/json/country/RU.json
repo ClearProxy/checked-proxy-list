@@ -7,7 +7,7 @@
     "asn": 200487,
     "isp": "OOO VPS",
     "protocol": "http",
-    "speed_ms": "1558.66",
+    "speed_ms": "1354.03",
     "anonymity": "elite",
     "location": "St Petersburg"
   },
@@ -19,7 +19,7 @@
     "asn": 9123,
     "isp": "TimeWeb LLC",
     "protocol": "http",
-    "speed_ms": "1304.56",
+    "speed_ms": "1000.39",
     "anonymity": "elite",
     "location": "St Petersburg"
   },
@@ -31,7 +31,7 @@
     "asn": 50340,
     "isp": "JSC Selectel",
     "protocol": "http",
-    "speed_ms": "1141.20",
+    "speed_ms": "981.93",
     "anonymity": "elite",
     "location": "Moscow"
   },
@@ -43,9 +43,21 @@
     "asn": 47626,
     "isp": "Timer, LLC",
     "protocol": "http",
-    "speed_ms": "983.12",
+    "speed_ms": "818.26",
     "anonymity": "elite",
     "location": "Aksay"
+  },
+  {
+    "ip": "47.252.29.28",
+    "port": 11222,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 209372,
+    "isp": "WS Telecom Inc",
+    "protocol": "http",
+    "speed_ms": "2051.85",
+    "anonymity": "elite",
+    "location": "Fatezh"
   },
   {
     "ip": "87.239.28.2",
@@ -55,7 +67,19 @@
     "asn": 35598,
     "isp": "INETCOM CARRIER LLC",
     "protocol": "http",
-    "speed_ms": "856.04",
+    "speed_ms": "721.99",
+    "anonymity": "elite",
+    "location": "Moscow"
+  },
+  {
+    "ip": "176.108.246.18",
+    "port": 10801,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 208677,
+    "isp": "\"Cloud Technologies\" LLC trading as Cloud.ru",
+    "protocol": "http",
+    "speed_ms": "1044.46",
     "anonymity": "elite",
     "location": "Moscow"
   }
