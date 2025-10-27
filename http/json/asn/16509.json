@@ -7,7 +7,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "994.75",
+    "speed_ms": "1335.35",
     "anonymity": "elite",
     "location": "San Jose"
   },
@@ -19,9 +19,21 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "1183.22",
+    "speed_ms": "1080.33",
     "anonymity": "elite",
     "location": "Zaragoza"
+  },
+  {
+    "ip": "34.127.40.229",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 16509,
+    "isp": "Amazon.com, Inc.",
+    "protocol": "http",
+    "speed_ms": "672.90",
+    "anonymity": "transparent",
+    "location": "San Jose"
   },
   {
     "ip": "54.251.92.147",
@@ -31,7 +43,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "1744.48",
+    "speed_ms": "1480.32",
     "anonymity": "elite",
     "location": "Singapore"
   },
@@ -43,7 +55,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "642.69",
+    "speed_ms": "557.76",
     "anonymity": "transparent",
     "location": "San Jose"
   },
@@ -55,7 +67,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "735.74",
+    "speed_ms": "614.70",
     "anonymity": "elite",
     "location": "Montreal"
   },
@@ -67,7 +79,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "666.67",
+    "speed_ms": "471.20",
     "anonymity": "elite",
     "location": "Dublin"
   },
@@ -79,21 +91,9 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "903.31",
+    "speed_ms": "743.50",
     "anonymity": "elite",
     "location": "Hong Kong"
-  },
-  {
-    "ip": "54.90.159.174",
-    "port": 4129,
-    "country": "US",
-    "country_code": "US",
-    "asn": 16509,
-    "isp": "Amazon.com, Inc.",
-    "protocol": "http",
-    "speed_ms": "638.58",
-    "anonymity": "elite",
-    "location": "Ashburn"
   },
   {
     "ip": "13.235.223.67",
@@ -103,20 +103,8 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "1118.51",
+    "speed_ms": "906.50",
     "anonymity": "elite",
     "location": "Mumbai"
-  },
-  {
-    "ip": "34.83.88.197",
-    "port": 80,
-    "country": "US",
-    "country_code": "US",
-    "asn": 16509,
-    "isp": "Amazon.com, Inc.",
-    "protocol": "http",
-    "speed_ms": "585.85",
-    "anonymity": "transparent",
-    "location": "San Jose"
   }
 ]
