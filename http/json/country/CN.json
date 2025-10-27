@@ -7,7 +7,7 @@
     "asn": 24444,
     "isp": "China Mobile",
     "protocol": "http",
-    "speed_ms": "1422.07",
+    "speed_ms": "1359.55",
     "anonymity": "elite",
     "location": "Jinan"
   },
@@ -19,7 +19,7 @@
     "asn": 4837,
     "isp": "CHINA UNICOM China169 Backbone",
     "protocol": "http",
-    "speed_ms": "1440.87",
+    "speed_ms": "1317.28",
     "anonymity": "elite",
     "location": "Hangzhou"
   },
@@ -31,7 +31,7 @@
     "asn": 4134,
     "isp": "Chinanet",
     "protocol": "http",
-    "speed_ms": "1517.87",
+    "speed_ms": "1325.88",
     "anonymity": "elite",
     "location": "Xingfulu"
   },
@@ -43,7 +43,7 @@
     "asn": 4134,
     "isp": "Chinanet",
     "protocol": "http",
-    "speed_ms": "1336.38",
+    "speed_ms": "1138.55",
     "anonymity": "elite",
     "location": "Julun"
   },
@@ -55,7 +55,7 @@
     "asn": 56041,
     "isp": "China Mobile Communications Corporation",
     "protocol": "http",
-    "speed_ms": "1197.63",
+    "speed_ms": "1161.40",
     "anonymity": "elite",
     "location": "Hangzhou"
   },
@@ -67,7 +67,7 @@
     "asn": 4134,
     "isp": "Chinanet",
     "protocol": "http",
-    "speed_ms": "1224.26",
+    "speed_ms": "1138.55",
     "anonymity": "elite",
     "location": "Hefei (Shushan Qu)"
   },
@@ -79,7 +79,7 @@
     "asn": 55990,
     "isp": "Huawei Cloud Service data center",
     "protocol": "http",
-    "speed_ms": "1198.17",
+    "speed_ms": "1174.66",
     "anonymity": "elite",
     "location": "Beijing"
   },
@@ -91,9 +91,21 @@
     "asn": 56041,
     "isp": "China Mobile Communications Corporation",
     "protocol": "http",
-    "speed_ms": "1798.70",
+    "speed_ms": "1382.54",
     "anonymity": "transparent",
     "location": "Hangzhou"
+  },
+  {
+    "ip": "218.21.91.214",
+    "port": 80,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 4134,
+    "isp": "Chinanet",
+    "protocol": "http",
+    "speed_ms": "1415.10",
+    "anonymity": "elite",
+    "location": "Liuzhou"
   },
   {
     "ip": "203.3.113.29",
@@ -103,19 +115,7 @@
     "asn": 63835,
     "isp": "No.293,Wanbao Avenue",
     "protocol": "http",
-    "speed_ms": "1061.13",
-    "anonymity": "elite",
-    "location": "Guangzhou"
-  },
-  {
-    "ip": "36.138.53.26",
-    "port": 10017,
-    "country": "CN",
-    "country_code": "CN",
-    "asn": 9808,
-    "isp": "China Mobile",
-    "protocol": "http",
-    "speed_ms": "1825.71",
+    "speed_ms": "878.15",
     "anonymity": "elite",
     "location": "Guangzhou"
   },
@@ -127,9 +127,21 @@
     "asn": 4812,
     "isp": "China Telecom (Group)",
     "protocol": "http",
-    "speed_ms": "1061.41",
+    "speed_ms": "858.98",
     "anonymity": "elite",
     "location": "Shanghai"
+  },
+  {
+    "ip": "101.66.195.49",
+    "port": 8085,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 4837,
+    "isp": "CHINA UNICOM China169 Backbone",
+    "protocol": "http",
+    "speed_ms": "2422.42",
+    "anonymity": "elite",
+    "location": "Hangzhou"
   },
   {
     "ip": "59.49.79.173",
@@ -139,7 +151,7 @@
     "asn": 4134,
     "isp": "Chinanet",
     "protocol": "http",
-    "speed_ms": "920.57",
+    "speed_ms": "855.29",
     "anonymity": "elite",
     "location": "Taiyuan"
   },
@@ -151,7 +163,7 @@
     "asn": 9808,
     "isp": "China Mobile",
     "protocol": "http",
-    "speed_ms": "1452.36",
+    "speed_ms": "2136.64",
     "anonymity": "elite",
     "location": "Guangzhou"
   },
@@ -163,21 +175,9 @@
     "asn": 4134,
     "isp": "Chinanet",
     "protocol": "http",
-    "speed_ms": "1492.12",
+    "speed_ms": "1225.99",
     "anonymity": "elite",
     "location": "Beijing"
-  },
-  {
-    "ip": "113.204.79.230",
-    "port": 9091,
-    "country": "CN",
-    "country_code": "CN",
-    "asn": 4837,
-    "isp": "CHINA UNICOM China169 Backbone",
-    "protocol": "http",
-    "speed_ms": "2222.08",
-    "anonymity": "elite",
-    "location": "Jinrongjie (Xicheng District)"
   },
   {
     "ip": "221.178.239.200",
@@ -187,7 +187,7 @@
     "asn": 56046,
     "isp": "China Mobile Communications Corporation",
     "protocol": "http",
-    "speed_ms": "838.75",
+    "speed_ms": "882.13",
     "anonymity": "elite",
     "location": "Qinnan"
   }
