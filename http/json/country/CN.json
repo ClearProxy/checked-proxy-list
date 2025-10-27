@@ -7,7 +7,7 @@
     "asn": 24444,
     "isp": "China Mobile",
     "protocol": "http",
-    "speed_ms": "1220.54",
+    "speed_ms": "1361.40",
     "anonymity": "elite",
     "location": "Jinan"
   },
@@ -19,7 +19,7 @@
     "asn": 4837,
     "isp": "CHINA UNICOM China169 Backbone",
     "protocol": "http",
-    "speed_ms": "1176.18",
+    "speed_ms": "1222.05",
     "anonymity": "elite",
     "location": "Hangzhou"
   },
@@ -31,7 +31,7 @@
     "asn": 4134,
     "isp": "Chinanet",
     "protocol": "http",
-    "speed_ms": "1240.78",
+    "speed_ms": "1302.21",
     "anonymity": "elite",
     "location": "Xingfulu"
   },
@@ -43,7 +43,7 @@
     "asn": 4134,
     "isp": "Chinanet",
     "protocol": "http",
-    "speed_ms": "1120.49",
+    "speed_ms": "1180.08",
     "anonymity": "elite",
     "location": "Julun"
   },
@@ -55,7 +55,7 @@
     "asn": 56041,
     "isp": "China Mobile Communications Corporation",
     "protocol": "http",
-    "speed_ms": "1060.53",
+    "speed_ms": "1099.04",
     "anonymity": "elite",
     "location": "Hangzhou"
   },
@@ -67,7 +67,7 @@
     "asn": 4134,
     "isp": "Chinanet",
     "protocol": "http",
-    "speed_ms": "1514.13",
+    "speed_ms": "1137.21",
     "anonymity": "elite",
     "location": "Hefei (Shushan Qu)"
   },
@@ -79,7 +79,7 @@
     "asn": 55990,
     "isp": "Huawei Cloud Service data center",
     "protocol": "http",
-    "speed_ms": "1024.63",
+    "speed_ms": "1076.16",
     "anonymity": "elite",
     "location": "Beijing"
   },
@@ -91,9 +91,21 @@
     "asn": 56041,
     "isp": "China Mobile Communications Corporation",
     "protocol": "http",
-    "speed_ms": "1300.21",
+    "speed_ms": "1461.97",
     "anonymity": "transparent",
     "location": "Hangzhou"
+  },
+  {
+    "ip": "14.29.236.128",
+    "port": 7897,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 4134,
+    "isp": "Chinanet",
+    "protocol": "http",
+    "speed_ms": "1550.83",
+    "anonymity": "transparent",
+    "location": "Guangzhou"
   },
   {
     "ip": "218.21.91.214",
@@ -103,7 +115,7 @@
     "asn": 4134,
     "isp": "Chinanet",
     "protocol": "http",
-    "speed_ms": "1417.13",
+    "speed_ms": "1458.49",
     "anonymity": "elite",
     "location": "Liuzhou"
   },
@@ -115,7 +127,7 @@
     "asn": 63835,
     "isp": "No.293,Wanbao Avenue",
     "protocol": "http",
-    "speed_ms": "857.68",
+    "speed_ms": "887.13",
     "anonymity": "elite",
     "location": "Guangzhou"
   },
@@ -127,7 +139,7 @@
     "asn": 4812,
     "isp": "China Telecom (Group)",
     "protocol": "http",
-    "speed_ms": "878.49",
+    "speed_ms": "941.69",
     "anonymity": "elite",
     "location": "Shanghai"
   },
@@ -139,21 +151,21 @@
     "asn": 4134,
     "isp": "Chinanet",
     "protocol": "http",
-    "speed_ms": "838.79",
+    "speed_ms": "826.04",
     "anonymity": "elite",
     "location": "Taiyuan"
   },
   {
-    "ip": "123.154.79.63",
-    "port": 8085,
+    "ip": "36.147.78.166",
+    "port": 80,
     "country": "CN",
     "country_code": "CN",
-    "asn": 4837,
-    "isp": "CHINA UNICOM China169 Backbone",
+    "asn": 9808,
+    "isp": "China Mobile",
     "protocol": "http",
-    "speed_ms": "1490.31",
+    "speed_ms": "2182.92",
     "anonymity": "elite",
-    "location": "Hangzhou (Binjiang Qu)"
+    "location": "Guangzhou"
   },
   {
     "ip": "115.239.234.43",
@@ -163,9 +175,21 @@
     "asn": 4134,
     "isp": "Chinanet",
     "protocol": "http",
-    "speed_ms": "782.91",
+    "speed_ms": "783.70",
     "anonymity": "elite",
     "location": "Beijing"
+  },
+  {
+    "ip": "113.204.79.230",
+    "port": 9091,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 4837,
+    "isp": "CHINA UNICOM China169 Backbone",
+    "protocol": "http",
+    "speed_ms": "1779.40",
+    "anonymity": "elite",
+    "location": "Jinrongjie (Xicheng District)"
   },
   {
     "ip": "221.178.239.200",
@@ -175,7 +199,7 @@
     "asn": 56046,
     "isp": "China Mobile Communications Corporation",
     "protocol": "http",
-    "speed_ms": "804.47",
+    "speed_ms": "742.21",
     "anonymity": "elite",
     "location": "Qinnan"
   }
