@@ -1,17 +1,5 @@
 [
   {
-    "ip": "8.213.151.128",
-    "port": 3128,
-    "country": "KR",
-    "country_code": "KR",
-    "asn": 45102,
-    "isp": "Alibaba (US) Technology Co., Ltd.",
-    "protocol": "http",
-    "speed_ms": "1326.70",
-    "anonymity": "transparent",
-    "location": "Seoul"
-  },
-  {
     "ip": "47.254.120.163",
     "port": 80,
     "country": "US",
@@ -19,7 +7,7 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "674.09",
+    "speed_ms": "636.33",
     "anonymity": "elite",
     "location": "Minkler"
   },
@@ -31,9 +19,21 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "1076.60",
+    "speed_ms": "2018.80",
     "anonymity": "transparent",
     "location": "Charlottesville"
+  },
+  {
+    "ip": "47.251.11.225",
+    "port": 30001,
+    "country": "US",
+    "country_code": "US",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "898.43",
+    "anonymity": "elite",
+    "location": "Minkler"
   },
   {
     "ip": "47.245.109.134",
@@ -43,21 +43,21 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "1116.89",
+    "speed_ms": "1081.67",
     "anonymity": "elite",
     "location": "Singapore"
   },
   {
-    "ip": "8.213.151.128",
+    "ip": "8.209.255.13",
     "port": 3128,
-    "country": "KR",
-    "country_code": "KR",
+    "country": "JP",
+    "country_code": "JP",
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "978.82",
+    "speed_ms": "2260.95",
     "anonymity": "transparent",
-    "location": "Seoul"
+    "location": "Shibuya City"
   },
   {
     "ip": "47.91.65.12",
@@ -67,7 +67,7 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "820.34",
+    "speed_ms": "718.68",
     "anonymity": "elite",
     "location": "Frankfurt am Main"
   }
