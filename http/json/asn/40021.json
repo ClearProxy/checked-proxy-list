@@ -1,17 +1,5 @@
 [
   {
-    "ip": "154.38.189.6",
-    "port": 10000,
-    "country": "US",
-    "country_code": "US",
-    "asn": 40021,
-    "isp": "Contabo Inc.",
-    "protocol": "http",
-    "speed_ms": "823.67",
-    "anonymity": "elite",
-    "location": "New York"
-  },
-  {
     "ip": "209.126.86.192",
     "port": 80,
     "country": "US",
@@ -19,7 +7,7 @@
     "asn": 40021,
     "isp": "Contabo Inc.",
     "protocol": "http",
-    "speed_ms": "465.48",
+    "speed_ms": "584.92",
     "anonymity": "elite",
     "location": "St Louis (Downtown)"
   },
@@ -31,8 +19,20 @@
     "asn": 40021,
     "isp": "Contabo Inc.",
     "protocol": "http",
-    "speed_ms": "403.59",
+    "speed_ms": "499.96",
     "anonymity": "elite",
     "location": "St Louis"
+  },
+  {
+    "ip": "154.12.233.87",
+    "port": 10000,
+    "country": "US",
+    "country_code": "US",
+    "asn": 40021,
+    "isp": "Contabo Inc.",
+    "protocol": "http",
+    "speed_ms": "2410.15",
+    "anonymity": "elite",
+    "location": "New York"
   }
 ]
