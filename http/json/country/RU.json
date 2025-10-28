@@ -7,7 +7,7 @@
     "asn": 44020,
     "isp": "Modern Solutions LTD",
     "protocol": "http",
-    "speed_ms": "1356.19",
+    "speed_ms": "1156.82",
     "anonymity": "elite",
     "location": "Mugreyevskiy"
   },
@@ -19,7 +19,7 @@
     "asn": 49505,
     "isp": "JSC Selectel",
     "protocol": "http",
-    "speed_ms": "1556.18",
+    "speed_ms": "1242.44",
     "anonymity": "elite",
     "location": "St Petersburg"
   },
@@ -31,7 +31,7 @@
     "asn": 200487,
     "isp": "OOO VPS",
     "protocol": "http",
-    "speed_ms": "1656.09",
+    "speed_ms": "1478.83",
     "anonymity": "elite",
     "location": "St Petersburg"
   },
@@ -43,7 +43,19 @@
     "asn": 35598,
     "isp": "INETCOM CARRIER LLC",
     "protocol": "http",
-    "speed_ms": "1062.59",
+    "speed_ms": "884.61",
+    "anonymity": "elite",
+    "location": "Moscow"
+  },
+  {
+    "ip": "176.126.103.194",
+    "port": 44214,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 199785,
+    "isp": "Cloud Hosting Solutions, Limited.",
+    "protocol": "http",
+    "speed_ms": "1672.64",
     "anonymity": "elite",
     "location": "Moscow"
   },
@@ -55,7 +67,7 @@
     "asn": 50340,
     "isp": "JSC Selectel",
     "protocol": "http",
-    "speed_ms": "1084.13",
+    "speed_ms": "902.48",
     "anonymity": "elite",
     "location": "Moscow"
   },
@@ -67,7 +79,7 @@
     "asn": 47626,
     "isp": "Timer, LLC",
     "protocol": "http",
-    "speed_ms": "1024.65",
+    "speed_ms": "822.09",
     "anonymity": "elite",
     "location": "Aksay"
   },
@@ -79,7 +91,7 @@
     "asn": 200350,
     "isp": "Yandex.Cloud LLC",
     "protocol": "http",
-    "speed_ms": "1240.78",
+    "speed_ms": "939.70",
     "anonymity": "elite",
     "location": "Moscow"
   },
@@ -91,7 +103,7 @@
     "asn": 200487,
     "isp": "OOO VPS",
     "protocol": "http",
-    "speed_ms": "1369.03",
+    "speed_ms": "1062.30",
     "anonymity": "elite",
     "location": "St Petersburg"
   },
@@ -103,7 +115,7 @@
     "asn": 9123,
     "isp": "TimeWeb LLC",
     "protocol": "http",
-    "speed_ms": "864.89",
+    "speed_ms": "640.64",
     "anonymity": "elite",
     "location": "St Petersburg"
   },
@@ -115,20 +127,8 @@
     "asn": 9123,
     "isp": "TimeWeb LLC",
     "protocol": "http",
-    "speed_ms": "920.49",
+    "speed_ms": "777.47",
     "anonymity": "elite",
     "location": "St Petersburg"
-  },
-  {
-    "ip": "24.233.2.14",
-    "port": 80,
-    "country": "RU",
-    "country_code": "RU",
-    "asn": 55933,
-    "isp": "Cloudie Limited",
-    "protocol": "http",
-    "speed_ms": "1213.25",
-    "anonymity": "elite",
-    "location": "Moscow"
   }
 ]
