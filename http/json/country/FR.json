@@ -7,7 +7,7 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "953.67",
+    "speed_ms": "840.83",
     "anonymity": "elite",
     "location": "Roubaix"
   },
@@ -19,9 +19,21 @@
     "asn": 12876,
     "isp": "ONLINE S.A.S.",
     "protocol": "http",
-    "speed_ms": "1143.35",
+    "speed_ms": "1174.33",
     "anonymity": "transparent",
     "location": "Paris"
+  },
+  {
+    "ip": "195.83.197.26",
+    "port": 80,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 2200,
+    "isp": "Renater",
+    "protocol": "http",
+    "speed_ms": "1021.57",
+    "anonymity": "elite",
+    "location": "Toulouse"
   },
   {
     "ip": "163.172.53.142",
@@ -31,7 +43,7 @@
     "asn": 12876,
     "isp": "ONLINE S.A.S.",
     "protocol": "http",
-    "speed_ms": "1062.69",
+    "speed_ms": "1104.03",
     "anonymity": "elite",
     "location": "Paris"
   },
@@ -43,7 +55,7 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "801.58",
+    "speed_ms": "744.02",
     "anonymity": "elite",
     "location": "Roubaix"
   },
@@ -55,8 +67,44 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "938.32",
+    "speed_ms": "1062.69",
     "anonymity": "elite",
     "location": "Roubaix"
+  },
+  {
+    "ip": "195.83.197.177",
+    "port": 80,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 2200,
+    "isp": "Renater",
+    "protocol": "http",
+    "speed_ms": "895.09",
+    "anonymity": "elite",
+    "location": "Toulouse"
+  },
+  {
+    "ip": "195.83.197.45",
+    "port": 80,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 2200,
+    "isp": "Renater",
+    "protocol": "http",
+    "speed_ms": "881.05",
+    "anonymity": "elite",
+    "location": "Toulouse"
+  },
+  {
+    "ip": "195.83.197.222",
+    "port": 80,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 2200,
+    "isp": "Renater",
+    "protocol": "http",
+    "speed_ms": "844.58",
+    "anonymity": "elite",
+    "location": "Toulouse"
   }
 ]
