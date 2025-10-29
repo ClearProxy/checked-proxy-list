@@ -7,7 +7,7 @@
     "asn": 394695,
     "isp": "PDR",
     "protocol": "http",
-    "speed_ms": "1659.83",
+    "speed_ms": "1524.62",
     "anonymity": "elite",
     "location": "Mumbai (Powai)"
   },
@@ -19,9 +19,21 @@
     "asn": 47583,
     "isp": "Hostinger International Limited",
     "protocol": "http",
-    "speed_ms": "1635.58",
+    "speed_ms": "1441.19",
     "anonymity": "elite",
     "location": "Mumbai"
+  },
+  {
+    "ip": "139.59.83.210",
+    "port": 80,
+    "country": "IN",
+    "country_code": "IN",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "http",
+    "speed_ms": "1541.52",
+    "anonymity": "elite",
+    "location": "Bengaluru"
   },
   {
     "ip": "13.235.223.67",
@@ -31,7 +43,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "1501.73",
+    "speed_ms": "1303.48",
     "anonymity": "elite",
     "location": "Mumbai"
   },
@@ -43,7 +55,7 @@
     "asn": 137156,
     "isp": "Blueberry Web - Solutions Pvt Ltd",
     "protocol": "http",
-    "speed_ms": "1299.76",
+    "speed_ms": "1100.78",
     "anonymity": "elite",
     "location": "Kolkata (Rath Tala)"
   },
@@ -55,7 +67,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1396.00",
+    "speed_ms": "1194.90",
     "anonymity": "elite",
     "location": "Bengaluru"
   },
@@ -67,20 +79,8 @@
     "asn": 9829,
     "isp": "Bharat Sanchar Nigam Ltd",
     "protocol": "http",
-    "speed_ms": "1203.54",
+    "speed_ms": "1000.45",
     "anonymity": "elite",
     "location": "Mangaluru"
-  },
-  {
-    "ip": "52.140.40.92",
-    "port": 80,
-    "country": "IN",
-    "country_code": "IN",
-    "asn": 8075,
-    "isp": "Microsoft Corporation",
-    "protocol": "http",
-    "speed_ms": "1462.29",
-    "anonymity": "transparent",
-    "location": "Chennai"
   }
 ]
