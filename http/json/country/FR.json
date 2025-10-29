@@ -7,21 +7,21 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "1248.45",
+    "speed_ms": "1358.33",
     "anonymity": "elite",
     "location": "Roubaix"
   },
   {
-    "ip": "51.15.228.52",
-    "port": 8080,
+    "ip": "195.83.197.26",
+    "port": 80,
     "country": "FR",
     "country_code": "FR",
-    "asn": 12876,
-    "isp": "ONLINE S.A.S.",
+    "asn": 2200,
+    "isp": "Renater",
     "protocol": "http",
-    "speed_ms": "1378.58",
-    "anonymity": "transparent",
-    "location": "Paris"
+    "speed_ms": "1019.19",
+    "anonymity": "elite",
+    "location": "Toulouse"
   },
   {
     "ip": "178.33.13.233",
@@ -31,7 +31,19 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "1024.43",
+    "speed_ms": "1060.13",
+    "anonymity": "elite",
+    "location": "Roubaix"
+  },
+  {
+    "ip": "51.83.44.233",
+    "port": 80,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 16276,
+    "isp": "OVH SAS",
+    "protocol": "http",
+    "speed_ms": "1842.56",
     "anonymity": "elite",
     "location": "Roubaix"
   },
@@ -43,8 +55,44 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "1173.40",
+    "speed_ms": "1337.54",
     "anonymity": "elite",
     "location": "Roubaix"
+  },
+  {
+    "ip": "195.83.197.177",
+    "port": 80,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 2200,
+    "isp": "Renater",
+    "protocol": "http",
+    "speed_ms": "904.49",
+    "anonymity": "elite",
+    "location": "Toulouse"
+  },
+  {
+    "ip": "195.83.197.45",
+    "port": 80,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 2200,
+    "isp": "Renater",
+    "protocol": "http",
+    "speed_ms": "842.43",
+    "anonymity": "elite",
+    "location": "Toulouse"
+  },
+  {
+    "ip": "195.83.197.222",
+    "port": 80,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 2200,
+    "isp": "Renater",
+    "protocol": "http",
+    "speed_ms": "799.34",
+    "anonymity": "elite",
+    "location": "Toulouse"
   }
 ]
