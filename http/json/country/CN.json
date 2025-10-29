@@ -7,7 +7,7 @@
     "asn": 4134,
     "isp": "Chinanet",
     "protocol": "http",
-    "speed_ms": "1061.83",
+    "speed_ms": "1367.00",
     "anonymity": "elite",
     "location": "Beijing"
   },
@@ -19,7 +19,7 @@
     "asn": 4134,
     "isp": "Chinanet",
     "protocol": "http",
-    "speed_ms": "1142.88",
+    "speed_ms": "1415.28",
     "anonymity": "elite",
     "location": "Xingfulu"
   },
@@ -31,7 +31,7 @@
     "asn": 55990,
     "isp": "Huawei Cloud Service data center",
     "protocol": "http",
-    "speed_ms": "866.03",
+    "speed_ms": "1149.47",
     "anonymity": "elite",
     "location": "Beijing"
   },
@@ -43,7 +43,7 @@
     "asn": 56041,
     "isp": "China Mobile Communications Corporation",
     "protocol": "http",
-    "speed_ms": "925.99",
+    "speed_ms": "1018.09",
     "anonymity": "elite",
     "location": "Hangzhou"
   },
@@ -55,7 +55,7 @@
     "asn": 56046,
     "isp": "China Mobile Communications Corporation",
     "protocol": "http",
-    "speed_ms": "1061.87",
+    "speed_ms": "1280.46",
     "anonymity": "elite",
     "location": "Qinnan"
   },
@@ -67,7 +67,7 @@
     "asn": 4837,
     "isp": "CHINA UNICOM China169 Backbone",
     "protocol": "http",
-    "speed_ms": "878.66",
+    "speed_ms": "1174.38",
     "anonymity": "elite",
     "location": "Hangzhou"
   },
@@ -79,21 +79,9 @@
     "asn": 63835,
     "isp": "No.293,Wanbao Avenue",
     "protocol": "http",
-    "speed_ms": "905.83",
+    "speed_ms": "959.35",
     "anonymity": "elite",
     "location": "Guangzhou"
-  },
-  {
-    "ip": "59.49.79.173",
-    "port": 8089,
-    "country": "CN",
-    "country_code": "CN",
-    "asn": 4134,
-    "isp": "Chinanet",
-    "protocol": "http",
-    "speed_ms": "912.03",
-    "anonymity": "elite",
-    "location": "Taiyuan"
   },
   {
     "ip": "223.80.109.182",
@@ -103,9 +91,21 @@
     "asn": 24444,
     "isp": "China Mobile",
     "protocol": "http",
-    "speed_ms": "999.72",
+    "speed_ms": "1317.04",
     "anonymity": "elite",
     "location": "Jinan"
+  },
+  {
+    "ip": "101.251.204.174",
+    "port": 8080,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 4808,
+    "isp": "China Unicom Beijing Province Network",
+    "protocol": "http",
+    "speed_ms": "1299.65",
+    "anonymity": "transparent",
+    "location": "Haidian (Haidian Qu)"
   },
   {
     "ip": "180.167.238.98",
@@ -115,9 +115,21 @@
     "asn": 4812,
     "isp": "China Telecom (Group)",
     "protocol": "http",
-    "speed_ms": "560.02",
+    "speed_ms": "981.76",
     "anonymity": "elite",
     "location": "Shanghai"
+  },
+  {
+    "ip": "121.40.170.252",
+    "port": 80,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 37963,
+    "isp": "Hangzhou Alibaba Advertising Co.,Ltd.",
+    "protocol": "http",
+    "speed_ms": "1059.68",
+    "anonymity": "elite",
+    "location": "Hangzhou"
   },
   {
     "ip": "1.71.170.146",
@@ -127,7 +139,7 @@
     "asn": 4134,
     "isp": "Chinanet",
     "protocol": "http",
-    "speed_ms": "612.84",
+    "speed_ms": "883.40",
     "anonymity": "elite",
     "location": "Julun"
   }
