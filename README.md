@@ -28,17 +28,17 @@ Every proxy in this repository has been validated through **[ClearProxy.io](http
 
 | Protocol | File | Status | Total |
 |-----------|------|--------|--------|
-| HTTP | `http/` | ✅ Checked | 290 |
-| SOCKS4 | `socks4/` | ✅ Checked | 80 |
-| SOCKS5 | `socks5/` | ✅ Checked | 58 |
+| HTTP | `http/` | ✅ Checked | 288 |
+| SOCKS4 | `socks4/` | ✅ Checked | 77 |
+| SOCKS5 | `socks5/` | ✅ Checked | 59 |
 
 ---
 
 ### Top 10 Countries
-`1. US (214), 2. DE (20), 3. NL (17), 4. ID (13), 5. CN (13), 6. KR (12), 7. RU (10), 8. VG (9), 9. SG (9), 10. VN (9)`
+`1. US (218), 2. DE (17), 3. NL (17), 4. ID (12), 5. KR (12), 6. CN (12), 7. RU (10), 8. VN (10), 9. VG (9), 10. SG (9)`
 
 ### Top 10 ASN
-`1. ASN22773 (71), 2. ASN46562 (58), 3. ASN14061 (43), 4. ASN39832 (14), 5. ASN40034 (13), 6. ASN4766 (12), 7. ASN16509 (11), 8. ASN24940 (8), 9. ASN63949 (6), 10. ASN20473 (5)`
+`1. ASN22773 (71), 2. ASN46562 (58), 3. ASN14061 (39), 4. ASN39832 (14), 5. ASN40034 (13), 6. ASN4766 (11), 7. ASN16509 (11), 8. ASN45102 (11), 9. ASN24940 (8), 10. ASN63949 (6)`
 
 ---
 
