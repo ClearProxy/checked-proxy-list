@@ -1,5 +1,17 @@
 [
   {
+    "ip": "47.252.29.28",
+    "port": 11222,
+    "country": "UA",
+    "country_code": "UA",
+    "asn": 212238,
+    "isp": "Datacamp Limited",
+    "protocol": "http",
+    "speed_ms": "2103.23",
+    "anonymity": "elite",
+    "location": "Kharkiv"
+  },
+  {
     "ip": "77.123.145.21",
     "port": 3128,
     "country": "UA",
@@ -7,7 +19,19 @@
     "asn": 35680,
     "isp": "Volia-Cable LLC",
     "protocol": "http",
-    "speed_ms": "1499.33",
+    "speed_ms": "1617.49",
+    "anonymity": "transparent",
+    "location": "Kyiv"
+  },
+  {
+    "ip": "77.123.145.21",
+    "port": 3128,
+    "country": "UA",
+    "country_code": "UA",
+    "asn": 35680,
+    "isp": "Volia-Cable LLC",
+    "protocol": "http",
+    "speed_ms": "1559.33",
     "anonymity": "transparent",
     "location": "Kyiv"
   },
@@ -19,7 +43,7 @@
     "asn": 29491,
     "isp": "KIEVLINE LLC",
     "protocol": "http",
-    "speed_ms": "1002.21",
+    "speed_ms": "1018.86",
     "anonymity": "elite",
     "location": "Kyiv"
   }
