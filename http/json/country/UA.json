@@ -1,5 +1,29 @@
 [
   {
+    "ip": "47.252.29.28",
+    "port": 11222,
+    "country": "UA",
+    "country_code": "UA",
+    "asn": 6939,
+    "isp": "Hurricane Electric LLC",
+    "protocol": "http",
+    "speed_ms": "1254.54",
+    "anonymity": "elite",
+    "location": "Kyiv (Solom'yans'kyi district)"
+  },
+  {
+    "ip": "77.123.145.21",
+    "port": 3128,
+    "country": "UA",
+    "country_code": "UA",
+    "asn": 35680,
+    "isp": "Volia-Cable LLC",
+    "protocol": "http",
+    "speed_ms": "1112.35",
+    "anonymity": "transparent",
+    "location": "Kyiv"
+  },
+  {
     "ip": "195.137.203.242",
     "port": 80,
     "country": "UA",
@@ -7,7 +31,7 @@
     "asn": 29491,
     "isp": "KIEVLINE LLC",
     "protocol": "http",
-    "speed_ms": "919.79",
+    "speed_ms": "1000.08",
     "anonymity": "elite",
     "location": "Kyiv"
   }
