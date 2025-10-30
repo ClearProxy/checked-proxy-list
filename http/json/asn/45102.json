@@ -1,5 +1,29 @@
 [
   {
+    "ip": "8.213.151.128",
+    "port": 3128,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2129.23",
+    "anonymity": "transparent",
+    "location": "Seoul"
+  },
+  {
+    "ip": "8.209.255.13",
+    "port": 3128,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2431.56",
+    "anonymity": "transparent",
+    "location": "Shibuya City"
+  },
+  {
     "ip": "47.254.120.163",
     "port": 80,
     "country": "US",
@@ -7,7 +31,7 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "898.01",
+    "speed_ms": "477.60",
     "anonymity": "elite",
     "location": "Minkler"
   },
@@ -19,21 +43,33 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "1019.66",
+    "speed_ms": "1058.85",
     "anonymity": "elite",
     "location": "Singapore"
   },
   {
-    "ip": "8.221.139.222",
-    "port": 199,
+    "ip": "8.209.255.13",
+    "port": 3128,
     "country": "JP",
     "country_code": "JP",
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "2435.26",
-    "anonymity": "elite",
+    "speed_ms": "2457.42",
+    "anonymity": "transparent",
     "location": "Shibuya City"
+  },
+  {
+    "ip": "8.213.151.128",
+    "port": 3128,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "1499.51",
+    "anonymity": "transparent",
+    "location": "Seoul"
   },
   {
     "ip": "47.91.65.12",
@@ -43,7 +79,7 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "697.92",
+    "speed_ms": "757.74",
     "anonymity": "elite",
     "location": "Frankfurt am Main"
   }
