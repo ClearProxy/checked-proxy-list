@@ -7,7 +7,7 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "1160.91",
+    "speed_ms": "1238.32",
     "anonymity": "elite",
     "location": "Roubaix"
   },
@@ -19,9 +19,21 @@
     "asn": 12876,
     "isp": "ONLINE S.A.S.",
     "protocol": "http",
-    "speed_ms": "1365.73",
+    "speed_ms": "1300.77",
     "anonymity": "transparent",
     "location": "Paris"
+  },
+  {
+    "ip": "195.83.197.26",
+    "port": 80,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 2200,
+    "isp": "Renater",
+    "protocol": "http",
+    "speed_ms": "958.65",
+    "anonymity": "elite",
+    "location": "Toulouse"
   },
   {
     "ip": "178.33.13.233",
@@ -31,19 +43,7 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "1099.62",
-    "anonymity": "elite",
-    "location": "Roubaix"
-  },
-  {
-    "ip": "51.83.44.233",
-    "port": 80,
-    "country": "FR",
-    "country_code": "FR",
-    "asn": 16276,
-    "isp": "OVH SAS",
-    "protocol": "http",
-    "speed_ms": "1177.79",
+    "speed_ms": "875.83",
     "anonymity": "elite",
     "location": "Roubaix"
   },
@@ -55,8 +55,44 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "1215.83",
+    "speed_ms": "1093.87",
     "anonymity": "elite",
     "location": "Roubaix"
+  },
+  {
+    "ip": "195.83.197.177",
+    "port": 80,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 2200,
+    "isp": "Renater",
+    "protocol": "http",
+    "speed_ms": "764.93",
+    "anonymity": "elite",
+    "location": "Toulouse"
+  },
+  {
+    "ip": "195.83.197.45",
+    "port": 80,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 2200,
+    "isp": "Renater",
+    "protocol": "http",
+    "speed_ms": "745.33",
+    "anonymity": "elite",
+    "location": "Toulouse"
+  },
+  {
+    "ip": "195.83.197.222",
+    "port": 80,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 2200,
+    "isp": "Renater",
+    "protocol": "http",
+    "speed_ms": "707.53",
+    "anonymity": "elite",
+    "location": "Toulouse"
   }
 ]
