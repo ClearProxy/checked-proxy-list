@@ -7,7 +7,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "742.77",
+    "speed_ms": "864.07",
     "anonymity": "elite",
     "location": "Montreal"
   },
@@ -19,7 +19,7 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "722.64",
+    "speed_ms": "858.07",
     "anonymity": "elite",
     "location": "Beauharnois"
   },
@@ -31,8 +31,20 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1341.15",
+    "speed_ms": "1380.45",
     "anonymity": "elite",
     "location": "Toronto (Old Toronto)"
+  },
+  {
+    "ip": "142.58.238.61",
+    "port": 80,
+    "country": "CA",
+    "country_code": "CA",
+    "asn": 11105,
+    "isp": "Simon Fraser University",
+    "protocol": "http",
+    "speed_ms": "900.44",
+    "anonymity": "elite",
+    "location": "Burnaby"
   }
 ]
