@@ -7,7 +7,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1222.00",
+    "speed_ms": "1539.32",
     "anonymity": "elite",
     "location": "Toronto (Old Toronto)"
   },
@@ -19,7 +19,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "884.83",
+    "speed_ms": "954.76",
     "anonymity": "elite",
     "location": "Montreal"
   },
@@ -31,7 +31,7 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "881.67",
+    "speed_ms": "941.77",
     "anonymity": "elite",
     "location": "Beauharnois"
   },
@@ -43,9 +43,21 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1499.46",
+    "speed_ms": "1622.15",
     "anonymity": "elite",
     "location": "Toronto (Old Toronto)"
+  },
+  {
+    "ip": "148.113.172.51",
+    "port": 8080,
+    "country": "CA",
+    "country_code": "CA",
+    "asn": 16276,
+    "isp": "OVH SAS",
+    "protocol": "http",
+    "speed_ms": "1437.56",
+    "anonymity": "transparent",
+    "location": "Beauharnois"
   },
   {
     "ip": "67.43.236.20",
@@ -55,7 +67,7 @@
     "asn": 812,
     "isp": "Rogers Communications Canada Inc.",
     "protocol": "http",
-    "speed_ms": "1169.04",
+    "speed_ms": "1002.20",
     "anonymity": "elite",
     "location": "Toronto (Old Toronto)"
   },
@@ -67,21 +79,9 @@
     "asn": 812,
     "isp": "Rogers Communications Canada Inc.",
     "protocol": "http",
-    "speed_ms": "1161.94",
+    "speed_ms": "1282.29",
     "anonymity": "elite",
     "location": "Toronto (Old Toronto)"
-  },
-  {
-    "ip": "142.58.238.61",
-    "port": 80,
-    "country": "CA",
-    "country_code": "CA",
-    "asn": 11105,
-    "isp": "Simon Fraser University",
-    "protocol": "http",
-    "speed_ms": "900.39",
-    "anonymity": "elite",
-    "location": "Burnaby"
   },
   {
     "ip": "67.43.236.21",
@@ -91,7 +91,7 @@
     "asn": 812,
     "isp": "Rogers Communications Canada Inc.",
     "protocol": "http",
-    "speed_ms": "699.76",
+    "speed_ms": "1272.96",
     "anonymity": "elite",
     "location": "Brantford"
   }
