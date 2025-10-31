@@ -7,7 +7,7 @@
     "asn": 39832,
     "isp": "Opera Software AS",
     "protocol": "http",
-    "speed_ms": "994.54",
+    "speed_ms": "1199.41",
     "anonymity": "elite",
     "location": "Amsterdam"
   },
@@ -19,7 +19,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "962.07",
+    "speed_ms": "1003.38",
     "anonymity": "elite",
     "location": "Amsterdam"
   },
@@ -31,7 +31,7 @@
     "asn": 39832,
     "isp": "Opera Software AS",
     "protocol": "http",
-    "speed_ms": "936.15",
+    "speed_ms": "1060.96",
     "anonymity": "elite",
     "location": "Amsterdam"
   },
@@ -43,7 +43,19 @@
     "asn": 39832,
     "isp": "Opera Software AS",
     "protocol": "http",
-    "speed_ms": "773.05",
+    "speed_ms": "1000.19",
+    "anonymity": "elite",
+    "location": "Amsterdam"
+  },
+  {
+    "ip": "4.245.123.244",
+    "port": 80,
+    "country": "NL",
+    "country_code": "NL",
+    "asn": 8075,
+    "isp": "Microsoft Corporation",
+    "protocol": "http",
+    "speed_ms": "1540.66",
     "anonymity": "elite",
     "location": "Amsterdam"
   },
@@ -55,7 +67,7 @@
     "asn": 39832,
     "isp": "Opera Software AS",
     "protocol": "http",
-    "speed_ms": "937.59",
+    "speed_ms": "1042.00",
     "anonymity": "elite",
     "location": "Amsterdam"
   },
@@ -67,7 +79,7 @@
     "asn": 39832,
     "isp": "Opera Software AS",
     "protocol": "http",
-    "speed_ms": "901.66",
+    "speed_ms": "998.78",
     "anonymity": "elite",
     "location": "Amsterdam"
   },
@@ -79,7 +91,7 @@
     "asn": 39832,
     "isp": "Opera Software AS",
     "protocol": "http",
-    "speed_ms": "877.70",
+    "speed_ms": "896.54",
     "anonymity": "elite",
     "location": "Amsterdam"
   },
@@ -91,7 +103,7 @@
     "asn": 39832,
     "isp": "Opera Software AS",
     "protocol": "http",
-    "speed_ms": "855.44",
+    "speed_ms": "841.26",
     "anonymity": "elite",
     "location": "Amsterdam"
   },
@@ -103,7 +115,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1041.11",
+    "speed_ms": "1195.72",
     "anonymity": "elite",
     "location": "Amsterdam"
   },
@@ -115,7 +127,7 @@
     "asn": 8075,
     "isp": "Microsoft Corporation",
     "protocol": "http",
-    "speed_ms": "1331.31",
+    "speed_ms": "2327.22",
     "anonymity": "elite",
     "location": "Amsterdam"
   },
@@ -127,7 +139,7 @@
     "asn": 39832,
     "isp": "Opera Software AS",
     "protocol": "http",
-    "speed_ms": "840.11",
+    "speed_ms": "840.50",
     "anonymity": "elite",
     "location": "Amsterdam"
   },
@@ -139,7 +151,7 @@
     "asn": 39832,
     "isp": "Opera Software AS",
     "protocol": "http",
-    "speed_ms": "756.29",
+    "speed_ms": "759.92",
     "anonymity": "elite",
     "location": "Amsterdam"
   },
@@ -151,7 +163,7 @@
     "asn": 1101,
     "isp": "SURF B.V.",
     "protocol": "http",
-    "speed_ms": "841.07",
+    "speed_ms": "805.21",
     "anonymity": "elite",
     "location": "Utrecht"
   },
@@ -163,8 +175,20 @@
     "asn": 39832,
     "isp": "Opera Software AS",
     "protocol": "http",
-    "speed_ms": "636.28",
+    "speed_ms": "684.92",
     "anonymity": "elite",
+    "location": "Amsterdam"
+  },
+  {
+    "ip": "145.40.96.156",
+    "port": 9401,
+    "country": "NL",
+    "country_code": "NL",
+    "asn": 15830,
+    "isp": "Equinix (EMEA) Acquisition Enterprises B.V.",
+    "protocol": "http",
+    "speed_ms": "1537.67",
+    "anonymity": "transparent",
     "location": "Amsterdam"
   }
 ]
