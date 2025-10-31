@@ -1,17 +1,5 @@
 [
   {
-    "ip": "18.222.175.238",
-    "port": 3000,
-    "country": "US",
-    "country_code": "US",
-    "asn": 16509,
-    "isp": "Amazon.com, Inc.",
-    "protocol": "http",
-    "speed_ms": "487.99",
-    "anonymity": "elite",
-    "location": "Dublin"
-  },
-  {
     "ip": "35.182.162.62",
     "port": 80,
     "country": "CA",
@@ -19,7 +7,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "461.66",
+    "speed_ms": "575.56",
     "anonymity": "elite",
     "location": "Montreal"
   },
@@ -31,7 +19,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "736.13",
+    "speed_ms": "719.55",
     "anonymity": "elite",
     "location": "Zaragoza"
   },
@@ -43,9 +31,21 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "720.83",
+    "speed_ms": "700.27",
     "anonymity": "elite",
     "location": "Hong Kong"
+  },
+  {
+    "ip": "34.116.179.210",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 16509,
+    "isp": "Amazon.com, Inc.",
+    "protocol": "http",
+    "speed_ms": "638.71",
+    "anonymity": "transparent",
+    "location": "San Jose"
   },
   {
     "ip": "54.226.156.148",
@@ -55,7 +55,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "364.36",
+    "speed_ms": "482.31",
     "anonymity": "elite",
     "location": "Ashburn"
   },
@@ -67,7 +67,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "255.47",
+    "speed_ms": "283.56",
     "anonymity": "transparent",
     "location": "San Jose"
   },
@@ -79,7 +79,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "260.19",
+    "speed_ms": "338.06",
     "anonymity": "elite",
     "location": "San Jose"
   },
@@ -91,7 +91,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "1139.26",
+    "speed_ms": "1120.07",
     "anonymity": "elite",
     "location": "Singapore"
   }
