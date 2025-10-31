@@ -7,7 +7,7 @@
     "asn": 45544,
     "isp": "SUPERDATA-VN",
     "protocol": "http",
-    "speed_ms": "1502.48",
+    "speed_ms": "1261.80",
     "anonymity": "elite",
     "location": "Quan Ba"
   },
@@ -19,7 +19,7 @@
     "asn": 142294,
     "isp": "TELECOM TRADE AND SERVER LLC",
     "protocol": "http",
-    "speed_ms": "1203.96",
+    "speed_ms": "1143.30",
     "anonymity": "elite",
     "location": "Nhon Trach (Phuong Hoa Thanh)"
   },
@@ -31,7 +31,7 @@
     "asn": 149117,
     "isp": "VTC MOBILE SERVICES JOINT STOCK COMPANY",
     "protocol": "http",
-    "speed_ms": "1076.87",
+    "speed_ms": "1320.41",
     "anonymity": "elite",
     "location": "Vinhomes Times City"
   },
@@ -43,7 +43,7 @@
     "asn": 135918,
     "isp": "VIET DIGITAL TECHNOLOGY LIABILITY COMPANY",
     "protocol": "http",
-    "speed_ms": "1158.91",
+    "speed_ms": "1045.16",
     "anonymity": "elite",
     "location": "Da Nang"
   },
@@ -55,9 +55,21 @@
     "asn": 135905,
     "isp": "VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",
     "protocol": "http",
-    "speed_ms": "1156.72",
+    "speed_ms": "955.48",
     "anonymity": "elite",
     "location": "Hue"
+  },
+  {
+    "ip": "123.30.154.171",
+    "port": 7777,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 135905,
+    "isp": "VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",
+    "protocol": "http",
+    "speed_ms": "1404.28",
+    "anonymity": "elite",
+    "location": "Hanoi"
   },
   {
     "ip": "103.121.90.119",
@@ -67,21 +79,9 @@
     "asn": 135967,
     "isp": "Bach Kim Network solutions Join stock company",
     "protocol": "http",
-    "speed_ms": "1365.78",
+    "speed_ms": "1344.88",
     "anonymity": "elite",
     "location": "Vinhomes Royal City"
-  },
-  {
-    "ip": "123.22.212.110",
-    "port": 80,
-    "country": "VN",
-    "country_code": "VN",
-    "asn": 45899,
-    "isp": "VNPT Corp",
-    "protocol": "http",
-    "speed_ms": "1041.98",
-    "anonymity": "elite",
-    "location": "Con Son"
   },
   {
     "ip": "113.163.189.162",
@@ -91,7 +91,7 @@
     "asn": 45899,
     "isp": "VNPT Corp",
     "protocol": "http",
-    "speed_ms": "1056.49",
+    "speed_ms": "964.02",
     "anonymity": "elite",
     "location": "Hanoi"
   }
