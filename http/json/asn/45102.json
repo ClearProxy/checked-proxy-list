@@ -1,5 +1,17 @@
 [
   {
+    "ip": "8.213.151.128",
+    "port": 3128,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2038.43",
+    "anonymity": "transparent",
+    "location": "Seoul"
+  },
+  {
     "ip": "47.245.109.134",
     "port": 80,
     "country": "SG",
@@ -7,7 +19,7 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "1403.12",
+    "speed_ms": "1699.59",
     "anonymity": "elite",
     "location": "Singapore"
   },
@@ -19,7 +31,7 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "2378.49",
+    "speed_ms": "1916.58",
     "anonymity": "transparent",
     "location": "Shibuya City"
   },
@@ -31,7 +43,7 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "958.08",
+    "speed_ms": "1123.61",
     "anonymity": "elite",
     "location": "Frankfurt am Main"
   },
@@ -43,21 +55,9 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "737.16",
+    "speed_ms": "898.08",
     "anonymity": "elite",
     "location": "Minkler"
-  },
-  {
-    "ip": "47.89.184.18",
-    "port": 3128,
-    "country": "US",
-    "country_code": "US",
-    "asn": 45102,
-    "isp": "Alibaba (US) Technology Co., Ltd.",
-    "protocol": "http",
-    "speed_ms": "1547.28",
-    "anonymity": "transparent",
-    "location": "Charlottesville"
   },
   {
     "ip": "8.213.151.128",
@@ -67,8 +67,20 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "1669.86",
+    "speed_ms": "1539.90",
     "anonymity": "transparent",
     "location": "Seoul"
+  },
+  {
+    "ip": "47.74.46.81",
+    "port": 1000,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2421.72",
+    "anonymity": "elite",
+    "location": "Shibuya City"
   }
 ]
