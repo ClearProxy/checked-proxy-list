@@ -1,5 +1,17 @@
 [
   {
+    "ip": "4.245.123.244",
+    "port": 80,
+    "country": "NL",
+    "country_code": "NL",
+    "asn": 8075,
+    "isp": "Microsoft Corporation",
+    "protocol": "http",
+    "speed_ms": "2438.86",
+    "anonymity": "elite",
+    "location": "Amsterdam"
+  },
+  {
     "ip": "4.195.16.140",
     "port": 80,
     "country": "AU",
@@ -7,7 +19,19 @@
     "asn": 8075,
     "isp": "Microsoft Corporation",
     "protocol": "http",
-    "speed_ms": "1479.36",
+    "speed_ms": "2008.25",
+    "anonymity": "elite",
+    "location": "Sydney"
+  },
+  {
+    "ip": "4.195.16.140",
+    "port": 80,
+    "country": "AU",
+    "country_code": "AU",
+    "asn": 8075,
+    "isp": "Microsoft Corporation",
+    "protocol": "http",
+    "speed_ms": "1282.29",
     "anonymity": "elite",
     "location": "Sydney"
   },
@@ -19,19 +43,7 @@
     "asn": 8075,
     "isp": "Microsoft Corporation",
     "protocol": "http",
-    "speed_ms": "1340.53",
-    "anonymity": "elite",
-    "location": "Amsterdam"
-  },
-  {
-    "ip": "108.141.130.146",
-    "port": 80,
-    "country": "NL",
-    "country_code": "NL",
-    "asn": 8075,
-    "isp": "Microsoft Corporation",
-    "protocol": "http",
-    "speed_ms": "2270.65",
+    "speed_ms": "2493.25",
     "anonymity": "elite",
     "location": "Amsterdam"
   }
