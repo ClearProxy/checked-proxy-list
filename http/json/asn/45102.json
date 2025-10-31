@@ -1,15 +1,15 @@
 [
   {
-    "ip": "8.213.151.128",
-    "port": 3128,
-    "country": "KR",
-    "country_code": "KR",
+    "ip": "47.56.110.204",
+    "port": 8989,
+    "country": "HK",
+    "country_code": "HK",
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "1836.48",
-    "anonymity": "transparent",
-    "location": "Seoul"
+    "speed_ms": "1213.83",
+    "anonymity": "elite",
+    "location": "Hong Kong"
   },
   {
     "ip": "47.91.65.12",
@@ -19,7 +19,7 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "975.50",
+    "speed_ms": "842.15",
     "anonymity": "elite",
     "location": "Frankfurt am Main"
   },
@@ -31,8 +31,20 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "956.48",
+    "speed_ms": "1026.84",
     "anonymity": "elite",
     "location": "Singapore"
+  },
+  {
+    "ip": "47.56.110.204",
+    "port": 8989,
+    "country": "HK",
+    "country_code": "HK",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "999.71",
+    "anonymity": "elite",
+    "location": "Hong Kong"
   }
 ]
