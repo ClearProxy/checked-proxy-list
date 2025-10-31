@@ -1,27 +1,15 @@
 [
   {
-    "ip": "38.250.155.131",
-    "port": 999,
+    "ip": "72.10.160.90",
+    "port": 3549,
     "country": "PE",
     "country_code": "PE",
-    "asn": 270068,
-    "isp": "DESARROLLO DE INFRAESTRUCTURA DE TELECOMUNICACIONES PERU S.A.C. (INFRATEL)",
+    "asn": 12252,
+    "isp": "America Movil Peru S.A.C.",
     "protocol": "http",
-    "speed_ms": "2397.46",
-    "anonymity": "transparent",
-    "location": "San Jeronimo"
-  },
-  {
-    "ip": "38.250.155.131",
-    "port": 999,
-    "country": "PE",
-    "country_code": "PE",
-    "asn": 270068,
-    "isp": "DESARROLLO DE INFRAESTRUCTURA DE TELECOMUNICACIONES PERU S.A.C. (INFRATEL)",
-    "protocol": "http",
-    "speed_ms": "2300.44",
-    "anonymity": "transparent",
-    "location": "San Jeronimo"
+    "speed_ms": "1593.93",
+    "anonymity": "elite",
+    "location": "San Sebastian"
   },
   {
     "ip": "72.10.164.178",
@@ -31,8 +19,56 @@
     "asn": 6147,
     "isp": "Telefonica del Peru S.A.A.",
     "protocol": "http",
-    "speed_ms": "2357.56",
+    "speed_ms": "2015.32",
     "anonymity": "elite",
     "location": "San Isidro"
+  },
+  {
+    "ip": "67.43.228.253",
+    "port": 3895,
+    "country": "PE",
+    "country_code": "PE",
+    "asn": 6147,
+    "isp": "Telefonica del Peru S.A.A.",
+    "protocol": "http",
+    "speed_ms": "2413.92",
+    "anonymity": "elite",
+    "location": "Villa Poeta Jose Galvez Barrenechea"
+  },
+  {
+    "ip": "45.189.116.243",
+    "port": 999,
+    "country": "PE",
+    "country_code": "PE",
+    "asn": 273133,
+    "isp": "CONEX TV E.I.R.L.",
+    "protocol": "http",
+    "speed_ms": "2497.91",
+    "anonymity": "transparent",
+    "location": "Independencia"
+  },
+  {
+    "ip": "38.250.155.131",
+    "port": 999,
+    "country": "PE",
+    "country_code": "PE",
+    "asn": 270068,
+    "isp": "DESARROLLO DE INFRAESTRUCTURA DE TELECOMUNICACIONES PERU S.A.C. (INFRATEL)",
+    "protocol": "http",
+    "speed_ms": "2019.23",
+    "anonymity": "transparent",
+    "location": "San Jeronimo"
+  },
+  {
+    "ip": "200.37.252.122",
+    "port": 8080,
+    "country": "PE",
+    "country_code": "PE",
+    "asn": 6147,
+    "isp": "Telefonica del Peru S.A.A.",
+    "protocol": "http",
+    "speed_ms": "1851.32",
+    "anonymity": "transparent",
+    "location": "Ayacucho"
   }
 ]

@@ -1,14 +1,50 @@
 [
   {
-    "ip": "78.188.152.209",
-    "port": 1454,
+    "ip": "84.51.15.252",
+    "port": 32650,
     "country": "TR",
     "country_code": "TR",
-    "asn": 9121,
-    "isp": "Turk Telekomunikasyon Anonim Sirketi",
+    "asn": 34984,
+    "isp": "Superonline Iletisim Hizmetleri A.S.",
     "protocol": "http",
-    "speed_ms": "1819.76",
+    "speed_ms": "1860.11",
+    "anonymity": "transparent",
+    "location": "Altinkum"
+  },
+  {
+    "ip": "78.189.18.193",
+    "port": 3310,
+    "country": "TR",
+    "country_code": "TR",
+    "asn": 47331,
+    "isp": "TTNet A.S.",
+    "protocol": "http",
+    "speed_ms": "2016.95",
     "anonymity": "elite",
+    "location": "Bursa"
+  },
+  {
+    "ip": "194.27.90.143",
+    "port": 8077,
+    "country": "TR",
+    "country_code": "TR",
+    "asn": 8517,
+    "isp": "National Academic Network and Information Center",
+    "protocol": "http",
+    "speed_ms": "2243.16",
+    "anonymity": "elite",
+    "location": "Ankara"
+  },
+  {
+    "ip": "198.145.118.76",
+    "port": 8080,
+    "country": "TR",
+    "country_code": "TR",
+    "asn": 15924,
+    "isp": "Vodafone Net Iletisim Hizmetler AS",
+    "protocol": "http",
+    "speed_ms": "2388.06",
+    "anonymity": "transparent",
     "location": "Istanbul"
   },
   {
@@ -19,44 +55,32 @@
     "asn": 47331,
     "isp": "TTNet A.S.",
     "protocol": "http",
-    "speed_ms": "1853.85",
+    "speed_ms": "1973.58",
     "anonymity": "elite",
     "location": "Istanbul"
   },
   {
-    "ip": "213.142.156.97",
-    "port": 80,
-    "country": "TR",
-    "country_code": "TR",
-    "asn": 207459,
-    "isp": "TEKNOSOS BILISIM HIZMETLERI VE TIC. LTD. STI.",
-    "protocol": "http",
-    "speed_ms": "1892.72",
-    "anonymity": "elite",
-    "location": "Bahcelievler"
-  },
-  {
-    "ip": "194.27.90.143",
-    "port": 8077,
-    "country": "TR",
-    "country_code": "TR",
-    "asn": 8517,
-    "isp": "National Academic Network and Information Center",
-    "protocol": "http",
-    "speed_ms": "2362.14",
-    "anonymity": "elite",
-    "location": "Ankara"
-  },
-  {
-    "ip": "78.189.18.193",
+    "ip": "78.186.40.188",
     "port": 3310,
     "country": "TR",
     "country_code": "TR",
     "asn": 47331,
     "isp": "TTNet A.S.",
     "protocol": "http",
-    "speed_ms": "2093.39",
+    "speed_ms": "1353.50",
     "anonymity": "elite",
-    "location": "Bursa"
+    "location": "Trabzon"
+  },
+  {
+    "ip": "78.188.152.209",
+    "port": 1454,
+    "country": "TR",
+    "country_code": "TR",
+    "asn": 9121,
+    "isp": "Turk Telekomunikasyon Anonim Sirketi",
+    "protocol": "http",
+    "speed_ms": "2117.22",
+    "anonymity": "elite",
+    "location": "Istanbul"
   }
 ]

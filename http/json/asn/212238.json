@@ -1,17 +1,5 @@
 [
   {
-    "ip": "188.40.57.101",
-    "port": 80,
-    "country": "US",
-    "country_code": "US",
-    "asn": 212238,
-    "isp": "Datacamp Limited",
-    "protocol": "http",
-    "speed_ms": "1579.67",
-    "anonymity": "elite",
-    "location": "New York"
-  },
-  {
     "ip": "67.210.111.61",
     "port": 1080,
     "country": "ES",
@@ -19,8 +7,20 @@
     "asn": 212238,
     "isp": "Datacamp Limited",
     "protocol": "http",
-    "speed_ms": "2403.82",
+    "speed_ms": "2500.00",
     "anonymity": "anonymous",
     "location": "Madrid"
+  },
+  {
+    "ip": "188.40.57.101",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 212238,
+    "isp": "Datacamp Limited",
+    "protocol": "http",
+    "speed_ms": "2380.01",
+    "anonymity": "elite",
+    "location": "New York"
   }
 ]

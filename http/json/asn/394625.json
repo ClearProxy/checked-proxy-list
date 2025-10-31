@@ -1,17 +1,5 @@
 [
   {
-    "ip": "45.225.75.8",
-    "port": 80,
-    "country": "US",
-    "country_code": "US",
-    "asn": 394625,
-    "isp": "WhiteLabel IT Solutions Corp",
-    "protocol": "http",
-    "speed_ms": "2023.42",
-    "anonymity": "transparent",
-    "location": "New York"
-  },
-  {
     "ip": "45.225.75.3",
     "port": 80,
     "country": "US",
@@ -19,7 +7,19 @@
     "asn": 394625,
     "isp": "WhiteLabel IT Solutions Corp",
     "protocol": "http",
-    "speed_ms": "2261.46",
+    "speed_ms": "1199.14",
+    "anonymity": "transparent",
+    "location": "New York"
+  },
+  {
+    "ip": "45.225.75.8",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 394625,
+    "isp": "WhiteLabel IT Solutions Corp",
+    "protocol": "http",
+    "speed_ms": "2481.71",
     "anonymity": "transparent",
     "location": "New York"
   }

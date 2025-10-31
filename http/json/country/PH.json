@@ -1,15 +1,15 @@
 [
   {
-    "ip": "67.43.228.253",
-    "port": 32503,
+    "ip": "180.191.16.9",
+    "port": 8085,
     "country": "PH",
     "country_code": "PH",
-    "asn": 9299,
-    "isp": "Philippine Long Distance Telephone Co.",
+    "asn": 132199,
+    "isp": "Globe Telecom Inc.",
     "protocol": "http",
-    "speed_ms": "2465.74",
-    "anonymity": "elite",
-    "location": "Mandaluyong"
+    "speed_ms": "2345.23",
+    "anonymity": "transparent",
+    "location": "Cabalitian"
   },
   {
     "ip": "72.10.160.173",
@@ -19,8 +19,20 @@
     "asn": 9299,
     "isp": "Philippine Long Distance Telephone Co.",
     "protocol": "http",
-    "speed_ms": "2244.12",
+    "speed_ms": "2230.66",
     "anonymity": "elite",
     "location": "Manila (Sampaloc)"
+  },
+  {
+    "ip": "124.83.96.37",
+    "port": 8082,
+    "country": "PH",
+    "country_code": "PH",
+    "asn": 9299,
+    "isp": "Philippine Long Distance Telephone Co.",
+    "protocol": "http",
+    "speed_ms": "2376.64",
+    "anonymity": "transparent",
+    "location": "San Isidro"
   }
 ]
