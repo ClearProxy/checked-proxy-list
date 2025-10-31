@@ -7,7 +7,7 @@
     "asn": 35598,
     "isp": "INETCOM CARRIER LLC",
     "protocol": "http",
-    "speed_ms": "1360.13",
+    "speed_ms": "1500.31",
     "anonymity": "anonymous",
     "location": "Moscow"
   },
@@ -19,7 +19,19 @@
     "asn": 50340,
     "isp": "JSC Selectel",
     "protocol": "http",
-    "speed_ms": "1183.41",
+    "speed_ms": "1315.56",
+    "anonymity": "elite",
+    "location": "Moscow"
+  },
+  {
+    "ip": "212.96.201.54",
+    "port": 1080,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 9123,
+    "isp": "TimeWeb LLC",
+    "protocol": "http",
+    "speed_ms": "2486.33",
     "anonymity": "elite",
     "location": "Moscow"
   },
@@ -31,7 +43,7 @@
     "asn": 35598,
     "isp": "INETCOM CARRIER LLC",
     "protocol": "http",
-    "speed_ms": "1036.34",
+    "speed_ms": "1176.29",
     "anonymity": "anonymous",
     "location": "Moscow"
   },
@@ -43,7 +55,7 @@
     "asn": 12389,
     "isp": "PJSC Rostelecom",
     "protocol": "http",
-    "speed_ms": "1464.16",
+    "speed_ms": "1640.46",
     "anonymity": "elite",
     "location": "St Petersburg"
   },
@@ -55,7 +67,7 @@
     "asn": 200487,
     "isp": "OOO VPS",
     "protocol": "http",
-    "speed_ms": "1440.46",
+    "speed_ms": "1581.76",
     "anonymity": "elite",
     "location": "St Petersburg"
   },
@@ -67,19 +79,7 @@
     "asn": 9123,
     "isp": "TimeWeb LLC",
     "protocol": "http",
-    "speed_ms": "1174.60",
-    "anonymity": "elite",
-    "location": "St Petersburg"
-  },
-  {
-    "ip": "46.47.197.210",
-    "port": 3128,
-    "country": "RU",
-    "country_code": "RU",
-    "asn": 20632,
-    "isp": "PJSC MegaFon",
-    "protocol": "http",
-    "speed_ms": "2268.11",
+    "speed_ms": "1337.96",
     "anonymity": "elite",
     "location": "St Petersburg"
   },
@@ -91,7 +91,7 @@
     "asn": 29182,
     "isp": "JSC IOT",
     "protocol": "http",
-    "speed_ms": "1160.10",
+    "speed_ms": "1266.57",
     "anonymity": "elite",
     "location": "Moscow"
   },
@@ -103,9 +103,21 @@
     "asn": 49505,
     "isp": "JSC Selectel",
     "protocol": "http",
-    "speed_ms": "1278.70",
+    "speed_ms": "1395.17",
     "anonymity": "elite",
     "location": "St Petersburg"
+  },
+  {
+    "ip": "62.182.204.81",
+    "port": 8383,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 44391,
+    "isp": "JSC Elektrosvyaz",
+    "protocol": "http",
+    "speed_ms": "1374.83",
+    "anonymity": "elite",
+    "location": "Novyy Khushet"
   },
   {
     "ip": "87.239.28.2",
@@ -115,8 +127,20 @@
     "asn": 35598,
     "isp": "INETCOM CARRIER LLC",
     "protocol": "http",
-    "speed_ms": "840.49",
+    "speed_ms": "1012.76",
     "anonymity": "elite",
     "location": "Moscow"
+  },
+  {
+    "ip": "62.182.204.81",
+    "port": 8383,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 44391,
+    "isp": "JSC Elektrosvyaz",
+    "protocol": "http",
+    "speed_ms": "1316.06",
+    "anonymity": "elite",
+    "location": "Novyy Khushet"
   }
 ]
