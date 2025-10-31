@@ -7,7 +7,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1314.46",
+    "speed_ms": "1519.15",
     "anonymity": "elite",
     "location": "Toronto (Old Toronto)"
   },
@@ -19,7 +19,7 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "1223.08",
+    "speed_ms": "1967.84",
     "anonymity": "transparent",
     "location": "Beauharnois"
   },
@@ -31,7 +31,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "737.26",
+    "speed_ms": "780.36",
     "anonymity": "elite",
     "location": "Montreal"
   },
@@ -43,9 +43,21 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "700.34",
+    "speed_ms": "754.82",
     "anonymity": "elite",
     "location": "Beauharnois"
+  },
+  {
+    "ip": "157.230.69.90",
+    "port": 3000,
+    "country": "CA",
+    "country_code": "CA",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "http",
+    "speed_ms": "903.65",
+    "anonymity": "elite",
+    "location": "Toronto (Old Toronto)"
   },
   {
     "ip": "142.4.197.209",
@@ -55,7 +67,7 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "460.48",
+    "speed_ms": "608.27",
     "anonymity": "elite",
     "location": "Montreal (Ville-Marie)"
   }
