@@ -1,15 +1,39 @@
 [
   {
-    "ip": "8.213.151.128",
-    "port": 3128,
+    "ip": "220.79.35.159",
+    "port": 80,
     "country": "KR",
     "country_code": "KR",
-    "asn": 45102,
-    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "asn": 4766,
+    "isp": "Korea Telecom",
     "protocol": "http",
-    "speed_ms": "1637.63",
-    "anonymity": "transparent",
-    "location": "Seoul"
+    "speed_ms": "1821.18",
+    "anonymity": "elite",
+    "location": "Gwangyo-dong"
+  },
+  {
+    "ip": "211.195.74.89",
+    "port": 80,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 4766,
+    "isp": "Korea Telecom",
+    "protocol": "http",
+    "speed_ms": "1256.94",
+    "anonymity": "elite",
+    "location": "Seongnam-si (Buljeong-ro)"
+  },
+  {
+    "ip": "222.98.121.226",
+    "port": 80,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 4766,
+    "isp": "Korea Telecom",
+    "protocol": "http",
+    "speed_ms": "1998.02",
+    "anonymity": "elite",
+    "location": "Ansan-si (Danwon-gu)"
   },
   {
     "ip": "222.117.64.146",
@@ -19,21 +43,21 @@
     "asn": 4766,
     "isp": "Korea Telecom",
     "protocol": "http",
-    "speed_ms": "2131.35",
+    "speed_ms": "2085.93",
     "anonymity": "elite",
     "location": "Seongnam-si (Buljeong-ro)"
   },
   {
-    "ip": "61.84.52.100",
+    "ip": "220.122.70.189",
     "port": 80,
     "country": "KR",
     "country_code": "KR",
     "asn": 4766,
     "isp": "Korea Telecom",
     "protocol": "http",
-    "speed_ms": "2498.88",
+    "speed_ms": "1470.81",
     "anonymity": "elite",
-    "location": "Namdong-gu"
+    "location": "Seongnam-si (Buljeong-ro)"
   },
   {
     "ip": "221.153.80.5",
@@ -43,20 +67,8 @@
     "asn": 4766,
     "isp": "Korea Telecom",
     "protocol": "http",
-    "speed_ms": "1647.45",
+    "speed_ms": "1468.18",
     "anonymity": "elite",
     "location": "Seongnam-si (Buljeong-ro)"
-  },
-  {
-    "ip": "8.213.151.128",
-    "port": 3128,
-    "country": "KR",
-    "country_code": "KR",
-    "asn": 45102,
-    "isp": "Alibaba (US) Technology Co., Ltd.",
-    "protocol": "http",
-    "speed_ms": "2052.30",
-    "anonymity": "transparent",
-    "location": "Seoul"
   }
 ]
