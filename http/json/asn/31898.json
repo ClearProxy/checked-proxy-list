@@ -1,15 +1,27 @@
 [
   {
-    "ip": "140.245.102.185",
-    "port": 3128,
-    "country": "SG",
-    "country_code": "SG",
+    "ip": "130.61.72.88",
+    "port": 8080,
+    "country": "DE",
+    "country_code": "DE",
     "asn": 31898,
     "isp": "Oracle Corporation",
     "protocol": "http",
-    "speed_ms": "2186.35",
-    "anonymity": "transparent",
-    "location": "Singapore (Loyang)"
+    "speed_ms": "2022.59",
+    "anonymity": "elite",
+    "location": "Frankfurt am Main (Innenstadt I)"
+  },
+  {
+    "ip": "159.13.44.239",
+    "port": 8080,
+    "country": "AU",
+    "country_code": "AU",
+    "asn": 31898,
+    "isp": "Oracle Corporation",
+    "protocol": "http",
+    "speed_ms": "2401.34",
+    "anonymity": "elite",
+    "location": "Huntingwood"
   },
   {
     "ip": "143.47.62.167",
@@ -19,20 +31,8 @@
     "asn": 31898,
     "isp": "Oracle Corporation",
     "protocol": "http",
-    "speed_ms": "783.21",
+    "speed_ms": "1881.15",
     "anonymity": "elite",
     "location": "Madrid"
-  },
-  {
-    "ip": "130.61.72.88",
-    "port": 8080,
-    "country": "DE",
-    "country_code": "DE",
-    "asn": 31898,
-    "isp": "Oracle Corporation",
-    "protocol": "http",
-    "speed_ms": "755.14",
-    "anonymity": "elite",
-    "location": "Frankfurt am Main (Innenstadt I)"
   }
 ]
