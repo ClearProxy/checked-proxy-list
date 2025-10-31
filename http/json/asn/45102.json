@@ -1,15 +1,15 @@
 [
   {
-    "ip": "8.213.151.128",
+    "ip": "47.89.184.18",
     "port": 3128,
-    "country": "KR",
-    "country_code": "KR",
+    "country": "US",
+    "country_code": "US",
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "1718.35",
+    "speed_ms": "2273.14",
     "anonymity": "transparent",
-    "location": "Seoul"
+    "location": "Charlottesville"
   },
   {
     "ip": "47.245.109.134",
@@ -19,9 +19,21 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "1416.05",
+    "speed_ms": "1360.87",
     "anonymity": "elite",
     "location": "Singapore"
+  },
+  {
+    "ip": "8.209.255.13",
+    "port": 3128,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2428.25",
+    "anonymity": "transparent",
+    "location": "Shibuya City"
   },
   {
     "ip": "47.91.65.12",
@@ -31,7 +43,7 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "1005.73",
+    "speed_ms": "896.14",
     "anonymity": "elite",
     "location": "Frankfurt am Main"
   },
@@ -43,8 +55,32 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "521.91",
+    "speed_ms": "595.02",
     "anonymity": "elite",
     "location": "Minkler"
+  },
+  {
+    "ip": "47.89.184.18",
+    "port": 3128,
+    "country": "US",
+    "country_code": "US",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "1742.20",
+    "anonymity": "transparent",
+    "location": "Charlottesville"
+  },
+  {
+    "ip": "8.213.151.128",
+    "port": 3128,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "1863.45",
+    "anonymity": "transparent",
+    "location": "Seoul"
   }
 ]
