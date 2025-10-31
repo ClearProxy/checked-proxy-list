@@ -7,7 +7,19 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks5",
-    "speed_ms": "1775.37",
+    "speed_ms": "783.50",
+    "anonymity": "elite",
+    "location": "Atlanta (Fairlie-Poplar)"
+  },
+  {
+    "ip": "74.119.147.209",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks5",
+    "speed_ms": "843.85",
     "anonymity": "elite",
     "location": "Atlanta (Fairlie-Poplar)"
   },
@@ -19,21 +31,21 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks5",
-    "speed_ms": "1016.29",
+    "speed_ms": "772.80",
     "anonymity": "elite",
     "location": "Atlanta (Fairlie-Poplar)"
   },
   {
-    "ip": "104.200.135.46",
+    "ip": "192.111.129.150",
     "port": 4145,
     "country": "US",
     "country_code": "US",
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks5",
-    "speed_ms": "1483.03",
+    "speed_ms": "791.84",
     "anonymity": "elite",
-    "location": "Los Angeles (Downtown Los Angeles)"
+    "location": "Atlanta (Fairlie-Poplar)"
   },
   {
     "ip": "192.111.139.162",
@@ -43,7 +55,7 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks5",
-    "speed_ms": "819.76",
+    "speed_ms": "801.54",
     "anonymity": "elite",
     "location": "Atlanta (Fairlie-Poplar)"
   },
@@ -55,7 +67,7 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks5",
-    "speed_ms": "1166.89",
+    "speed_ms": "725.50",
     "anonymity": "elite",
     "location": "Atlanta (Fairlie-Poplar)"
   },
@@ -67,9 +79,33 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks5",
-    "speed_ms": "808.07",
+    "speed_ms": "803.99",
     "anonymity": "elite",
     "location": "Atlanta"
+  },
+  {
+    "ip": "142.54.235.9",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks5",
+    "speed_ms": "863.95",
+    "anonymity": "elite",
+    "location": "Los Angeles"
+  },
+  {
+    "ip": "72.37.217.3",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks5",
+    "speed_ms": "1484.72",
+    "anonymity": "elite",
+    "location": "Syracuse"
   },
   {
     "ip": "184.170.248.5",
@@ -79,21 +115,9 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks5",
-    "speed_ms": "1551.93",
+    "speed_ms": "2116.04",
     "anonymity": "elite",
     "location": "Atlanta"
-  },
-  {
-    "ip": "142.54.226.214",
-    "port": 4145,
-    "country": "US",
-    "country_code": "US",
-    "asn": 46562,
-    "isp": "Performive LLC",
-    "protocol": "socks5",
-    "speed_ms": "787.18",
-    "anonymity": "elite",
-    "location": "Hackensack"
   },
   {
     "ip": "192.111.137.35",
@@ -103,19 +127,55 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks5",
-    "speed_ms": "1488.41",
+    "speed_ms": "1735.40",
     "anonymity": "elite",
     "location": "Atlanta (Fairlie-Poplar)"
   },
   {
-    "ip": "192.252.209.158",
+    "ip": "68.71.251.134",
     "port": 4145,
     "country": "US",
     "country_code": "US",
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks5",
-    "speed_ms": "1822.49",
+    "speed_ms": "1563.79",
+    "anonymity": "elite",
+    "location": "Las Vegas"
+  },
+  {
+    "ip": "192.252.208.70",
+    "port": 14282,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks5",
+    "speed_ms": "1729.88",
+    "anonymity": "elite",
+    "location": "Atlanta"
+  },
+  {
+    "ip": "192.111.139.163",
+    "port": 19404,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks5",
+    "speed_ms": "1754.20",
+    "anonymity": "elite",
+    "location": "Atlanta (Fairlie-Poplar)"
+  },
+  {
+    "ip": "199.58.184.97",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 46562,
+    "isp": "Performive LLC",
+    "protocol": "socks5",
+    "speed_ms": "607.47",
     "anonymity": "elite",
     "location": "Atlanta"
   }
