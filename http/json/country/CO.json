@@ -1,39 +1,51 @@
 [
   {
-    "ip": "181.49.106.19",
-    "port": 80,
+    "ip": "190.121.157.41",
+    "port": 999,
     "country": "CO",
     "country_code": "CO",
-    "asn": 14080,
-    "isp": "Telmex Colombia S.A.",
+    "asn": 27951,
+    "isp": "Media Commerce Partners S.A",
     "protocol": "http",
-    "speed_ms": "2356.68",
-    "anonymity": "elite",
-    "location": "Neiva"
+    "speed_ms": "1735.45",
+    "anonymity": "transparent",
+    "location": "Pereira"
   },
   {
-    "ip": "72.10.160.92",
-    "port": 20281,
+    "ip": "67.73.240.1",
+    "port": 8081,
     "country": "CO",
     "country_code": "CO",
-    "asn": 13489,
-    "isp": "EPM Telecomunicaciones S.A. E.S.P.",
+    "asn": 3549,
+    "isp": "Level 3 Communications, Inc.",
     "protocol": "http",
-    "speed_ms": "1502.62",
-    "anonymity": "elite",
-    "location": "Envigado"
+    "speed_ms": "2143.12",
+    "anonymity": "transparent",
+    "location": "Sopo"
   },
   {
-    "ip": "72.10.160.170",
-    "port": 27007,
+    "ip": "67.43.236.18",
+    "port": 26303,
     "country": "CO",
     "country_code": "CO",
-    "asn": 10620,
-    "isp": "Telmex Colombia S.A.",
+    "asn": 26611,
+    "isp": "COMCEL S.A.",
     "protocol": "http",
-    "speed_ms": "1998.19",
+    "speed_ms": "2062.72",
     "anonymity": "elite",
-    "location": "Cucuta"
+    "location": "Zipaquira"
+  },
+  {
+    "ip": "190.61.40.188",
+    "port": 8080,
+    "country": "CO",
+    "country_code": "CO",
+    "asn": 52468,
+    "isp": "UFINET PANAMA S.A.",
+    "protocol": "http",
+    "speed_ms": "2091.04",
+    "anonymity": "transparent",
+    "location": "Dibulla"
   },
   {
     "ip": "72.10.164.178",
@@ -43,20 +55,32 @@
     "asn": 10620,
     "isp": "Telmex Colombia S.A.",
     "protocol": "http",
-    "speed_ms": "2296.78",
+    "speed_ms": "1328.52",
     "anonymity": "elite",
     "location": "Bogota"
   },
   {
-    "ip": "72.10.160.90",
-    "port": 20281,
+    "ip": "181.49.106.19",
+    "port": 80,
     "country": "CO",
     "country_code": "CO",
-    "asn": 13489,
-    "isp": "EPM Telecomunicaciones S.A. E.S.P.",
+    "asn": 14080,
+    "isp": "Telmex Colombia S.A.",
     "protocol": "http",
-    "speed_ms": "2500.00",
+    "speed_ms": "1223.98",
     "anonymity": "elite",
-    "location": "Envigado"
+    "location": "Neiva"
+  },
+  {
+    "ip": "72.10.160.91",
+    "port": 9819,
+    "country": "CO",
+    "country_code": "CO",
+    "asn": 27831,
+    "isp": "Colombia Movil",
+    "protocol": "http",
+    "speed_ms": "2200.35",
+    "anonymity": "elite",
+    "location": "Pereira"
   }
 ]

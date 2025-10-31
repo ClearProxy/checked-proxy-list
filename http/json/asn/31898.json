@@ -1,27 +1,39 @@
 [
   {
-    "ip": "130.61.72.88",
-    "port": 8080,
-    "country": "DE",
-    "country_code": "DE",
+    "ip": "129.146.226.84",
+    "port": 3128,
+    "country": "US",
+    "country_code": "US",
     "asn": 31898,
     "isp": "Oracle Corporation",
     "protocol": "http",
-    "speed_ms": "2000.34",
-    "anonymity": "elite",
-    "location": "Frankfurt am Main (Innenstadt I)"
+    "speed_ms": "2085.53",
+    "anonymity": "transparent",
+    "location": "Phoenix"
   },
   {
-    "ip": "168.138.147.179",
+    "ip": "129.146.226.84",
     "port": 3128,
-    "country": "BR",
-    "country_code": "BR",
+    "country": "US",
+    "country_code": "US",
     "asn": 31898,
     "isp": "Oracle Corporation",
     "protocol": "http",
-    "speed_ms": "2500.00",
+    "speed_ms": "1140.83",
     "anonymity": "transparent",
-    "location": "Mariapolis"
+    "location": "Phoenix"
+  },
+  {
+    "ip": "140.245.102.185",
+    "port": 3128,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 31898,
+    "isp": "Oracle Corporation",
+    "protocol": "http",
+    "speed_ms": "2043.43",
+    "anonymity": "transparent",
+    "location": "Singapore (Loyang)"
   },
   {
     "ip": "143.47.62.167",
@@ -31,20 +43,20 @@
     "asn": 31898,
     "isp": "Oracle Corporation",
     "protocol": "http",
-    "speed_ms": "2099.02",
+    "speed_ms": "1803.96",
     "anonymity": "elite",
     "location": "Madrid"
   },
   {
-    "ip": "167.234.224.70",
-    "port": 37777,
-    "country": "BR",
-    "country_code": "BR",
+    "ip": "130.61.72.88",
+    "port": 8080,
+    "country": "DE",
+    "country_code": "DE",
     "asn": 31898,
     "isp": "Oracle Corporation",
     "protocol": "http",
-    "speed_ms": "1912.92",
-    "anonymity": "anonymous",
-    "location": "Sao Paulo"
+    "speed_ms": "1443.37",
+    "anonymity": "elite",
+    "location": "Frankfurt am Main (Innenstadt I)"
   }
 ]

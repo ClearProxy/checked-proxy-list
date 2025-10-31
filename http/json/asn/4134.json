@@ -1,17 +1,5 @@
 [
   {
-    "ip": "115.239.234.43",
-    "port": 7302,
-    "country": "CN",
-    "country_code": "CN",
-    "asn": 4134,
-    "isp": "Chinanet",
-    "protocol": "http",
-    "speed_ms": "1902.13",
-    "anonymity": "elite",
-    "location": "Beijing"
-  },
-  {
     "ip": "36.102.46.230",
     "port": 30001,
     "country": "CN",
@@ -19,33 +7,45 @@
     "asn": 4134,
     "isp": "Chinanet",
     "protocol": "http",
-    "speed_ms": "2225.65",
+    "speed_ms": "2057.91",
     "anonymity": "elite",
     "location": "Hangzhou"
   },
   {
-    "ip": "222.213.85.99",
-    "port": 9002,
-    "country": "CN",
-    "country_code": "CN",
-    "asn": 4134,
-    "isp": "Chinanet",
-    "protocol": "http",
-    "speed_ms": "2295.98",
-    "anonymity": "elite",
-    "location": "Deyang"
-  },
-  {
-    "ip": "220.178.229.83",
+    "ip": "115.239.234.43",
     "port": 7302,
     "country": "CN",
     "country_code": "CN",
     "asn": 4134,
     "isp": "Chinanet",
     "protocol": "http",
-    "speed_ms": "1601.65",
+    "speed_ms": "1462.33",
     "anonymity": "elite",
-    "location": "Hefei (Shushan Qu)"
+    "location": "Beijing"
+  },
+  {
+    "ip": "218.21.91.214",
+    "port": 80,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 4134,
+    "isp": "Chinanet",
+    "protocol": "http",
+    "speed_ms": "2478.71",
+    "anonymity": "elite",
+    "location": "Liuzhou"
+  },
+  {
+    "ip": "113.108.13.120",
+    "port": 8083,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 4134,
+    "isp": "Chinanet",
+    "protocol": "http",
+    "speed_ms": "2159.95",
+    "anonymity": "elite",
+    "location": "Yuehai"
   },
   {
     "ip": "1.71.170.146",
@@ -55,7 +55,7 @@
     "asn": 4134,
     "isp": "Chinanet",
     "protocol": "http",
-    "speed_ms": "2482.34",
+    "speed_ms": "1140.97",
     "anonymity": "elite",
     "location": "Julun"
   },
@@ -67,9 +67,21 @@
     "asn": 4134,
     "isp": "Chinanet",
     "protocol": "http",
-    "speed_ms": "1939.58",
+    "speed_ms": "1207.11",
     "anonymity": "elite",
     "location": "Xingfulu"
+  },
+  {
+    "ip": "220.178.229.83",
+    "port": 7302,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 4134,
+    "isp": "Chinanet",
+    "protocol": "http",
+    "speed_ms": "1913.97",
+    "anonymity": "elite",
+    "location": "Hefei (Shushan Qu)"
   },
   {
     "ip": "59.49.79.173",
@@ -79,7 +91,7 @@
     "asn": 4134,
     "isp": "Chinanet",
     "protocol": "http",
-    "speed_ms": "2149.16",
+    "speed_ms": "1239.59",
     "anonymity": "elite",
     "location": "Taiyuan"
   }

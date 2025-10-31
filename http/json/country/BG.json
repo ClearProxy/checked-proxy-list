@@ -1,17 +1,5 @@
 [
   {
-    "ip": "45.84.175.149",
-    "port": 80,
-    "country": "BG",
-    "country_code": "BG",
-    "asn": 59466,
-    "isp": "EuroExpress Ltd.",
-    "protocol": "http",
-    "speed_ms": "2146.23",
-    "anonymity": "elite",
-    "location": "Stara Zagora"
-  },
-  {
     "ip": "77.238.66.2",
     "port": 80,
     "country": "BG",
@@ -19,9 +7,21 @@
     "asn": 39135,
     "isp": "Fiber 1 Ltd.",
     "protocol": "http",
-    "speed_ms": "2323.32",
+    "speed_ms": "2139.95",
     "anonymity": "elite",
     "location": "Sofia"
+  },
+  {
+    "ip": "45.84.175.149",
+    "port": 80,
+    "country": "BG",
+    "country_code": "BG",
+    "asn": 59466,
+    "isp": "EuroExpress Ltd.",
+    "protocol": "http",
+    "speed_ms": "2101.97",
+    "anonymity": "elite",
+    "location": "Stara Zagora"
   },
   {
     "ip": "87.247.251.24",
@@ -31,7 +31,7 @@
     "asn": 62015,
     "isp": "BIN BG Ltd.",
     "protocol": "http",
-    "speed_ms": "2140.93",
+    "speed_ms": "1738.63",
     "anonymity": "elite",
     "location": "Radomir"
   }

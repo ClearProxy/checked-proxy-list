@@ -1,15 +1,15 @@
 [
   {
-    "ip": "72.10.160.171",
-    "port": 23231,
+    "ip": "72.10.164.178",
+    "port": 9569,
     "country": "BR",
     "country_code": "BR",
     "asn": 26599,
     "isp": "TELEFONICA BRASIL S.A",
     "protocol": "http",
-    "speed_ms": "2359.05",
+    "speed_ms": "2064.89",
     "anonymity": "elite",
-    "location": "Campinas"
+    "location": "Blumenau"
   },
   {
     "ip": "72.10.164.178",
@@ -19,8 +19,20 @@
     "asn": 26599,
     "isp": "TELEFONICA BRASIL S.A",
     "protocol": "http",
-    "speed_ms": "1776.82",
+    "speed_ms": "1480.61",
     "anonymity": "elite",
     "location": "Blumenau"
+  },
+  {
+    "ip": "72.10.160.171",
+    "port": 23231,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 26599,
+    "isp": "TELEFONICA BRASIL S.A",
+    "protocol": "http",
+    "speed_ms": "2239.77",
+    "anonymity": "elite",
+    "location": "Campinas"
   }
 ]

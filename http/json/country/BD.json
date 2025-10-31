@@ -1,15 +1,27 @@
 [
   {
-    "ip": "103.49.202.252",
+    "ip": "103.138.145.34",
     "port": 80,
     "country": "BD",
     "country_code": "BD",
-    "asn": 133957,
-    "isp": "SOL-BD",
+    "asn": 139008,
+    "isp": "NEEF IT LIMITED",
     "protocol": "http",
-    "speed_ms": "1782.19",
+    "speed_ms": "1233.58",
     "anonymity": "anonymous",
-    "location": "Tungipara"
+    "location": "Nagar Naluakot"
+  },
+  {
+    "ip": "43.225.151.140",
+    "port": 25251,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 9441,
+    "isp": "Next Online Ltd.",
+    "protocol": "http",
+    "speed_ms": "2174.28",
+    "anonymity": "transparent",
+    "location": "Dhaka (Cantonment)"
   },
   {
     "ip": "103.138.145.34",
@@ -19,8 +31,44 @@
     "asn": 139008,
     "isp": "NEEF IT LIMITED",
     "protocol": "http",
-    "speed_ms": "2406.04",
+    "speed_ms": "1069.27",
     "anonymity": "anonymous",
     "location": "Nagar Naluakot"
+  },
+  {
+    "ip": "43.225.151.14",
+    "port": 25251,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 9441,
+    "isp": "Next Online Ltd.",
+    "protocol": "http",
+    "speed_ms": "1932.38",
+    "anonymity": "transparent",
+    "location": "Dhaka (Cantonment)"
+  },
+  {
+    "ip": "103.49.202.252",
+    "port": 80,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 133957,
+    "isp": "SOL-BD",
+    "protocol": "http",
+    "speed_ms": "1619.15",
+    "anonymity": "anonymous",
+    "location": "Tungipara"
+  },
+  {
+    "ip": "103.202.223.2",
+    "port": 8070,
+    "country": "BD",
+    "country_code": "BD",
+    "asn": 134180,
+    "isp": "BRISK SYSTEMS",
+    "protocol": "http",
+    "speed_ms": "2470.56",
+    "anonymity": "anonymous",
+    "location": "Dhaka (Mohammadpur)"
   }
 ]

@@ -1,17 +1,5 @@
 [
   {
-    "ip": "72.10.160.90",
-    "port": 12981,
-    "country": "AR",
-    "country_code": "AR",
-    "asn": 7303,
-    "isp": "Telecom Argentina S.A.",
-    "protocol": "http",
-    "speed_ms": "2461.26",
-    "anonymity": "elite",
-    "location": "Adrogue"
-  },
-  {
     "ip": "67.43.228.250",
     "port": 21565,
     "country": "AR",
@@ -19,8 +7,44 @@
     "asn": 7303,
     "isp": "Telecom Argentina S.A.",
     "protocol": "http",
-    "speed_ms": "2478.81",
+    "speed_ms": "2370.71",
     "anonymity": "elite",
     "location": "Buenos Aires"
+  },
+  {
+    "ip": "72.10.160.90",
+    "port": 12981,
+    "country": "AR",
+    "country_code": "AR",
+    "asn": 7303,
+    "isp": "Telecom Argentina S.A.",
+    "protocol": "http",
+    "speed_ms": "1941.55",
+    "anonymity": "elite",
+    "location": "Adrogue"
+  },
+  {
+    "ip": "72.10.164.178",
+    "port": 8031,
+    "country": "AR",
+    "country_code": "AR",
+    "asn": 7303,
+    "isp": "Telecom Argentina S.A.",
+    "protocol": "http",
+    "speed_ms": "2079.58",
+    "anonymity": "elite",
+    "location": "Saldan"
+  },
+  {
+    "ip": "72.10.164.178",
+    "port": 1081,
+    "country": "AR",
+    "country_code": "AR",
+    "asn": 7303,
+    "isp": "Telecom Argentina S.A.",
+    "protocol": "http",
+    "speed_ms": "2500.00",
+    "anonymity": "elite",
+    "location": "San Justo"
   }
 ]
