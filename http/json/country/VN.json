@@ -7,7 +7,7 @@
     "asn": 7552,
     "isp": "Viettel Group",
     "protocol": "http",
-    "speed_ms": "881.33",
+    "speed_ms": "863.78",
     "anonymity": "elite",
     "location": "Ho Chi Minh City"
   },
@@ -19,7 +19,7 @@
     "asn": 135905,
     "isp": "VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",
     "protocol": "http",
-    "speed_ms": "1212.39",
+    "speed_ms": "1021.24",
     "anonymity": "elite",
     "location": "Hue"
   },
@@ -31,7 +31,7 @@
     "asn": 135377,
     "isp": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
     "protocol": "http",
-    "speed_ms": "1008.48",
+    "speed_ms": "1342.11",
     "anonymity": "elite",
     "location": "Ho Chi Minh City"
   },
@@ -43,9 +43,21 @@
     "asn": 149117,
     "isp": "VTC MOBILE SERVICES JOINT STOCK COMPANY",
     "protocol": "http",
-    "speed_ms": "856.15",
+    "speed_ms": "806.19",
     "anonymity": "elite",
     "location": "Vinhomes Times City"
+  },
+  {
+    "ip": "202.158.244.17",
+    "port": 8080,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 135918,
+    "isp": "VIET DIGITAL TECHNOLOGY LIABILITY COMPANY",
+    "protocol": "http",
+    "speed_ms": "842.87",
+    "anonymity": "elite",
+    "location": "Da Nang"
   },
   {
     "ip": "112.213.87.154",
@@ -55,8 +67,44 @@
     "asn": 45544,
     "isp": "SUPERDATA-VN",
     "protocol": "http",
-    "speed_ms": "1002.02",
+    "speed_ms": "946.12",
     "anonymity": "elite",
     "location": "Quan Ba"
+  },
+  {
+    "ip": "123.30.154.171",
+    "port": 7777,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 135905,
+    "isp": "VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",
+    "protocol": "http",
+    "speed_ms": "1564.76",
+    "anonymity": "elite",
+    "location": "Hanoi"
+  },
+  {
+    "ip": "103.121.90.119",
+    "port": 8080,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 135967,
+    "isp": "Bach Kim Network solutions Join stock company",
+    "protocol": "http",
+    "speed_ms": "1158.89",
+    "anonymity": "elite",
+    "location": "Vinhomes Royal City"
+  },
+  {
+    "ip": "160.191.17.64",
+    "port": 8888,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 142294,
+    "isp": "TELECOM TRADE AND SERVER LLC",
+    "protocol": "http",
+    "speed_ms": "768.36",
+    "anonymity": "elite",
+    "location": "Nhon Trach (Phuong Hoa Thanh)"
   }
 ]
