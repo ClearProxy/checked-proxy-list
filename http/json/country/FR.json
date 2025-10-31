@@ -7,9 +7,33 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "1362.05",
+    "speed_ms": "1304.35",
     "anonymity": "elite",
     "location": "Roubaix"
+  },
+  {
+    "ip": "51.15.228.52",
+    "port": 8080,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 12876,
+    "isp": "ONLINE S.A.S.",
+    "protocol": "http",
+    "speed_ms": "1377.62",
+    "anonymity": "transparent",
+    "location": "Paris"
+  },
+  {
+    "ip": "195.83.197.26",
+    "port": 80,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 2200,
+    "isp": "Renater",
+    "protocol": "http",
+    "speed_ms": "993.84",
+    "anonymity": "elite",
+    "location": "Toulouse"
   },
   {
     "ip": "163.172.53.142",
@@ -19,7 +43,7 @@
     "asn": 12876,
     "isp": "ONLINE S.A.S.",
     "protocol": "http",
-    "speed_ms": "1203.78",
+    "speed_ms": "1227.36",
     "anonymity": "elite",
     "location": "Paris"
   },
@@ -31,7 +55,7 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "1140.89",
+    "speed_ms": "1065.73",
     "anonymity": "elite",
     "location": "Roubaix"
   },
@@ -43,8 +67,44 @@
     "asn": 16276,
     "isp": "OVH SAS",
     "protocol": "http",
-    "speed_ms": "1215.05",
+    "speed_ms": "1178.01",
     "anonymity": "elite",
     "location": "Roubaix"
+  },
+  {
+    "ip": "195.83.197.177",
+    "port": 80,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 2200,
+    "isp": "Renater",
+    "protocol": "http",
+    "speed_ms": "815.15",
+    "anonymity": "elite",
+    "location": "Toulouse"
+  },
+  {
+    "ip": "195.83.197.45",
+    "port": 80,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 2200,
+    "isp": "Renater",
+    "protocol": "http",
+    "speed_ms": "801.75",
+    "anonymity": "elite",
+    "location": "Toulouse"
+  },
+  {
+    "ip": "195.83.197.222",
+    "port": 80,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 2200,
+    "isp": "Renater",
+    "protocol": "http",
+    "speed_ms": "776.17",
+    "anonymity": "elite",
+    "location": "Toulouse"
   }
 ]
