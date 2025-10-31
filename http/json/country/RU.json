@@ -7,7 +7,7 @@
     "asn": 35598,
     "isp": "INETCOM CARRIER LLC",
     "protocol": "http",
-    "speed_ms": "1402.70",
+    "speed_ms": "1223.88",
     "anonymity": "anonymous",
     "location": "Moscow"
   },
@@ -19,7 +19,7 @@
     "asn": 50340,
     "isp": "JSC Selectel",
     "protocol": "http",
-    "speed_ms": "986.52",
+    "speed_ms": "1019.04",
     "anonymity": "elite",
     "location": "Moscow"
   },
@@ -31,7 +31,7 @@
     "asn": 35598,
     "isp": "INETCOM CARRIER LLC",
     "protocol": "http",
-    "speed_ms": "863.09",
+    "speed_ms": "883.37",
     "anonymity": "anonymous",
     "location": "Moscow"
   },
@@ -43,7 +43,7 @@
     "asn": 12389,
     "isp": "PJSC Rostelecom",
     "protocol": "http",
-    "speed_ms": "1479.79",
+    "speed_ms": "1335.38",
     "anonymity": "elite",
     "location": "St Petersburg"
   },
@@ -55,7 +55,7 @@
     "asn": 200487,
     "isp": "OOO VPS",
     "protocol": "http",
-    "speed_ms": "1458.15",
+    "speed_ms": "1292.68",
     "anonymity": "elite",
     "location": "St Petersburg"
   },
@@ -67,7 +67,7 @@
     "asn": 9123,
     "isp": "TimeWeb LLC",
     "protocol": "http",
-    "speed_ms": "1104.20",
+    "speed_ms": "1018.06",
     "anonymity": "elite",
     "location": "St Petersburg"
   },
@@ -79,7 +79,7 @@
     "asn": 29182,
     "isp": "JSC IOT",
     "protocol": "http",
-    "speed_ms": "1140.60",
+    "speed_ms": "960.00",
     "anonymity": "elite",
     "location": "Moscow"
   },
@@ -91,9 +91,21 @@
     "asn": 49505,
     "isp": "JSC Selectel",
     "protocol": "http",
-    "speed_ms": "1322.92",
+    "speed_ms": "1198.01",
     "anonymity": "elite",
     "location": "St Petersburg"
+  },
+  {
+    "ip": "62.182.204.81",
+    "port": 8383,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 44391,
+    "isp": "JSC Elektrosvyaz",
+    "protocol": "http",
+    "speed_ms": "1258.88",
+    "anonymity": "elite",
+    "location": "Novyy Khushet"
   },
   {
     "ip": "87.239.28.2",
@@ -103,8 +115,20 @@
     "asn": 35598,
     "isp": "INETCOM CARRIER LLC",
     "protocol": "http",
-    "speed_ms": "926.01",
+    "speed_ms": "783.73",
     "anonymity": "elite",
     "location": "Moscow"
+  },
+  {
+    "ip": "62.182.204.81",
+    "port": 8383,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 44391,
+    "isp": "JSC Elektrosvyaz",
+    "protocol": "http",
+    "speed_ms": "1114.50",
+    "anonymity": "elite",
+    "location": "Novyy Khushet"
   }
 ]
