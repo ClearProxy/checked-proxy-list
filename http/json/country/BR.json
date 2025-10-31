@@ -1,5 +1,17 @@
 [
   {
+    "ip": "177.128.123.121",
+    "port": 8081,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 52870,
+    "isp": "Disk Sistema Tele-Informatica Ltda- ME",
+    "protocol": "http",
+    "speed_ms": "1403.70",
+    "anonymity": "elite",
+    "location": "Antonio Joao"
+  },
+  {
     "ip": "187.108.73.114",
     "port": 8080,
     "country": "BR",
@@ -7,21 +19,9 @@
     "asn": 28220,
     "isp": "CABO SERVICOS DE TELECOMUNICACOES LTDA",
     "protocol": "http",
-    "speed_ms": "1017.02",
+    "speed_ms": "904.75",
     "anonymity": "elite",
     "location": "Candelaria"
-  },
-  {
-    "ip": "72.10.164.178",
-    "port": 9569,
-    "country": "BR",
-    "country_code": "BR",
-    "asn": 26599,
-    "isp": "TELEFONICA BRASIL S.A",
-    "protocol": "http",
-    "speed_ms": "1260.13",
-    "anonymity": "elite",
-    "location": "Blumenau"
   },
   {
     "ip": "45.6.0.114",
@@ -31,21 +31,9 @@
     "asn": 262875,
     "isp": "IP AMERICA TELECOM LTDA",
     "protocol": "http",
-    "speed_ms": "1139.78",
+    "speed_ms": "928.39",
     "anonymity": "elite",
     "location": "Abadia de Goias"
-  },
-  {
-    "ip": "72.10.164.178",
-    "port": 9569,
-    "country": "BR",
-    "country_code": "BR",
-    "asn": 26599,
-    "isp": "TELEFONICA BRASIL S.A",
-    "protocol": "http",
-    "speed_ms": "1201.00",
-    "anonymity": "elite",
-    "location": "Blumenau"
   },
   {
     "ip": "45.7.80.12",
@@ -55,7 +43,7 @@
     "asn": 266575,
     "isp": "ISOLTEC TELECOM LTDA - ME",
     "protocol": "http",
-    "speed_ms": "1102.37",
+    "speed_ms": "939.13",
     "anonymity": "elite",
     "location": "Alpercata"
   },
@@ -67,7 +55,7 @@
     "asn": 4230,
     "isp": "CLARO S.A.",
     "protocol": "http",
-    "speed_ms": "1138.29",
+    "speed_ms": "960.09",
     "anonymity": "elite",
     "location": "Sao Paulo"
   },
@@ -79,7 +67,7 @@
     "asn": 26599,
     "isp": "TELEFONICA BRASIL S.A",
     "protocol": "http",
-    "speed_ms": "1042.17",
+    "speed_ms": "1096.57",
     "anonymity": "elite",
     "location": "Campinas"
   },
@@ -91,7 +79,7 @@
     "asn": 265472,
     "isp": "ITA TELECOM",
     "protocol": "http",
-    "speed_ms": "1502.91",
+    "speed_ms": "1298.79",
     "anonymity": "elite",
     "location": "Ibirapitanga"
   },
@@ -103,7 +91,7 @@
     "asn": 266040,
     "isp": "EBER DEJANI PEREIRA DE ALBERNAZ CIA LTDA",
     "protocol": "http",
-    "speed_ms": "939.51",
+    "speed_ms": "704.55",
     "anonymity": "elite",
     "location": "Santa Vitoria do Palmar"
   },
@@ -115,8 +103,20 @@
     "asn": 28240,
     "isp": "VIP - SERVICOS DE TELECOMUNICACOES LTDA.",
     "protocol": "http",
-    "speed_ms": "936.92",
+    "speed_ms": "724.03",
     "anonymity": "elite",
     "location": "Vilhena"
+  },
+  {
+    "ip": "67.43.228.253",
+    "port": 5675,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 262907,
+    "isp": "BRASIL TECNOLOGIA E PARTICIPACOES S/A",
+    "protocol": "http",
+    "speed_ms": "797.99",
+    "anonymity": "elite",
+    "location": "Santa Maria"
   }
 ]
