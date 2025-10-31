@@ -7,9 +7,21 @@
     "asn": 31898,
     "isp": "Oracle Corporation",
     "protocol": "http",
-    "speed_ms": "879.84",
+    "speed_ms": "2000.34",
     "anonymity": "elite",
     "location": "Frankfurt am Main (Innenstadt I)"
+  },
+  {
+    "ip": "168.138.147.179",
+    "port": 3128,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 31898,
+    "isp": "Oracle Corporation",
+    "protocol": "http",
+    "speed_ms": "2500.00",
+    "anonymity": "transparent",
+    "location": "Mariapolis"
   },
   {
     "ip": "143.47.62.167",
@@ -19,8 +31,20 @@
     "asn": 31898,
     "isp": "Oracle Corporation",
     "protocol": "http",
-    "speed_ms": "823.66",
+    "speed_ms": "2099.02",
     "anonymity": "elite",
     "location": "Madrid"
+  },
+  {
+    "ip": "167.234.224.70",
+    "port": 37777,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 31898,
+    "isp": "Oracle Corporation",
+    "protocol": "http",
+    "speed_ms": "1912.92",
+    "anonymity": "anonymous",
+    "location": "Sao Paulo"
   }
 ]

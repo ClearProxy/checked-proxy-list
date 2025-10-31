@@ -1,17 +1,5 @@
 [
   {
-    "ip": "183.60.141.17",
-    "port": 443,
-    "country": "CN",
-    "country_code": "CN",
-    "asn": 4134,
-    "isp": "Chinanet",
-    "protocol": "http",
-    "speed_ms": "1919.61",
-    "anonymity": "elite",
-    "location": "Beijing"
-  },
-  {
     "ip": "115.239.234.43",
     "port": 7302,
     "country": "CN",
@@ -19,21 +7,9 @@
     "asn": 4134,
     "isp": "Chinanet",
     "protocol": "http",
-    "speed_ms": "1398.74",
+    "speed_ms": "1902.13",
     "anonymity": "elite",
     "location": "Beijing"
-  },
-  {
-    "ip": "222.83.110.83",
-    "port": 7302,
-    "country": "CN",
-    "country_code": "CN",
-    "asn": 4134,
-    "isp": "Chinanet",
-    "protocol": "http",
-    "speed_ms": "1419.24",
-    "anonymity": "elite",
-    "location": "Xingfulu"
   },
   {
     "ip": "36.102.46.230",
@@ -43,21 +19,33 @@
     "asn": 4134,
     "isp": "Chinanet",
     "protocol": "http",
-    "speed_ms": "1637.48",
+    "speed_ms": "2225.65",
     "anonymity": "elite",
     "location": "Hangzhou"
   },
   {
-    "ip": "59.49.79.173",
-    "port": 8089,
+    "ip": "222.213.85.99",
+    "port": 9002,
     "country": "CN",
     "country_code": "CN",
     "asn": 4134,
     "isp": "Chinanet",
     "protocol": "http",
-    "speed_ms": "1123.04",
+    "speed_ms": "2295.98",
     "anonymity": "elite",
-    "location": "Taiyuan"
+    "location": "Deyang"
+  },
+  {
+    "ip": "220.178.229.83",
+    "port": 7302,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 4134,
+    "isp": "Chinanet",
+    "protocol": "http",
+    "speed_ms": "1601.65",
+    "anonymity": "elite",
+    "location": "Hefei (Shushan Qu)"
   },
   {
     "ip": "1.71.170.146",
@@ -67,8 +55,32 @@
     "asn": 4134,
     "isp": "Chinanet",
     "protocol": "http",
-    "speed_ms": "818.14",
+    "speed_ms": "2482.34",
     "anonymity": "elite",
     "location": "Julun"
+  },
+  {
+    "ip": "222.83.110.83",
+    "port": 7302,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 4134,
+    "isp": "Chinanet",
+    "protocol": "http",
+    "speed_ms": "1939.58",
+    "anonymity": "elite",
+    "location": "Xingfulu"
+  },
+  {
+    "ip": "59.49.79.173",
+    "port": 8089,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 4134,
+    "isp": "Chinanet",
+    "protocol": "http",
+    "speed_ms": "2149.16",
+    "anonymity": "elite",
+    "location": "Taiyuan"
   }
 ]
