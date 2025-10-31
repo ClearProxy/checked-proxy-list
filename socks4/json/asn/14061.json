@@ -1,5 +1,29 @@
 [
   {
+    "ip": "134.199.159.23",
+    "port": 1080,
+    "country": "AU",
+    "country_code": "AU",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "socks4",
+    "speed_ms": "1054.15",
+    "anonymity": "elite",
+    "location": "Alexandria"
+  },
+  {
+    "ip": "192.241.156.17",
+    "port": 1080,
+    "country": "US",
+    "country_code": "US",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "socks4",
+    "speed_ms": "574.16",
+    "anonymity": "elite",
+    "location": "North Bergen"
+  },
+  {
     "ip": "139.59.24.173",
     "port": 1080,
     "country": "IN",
@@ -7,8 +31,20 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "socks4",
-    "speed_ms": "1473.46",
+    "speed_ms": "1342.12",
     "anonymity": "elite",
     "location": "Bengaluru"
+  },
+  {
+    "ip": "143.110.217.153",
+    "port": 1080,
+    "country": "CA",
+    "country_code": "CA",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "socks4",
+    "speed_ms": "1354.31",
+    "anonymity": "elite",
+    "location": "Toronto (Old Toronto)"
   }
 ]
