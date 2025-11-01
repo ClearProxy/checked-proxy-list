@@ -1,13 +1,25 @@
 [
   {
-    "ip": "164.163.42.4",
+    "ip": "164.163.42.29",
     "port": 10000,
     "country": "AR",
     "country_code": "AR",
     "asn": 265763,
     "isp": "Interret Villa Angela SRL",
     "protocol": "http",
-    "speed_ms": "1584.33",
+    "speed_ms": "1286.21",
+    "anonymity": "transparent",
+    "location": "Villa Angela"
+  },
+  {
+    "ip": "164.163.40.90",
+    "port": 10000,
+    "country": "AR",
+    "country_code": "AR",
+    "asn": 265763,
+    "isp": "Interret Villa Angela SRL",
+    "protocol": "http",
+    "speed_ms": "1321.52",
     "anonymity": "transparent",
     "location": "Villa Angela"
   },
@@ -19,19 +31,7 @@
     "asn": 265763,
     "isp": "Interret Villa Angela SRL",
     "protocol": "http",
-    "speed_ms": "2138.27",
-    "anonymity": "transparent",
-    "location": "Villa Angela"
-  },
-  {
-    "ip": "164.163.42.3",
-    "port": 10000,
-    "country": "AR",
-    "country_code": "AR",
-    "asn": 265763,
-    "isp": "Interret Villa Angela SRL",
-    "protocol": "http",
-    "speed_ms": "2258.24",
+    "speed_ms": "1282.27",
     "anonymity": "transparent",
     "location": "Villa Angela"
   },
@@ -43,9 +43,21 @@
     "asn": 263687,
     "isp": "Tucuman BBS S.R.L.",
     "protocol": "http",
-    "speed_ms": "1600.58",
+    "speed_ms": "1595.60",
     "anonymity": "elite",
     "location": "Yerba Buena"
+  },
+  {
+    "ip": "164.163.42.13",
+    "port": 10000,
+    "country": "AR",
+    "country_code": "AR",
+    "asn": 265763,
+    "isp": "Interret Villa Angela SRL",
+    "protocol": "http",
+    "speed_ms": "1224.30",
+    "anonymity": "transparent",
+    "location": "Villa Angela"
   },
   {
     "ip": "200.61.186.51",
@@ -55,8 +67,20 @@
     "asn": 16814,
     "isp": "NSS S.A.",
     "protocol": "http",
-    "speed_ms": "1078.95",
+    "speed_ms": "940.55",
     "anonymity": "elite",
     "location": "Rosario"
+  },
+  {
+    "ip": "164.163.42.23",
+    "port": 10000,
+    "country": "AR",
+    "country_code": "AR",
+    "asn": 265763,
+    "isp": "Interret Villa Angela SRL",
+    "protocol": "http",
+    "speed_ms": "1739.85",
+    "anonymity": "transparent",
+    "location": "Villa Angela"
   }
 ]
