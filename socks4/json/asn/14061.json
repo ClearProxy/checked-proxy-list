@@ -7,7 +7,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "socks4",
-    "speed_ms": "1003.75",
+    "speed_ms": "1001.13",
     "anonymity": "elite",
     "location": "Alexandria"
   },
@@ -19,7 +19,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "socks4",
-    "speed_ms": "872.88",
+    "speed_ms": "465.73",
     "anonymity": "elite",
     "location": "North Bergen"
   },
@@ -31,7 +31,7 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "socks4",
-    "speed_ms": "1350.00",
+    "speed_ms": "1320.54",
     "anonymity": "elite",
     "location": "Bengaluru"
   },
@@ -43,8 +43,20 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "socks4",
-    "speed_ms": "1182.01",
+    "speed_ms": "355.97",
     "anonymity": "elite",
     "location": "Toronto (Old Toronto)"
+  },
+  {
+    "ip": "161.35.82.57",
+    "port": 1080,
+    "country": "NL",
+    "country_code": "NL",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "socks4",
+    "speed_ms": "826.09",
+    "anonymity": "elite",
+    "location": "Amsterdam"
   }
 ]
