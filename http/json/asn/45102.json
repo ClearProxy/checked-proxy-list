@@ -1,5 +1,29 @@
 [
   {
+    "ip": "47.89.184.18",
+    "port": 3128,
+    "country": "US",
+    "country_code": "US",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2131.65",
+    "anonymity": "transparent",
+    "location": "Charlottesville"
+  },
+  {
+    "ip": "8.213.151.128",
+    "port": 3128,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "1979.10",
+    "anonymity": "transparent",
+    "location": "Seoul"
+  },
+  {
     "ip": "47.245.109.134",
     "port": 80,
     "country": "SG",
@@ -7,7 +31,7 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "1519.04",
+    "speed_ms": "1439.62",
     "anonymity": "elite",
     "location": "Singapore"
   },
@@ -19,7 +43,7 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "999.47",
+    "speed_ms": "843.57",
     "anonymity": "elite",
     "location": "Frankfurt am Main"
   },
@@ -31,7 +55,7 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "822.07",
+    "speed_ms": "561.29",
     "anonymity": "elite",
     "location": "Minkler"
   },
@@ -43,8 +67,20 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "1841.29",
+    "speed_ms": "1727.77",
     "anonymity": "transparent",
     "location": "Charlottesville"
+  },
+  {
+    "ip": "8.213.151.128",
+    "port": 3128,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "1644.21",
+    "anonymity": "transparent",
+    "location": "Seoul"
   }
 ]
