@@ -7,7 +7,7 @@
     "asn": 152436,
     "isp": "PT Erajaya Telco Indonesia",
     "protocol": "http",
-    "speed_ms": "1862.17",
+    "speed_ms": "2261.04",
     "anonymity": "elite",
     "location": "Baekrajan"
   },
@@ -19,7 +19,7 @@
     "asn": 140429,
     "isp": "PT. MEDIA DISTRIBUSI PRIMA",
     "protocol": "http",
-    "speed_ms": "1459.84",
+    "speed_ms": "1800.07",
     "anonymity": "elite",
     "location": "Pameungpeuk"
   },
@@ -31,7 +31,7 @@
     "asn": 147113,
     "isp": "PT Eyza Kausa Sinergi Abadi",
     "protocol": "http",
-    "speed_ms": "1661.64",
+    "speed_ms": "2076.65",
     "anonymity": "elite",
     "location": "Cikarang"
   },
@@ -43,7 +43,7 @@
     "asn": 147113,
     "isp": "PT Eyza Kausa Sinergi Abadi",
     "protocol": "http",
-    "speed_ms": "1663.44",
+    "speed_ms": "2056.15",
     "anonymity": "elite",
     "location": "Cikarang"
   },
@@ -55,7 +55,7 @@
     "asn": 136055,
     "isp": "PT Queen Network Nusantara",
     "protocol": "http",
-    "speed_ms": "1871.09",
+    "speed_ms": "2290.10",
     "anonymity": "elite",
     "location": "Bandar Lampung"
   },
@@ -67,7 +67,7 @@
     "asn": 9341,
     "isp": "PT Indonesia Comnets Plus",
     "protocol": "http",
-    "speed_ms": "1279.34",
+    "speed_ms": "1640.37",
     "anonymity": "elite",
     "location": "Jakarta"
   },
@@ -79,7 +79,7 @@
     "asn": 38765,
     "isp": "Departemen Energi dan Sumber Daya Mineral",
     "protocol": "http",
-    "speed_ms": "1099.60",
+    "speed_ms": "1365.59",
     "anonymity": "elite",
     "location": "Jakarta"
   },
@@ -91,21 +91,9 @@
     "asn": 396982,
     "isp": "Google LLC",
     "protocol": "http",
-    "speed_ms": "1040.11",
+    "speed_ms": "1322.92",
     "anonymity": "elite",
     "location": "Jakarta"
-  },
-  {
-    "ip": "103.172.70.30",
-    "port": 1111,
-    "country": "ID",
-    "country_code": "ID",
-    "asn": 142386,
-    "isp": "PT JARINGAN LINTAS ARTHA",
-    "protocol": "http",
-    "speed_ms": "1493.61",
-    "anonymity": "elite",
-    "location": "Surakarta"
   },
   {
     "ip": "103.247.23.33",
@@ -115,7 +103,7 @@
     "asn": 58485,
     "isp": "WIFIAN ID",
     "protocol": "http",
-    "speed_ms": "1654.13",
+    "speed_ms": "1943.48",
     "anonymity": "elite",
     "location": "Wonosobo"
   },
@@ -127,7 +115,7 @@
     "asn": 7713,
     "isp": "Telekomunikasi Indonesia (PT)",
     "protocol": "http",
-    "speed_ms": "1101.21",
+    "speed_ms": "1315.11",
     "anonymity": "elite",
     "location": "Jakarta"
   },
@@ -139,7 +127,7 @@
     "asn": 64303,
     "isp": "Universitas Islam Bandung",
     "protocol": "http",
-    "speed_ms": "1004.94",
+    "speed_ms": "1244.91",
     "anonymity": "elite",
     "location": "Bandung"
   },
@@ -151,7 +139,7 @@
     "asn": 7713,
     "isp": "Telekomunikasi Indonesia (PT)",
     "protocol": "http",
-    "speed_ms": "811.12",
+    "speed_ms": "1082.44",
     "anonymity": "elite",
     "location": "Jakarta"
   },
@@ -163,8 +151,20 @@
     "asn": 136121,
     "isp": "PT Digital Media Telematika",
     "protocol": "http",
-    "speed_ms": "1262.49",
+    "speed_ms": "1730.86",
     "anonymity": "elite",
     "location": "Babat"
+  },
+  {
+    "ip": "103.94.126.250",
+    "port": 8080,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 9341,
+    "isp": "PT Indonesia Comnets Plus",
+    "protocol": "http",
+    "speed_ms": "2367.73",
+    "anonymity": "transparent",
+    "location": "Kubangkepuh"
   }
 ]
