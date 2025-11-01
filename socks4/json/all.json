@@ -7,7 +7,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks4",
-    "speed_ms": "745.27",
+    "speed_ms": "731.60",
     "anonymity": "elite",
     "location": "Pensacola"
   },
@@ -19,7 +19,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks4",
-    "speed_ms": "780.90",
+    "speed_ms": "717.86",
     "anonymity": "elite",
     "location": "Pensacola"
   },
@@ -31,7 +31,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks4",
-    "speed_ms": "780.73",
+    "speed_ms": "718.08",
     "anonymity": "elite",
     "location": "Oklahoma City"
   },
@@ -43,7 +43,7 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks4",
-    "speed_ms": "687.90",
+    "speed_ms": "653.01",
     "anonymity": "elite",
     "location": "Atlanta (Fairlie-Poplar)"
   },
@@ -55,7 +55,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks4",
-    "speed_ms": "780.51",
+    "speed_ms": "727.51",
     "anonymity": "elite",
     "location": "Oklahoma City"
   },
@@ -67,7 +67,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks4",
-    "speed_ms": "777.66",
+    "speed_ms": "719.62",
     "anonymity": "elite",
     "location": "Chicago"
   },
@@ -79,7 +79,7 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks4",
-    "speed_ms": "571.61",
+    "speed_ms": "501.77",
     "anonymity": "elite",
     "location": "Los Angeles (Downtown Los Angeles)"
   },
@@ -91,7 +91,7 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks4",
-    "speed_ms": "567.61",
+    "speed_ms": "464.92",
     "anonymity": "elite",
     "location": "Las Vegas"
   },
@@ -103,7 +103,7 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks4",
-    "speed_ms": "551.43",
+    "speed_ms": "457.56",
     "anonymity": "elite",
     "location": "Los Angeles"
   },
@@ -115,7 +115,7 @@
     "asn": 20081,
     "isp": "NET2ATLANTA.COM LLC",
     "protocol": "socks4",
-    "speed_ms": "1999.25",
+    "speed_ms": "1068.25",
     "anonymity": "elite",
     "location": "Atlanta"
   },
@@ -127,7 +127,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks4",
-    "speed_ms": "842.48",
+    "speed_ms": "1010.85",
     "anonymity": "elite",
     "location": "Irvine"
   },
@@ -139,7 +139,7 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks4",
-    "speed_ms": "550.23",
+    "speed_ms": "457.43",
     "anonymity": "elite",
     "location": "Harrisville"
   },
@@ -151,7 +151,7 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks4",
-    "speed_ms": "533.45",
+    "speed_ms": "462.48",
     "anonymity": "elite",
     "location": "Harrisville"
   },
@@ -163,7 +163,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks4",
-    "speed_ms": "765.30",
+    "speed_ms": "742.99",
     "anonymity": "elite",
     "location": "Atlanta (Perimeter Center)"
   },
@@ -175,7 +175,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks4",
-    "speed_ms": "762.28",
+    "speed_ms": "723.87",
     "anonymity": "elite",
     "location": "Chicago"
   },
@@ -187,7 +187,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks4",
-    "speed_ms": "758.87",
+    "speed_ms": "707.02",
     "anonymity": "elite",
     "location": "Chicago"
   },
@@ -199,9 +199,33 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks4",
-    "speed_ms": "530.47",
+    "speed_ms": "442.76",
     "anonymity": "elite",
     "location": "Los Angeles"
+  },
+  {
+    "ip": "187.44.211.118",
+    "port": 4153,
+    "country": "BR",
+    "country_code": "BR",
+    "asn": 28186,
+    "isp": "ITS TELECOMUNICACOES LTDA",
+    "protocol": "socks4",
+    "speed_ms": "1065.69",
+    "anonymity": "elite",
+    "location": "Salvador"
+  },
+  {
+    "ip": "103.182.240.75",
+    "port": 1080,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 17995,
+    "isp": "PT iForte Global Internet",
+    "protocol": "socks4",
+    "speed_ms": "1333.24",
+    "anonymity": "elite",
+    "location": "Jakarta"
   },
   {
     "ip": "184.178.172.13",
@@ -211,21 +235,9 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks4",
-    "speed_ms": "741.37",
+    "speed_ms": "687.31",
     "anonymity": "elite",
     "location": "Roanoke"
-  },
-  {
-    "ip": "45.144.234.129",
-    "port": 54196,
-    "country": "FI",
-    "country_code": "FI",
-    "asn": 41745,
-    "isp": "Baykov Ilya Sergeevich",
-    "protocol": "socks4",
-    "speed_ms": "1857.77",
-    "anonymity": "elite",
-    "location": "Helsinki"
   },
   {
     "ip": "184.178.172.3",
@@ -235,21 +247,9 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks4",
-    "speed_ms": "743.88",
+    "speed_ms": "708.77",
     "anonymity": "elite",
     "location": "Roanoke"
-  },
-  {
-    "ip": "125.234.88.218",
-    "port": 1080,
-    "country": "VN",
-    "country_code": "VN",
-    "asn": 7552,
-    "isp": "Viettel Group",
-    "protocol": "socks4",
-    "speed_ms": "1288.15",
-    "anonymity": "elite",
-    "location": "Hanoi"
   },
   {
     "ip": "142.54.236.97",
@@ -259,7 +259,7 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks4",
-    "speed_ms": "526.79",
+    "speed_ms": "476.33",
     "anonymity": "elite",
     "location": "Los Angeles"
   },
@@ -271,7 +271,7 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks4",
-    "speed_ms": "667.35",
+    "speed_ms": "625.84",
     "anonymity": "elite",
     "location": "Atlanta"
   },
@@ -283,7 +283,7 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks4",
-    "speed_ms": "509.26",
+    "speed_ms": "449.11",
     "anonymity": "elite",
     "location": "Los Angeles"
   },
@@ -295,7 +295,7 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks4",
-    "speed_ms": "605.88",
+    "speed_ms": "626.37",
     "anonymity": "elite",
     "location": "Atlanta"
   },
@@ -307,9 +307,21 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks4",
-    "speed_ms": "441.81",
+    "speed_ms": "450.01",
     "anonymity": "elite",
     "location": "Los Angeles"
+  },
+  {
+    "ip": "171.248.208.164",
+    "port": 1080,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 7552,
+    "isp": "Viettel Group",
+    "protocol": "socks4",
+    "speed_ms": "1229.89",
+    "anonymity": "elite",
+    "location": "Hanoi"
   },
   {
     "ip": "184.182.240.211",
@@ -319,7 +331,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks4",
-    "speed_ms": "2372.63",
+    "speed_ms": "679.72",
     "anonymity": "elite",
     "location": "Macon"
   },
@@ -331,7 +343,7 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks4",
-    "speed_ms": "444.68",
+    "speed_ms": "435.36",
     "anonymity": "elite",
     "location": "Los Angeles (Central LA)"
   },
@@ -343,7 +355,7 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks4",
-    "speed_ms": "437.26",
+    "speed_ms": "437.28",
     "anonymity": "elite",
     "location": "Los Angeles (Downtown Los Angeles)"
   },
@@ -355,7 +367,7 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks4",
-    "speed_ms": "588.91",
+    "speed_ms": "614.25",
     "anonymity": "elite",
     "location": "Atlanta (Fairlie-Poplar)"
   },
@@ -367,7 +379,7 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks4",
-    "speed_ms": "585.38",
+    "speed_ms": "564.81",
     "anonymity": "elite",
     "location": "Atlanta"
   },
@@ -379,7 +391,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks4",
-    "speed_ms": "656.45",
+    "speed_ms": "644.77",
     "anonymity": "elite",
     "location": "Roanoke"
   },
@@ -391,7 +403,7 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks4",
-    "speed_ms": "405.21",
+    "speed_ms": "419.76",
     "anonymity": "elite",
     "location": "El Segundo"
   },
@@ -403,9 +415,21 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks4",
-    "speed_ms": "631.86",
+    "speed_ms": "652.57",
     "anonymity": "elite",
     "location": "Roanoke"
+  },
+  {
+    "ip": "200.108.50.254",
+    "port": 4145,
+    "country": "PA",
+    "country_code": "PA",
+    "asn": 14709,
+    "isp": "Cable Onda",
+    "protocol": "socks4",
+    "speed_ms": "671.18",
+    "anonymity": "elite",
+    "location": "Panama City (Clayton)"
   },
   {
     "ip": "68.1.210.189",
@@ -415,7 +439,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks4",
-    "speed_ms": "728.13",
+    "speed_ms": "645.78",
     "anonymity": "elite",
     "location": "Pensacola"
   },
@@ -427,7 +451,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks4",
-    "speed_ms": "728.91",
+    "speed_ms": "640.74",
     "anonymity": "elite",
     "location": "Pensacola"
   },
@@ -439,7 +463,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks4",
-    "speed_ms": "619.04",
+    "speed_ms": "628.67",
     "anonymity": "elite",
     "location": "Roanoke"
   },
@@ -451,21 +475,9 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks4",
-    "speed_ms": "401.06",
+    "speed_ms": "379.53",
     "anonymity": "elite",
     "location": "Beverly Hills"
-  },
-  {
-    "ip": "134.199.159.23",
-    "port": 1080,
-    "country": "AU",
-    "country_code": "AU",
-    "asn": 14061,
-    "isp": "DigitalOcean, LLC",
-    "protocol": "socks4",
-    "speed_ms": "992.95",
-    "anonymity": "elite",
-    "location": "Alexandria"
   },
   {
     "ip": "72.205.0.93",
@@ -475,7 +487,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks4",
-    "speed_ms": "633.90",
+    "speed_ms": "599.75",
     "anonymity": "elite",
     "location": "Atlanta (Perimeter Center)"
   },
@@ -487,7 +499,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks4",
-    "speed_ms": "621.77",
+    "speed_ms": "602.87",
     "anonymity": "elite",
     "location": "Pensacola"
   },
@@ -499,7 +511,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks4",
-    "speed_ms": "622.41",
+    "speed_ms": "642.54",
     "anonymity": "elite",
     "location": "Chicago"
   },
@@ -511,7 +523,7 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks4",
-    "speed_ms": "418.03",
+    "speed_ms": "378.47",
     "anonymity": "elite",
     "location": "Los Angeles"
   },
@@ -523,9 +535,21 @@
     "asn": 20081,
     "isp": "NET2ATLANTA.COM LLC",
     "protocol": "socks4",
-    "speed_ms": "1599.05",
+    "speed_ms": "538.97",
     "anonymity": "elite",
     "location": "Duluth (Gwinnett Place)"
+  },
+  {
+    "ip": "91.150.189.122",
+    "port": 60647,
+    "country": "PL",
+    "country_code": "PL",
+    "asn": 42673,
+    "isp": "Skyware Sp. z o.o.",
+    "protocol": "socks4",
+    "speed_ms": "1963.78",
+    "anonymity": "elite",
+    "location": "Rzeszow"
   },
   {
     "ip": "192.111.129.150",
@@ -535,7 +559,7 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks4",
-    "speed_ms": "545.10",
+    "speed_ms": "528.94",
     "anonymity": "elite",
     "location": "Atlanta (Fairlie-Poplar)"
   },
@@ -547,7 +571,7 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks4",
-    "speed_ms": "521.73",
+    "speed_ms": "526.87",
     "anonymity": "elite",
     "location": "Atlanta (Fairlie-Poplar)"
   },
@@ -559,7 +583,7 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks4",
-    "speed_ms": "374.30",
+    "speed_ms": "338.47",
     "anonymity": "elite",
     "location": "Beverly Hills"
   },
@@ -571,7 +595,7 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks4",
-    "speed_ms": "535.37",
+    "speed_ms": "522.77",
     "anonymity": "elite",
     "location": "Atlanta (Fairlie-Poplar)"
   },
@@ -583,7 +607,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks4",
-    "speed_ms": "609.39",
+    "speed_ms": "588.04",
     "anonymity": "elite",
     "location": "Irvine"
   },
@@ -595,21 +619,9 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks4",
-    "speed_ms": "360.02",
+    "speed_ms": "333.02",
     "anonymity": "elite",
     "location": "El Segundo"
-  },
-  {
-    "ip": "192.241.156.17",
-    "port": 1080,
-    "country": "US",
-    "country_code": "US",
-    "asn": 14061,
-    "isp": "DigitalOcean, LLC",
-    "protocol": "socks4",
-    "speed_ms": "362.89",
-    "anonymity": "elite",
-    "location": "North Bergen"
   },
   {
     "ip": "72.195.34.59",
@@ -619,7 +631,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks4",
-    "speed_ms": "601.27",
+    "speed_ms": "583.76",
     "anonymity": "elite",
     "location": "Irvine"
   },
@@ -631,7 +643,7 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks4",
-    "speed_ms": "375.01",
+    "speed_ms": "338.14",
     "anonymity": "elite",
     "location": "Los Angeles"
   },
@@ -643,7 +655,7 @@
     "asn": 16509,
     "isp": "Amazon.com, Inc.",
     "protocol": "socks4",
-    "speed_ms": "584.05",
+    "speed_ms": "560.65",
     "anonymity": "elite",
     "location": "Zurich"
   },
@@ -655,7 +667,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks4",
-    "speed_ms": "610.31",
+    "speed_ms": "610.30",
     "anonymity": "elite",
     "location": "Pensacola"
   },
@@ -667,7 +679,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks4",
-    "speed_ms": "582.13",
+    "speed_ms": "578.23",
     "anonymity": "elite",
     "location": "Pensacola"
   },
@@ -679,21 +691,9 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks4",
-    "speed_ms": "586.59",
+    "speed_ms": "558.19",
     "anonymity": "elite",
     "location": "Chicago"
-  },
-  {
-    "ip": "125.227.169.85",
-    "port": 38157,
-    "country": "TW",
-    "country_code": "TW",
-    "asn": 3462,
-    "isp": "Chunghwa Telecom Co., Ltd.",
-    "protocol": "socks4",
-    "speed_ms": "904.54",
-    "anonymity": "elite",
-    "location": "Neili"
   },
   {
     "ip": "72.207.33.64",
@@ -703,21 +703,9 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks4",
-    "speed_ms": "667.63",
+    "speed_ms": "569.58",
     "anonymity": "elite",
     "location": "Pensacola"
-  },
-  {
-    "ip": "139.59.24.173",
-    "port": 1080,
-    "country": "IN",
-    "country_code": "IN",
-    "asn": 14061,
-    "isp": "DigitalOcean, LLC",
-    "protocol": "socks4",
-    "speed_ms": "1372.52",
-    "anonymity": "elite",
-    "location": "Bengaluru"
   },
   {
     "ip": "98.182.171.161",
@@ -727,33 +715,9 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks4",
-    "speed_ms": "609.23",
+    "speed_ms": "603.82",
     "anonymity": "elite",
     "location": "Chicago"
-  },
-  {
-    "ip": "45.144.234.129",
-    "port": 53681,
-    "country": "FI",
-    "country_code": "FI",
-    "asn": 41745,
-    "isp": "Baykov Ilya Sergeevich",
-    "protocol": "socks4",
-    "speed_ms": "2383.92",
-    "anonymity": "elite",
-    "location": "Helsinki"
-  },
-  {
-    "ip": "65.109.27.32",
-    "port": 1080,
-    "country": "FI",
-    "country_code": "FI",
-    "asn": 24940,
-    "isp": "Hetzner Online GmbH",
-    "protocol": "socks4",
-    "speed_ms": "1452.22",
-    "anonymity": "elite",
-    "location": "Helsinki"
   },
   {
     "ip": "192.111.135.17",
@@ -763,7 +727,7 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks4",
-    "speed_ms": "515.18",
+    "speed_ms": "466.83",
     "anonymity": "elite",
     "location": "Atlanta (Fairlie-Poplar)"
   },
@@ -775,7 +739,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks4",
-    "speed_ms": "607.95",
+    "speed_ms": "543.27",
     "anonymity": "elite",
     "location": "Pensacola"
   },
@@ -787,7 +751,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks4",
-    "speed_ms": "593.32",
+    "speed_ms": "1435.05",
     "anonymity": "elite",
     "location": "Atlanta (Perimeter Center)"
   },
@@ -799,7 +763,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks4",
-    "speed_ms": "644.64",
+    "speed_ms": "537.55",
     "anonymity": "elite",
     "location": "Atlanta (Perimeter Center)"
   },
@@ -811,21 +775,9 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks4",
-    "speed_ms": "502.40",
+    "speed_ms": "451.30",
     "anonymity": "elite",
     "location": "Atlanta (Fairlie-Poplar)"
-  },
-  {
-    "ip": "143.110.217.153",
-    "port": 1080,
-    "country": "CA",
-    "country_code": "CA",
-    "asn": 14061,
-    "isp": "DigitalOcean, LLC",
-    "protocol": "socks4",
-    "speed_ms": "882.60",
-    "anonymity": "elite",
-    "location": "Toronto (Old Toronto)"
   },
   {
     "ip": "72.207.33.64",
@@ -835,7 +787,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks4",
-    "speed_ms": "617.43",
+    "speed_ms": "539.71",
     "anonymity": "elite",
     "location": "Pensacola"
   },
@@ -847,7 +799,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks4",
-    "speed_ms": "576.04",
+    "speed_ms": "542.26",
     "anonymity": "elite",
     "location": "Chicago"
   },
@@ -859,7 +811,7 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks4",
-    "speed_ms": "512.45",
+    "speed_ms": "456.97",
     "anonymity": "elite",
     "location": "Atlanta"
   },
@@ -871,7 +823,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks4",
-    "speed_ms": "584.30",
+    "speed_ms": "542.77",
     "anonymity": "elite",
     "location": "Oklahoma City"
   },
@@ -883,7 +835,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks4",
-    "speed_ms": "577.36",
+    "speed_ms": "539.73",
     "anonymity": "elite",
     "location": "Chicago"
   },
@@ -895,7 +847,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks4",
-    "speed_ms": "576.73",
+    "speed_ms": "524.84",
     "anonymity": "elite",
     "location": "Pensacola"
   },
@@ -907,7 +859,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks4",
-    "speed_ms": "588.19",
+    "speed_ms": "1437.76",
     "anonymity": "elite",
     "location": "Pensacola"
   },
@@ -919,7 +871,7 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks4",
-    "speed_ms": "495.19",
+    "speed_ms": "435.12",
     "anonymity": "elite",
     "location": "Atlanta"
   },
@@ -931,7 +883,7 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks4",
-    "speed_ms": "497.58",
+    "speed_ms": "444.89",
     "anonymity": "elite",
     "location": "Atlanta"
   },
@@ -943,7 +895,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks4",
-    "speed_ms": "589.72",
+    "speed_ms": "513.49",
     "anonymity": "elite",
     "location": "Pensacola"
   },
@@ -955,21 +907,9 @@
     "asn": 46562,
     "isp": "Performive LLC",
     "protocol": "socks4",
-    "speed_ms": "325.10",
+    "speed_ms": "237.91",
     "anonymity": "elite",
     "location": "Los Angeles (Downtown Los Angeles)"
-  },
-  {
-    "ip": "184.182.240.12",
-    "port": 4145,
-    "country": "US",
-    "country_code": "US",
-    "asn": 22773,
-    "isp": "Cox Communications Inc.",
-    "protocol": "socks4",
-    "speed_ms": "1591.09",
-    "anonymity": "elite",
-    "location": "Macon"
   },
   {
     "ip": "174.75.211.193",
@@ -979,7 +919,7 @@
     "asn": 22773,
     "isp": "Cox Communications Inc.",
     "protocol": "socks4",
-    "speed_ms": "581.93",
+    "speed_ms": "528.61",
     "anonymity": "elite",
     "location": "Pensacola"
   }
