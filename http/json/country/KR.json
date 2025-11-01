@@ -7,7 +7,7 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "1891.71",
+    "speed_ms": "1792.61",
     "anonymity": "transparent",
     "location": "Seoul"
   },
@@ -19,8 +19,20 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "1122.12",
+    "speed_ms": "1055.49",
     "anonymity": "transparent",
     "location": "Seoul"
+  },
+  {
+    "ip": "222.117.64.146",
+    "port": 80,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 4766,
+    "isp": "Korea Telecom",
+    "protocol": "http",
+    "speed_ms": "625.48",
+    "anonymity": "elite",
+    "location": "Seongnam-si (Buljeong-ro)"
   }
 ]
