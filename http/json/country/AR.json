@@ -1,13 +1,25 @@
 [
   {
-    "ip": "164.163.42.4",
+    "ip": "164.163.42.60",
     "port": 10000,
     "country": "AR",
     "country_code": "AR",
     "asn": 265763,
     "isp": "Interret Villa Angela SRL",
     "protocol": "http",
-    "speed_ms": "2317.11",
+    "speed_ms": "2078.42",
+    "anonymity": "transparent",
+    "location": "Villa Angela"
+  },
+  {
+    "ip": "164.163.42.3",
+    "port": 10000,
+    "country": "AR",
+    "country_code": "AR",
+    "asn": 265763,
+    "isp": "Interret Villa Angela SRL",
+    "protocol": "http",
+    "speed_ms": "1237.46",
     "anonymity": "transparent",
     "location": "Villa Angela"
   },
@@ -19,9 +31,45 @@
     "asn": 263687,
     "isp": "Tucuman BBS S.R.L.",
     "protocol": "http",
-    "speed_ms": "1720.85",
+    "speed_ms": "1621.92",
     "anonymity": "elite",
     "location": "Yerba Buena"
+  },
+  {
+    "ip": "164.163.42.13",
+    "port": 10000,
+    "country": "AR",
+    "country_code": "AR",
+    "asn": 265763,
+    "isp": "Interret Villa Angela SRL",
+    "protocol": "http",
+    "speed_ms": "1266.68",
+    "anonymity": "transparent",
+    "location": "Villa Angela"
+  },
+  {
+    "ip": "164.163.42.28",
+    "port": 10000,
+    "country": "AR",
+    "country_code": "AR",
+    "asn": 265763,
+    "isp": "Interret Villa Angela SRL",
+    "protocol": "http",
+    "speed_ms": "1216.64",
+    "anonymity": "transparent",
+    "location": "Villa Angela"
+  },
+  {
+    "ip": "164.163.42.25",
+    "port": 10000,
+    "country": "AR",
+    "country_code": "AR",
+    "asn": 265763,
+    "isp": "Interret Villa Angela SRL",
+    "protocol": "http",
+    "speed_ms": "1261.84",
+    "anonymity": "transparent",
+    "location": "Villa Angela"
   },
   {
     "ip": "200.61.186.51",
@@ -31,7 +79,7 @@
     "asn": 16814,
     "isp": "NSS S.A.",
     "protocol": "http",
-    "speed_ms": "1100.88",
+    "speed_ms": "996.80",
     "anonymity": "elite",
     "location": "Rosario"
   }
