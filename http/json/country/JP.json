@@ -1,5 +1,17 @@
 [
   {
+    "ip": "160.248.189.97",
+    "port": 3127,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 2514,
+    "isp": "NTT PC Communications, Inc.",
+    "protocol": "http",
+    "speed_ms": "2008.27",
+    "anonymity": "transparent",
+    "location": "Minato"
+  },
+  {
     "ip": "133.18.234.13",
     "port": 80,
     "country": "JP",
@@ -7,9 +19,33 @@
     "asn": 24282,
     "isp": "KAGOYA JAPAN Inc.",
     "protocol": "http",
-    "speed_ms": "1337.24",
+    "speed_ms": "1178.92",
     "anonymity": "elite",
     "location": "Chiyoda City"
+  },
+  {
+    "ip": "8.209.255.13",
+    "port": 3128,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2039.69",
+    "anonymity": "transparent",
+    "location": "Shibuya City"
+  },
+  {
+    "ip": "8.209.255.114",
+    "port": 20172,
+    "country": "JP",
+    "country_code": "JP",
+    "asn": 138997,
+    "isp": "Eons Data Communications Limited",
+    "protocol": "http",
+    "speed_ms": "1380.75",
+    "anonymity": "elite",
+    "location": "Shinagawa (Higashishinagawa)"
   },
   {
     "ip": "172.237.21.212",
@@ -19,7 +55,7 @@
     "asn": 63949,
     "isp": "Akamai Technologies, Inc.",
     "protocol": "http",
-    "speed_ms": "715.73",
+    "speed_ms": "699.60",
     "anonymity": "elite",
     "location": "Shibuya City"
   }
