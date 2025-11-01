@@ -7,7 +7,7 @@
     "asn": 8075,
     "isp": "Microsoft Corporation",
     "protocol": "http",
-    "speed_ms": "2207.87",
+    "speed_ms": "2067.40",
     "anonymity": "elite",
     "location": "Sydney"
   },
@@ -19,7 +19,7 @@
     "asn": 8075,
     "isp": "Microsoft Corporation",
     "protocol": "http",
-    "speed_ms": "1845.13",
+    "speed_ms": "1262.18",
     "anonymity": "elite",
     "location": "Sydney"
   },
@@ -31,8 +31,20 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "797.60",
+    "speed_ms": "796.63",
     "anonymity": "elite",
     "location": "Alexandria"
+  },
+  {
+    "ip": "159.13.44.239",
+    "port": 8080,
+    "country": "AU",
+    "country_code": "AU",
+    "asn": 31898,
+    "isp": "Oracle Corporation",
+    "protocol": "http",
+    "speed_ms": "1714.93",
+    "anonymity": "elite",
+    "location": "Huntingwood"
   }
 ]
