@@ -1,13 +1,25 @@
 [
   {
-    "ip": "211.216.56.42",
+    "ip": "8.213.151.128",
+    "port": 3128,
+    "country": "KR",
+    "country_code": "KR",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "1746.04",
+    "anonymity": "transparent",
+    "location": "Seoul"
+  },
+  {
+    "ip": "211.195.74.89",
     "port": 80,
     "country": "KR",
     "country_code": "KR",
     "asn": 4766,
     "isp": "Korea Telecom",
     "protocol": "http",
-    "speed_ms": "1874.61",
+    "speed_ms": "1700.15",
     "anonymity": "elite",
     "location": "Seongnam-si (Buljeong-ro)"
   },
@@ -19,20 +31,20 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "2208.46",
+    "speed_ms": "1082.70",
     "anonymity": "transparent",
     "location": "Seoul"
   },
   {
-    "ip": "8.213.151.128",
-    "port": 3128,
+    "ip": "121.176.173.123",
+    "port": 80,
     "country": "KR",
     "country_code": "KR",
-    "asn": 45102,
-    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "asn": 4766,
+    "isp": "Korea Telecom",
     "protocol": "http",
-    "speed_ms": "962.92",
-    "anonymity": "transparent",
-    "location": "Seoul"
+    "speed_ms": "1540.54",
+    "anonymity": "elite",
+    "location": "Seongnam-si (Jeongja-dong)"
   }
 ]
