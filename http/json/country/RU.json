@@ -1,38 +1,62 @@
 [
   {
-    "ip": "176.126.103.194",
-    "port": 44214,
+    "ip": "46.47.197.210",
+    "port": 3128,
     "country": "RU",
     "country_code": "RU",
-    "asn": 199785,
-    "isp": "Cloud Hosting Solutions, Limited.",
+    "asn": 20632,
+    "isp": "PJSC MegaFon",
     "protocol": "http",
-    "speed_ms": "4633.63",
+    "speed_ms": "2090.43",
+    "anonymity": "elite",
+    "location": "St Petersburg"
+  },
+  {
+    "ip": "87.239.31.43",
+    "port": 80,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 35598,
+    "isp": "INETCOM CARRIER LLC",
+    "protocol": "http",
+    "speed_ms": "429.80",
+    "anonymity": "anonymous",
+    "location": "Moscow"
+  },
+  {
+    "ip": "185.179.190.163",
+    "port": 3128,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 44094,
+    "isp": "Webhost LLC",
+    "protocol": "http",
+    "speed_ms": "989.69",
     "anonymity": "elite",
     "location": "Moscow"
   },
   {
-    "ip": "47.252.29.28",
-    "port": 11222,
-    "country": "RU",
-    "country_code": "RU",
-    "asn": 209372,
-    "isp": "WS Telecom Inc",
-    "protocol": "http",
-    "speed_ms": "2765.85",
-    "anonymity": "elite",
-    "location": "Fatezh"
-  },
-  {
-    "ip": "91.219.101.244",
+    "ip": "185.179.190.163",
     "port": 3128,
     "country": "RU",
     "country_code": "RU",
-    "asn": 41929,
-    "isp": "Sistemy Svyazi Llc",
+    "asn": 44094,
+    "isp": "Webhost LLC",
     "protocol": "http",
-    "speed_ms": "1037.32",
+    "speed_ms": "1084.20",
     "anonymity": "elite",
-    "location": "Tambov"
+    "location": "Moscow"
+  },
+  {
+    "ip": "46.47.197.210",
+    "port": 3128,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 20632,
+    "isp": "PJSC MegaFon",
+    "protocol": "http",
+    "speed_ms": "1954.55",
+    "anonymity": "elite",
+    "location": "St Petersburg"
   }
 ]
