@@ -1,5 +1,17 @@
 [
   {
+    "ip": "188.128.86.74",
+    "port": 1080,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 12389,
+    "isp": "PJSC Rostelecom",
+    "protocol": "socks5",
+    "speed_ms": "2714.51",
+    "anonymity": "elite",
+    "location": "Ulan-Ude"
+  },
+  {
     "ip": "185.149.240.155",
     "port": 1080,
     "country": "RU",
@@ -7,44 +19,56 @@
     "asn": 49505,
     "isp": "JSC Selectel",
     "protocol": "socks5",
-    "speed_ms": "895.88",
+    "speed_ms": "1565.32",
     "anonymity": "elite",
     "location": "St Petersburg"
   },
   {
-    "ip": "109.196.140.199",
+    "ip": "176.114.220.207",
     "port": 1080,
     "country": "RU",
     "country_code": "RU",
-    "asn": 61431,
-    "isp": "TELECOMMUNICATION COMPANY KAMA - LINK LLC.",
+    "asn": 50060,
+    "isp": "Annet Ltd.",
     "protocol": "socks5",
-    "speed_ms": "2065.41",
+    "speed_ms": "2581.27",
     "anonymity": "elite",
-    "location": "Chaykovskiy"
+    "location": "Tver'"
   },
   {
-    "ip": "46.241.57.29",
+    "ip": "109.168.173.173",
     "port": 1080,
     "country": "RU",
     "country_code": "RU",
-    "asn": 21127,
-    "isp": "Joint Stock Company TransTeleCom",
+    "asn": 12683,
+    "isp": "PJSC Rostelecom",
     "protocol": "socks5",
-    "speed_ms": "1032.14",
+    "speed_ms": "1583.88",
     "anonymity": "elite",
-    "location": "Barnaul"
+    "location": "Stavropol"
   },
   {
-    "ip": "78.140.46.48",
+    "ip": "109.168.173.173",
     "port": 1080,
     "country": "RU",
     "country_code": "RU",
-    "asn": 34573,
-    "isp": "Information-Computer Center Oberon Plus, LLC",
+    "asn": 12683,
+    "isp": "PJSC Rostelecom",
     "protocol": "socks5",
-    "speed_ms": "1085.30",
+    "speed_ms": "1468.91",
     "anonymity": "elite",
-    "location": "Seversk"
+    "location": "Stavropol"
+  },
+  {
+    "ip": "185.149.240.155",
+    "port": 1080,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 49505,
+    "isp": "JSC Selectel",
+    "protocol": "socks5",
+    "speed_ms": "1143.29",
+    "anonymity": "elite",
+    "location": "St Petersburg"
   }
 ]
