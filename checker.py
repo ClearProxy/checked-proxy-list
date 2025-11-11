@@ -155,7 +155,7 @@ class ProxyChecker:
         self.initial_counts = self.load_stats()
         self.initial_proxies_dir = Path('.initial/misc')
         self.initial_proxies_dir.mkdir(parents=True, exist_ok=True)
-        self.RESCRAPE_COOLDOWN = timedelta(hours=3)
+        self.RESCRAPE_COOLDOWN = timedelta(hours=1.5)
         
     def load_stats(self) -> Dict:
         if self.stats_file.exists():
@@ -595,4 +595,5 @@ https://raw.githubusercontent.com/ClearProxy/checked-proxy-list/main/socks5/raw/
 if __name__ == '__main__':
     checker = ProxyChecker()
     checker.run()
+
 
