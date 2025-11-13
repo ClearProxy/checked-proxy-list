@@ -1,14 +1,38 @@
 [
   {
-    "ip": "152.42.247.107",
-    "port": 8888,
-    "country": "SG",
-    "country_code": "SG",
+    "ip": "167.99.171.156",
+    "port": 443,
+    "country": "US",
+    "country_code": "US",
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "1334.00",
+    "speed_ms": "1209.06",
+    "anonymity": "transparent",
+    "location": "Santa Clara"
+  },
+  {
+    "ip": "167.99.171.156",
+    "port": 443,
+    "country": "US",
+    "country_code": "US",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "http",
+    "speed_ms": "1251.10",
+    "anonymity": "transparent",
+    "location": "Santa Clara"
+  },
+  {
+    "ip": "159.65.245.255",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "http",
+    "speed_ms": "537.01",
     "anonymity": "elite",
-    "location": "Singapore (Pioneer)"
+    "location": "Clifton"
   }
 ]

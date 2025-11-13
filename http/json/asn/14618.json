@@ -1,17 +1,5 @@
 [
   {
-    "ip": "34.102.233.47",
-    "port": 80,
-    "country": "US",
-    "country_code": "US",
-    "asn": 14618,
-    "isp": "Amazon.com, Inc.",
-    "protocol": "http",
-    "speed_ms": "982.71",
-    "anonymity": "elite",
-    "location": "Ashburn"
-  },
-  {
     "ip": "34.102.241.71",
     "port": 80,
     "country": "US",
@@ -19,8 +7,20 @@
     "asn": 14618,
     "isp": "Amazon.com, Inc.",
     "protocol": "http",
-    "speed_ms": "277.86",
+    "speed_ms": "762.92",
     "anonymity": "transparent",
+    "location": "Ashburn"
+  },
+  {
+    "ip": "34.102.233.47",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 14618,
+    "isp": "Amazon.com, Inc.",
+    "protocol": "http",
+    "speed_ms": "770.02",
+    "anonymity": "elite",
     "location": "Ashburn"
   }
 ]

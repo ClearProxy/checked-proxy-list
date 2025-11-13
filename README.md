@@ -10,17 +10,17 @@ This repository provides an **automatically updated proxy list every 5 minutes**
   
 **All proxies are checked and validated using:**
 
-<a href="https://www.clearproxy.io/">
-  <img src="https://www.clearproxy.io/logo_c.png" alt="ClearProxy.io" width="150"/>
+<a href="https://clearproxy.io/">
+  <img src="https://clearproxy.io/logo_c.png" alt="ClearProxy.io" width="150"/>
 </a>
 
-**[ClearProxy.io](https://www.clearproxy.io/)** - Professional Proxy Validation Service
+**[ClearProxy.io](https://clearproxy.io/)** - Professional Proxy Validation Service
 
 **Capable of checking millions of proxies in seconds**
 
 </div>
 
-Every proxy in this repository has been validated through **[ClearProxy.io](https://www.clearproxy.io/)**, a powerful service that can **check millions of proxies in seconds**, ensuring all proxies are active and usable.
+Every proxy in this repository has been validated through **[ClearProxy.io](https://clearproxy.io/)**, a powerful service that can **check millions of proxies in seconds**, ensuring all proxies are active and usable.
 
 ---
 
@@ -28,17 +28,17 @@ Every proxy in this repository has been validated through **[ClearProxy.io](http
 
 | Protocol | File | Status | Total |
 |-----------|------|--------|--------|
-| HTTP | `http/` | ✅ Checked | 95 |
-| SOCKS4 | `socks4/` | ✅ Checked | 181 |
-| SOCKS5 | `socks5/` | ✅ Checked | 156 |
+| HTTP | `http/` | ✅ Checked | 150 |
+| SOCKS4 | `socks4/` | ✅ Checked | 90 |
+| SOCKS5 | `socks5/` | ✅ Checked | 162 |
 
 ---
 
 ### Top 10 Countries
-`1. US (269), 2. CN (22), 3. AU (17), 4. NL (11), 5. GB (11), 6. DE (11), 7. ES (9), 8. BD (8), 9. ID (7), 10. RU (6)`
+`1. US (198), 2. JP (42), 3. CN (19), 4. GB (13), 5. CA (11), 6. DE (10), 7. ID (9), 8. AU (9), 9. ES (8), 10. HK (7)`
 
 ### Top 10 ASN
-`1. ASN22773 (110), 2. ASN46562 (64), 3. ASN20081 (13), 4. ASN8075 (11), 5. ASN701 (10), 6. ASN7922 (10), 7. ASN7018 (9), 8. ASN20115 (8), 9. ASN60068 (6), 10. ASN45102 (5)`
+`1. ASN22773 (82), 2. ASN46562 (62), 3. ASN2514 (38), 4. ASN20081 (12), 5. ASN45102 (8), 6. ASN14061 (6), 7. ASN8075 (6), 8. ASN14670 (6), 9. ASN60068 (5), 10. ASN56046 (5)`
 
 ---
 
@@ -128,11 +128,11 @@ https://raw.githubusercontent.com/ClearProxy/checked-proxy-list/main/socks5/raw/
 
 <div align="center">
 
-<a href="https://www.clearproxy.io/">
-  <img src="https://www.clearproxy.io/logo_c.png" alt="ClearProxy.io" width="120"/>
+<a href="https://clearproxy.io/">
+  <img src="https://clearproxy.io/logo_c.png" alt="ClearProxy.io" width="120"/>
 </a>
 
-**[ClearProxy.io](https://www.clearproxy.io/)**
+**[ClearProxy.io](https://clearproxy.io/)**
 
 *Professional proxy checking and validation service*
 
@@ -142,6 +142,6 @@ https://raw.githubusercontent.com/ClearProxy/checked-proxy-list/main/socks5/raw/
 
 <div align="center">
 
-**Maintained with ❤️ | Validated by [ClearProxy.io](https://www.clearproxy.io/)**
+**Maintained with ❤️ | Validated by [ClearProxy.io](https://clearproxy.io/)**
 
 </div>

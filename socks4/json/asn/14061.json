@@ -1,17 +1,5 @@
 [
   {
-    "ip": "104.248.197.67",
-    "port": 1080,
-    "country": "NL",
-    "country_code": "NL",
-    "asn": 14061,
-    "isp": "DigitalOcean, LLC",
-    "protocol": "socks4",
-    "speed_ms": "3331.41",
-    "anonymity": "elite",
-    "location": "Amsterdam"
-  },
-  {
     "ip": "134.199.159.23",
     "port": 1080,
     "country": "AU",
@@ -19,8 +7,20 @@
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "socks4",
-    "speed_ms": "2890.34",
+    "speed_ms": "1934.38",
     "anonymity": "elite",
     "location": "Alexandria"
+  },
+  {
+    "ip": "157.230.45.111",
+    "port": 1080,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "socks4",
+    "speed_ms": "2505.64",
+    "anonymity": "elite",
+    "location": "Singapore (Pioneer)"
   }
 ]
