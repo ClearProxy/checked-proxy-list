@@ -380,17 +380,17 @@ This repository provides an **automatically updated proxy list every 5 minutes**
   
 **All proxies are checked and validated using:**
 
-<a href="https://www.clearproxy.io/">
-  <img src="https://www.clearproxy.io/logo_c.png" alt="ClearProxy.io" width="150"/>
+<a href="https://clearproxy.io/">
+  <img src="https://clearproxy.io/logo_c.png" alt="ClearProxy.io" width="150"/>
 </a>
 
-**[ClearProxy.io](https://www.clearproxy.io/)** - Professional Proxy Validation Service
+**[ClearProxy.io](https://clearproxy.io/)** - Professional Proxy Validation Service
 
 **Capable of checking millions of proxies in seconds**
 
 </div>
 
-Every proxy in this repository has been validated through **[ClearProxy.io](https://www.clearproxy.io/)**, a powerful service that can **check millions of proxies in seconds**, ensuring all proxies are active and usable.
+Every proxy in this repository has been validated through **[ClearProxy.io](https://clearproxy.io/)**, a powerful service that can **check millions of proxies in seconds**, ensuring all proxies are active and usable.
 
 ---
 
@@ -498,11 +498,11 @@ https://raw.githubusercontent.com/ClearProxy/checked-proxy-list/main/socks5/raw/
 
 <div align="center">
 
-<a href="https://www.clearproxy.io/">
-  <img src="https://www.clearproxy.io/logo_c.png" alt="ClearProxy.io" width="120"/>
+<a href="https://clearproxy.io/">
+  <img src="https://clearproxy.io/logo_c.png" alt="ClearProxy.io" width="120"/>
 </a>
 
-**[ClearProxy.io](https://www.clearproxy.io/)**
+**[ClearProxy.io](https://clearproxy.io/)**
 
 *Professional proxy checking and validation service*
 
@@ -512,7 +512,7 @@ https://raw.githubusercontent.com/ClearProxy/checked-proxy-list/main/socks5/raw/
 
 <div align="center">
 
-**Maintained with ❤️ | Validated by [ClearProxy.io](https://www.clearproxy.io/)**
+**Maintained with ❤️ | Validated by [ClearProxy.io](https://clearproxy.io/)**
 
 </div>
 """
@@ -595,6 +595,7 @@ https://raw.githubusercontent.com/ClearProxy/checked-proxy-list/main/socks5/raw/
 if __name__ == '__main__':
     checker = ProxyChecker()
     checker.run()
+
 
 
 

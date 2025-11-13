@@ -1,15 +1,51 @@
 [
   {
-    "ip": "188.128.86.74",
+    "ip": "46.183.130.89",
     "port": 1080,
     "country": "RU",
     "country_code": "RU",
-    "asn": 12389,
-    "isp": "PJSC Rostelecom",
+    "asn": 8749,
+    "isp": "JSC \"Redcom-lnternet\"",
     "protocol": "socks5",
-    "speed_ms": "2714.51",
+    "speed_ms": "2474.27",
     "anonymity": "elite",
-    "location": "Ulan-Ude"
+    "location": "Khabarovsk"
+  },
+  {
+    "ip": "45.8.88.55",
+    "port": 1080,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 43991,
+    "isp": "Voronezh Telecom LLC",
+    "protocol": "socks5",
+    "speed_ms": "1760.91",
+    "anonymity": "elite",
+    "location": "Voronezh"
+  },
+  {
+    "ip": "194.26.135.214",
+    "port": 1080,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 43991,
+    "isp": "Voronezh Telecom LLC",
+    "protocol": "socks5",
+    "speed_ms": "1482.85",
+    "anonymity": "elite",
+    "location": "Voronezh"
+  },
+  {
+    "ip": "194.28.162.12",
+    "port": 1080,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 51015,
+    "isp": "IP Andreev Boris Vladimirovich",
+    "protocol": "socks5",
+    "speed_ms": "2000.70",
+    "anonymity": "elite",
+    "location": "Rostov-on-Don"
   },
   {
     "ip": "185.149.240.155",
@@ -19,45 +55,9 @@
     "asn": 49505,
     "isp": "JSC Selectel",
     "protocol": "socks5",
-    "speed_ms": "1565.32",
+    "speed_ms": "1288.58",
     "anonymity": "elite",
     "location": "St Petersburg"
-  },
-  {
-    "ip": "176.114.220.207",
-    "port": 1080,
-    "country": "RU",
-    "country_code": "RU",
-    "asn": 50060,
-    "isp": "Annet Ltd.",
-    "protocol": "socks5",
-    "speed_ms": "2581.27",
-    "anonymity": "elite",
-    "location": "Tver'"
-  },
-  {
-    "ip": "109.168.173.173",
-    "port": 1080,
-    "country": "RU",
-    "country_code": "RU",
-    "asn": 12683,
-    "isp": "PJSC Rostelecom",
-    "protocol": "socks5",
-    "speed_ms": "1583.88",
-    "anonymity": "elite",
-    "location": "Stavropol"
-  },
-  {
-    "ip": "109.168.173.173",
-    "port": 1080,
-    "country": "RU",
-    "country_code": "RU",
-    "asn": 12683,
-    "isp": "PJSC Rostelecom",
-    "protocol": "socks5",
-    "speed_ms": "1468.91",
-    "anonymity": "elite",
-    "location": "Stavropol"
   },
   {
     "ip": "185.149.240.155",
@@ -67,8 +67,20 @@
     "asn": 49505,
     "isp": "JSC Selectel",
     "protocol": "socks5",
-    "speed_ms": "1143.29",
+    "speed_ms": "1278.49",
     "anonymity": "elite",
     "location": "St Petersburg"
+  },
+  {
+    "ip": "217.76.39.4",
+    "port": 1080,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 16143,
+    "isp": "OOO NIIR-RadioNet",
+    "protocol": "socks5",
+    "speed_ms": "2473.84",
+    "anonymity": "elite",
+    "location": "Lyubuchany"
   }
 ]
