@@ -26,7 +26,7 @@ Every proxy in this repository has been validated through **[ClearProxy.io](http
 
 ###  Custom URL Validation
 
-All proxies are now tested against **11 popular websites** to ensure they work with specific services:
+All proxies are now tested against **1 popular websites** to ensure they work with specific services:
 - Google Search Functionality
 - Discord
 - TikTok
@@ -47,19 +47,37 @@ Not your target website? sign up to **clearproxy.io** and check with your target
 
 | Protocol | File | Status | Total |
 |-----------|------|--------|--------|
-| HTTP | `http/` | ✅ Checked | 0 |
-| SOCKS4 | `socks4/` | ✅ Checked | 0 |
-| SOCKS5 | `socks5/` | ✅ Checked | 0 |
+| HTTP | `http/` | ✅ Checked | 45 |
+| SOCKS4 | `socks4/` | ✅ Checked | 4 |
+| SOCKS5 | `socks5/` | ✅ Checked | 72 |
 
 ---
 
 ### Top 10 Countries
-``
+`1. US (15), 2. DE (10), 3. CN (9), 4. RU (9), 5. FR (8), 6. CA (7), 7. BD (5), 8. IR (5), 9. VN (5), 10. NL (4)`
 
 ### Top 10 ASN
-``
+`1. ASN45102 (8), 2. ASN14061 (5), 3. ASN201691 (4), 4. ASN4837 (4), 5. ASN51167 (3), 6. ASN14618 (3), 7. ASN3320 (3), 8. ASN577 (3), 9. ASN5410 (3), 10. ASN7552 (3)`
 
 ---
+
+##  Custom URL Validated Proxies
+
+Proxies validated against specific websites:
+
+| Service | HTTP | SOCKS4 | SOCKS5 |
+|---------|------|--------|--------|
+| Google | 4 | 1 | 21 |
+
+### Download Custom Validated Proxies
+
+```bash
+# Example: Google validated HTTP proxies
+https://raw.githubusercontent.com/ClearProxy/checked-proxy-list/main/custom/google/http.txt
+
+# Example: Discord validated SOCKS5 proxies
+https://raw.githubusercontent.com/ClearProxy/checked-proxy-list/main/custom/discord/socks5.txt
+```
 
 ---
 

@@ -154,66 +154,6 @@ CUSTOM_URLS = [
         'requiredText': 'pornhub',
         'caseSensitive': False,
         'requiredStatusCodes': [200]
-    },
-    {
-        'url': 'https://discord.com/',
-        'requiredText': 'Nitro',
-        'caseSensitive': False,
-        'requiredStatusCodes': [200]
-    },
-    {
-        'url': 'https://www.tiktok.com/@rvlndgt',
-        'requiredText': 'rvlndgt',
-        'caseSensitive': False,
-        'requiredStatusCodes': [200]
-    },
-    {
-        'url': 'https://www.instagram.com/',
-        'requiredText': None,
-        'caseSensitive': False,
-        'requiredStatusCodes': [200]
-    },
-    {
-        'url': 'https://x.com/',
-        'requiredText': None,
-        'caseSensitive': False,
-        'requiredStatusCodes': [200]
-    },
-    {
-        'url': 'https://www.reddit.com/',
-        'requiredText': 'heart',
-        'caseSensitive': False,
-        'requiredStatusCodes': [200]
-    },
-    {
-        'url': 'https://www.bing.com/',
-        'requiredText': None,
-        'caseSensitive': False,
-        'requiredStatusCodes': [200]
-    },
-    {
-        'url': 'https://www.amazon.com/',
-        'requiredText': None,
-        'caseSensitive': False,
-        'requiredStatusCodes': [200]
-    },
-    {
-        'url': 'https://id.pinterest.com/',
-        'requiredText': None,
-        'caseSensitive': False,
-        'requiredStatusCodes': [200]
-    },
-    {
-        'url': 'https://www.youtube.com/',
-        'requiredText': None,
-        'caseSensitive': False,
-        'requiredStatusCodes': [200]
-    },
-    {
-        'url': 'https://www.twitch.tv/',
-        'requiredText': None,
-        'caseSensitive': False,
-        'requiredStatusCodes': [200]
     }
 ]
 
@@ -786,5 +726,6 @@ https://raw.githubusercontent.com/ClearProxy/checked-proxy-list/main/socks5/raw/
 if __name__ == '__main__':
     checker = ProxyChecker()
     checker.run()
+
 
 
