@@ -319,7 +319,7 @@ class ProxyChecker:
                 f'{CLEARPROXY_API_URL}/check',
                 headers=headers,
                 json=payload,
-                timeout=320000
+                timeout=300
             )
             
             if response.status_code != 200:
@@ -786,4 +786,5 @@ https://raw.githubusercontent.com/ClearProxy/checked-proxy-list/main/socks5/raw/
 if __name__ == '__main__':
     checker = ProxyChecker()
     checker.run()
+
 
