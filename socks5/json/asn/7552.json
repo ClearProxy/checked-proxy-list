@@ -7,10 +7,14 @@
     "asn": 7552,
     "isp": "Viettel Group",
     "protocol": "socks5",
-    "speed_ms": "3620.74",
+    "speed_ms": "3165.55",
     "anonymity": "elite",
     "location": "Tho Xuan",
-    "valid_urls": []
+    "valid_urls": [
+      "https://x.com/",
+      "https://www.youtube.com/",
+      "https://www.twitch.tv/"
+    ]
   },
   {
     "ip": "171.234.50.112",
@@ -20,10 +24,39 @@
     "asn": 7552,
     "isp": "Viettel Group",
     "protocol": "socks5",
-    "speed_ms": "3522.31",
+    "speed_ms": "3033.85",
     "anonymity": "elite",
     "location": "Hanoi",
-    "valid_urls": []
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://x.com/",
+      "https://x.com/",
+      "https://www.reddit.com/",
+      "https://www.reddit.com/",
+      "https://www.amazon.com/",
+      "https://id.pinterest.com/",
+      "https://id.pinterest.com/",
+      "https://www.youtube.com/",
+      "https://www.youtube.com/",
+      "https://www.twitch.tv/",
+      "https://www.twitch.tv/"
+    ]
+  },
+  {
+    "ip": "171.238.103.65",
+    "port": 1099,
+    "country": "VN",
+    "country_code": "VN",
+    "asn": 7552,
+    "isp": "Viettel Group",
+    "protocol": "socks5",
+    "speed_ms": "3045.73",
+    "anonymity": "elite",
+    "location": "Hanoi",
+    "valid_urls": [
+      "https://discord.com/"
+    ]
   },
   {
     "ip": "171.234.50.112",
@@ -33,9 +66,23 @@
     "asn": 7552,
     "isp": "Viettel Group",
     "protocol": "socks5",
-    "speed_ms": "3093.13",
+    "speed_ms": "2176.65",
     "anonymity": "elite",
     "location": "Hanoi",
-    "valid_urls": []
+    "valid_urls": [
+      "https://discord.com/",
+      "https://discord.com/",
+      "https://x.com/",
+      "https://x.com/",
+      "https://www.reddit.com/",
+      "https://www.reddit.com/",
+      "https://www.amazon.com/",
+      "https://id.pinterest.com/",
+      "https://id.pinterest.com/",
+      "https://www.youtube.com/",
+      "https://www.youtube.com/",
+      "https://www.twitch.tv/",
+      "https://www.twitch.tv/"
+    ]
   }
 ]

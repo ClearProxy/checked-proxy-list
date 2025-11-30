@@ -7,22 +7,22 @@
     "asn": 140293,
     "isp": "China Telecom",
     "protocol": "http",
-    "speed_ms": "2210.99",
+    "speed_ms": "1337.44",
     "anonymity": "elite",
     "location": "Nanjing",
     "valid_urls": []
   },
   {
-    "ip": "120.92.211.211",
-    "port": 7890,
+    "ip": "221.202.27.194",
+    "port": 10810,
     "country": "CN",
     "country_code": "CN",
     "asn": 4837,
     "isp": "CHINA UNICOM China169 Backbone",
     "protocol": "http",
-    "speed_ms": "1610.66",
+    "speed_ms": "4078.38",
     "anonymity": "elite",
-    "location": "Wanghailou (Hebei Qu)",
+    "location": "Shenyang",
     "valid_urls": []
   },
   {
@@ -33,22 +33,9 @@
     "asn": 4134,
     "isp": "Chinanet",
     "protocol": "http",
-    "speed_ms": "2100.15",
+    "speed_ms": "1468.86",
     "anonymity": "elite",
     "location": "Nanjing",
-    "valid_urls": []
-  },
-  {
-    "ip": "153.0.171.163",
-    "port": 8085,
-    "country": "CN",
-    "country_code": "CN",
-    "asn": 4837,
-    "isp": "CHINA UNICOM China169 Backbone",
-    "protocol": "http",
-    "speed_ms": "1522.17",
-    "anonymity": "elite",
-    "location": "Jinrongjie (Xicheng District)",
     "valid_urls": []
   },
   {
@@ -59,7 +46,7 @@
     "asn": 140293,
     "isp": "China Telecom",
     "protocol": "http",
-    "speed_ms": "1194.60",
+    "speed_ms": "2269.08",
     "anonymity": "elite",
     "location": "Nanjing",
     "valid_urls": []
@@ -72,10 +59,25 @@
     "asn": 4134,
     "isp": "Chinanet",
     "protocol": "http",
-    "speed_ms": "1690.58",
+    "speed_ms": "1347.73",
     "anonymity": "transparent",
     "location": "Haikou",
     "valid_urls": []
+  },
+  {
+    "ip": "111.48.191.100",
+    "port": 7890,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 9808,
+    "isp": "China Mobile",
+    "protocol": "http",
+    "speed_ms": "3318.72",
+    "anonymity": "elite",
+    "location": "Guangzhou",
+    "valid_urls": [
+      "https://www.bing.com/"
+    ]
   },
   {
     "ip": "120.92.212.16",
@@ -85,10 +87,12 @@
     "asn": 4837,
     "isp": "CHINA UNICOM China169 Backbone",
     "protocol": "http",
-    "speed_ms": "3309.50",
+    "speed_ms": "3153.42",
     "anonymity": "elite",
     "location": "Wanghailou (Hebei Qu)",
-    "valid_urls": []
+    "valid_urls": [
+      "https://www.amazon.com/"
+    ]
   },
   {
     "ip": "113.204.79.230",
@@ -98,7 +102,7 @@
     "asn": 4837,
     "isp": "CHINA UNICOM China169 Backbone",
     "protocol": "http",
-    "speed_ms": "1203.48",
+    "speed_ms": "1293.01",
     "anonymity": "elite",
     "location": "Jinrongjie (Xicheng District)",
     "valid_urls": []

@@ -1,18 +1,5 @@
 [
   {
-    "ip": "46.183.130.89",
-    "port": 1080,
-    "country": "RU",
-    "country_code": "RU",
-    "asn": 8749,
-    "isp": "JSC \"Redcom-lnternet\"",
-    "protocol": "socks5",
-    "speed_ms": "2542.50",
-    "anonymity": "elite",
-    "location": "Khabarovsk",
-    "valid_urls": []
-  },
-  {
     "ip": "45.8.88.55",
     "port": 1080,
     "country": "RU",
@@ -20,63 +7,32 @@
     "asn": 43991,
     "isp": "Voronezh Telecom LLC",
     "protocol": "socks5",
-    "speed_ms": "1682.11",
+    "speed_ms": "2053.05",
     "anonymity": "elite",
     "location": "Voronezh",
-    "valid_urls": []
-  },
-  {
-    "ip": "217.173.31.28",
-    "port": 1080,
-    "country": "RU",
-    "country_code": "RU",
-    "asn": 29194,
-    "isp": "MTS PJSC",
-    "protocol": "socks5",
-    "speed_ms": "3037.90",
-    "anonymity": "elite",
-    "location": "Kazan\u2019",
-    "valid_urls": []
-  },
-  {
-    "ip": "194.26.135.214",
-    "port": 1080,
-    "country": "RU",
-    "country_code": "RU",
-    "asn": 43991,
-    "isp": "Voronezh Telecom LLC",
-    "protocol": "socks5",
-    "speed_ms": "1452.87",
-    "anonymity": "elite",
-    "location": "Voronezh",
-    "valid_urls": []
-  },
-  {
-    "ip": "185.149.240.155",
-    "port": 1080,
-    "country": "RU",
-    "country_code": "RU",
-    "asn": 49505,
-    "isp": "JSC Selectel",
-    "protocol": "socks5",
-    "speed_ms": "1305.24",
-    "anonymity": "elite",
-    "location": "St Petersburg",
-    "valid_urls": []
-  },
-  {
-    "ip": "152.53.36.101",
-    "port": 18323,
-    "country": "RU",
-    "country_code": "RU",
-    "asn": 51178,
-    "isp": "JSC Avantel",
-    "protocol": "socks5",
-    "speed_ms": "1418.18",
-    "anonymity": "elite",
-    "location": "St Petersburg",
     "valid_urls": [
-      "https://www.google.com/search?q=Pornhub"
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.reddit.com/",
+      "https://www.bing.com/",
+      "https://www.amazon.com/",
+      "https://www.twitch.tv/"
+    ]
+  },
+  {
+    "ip": "194.28.162.12",
+    "port": 1080,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 51015,
+    "isp": "IP Andreev Boris Vladimirovich",
+    "protocol": "socks5",
+    "speed_ms": "2482.41",
+    "anonymity": "elite",
+    "location": "Rostov-on-Don",
+    "valid_urls": [
+      "https://www.reddit.com/",
+      "https://www.bing.com/",
+      "https://www.twitch.tv/"
     ]
   },
   {
@@ -87,10 +43,49 @@
     "asn": 49505,
     "isp": "JSC Selectel",
     "protocol": "socks5",
-    "speed_ms": "1297.36",
+    "speed_ms": "1446.34",
     "anonymity": "elite",
     "location": "St Petersburg",
-    "valid_urls": []
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.reddit.com/",
+      "https://www.reddit.com/",
+      "https://www.bing.com/",
+      "https://www.bing.com/",
+      "https://id.pinterest.com/",
+      "https://id.pinterest.com/",
+      "https://www.youtube.com/",
+      "https://www.youtube.com/",
+      "https://www.twitch.tv/",
+      "https://www.twitch.tv/"
+    ]
+  },
+  {
+    "ip": "185.149.240.155",
+    "port": 1080,
+    "country": "RU",
+    "country_code": "RU",
+    "asn": 49505,
+    "isp": "JSC Selectel",
+    "protocol": "socks5",
+    "speed_ms": "1429.74",
+    "anonymity": "elite",
+    "location": "St Petersburg",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.reddit.com/",
+      "https://www.reddit.com/",
+      "https://www.bing.com/",
+      "https://www.bing.com/",
+      "https://id.pinterest.com/",
+      "https://id.pinterest.com/",
+      "https://www.youtube.com/",
+      "https://www.youtube.com/",
+      "https://www.twitch.tv/",
+      "https://www.twitch.tv/"
+    ]
   },
   {
     "ip": "217.76.39.4",
@@ -100,9 +95,11 @@
     "asn": 16143,
     "isp": "OOO NIIR-RadioNet",
     "protocol": "socks5",
-    "speed_ms": "2497.21",
+    "speed_ms": "4763.11",
     "anonymity": "elite",
     "location": "Lyubuchany",
-    "valid_urls": []
+    "valid_urls": [
+      "https://www.reddit.com/"
+    ]
   }
 ]

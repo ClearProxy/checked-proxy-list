@@ -4,12 +4,12 @@
     "port": 55073,
     "country": "ES",
     "country_code": "ES",
-    "asn": 15704,
-    "isp": "XTRA TELECOM S.A.",
+    "asn": 12430,
+    "isp": "VODAFONE ESPANA S.A.U.",
     "protocol": "socks5",
-    "speed_ms": "2309.34",
+    "speed_ms": "3255.54",
     "anonymity": "elite",
-    "location": "Sant Antoni de Portmany",
+    "location": "Madrid (Barajas)",
     "valid_urls": []
   },
   {
@@ -20,7 +20,7 @@
     "asn": 12334,
     "isp": "R Cable y Telecable Telecomunicaciones, S.A.U.",
     "protocol": "socks5",
-    "speed_ms": "2668.52",
+    "speed_ms": "2613.72",
     "anonymity": "elite",
     "location": "Vigo",
     "valid_urls": []
@@ -33,9 +33,13 @@
     "asn": 49173,
     "isp": "Telecable Almonte, S.L.",
     "protocol": "socks5",
-    "speed_ms": "1587.85",
+    "speed_ms": "1814.31",
     "anonymity": "elite",
     "location": "Almonte",
-    "valid_urls": []
+    "valid_urls": [
+      "https://www.instagram.com/",
+      "https://www.reddit.com/",
+      "https://www.amazon.com/"
+    ]
   }
 ]

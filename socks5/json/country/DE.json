@@ -1,16 +1,21 @@
 [
   {
-    "ip": "161.35.31.237",
-    "port": 1080,
+    "ip": "37.18.73.60",
+    "port": 5566,
     "country": "DE",
     "country_code": "DE",
-    "asn": 14061,
-    "isp": "DigitalOcean, LLC",
+    "asn": 200950,
+    "isp": "Lyratris Limited",
     "protocol": "socks5",
-    "speed_ms": "2805.89",
+    "speed_ms": "2517.58",
     "anonymity": "elite",
-    "location": "Gelnhausen",
-    "valid_urls": []
+    "location": "Frankfurt am Main (Innenstadt I)",
+    "valid_urls": [
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.bing.com/",
+      "https://www.amazon.com/",
+      "https://id.pinterest.com/"
+    ]
   },
   {
     "ip": "152.53.36.101",
@@ -20,27 +25,24 @@
     "asn": 3320,
     "isp": "Deutsche Telekom AG",
     "protocol": "socks5",
-    "speed_ms": "1919.29",
+    "speed_ms": "2405.82",
     "anonymity": "elite",
     "location": "Frankfurt am Main",
     "valid_urls": [
-      "https://www.google.com/search?q=Pornhub"
+      "https://www.google.com/search?q=Pornhub",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://www.reddit.com/",
+      "https://www.bing.com/",
+      "https://www.amazon.com/",
+      "https://id.pinterest.com/",
+      "https://www.youtube.com/",
+      "https://www.twitch.tv/"
     ]
   },
   {
-    "ip": "152.53.36.101",
-    "port": 17941,
-    "country": "DE",
-    "country_code": "DE",
-    "asn": 3320,
-    "isp": "Deutsche Telekom AG",
-    "protocol": "socks5",
-    "speed_ms": "1734.74",
-    "anonymity": "elite",
-    "location": "Niederkruchten",
-    "valid_urls": []
-  },
-  {
     "ip": "185.194.217.97",
     "port": 1080,
     "country": "DE",
@@ -48,7 +50,7 @@
     "asn": 51167,
     "isp": "Contabo GmbH",
     "protocol": "socks5",
-    "speed_ms": "1845.18",
+    "speed_ms": "4724.49",
     "anonymity": "elite",
     "location": "Frankfurt am Main",
     "valid_urls": []
@@ -61,22 +63,9 @@
     "asn": 51167,
     "isp": "Contabo GmbH",
     "protocol": "socks5",
-    "speed_ms": "1761.65",
+    "speed_ms": "4622.66",
     "anonymity": "elite",
     "location": "Frankfurt am Main",
-    "valid_urls": []
-  },
-  {
-    "ip": "152.53.36.101",
-    "port": 17941,
-    "country": "DE",
-    "country_code": "DE",
-    "asn": 3320,
-    "isp": "Deutsche Telekom AG",
-    "protocol": "socks5",
-    "speed_ms": "1445.49",
-    "anonymity": "elite",
-    "location": "Niederkruchten",
     "valid_urls": []
   }
 ]

@@ -26,7 +26,7 @@ Every proxy in this repository has been validated through **[ClearProxy.io](http
 
 ###  Custom URL Validation
 
-All proxies are now tested against **1 popular websites** to ensure they work with specific services:
+All proxies are now tested against **11 popular websites** to ensure they work with specific services:
 - Google Search Functionality
 - Discord
 - TikTok
@@ -47,39 +47,18 @@ Not your target website? sign up to **clearproxy.io** and check with your target
 
 | Protocol | File | Status | Total |
 |-----------|------|--------|--------|
-| HTTP | `http/` | ✅ Checked | 45 |
-| SOCKS4 | `socks4/` | ✅ Checked | 4 |
-| SOCKS5 | `socks5/` | ✅ Checked | 72 |
+| HTTP | `http/` | ✅ Checked | 69 |
+| SOCKS4 | `socks4/` | ✅ Checked | 152 |
+| SOCKS5 | `socks5/` | ✅ Checked | 152 |
 
 ---
 
 ### Top 10 Countries
-`1. US (15), 2. DE (10), 3. CN (9), 4. RU (9), 5. FR (8), 6. CA (7), 7. BD (5), 8. IR (5), 9. VN (5), 10. NL (4)`
+`1. US (242), 2. DE (12), 3. CN (9), 4. AR (8), 5. RU (6), 6. GB (6), 7. VN (6), 8. BD (5), 9. KR (5), 10. IR (5)`
 
 ### Top 10 ASN
-`1. ASN45102 (8), 2. ASN14061 (5), 3. ASN201691 (4), 4. ASN4837 (4), 5. ASN51167 (3), 6. ASN14618 (3), 7. ASN3320 (3), 8. ASN577 (3), 9. ASN5410 (3), 10. ASN7552 (3)`
+`1. ASN22773 (105), 2. ASN46562 (65), 3. ASN20081 (10), 4. ASN7922 (7), 5. ASN45102 (6), 6. ASN4766 (5), 7. ASN3737 (5), 8. ASN701 (5), 9. ASN51167 (4), 10. ASN24940 (4)`
 
----
-
-##  Custom URL Validated Proxies
-
-Proxies validated against specific websites:
-
-| Service | HTTP | SOCKS4 | SOCKS5 |
-|---------|------|--------|--------|
-| Google | 4 | 1 | 21 |
-
-### Download Custom Validated Proxies
-
-```bash
-# Example: Google validated HTTP proxies
-https://raw.githubusercontent.com/ClearProxy/checked-proxy-list/main/custom/google/http.txt
-
-# Example: Discord validated SOCKS5 proxies
-https://raw.githubusercontent.com/ClearProxy/checked-proxy-list/main/custom/discord/socks5.txt
-```
-
----
 
 ## Download Options
 
@@ -161,6 +140,38 @@ https://raw.githubusercontent.com/ClearProxy/checked-proxy-list/main/socks5/raw/
   }
 ]
 ```
+
+---
+
+##  Custom URL Validated Proxies
+
+Proxies validated against specific websites:
+
+| Service | HTTP | SOCKS4 | SOCKS5 |
+|---------|------|--------|--------|
+| Amazon | 6 | 50 | 72 |
+| Bing | 14 | 126 | 79 |
+| Discord | 14 | 110 | 74 |
+| Google | 7 | 3 | 32 |
+| Instagram | 5 | 42 | 50 |
+| Pinterest | 8 | 60 | 49 |
+| Reddit | 8 | 2 | 55 |
+| Tiktok | 10 | 17 | 62 |
+| Twitch | 9 | 96 | 77 |
+| X | 13 | 78 | 72 |
+| Youtube | 12 | 2 | 39 |
+
+### Download Custom Validated Proxies
+
+```bash
+# Example: Google validated HTTP proxies
+https://raw.githubusercontent.com/ClearProxy/checked-proxy-list/main/custom/google/http.txt
+
+# Example: Discord validated SOCKS5 proxies
+https://raw.githubusercontent.com/ClearProxy/checked-proxy-list/main/custom/discord/socks5.txt
+```
+
+---
 
 > [!WARNING]
 > Proxies in this repository are collected from public sources

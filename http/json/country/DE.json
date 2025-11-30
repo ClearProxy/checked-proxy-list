@@ -7,9 +7,61 @@
     "asn": 51167,
     "isp": "Contabo GmbH",
     "protocol": "http",
-    "speed_ms": "1341.23",
+    "speed_ms": "2096.86",
     "anonymity": "transparent",
     "location": "Dusseldorf",
+    "valid_urls": []
+  },
+  {
+    "ip": "23.247.136.254",
+    "port": 80,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 46997,
+    "isp": "Black Mesa Corporation",
+    "protocol": "http",
+    "speed_ms": "1074.63",
+    "anonymity": "elite",
+    "location": "Frankfurt am Main",
+    "valid_urls": []
+  },
+  {
+    "ip": "116.203.139.209",
+    "port": 4145,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 24940,
+    "isp": "Hetzner Online GmbH",
+    "protocol": "http",
+    "speed_ms": "1211.05",
+    "anonymity": "elite",
+    "location": "Nuremberg",
+    "valid_urls": []
+  },
+  {
+    "ip": "84.247.174.93",
+    "port": 8080,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 51167,
+    "isp": "Contabo GmbH",
+    "protocol": "http",
+    "speed_ms": "1875.36",
+    "anonymity": "transparent",
+    "location": "Dusseldorf",
+    "valid_urls": []
+  },
+  {
+    "ip": "116.203.139.209",
+    "port": 5153,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 24940,
+    "isp": "Hetzner Online GmbH",
+    "protocol": "http",
+    "speed_ms": "1064.88",
+    "anonymity": "elite",
+    "location": "Nuremberg",
     "valid_urls": []
   },
   {
@@ -20,7 +72,7 @@
     "asn": 45102,
     "isp": "Alibaba (US) Technology Co., Ltd.",
     "protocol": "http",
-    "speed_ms": "1508.02",
+    "speed_ms": "3069.04",
     "anonymity": "transparent",
     "location": "Frankfurt am Main",
     "valid_urls": []
@@ -33,8 +85,28 @@
     "asn": 199785,
     "isp": "Cloud Hosting Solutions, Limited.",
     "protocol": "http",
-    "speed_ms": "1479.26",
+    "speed_ms": "1007.93",
     "anonymity": "elite",
+    "location": "Frankfurt am Main",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.reddit.com/",
+      "https://www.bing.com/",
+      "https://www.twitch.tv/"
+    ]
+  },
+  {
+    "ip": "47.91.65.23",
+    "port": 3128,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 45102,
+    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "protocol": "http",
+    "speed_ms": "2918.93",
+    "anonymity": "transparent",
     "location": "Frankfurt am Main",
     "valid_urls": []
   }
