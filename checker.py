@@ -2,6 +2,7 @@ import os
 import json 
 import requests
 from pathlib import Path 
+from typing import Tuple
 from typing import List, Dict, Set
 from collections import Counter 
 from datetime import datetime, timedelta
@@ -282,7 +283,7 @@ class ProxyChecker:
         print(f"[{protocol.upper()}] Total collected: {len(proxies)}")
         return proxies
     
-    def check_proxies_clearproxy(self, proxies: List[str], protocol: str) -> tuple[List[Dict], Dict]:
+    def check_proxies_clearproxy(self, proxies: List[str], protocol: str) -> Tuple[List[Dict], Dict]:
         if not CLEARPROXY_API_KEY:
             print("[ERROR] CLEARPROXY_API_KEY not found!")
             return [], {}
@@ -785,3 +786,4 @@ https://raw.githubusercontent.com/ClearProxy/checked-proxy-list/main/socks5/raw/
 if __name__ == '__main__':
     checker = ProxyChecker()
     checker.run()
+

@@ -18,9 +18,28 @@ This repository provides an **automatically updated proxy list every 5 minutes**
 
 **Capable of checking millions of proxies in seconds**
 
+**Now with Custom URL Validation**
+
 </div>
 
 Every proxy in this repository has been validated through **[ClearProxy.io](https://clearproxy.io/)**, a powerful service that can **check millions of proxies in seconds**, ensuring all proxies are active and usable.
+
+###  Custom URL Validation
+
+All proxies are now tested against **11 popular websites** to ensure they work with specific services:
+- Google Search Functionality
+- Discord
+- TikTok
+- Instagram
+- X (Twitter)
+- Reddit
+- Bing
+- Amazon
+- Pinterest
+- YouTube
+- Twitch
+
+Not your target website? sign up to **clearproxy.io** and check with your target website, you will get fre 1M Check Credit!
 
 ---
 
@@ -28,21 +47,23 @@ Every proxy in this repository has been validated through **[ClearProxy.io](http
 
 | Protocol | File | Status | Total |
 |-----------|------|--------|--------|
-| HTTP | `http/` | ✅ Checked | 97 |
-| SOCKS4 | `socks4/` | ✅ Checked | 175 |
-| SOCKS5 | `socks5/` | ✅ Checked | 194 |
+| HTTP | `http/` | ✅ Checked | 0 |
+| SOCKS4 | `socks4/` | ✅ Checked | 0 |
+| SOCKS5 | `socks5/` | ✅ Checked | 0 |
 
 ---
 
 ### Top 10 Countries
-`1. US (254), 2. VN (25), 3. CA (15), 4. DE (13), 5. CN (12), 6. GB (12), 7. RU (11), 8. KR (8), 9. FR (8), 10. ES (6)`
+``
 
 ### Top 10 ASN
-`1. ASN22773 (102), 2. ASN46562 (58), 3. ASN7552 (17), 4. ASN20081 (12), 5. ASN45102 (10), 6. ASN14670 (7), 7. ASN14618 (7), 8. ASN4766 (7), 9. ASN7922 (6), 10. ASN20115 (6)`
+``
 
 ---
 
-##  Download Options
+---
+
+## Download Options
 
 ### By Protocol - All Proxies
 
@@ -113,7 +134,12 @@ https://raw.githubusercontent.com/ClearProxy/checked-proxy-list/main/socks5/raw/
     "protocol": "http",
     "speed_ms": "664.05",
     "anonymity": "elite",
-    "location": "The Dalles"
+    "location": "The Dalles",
+    "valid_urls": [
+      "https://www.google.com/search?q=Pornhub",
+      "https://discord.com/",
+      "https://www.instagram.com/"
+    ]
   }
 ]
 ```
