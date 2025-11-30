@@ -13,7 +13,6 @@ PROXY_SOURCES = {
 'http': [
     'https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt',
     'https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt',
-    'https://raw.githubusercontent.com/gitrecon1455/fresh-proxy-list/refs/heads/main/proxylist.txt',
     'https://raw.githubusercontent.com/r00tee/Proxy-List/refs/heads/main/Https.txt',
     'https://raw.githubusercontent.com/Vann-Dev/proxy-list/refs/heads/main/proxies/http.txt',
     'https://raw.githubusercontent.com/Vann-Dev/proxy-list/refs/heads/main/proxies/https.txt',
@@ -75,7 +74,6 @@ PROXY_SOURCES = {
     'https://raw.githubusercontent.com/ALIILAPRO/Proxy/main/socks4.txt',
     'https://raw.githubusercontent.com/andigwandi/free-proxy/main/proxy_list.txt',
     'https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/socks4.txt',
-    'https://raw.githubusercontent.com/gitrecon1455/fresh-proxy-list/refs/heads/main/proxylist.txt',
     'https://raw.githubusercontent.com/roosterkid/openproxylist/main/SOCKS4_RAW.txt',
     'https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/unknown.txt',
     'https://raw.githubusercontent.com/sunny9577/proxy-scraper/master/proxies.txt',
@@ -114,7 +112,6 @@ PROXY_SOURCES = {
     'https://raw.githubusercontent.com/ALIILAPRO/Proxy/main/socks5.txt',
     'https://raw.githubusercontent.com/andigwandi/free-proxy/main/proxy_list.txt',
     'https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/socks5.txt',
-    'https://raw.githubusercontent.com/gitrecon1455/fresh-proxy-list/refs/heads/main/proxylist.txt',
     'https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt',
     'https://raw.githubusercontent.com/roosterkid/openproxylist/main/SOCKS5_RAW.txt',
     'https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/socks5.txt',
@@ -148,6 +145,76 @@ PROXY_SOURCES = {
     'https://raw.githubusercontent.com/ebrasha/abdal-proxy-hub/refs/heads/main/socks5-proxy-list-by-EbraSha.txt',
 ],
 }
+
+
+CUSTOM_URLS = [
+    {
+        'url': 'https://www.google.com/search?q=Pornhub',
+        'requiredText': 'pornhub',
+        'caseSensitive': False,
+        'requiredStatusCodes': [200]
+    },
+    {
+        'url': 'https://discord.com/',
+        'requiredText': 'Nitro',
+        'caseSensitive': False,
+        'requiredStatusCodes': [200]
+    },
+    {
+        'url': 'https://www.tiktok.com/@rvlndgt',
+        'requiredText': 'rvlndgt',
+        'caseSensitive': False,
+        'requiredStatusCodes': [200]
+    },
+    {
+        'url': 'https://www.instagram.com/',
+        'requiredText': None,
+        'caseSensitive': False,
+        'requiredStatusCodes': [200]
+    },
+    {
+        'url': 'https://x.com/',
+        'requiredText': None,
+        'caseSensitive': False,
+        'requiredStatusCodes': [200]
+    },
+    {
+        'url': 'https://www.reddit.com/',
+        'requiredText': 'heart',
+        'caseSensitive': False,
+        'requiredStatusCodes': [200]
+    },
+    {
+        'url': 'https://www.bing.com/',
+        'requiredText': None,
+        'caseSensitive': False,
+        'requiredStatusCodes': [200]
+    },
+    {
+        'url': 'https://www.amazon.com/',
+        'requiredText': None,
+        'caseSensitive': False,
+        'requiredStatusCodes': [200]
+    },
+    {
+        'url': 'https://id.pinterest.com/',
+        'requiredText': None,
+        'caseSensitive': False,
+        'requiredStatusCodes': [200]
+    },
+    {
+        'url': 'https://www.youtube.com/',
+        'requiredText': None,
+        'caseSensitive': False,
+        'requiredStatusCodes': [200]
+    },
+    {
+        'url': 'https://www.twitch.tv/',
+        'requiredText': None,
+        'caseSensitive': False,
+        'requiredStatusCodes': [200]
+    }
+]
 
 class ProxyChecker:
     def __init__(self):
@@ -215,57 +282,83 @@ class ProxyChecker:
         print(f"[{protocol.upper()}] Total collected: {len(proxies)}")
         return proxies
     
-    def check_proxies_clearproxy(self, proxies: List[str], protocol: str) -> List[Dict]:
+    def check_proxies_clearproxy(self, proxies: List[str], protocol: str) -> tuple[List[Dict], Dict]:
         if not CLEARPROXY_API_KEY:
             print("[ERROR] CLEARPROXY_API_KEY not found!")
-            return []
+            return [], {}
         
         headers = {
             'X-API-Key': CLEARPROXY_API_KEY,
             'Content-Type': 'application/json'
         }
         
-        print(f"[{protocol.upper()}] Checking {len(proxies)} proxies...")
+        print(f"[{protocol.upper()}] Checking {len(proxies)} proxies with custom URL validation...")
         
         try:
+            custom_urls_payload = []
+            for custom_url in CUSTOM_URLS:
+                url_config = {
+                    'url': custom_url['url'],
+                    'requiredStatusCodes': custom_url.get('requiredStatusCodes', [200])
+                }
+                if custom_url.get('requiredText'):
+                    url_config['requiredText'] = custom_url['requiredText']
+                    url_config['caseSensitive'] = custom_url.get('caseSensitive', False)
+                custom_urls_payload.append(url_config)
+            
             payload = {
                 'proxies': proxies,
                 'type': protocol,
                 'region': "test1",
-                'timeout': 5000
+                'timeout': 5000,
+                'customUrls': custom_urls_payload
             }
             
             response = requests.post(
                 f'{CLEARPROXY_API_URL}/check',
                 headers=headers,
                 json=payload,
-                timeout=300
+                timeout=320000
             )
             
             if response.status_code != 200:
                 print(f"[ERROR] API returned status {response.status_code}")
-                return []
+                return [], {}
             
             initial_result = response.json()
             result_url = initial_result.get('result_url')
             
             if not result_url:
                 print("[ERROR] No result_url in API response")
-                return []
+                return [], {}
             
             result_response = requests.get(result_url, timeout=60)
             
             if result_response.status_code != 200:
                 print(f"[ERROR] Failed to fetch results")
-                return []
+                return [], {}
             
             results = result_response.json()
             working_proxies = []
             proxies_array = results.get('proxies', [])
+            custom_url_validation = results.get('custom_url_validation', {})
+            
+            proxy_valid_urls = {}
+            if custom_url_validation and 'results' in custom_url_validation:
+                for url_result in custom_url_validation['results']:
+                    url = url_result['url']
+                    for proxy_result in url_result.get('successful_proxies', []):
+                        proxy_info = proxy_result.get('proxy', {})
+                        proxy_key = f"{proxy_info.get('host')}:{proxy_info.get('port')}"
+                        if proxy_key not in proxy_valid_urls:
+                            proxy_valid_urls[proxy_key] = []
+                        proxy_valid_urls[proxy_key].append(url)
             
             for result in proxies_array:
                 if result.get('status') == 'working':
                     proxy_info = result.get('proxy', {})
+                    proxy_key = f"{proxy_info.get('host')}:{proxy_info.get('port')}"
+                    
                     working_proxies.append({
                         'ip': proxy_info.get('host'),
                         'port': proxy_info.get('port'),
@@ -276,15 +369,19 @@ class ProxyChecker:
                         'protocol': protocol,
                         'speed_ms': result.get('responseTime', '0').replace(' ms', ''),
                         'anonymity': result.get('anonymity', 'unknown'),
-                        'location': result.get('location', 'Unknown')
+                        'location': result.get('location', 'Unknown'),
+                        'valid_urls': proxy_valid_urls.get(proxy_key, [])  # Add valid URLs
                     })
             
             print(f"[{protocol.upper()}] Found {len(working_proxies)} working proxies")
-            return working_proxies
+            if custom_url_validation:
+                print(f"[{protocol.upper()}] Custom URL validation completed for {custom_url_validation.get('total_urls_tested', 0)} URLs")
+            
+            return working_proxies, custom_url_validation
                 
         except Exception as e:
             print(f"[ERROR] Failed to check proxies: {e}")
-            return []
+            return [], {}
     
     def clean_old_files(self, base_path: Path):
         paths_to_clean = [
@@ -354,7 +451,38 @@ class ProxyChecker:
         
         print(f"[{protocol.upper()}] Saved {len(proxies)} proxies")
     
+    def save_custom_url_proxies(self, proxies: List[Dict], protocol: str, custom_url_validation: Dict):
+        if not custom_url_validation or 'results' not in custom_url_validation:
+            return
+        
+        print(f"[{protocol.upper()}] Saving custom URL validated proxies...")
+        
+        for url_result in custom_url_validation['results']:
+            url = url_result['url']
+            successful_proxies = url_result.get('successful_proxies', [])
+            
+            if not successful_proxies:
+                continue
+            
+            # https://www.google.com/search?q=Pornhub -> google
+            from urllib.parse import urlparse
+            parsed = urlparse(url)
+            domain = parsed.netloc.replace('www.', '').replace('id.', '')
+            service_name = domain.split('.')[0]  
+            
+            custom_path = Path('custom') / service_name
+            custom_path.mkdir(parents=True, exist_ok=True)
+            
+            raw_file = custom_path / f'{protocol}.txt'
+            with open(raw_file, 'w') as f:
+                for proxy_result in successful_proxies:
+                    proxy_info = proxy_result.get('proxy', {})
+                    f.write(f"{proxy_info.get('host')}:{proxy_info.get('port')}\n")
+            
+            print(f"[{protocol.upper()}] Saved {len(successful_proxies)} proxies for {service_name}")
+    
     def update_readme(self, stats: Dict):
+        """Update README with proxy statistics and custom URL validation info"""
         all_proxies = []
         for protocol in ['http', 'socks4', 'socks5']:
             json_file = Path(protocol) / 'json' / 'all.json'
@@ -367,6 +495,35 @@ class ProxyChecker:
         
         top_countries = ', '.join([f"{i+1}. {country} ({count})" for i, (country, count) in enumerate(country_counter.most_common(10))])
         top_asns = ', '.join([f"{i+1}. ASN{asn} ({count})" for i, (asn, count) in enumerate(asn_counter.most_common(10))])
+        
+        custom_urls_section = ""
+        custom_path = Path('custom')
+        if custom_path.exists():
+            custom_urls_section = "\n##  Custom URL Validated Proxies\n\n"
+            custom_urls_section += "Proxies validated against specific websites:\n\n"
+            custom_urls_section += "| Service | HTTP | SOCKS4 | SOCKS5 |\n"
+            custom_urls_section += "|---------|------|--------|--------|\n"
+            
+            services = set()
+            for service_dir in custom_path.iterdir():
+                if service_dir.is_dir():
+                    services.add(service_dir.name)
+            
+            for service in sorted(services):
+                service_path = custom_path / service
+                http_count = len(open(service_path / 'http.txt').readlines()) if (service_path / 'http.txt').exists() else 0
+                socks4_count = len(open(service_path / 'socks4.txt').readlines()) if (service_path / 'socks4.txt').exists() else 0
+                socks5_count = len(open(service_path / 'socks5.txt').readlines()) if (service_path / 'socks5.txt').exists() else 0
+                
+                custom_urls_section += f"| {service.capitalize()} | {http_count:,} | {socks4_count:,} | {socks5_count:,} |\n"
+            
+            custom_urls_section += "\n### Download Custom Validated Proxies\n\n"
+            custom_urls_section += "```bash\n"
+            custom_urls_section += "# Example: Google validated HTTP proxies\n"
+            custom_urls_section += "https://raw.githubusercontent.com/ClearProxy/checked-proxy-list/main/custom/google/http.txt\n\n"
+            custom_urls_section += "# Example: Discord validated SOCKS5 proxies\n"
+            custom_urls_section += "https://raw.githubusercontent.com/ClearProxy/checked-proxy-list/main/custom/discord/socks5.txt\n"
+            custom_urls_section += "```\n"
         
         readme_content = f"""# ClearProxy.io Checked Proxy List
 
@@ -388,9 +545,28 @@ This repository provides an **automatically updated proxy list every 5 minutes**
 
 **Capable of checking millions of proxies in seconds**
 
+**Now with Custom URL Validation**
+
 </div>
 
 Every proxy in this repository has been validated through **[ClearProxy.io](https://clearproxy.io/)**, a powerful service that can **check millions of proxies in seconds**, ensuring all proxies are active and usable.
+
+###  Custom URL Validation
+
+All proxies are now tested against **{len(CUSTOM_URLS)} popular websites** to ensure they work with specific services:
+- Google Search Functionality
+- Discord
+- TikTok
+- Instagram
+- X (Twitter)
+- Reddit
+- Bing
+- Amazon
+- Pinterest
+- YouTube
+- Twitch
+
+Not your target website? sign up to **clearproxy.io** and check with your target website, you will get fre 1M Check Credit!
 
 ---
 
@@ -411,8 +587,10 @@ Every proxy in this repository has been validated through **[ClearProxy.io](http
 `{top_asns}`
 
 ---
+{custom_urls_section}
+---
 
-##  Download Options
+## Download Options
 
 ### By Protocol - All Proxies
 
@@ -483,7 +661,12 @@ https://raw.githubusercontent.com/ClearProxy/checked-proxy-list/main/socks5/raw/
     "protocol": "http",
     "speed_ms": "664.05",
     "anonymity": "elite",
-    "location": "The Dalles"
+    "location": "The Dalles",
+    "valid_urls": [
+      "https://www.google.com/search?q=Pornhub",
+      "https://discord.com/",
+      "https://www.instagram.com/"
+    ]
   }}
 ]
 ```
@@ -517,12 +700,13 @@ https://raw.githubusercontent.com/ClearProxy/checked-proxy-list/main/socks5/raw/
 </div>
 """
         
-        with open('README.md', 'w') as f:
-            f.write(readme_content.encode('utf-8').decode('utf-8'))
+        with open('README.md', 'w', encoding='utf-8') as f:
+            f.write(readme_content)
         
         print("[README] Updated successfully")
     
     def load_initial_proxies(self, protocol: str) -> List[str]:
+        """Load cached proxies from previous run"""
         initial_proxy_file = self.initial_proxies_dir / f'{protocol}.txt'
         if not initial_proxy_file.exists():
             return []
@@ -531,6 +715,7 @@ https://raw.githubusercontent.com/ClearProxy/checked-proxy-list/main/socks5/raw/
             return [line.strip() for line in f if line.strip()]
 
     def save_initial_proxies(self, proxies: List[Dict], protocol: str):
+        """Save proxies to cache for next run"""
         initial_proxy_file = self.initial_proxies_dir / f'{protocol}.txt'
         with open(initial_proxy_file, 'w') as f:
             for p in proxies:
@@ -539,7 +724,7 @@ https://raw.githubusercontent.com/ClearProxy/checked-proxy-list/main/socks5/raw/
     
     def run(self):
         print("=" * 60)
-        print("Starting Proxy Checker - Time Based (1 hour cooldown)")
+        print("Starting Proxy Checker - Parallel Custom URL Validation")
         print("=" * 60)
         
         final_stats = {}
@@ -554,13 +739,13 @@ https://raw.githubusercontent.com/ClearProxy/checked-proxy-list/main/socks5/raw/
             if existing_proxies:
                 print(f"[{protocol.upper()}] Found {len(existing_proxies)} cached proxies")
                 
-                working_proxies = self.check_proxies_clearproxy(existing_proxies, protocol)
+                working_proxies, custom_url_validation = self.check_proxies_clearproxy(existing_proxies, protocol)
                 
                 if self.can_rescrape(protocol):
                     print(f"[{protocol.upper()}] Cooldown expired. Rescraping...")
                     
                     new_proxies = self.scrape_proxies(protocol)
-                    working_proxies = self.check_proxies_clearproxy(list(new_proxies), protocol)
+                    working_proxies, custom_url_validation = self.check_proxies_clearproxy(list(new_proxies), protocol)
                     
                     self.save_initial_proxies(working_proxies, protocol)
                     self.initial_counts[f'initial_{protocol}'] = len(working_proxies)
@@ -571,13 +756,18 @@ https://raw.githubusercontent.com/ClearProxy/checked-proxy-list/main/socks5/raw/
                 print(f"[{protocol.upper()}] No cache. Performing initial scrape...")
                 
                 new_proxies = self.scrape_proxies(protocol)
-                working_proxies = self.check_proxies_clearproxy(list(new_proxies), protocol)
+                working_proxies, custom_url_validation = self.check_proxies_clearproxy(list(new_proxies), protocol)
                 
                 self.save_initial_proxies(working_proxies, protocol)
                 self.initial_counts[f'initial_{protocol}'] = len(working_proxies)
                 self.initial_counts[f'last_rescrape_{protocol}'] = datetime.now().isoformat()
             
+            # Save to standard directories
             self.save_proxies(working_proxies, protocol)
+            
+            # Save to custom URL directories
+            self.save_custom_url_proxies(working_proxies, protocol, custom_url_validation)
+            
             final_stats[protocol] = len(working_proxies)
         
         self.save_stats(self.initial_counts)
@@ -595,7 +785,3 @@ https://raw.githubusercontent.com/ClearProxy/checked-proxy-list/main/socks5/raw/
 if __name__ == '__main__':
     checker = ProxyChecker()
     checker.run()
-
-
-
-
