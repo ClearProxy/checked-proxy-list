@@ -1,67 +1,78 @@
 [
   {
-    "ip": "167.249.52.91",
+    "ip": "187.102.219.42",
     "port": 999,
     "country": "AR",
     "country_code": "AR",
-    "asn": 263793,
-    "isp": "TECNET ARGENTINA S.A.",
+    "asn": 270004,
+    "isp": "CRETTON LISANDRO MAXIMILIANO (MISIOTECH)",
     "protocol": "http",
-    "speed_ms": "4055.56",
+    "speed_ms": "1827.94",
     "anonymity": "transparent",
-    "location": "Maipu",
-    "valid_urls": [
-      "https://x.com/",
-      "https://www.reddit.com/",
-      "https://www.bing.com/",
-      "https://www.youtube.com/"
-    ]
-  },
-  {
-    "ip": "167.249.52.106",
-    "port": 999,
-    "country": "AR",
-    "country_code": "AR",
-    "asn": 263793,
-    "isp": "TECNET ARGENTINA S.A.",
-    "protocol": "http",
-    "speed_ms": "3112.67",
-    "anonymity": "transparent",
-    "location": "Maipu",
+    "location": "Eldorado",
     "valid_urls": [
       "https://www.google.com/search?q=Pornhub",
       "https://discord.com/",
-      "https://www.youtube.com/"
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.reddit.com/",
+      "https://www.bing.com/",
+      "https://id.pinterest.com/",
+      "https://www.youtube.com/",
+      "https://www.twitch.tv/"
     ]
   },
   {
-    "ip": "167.249.52.19",
-    "port": 999,
+    "ip": "164.163.40.14",
+    "port": 10000,
     "country": "AR",
     "country_code": "AR",
-    "asn": 263793,
-    "isp": "TECNET ARGENTINA S.A.",
+    "asn": 265763,
+    "isp": "Interret Villa Angela SRL",
     "protocol": "http",
-    "speed_ms": "3475.06",
+    "speed_ms": "4855.53",
     "anonymity": "transparent",
-    "location": "Maipu",
-    "valid_urls": [
-      "https://discord.com/"
-    ]
+    "location": "Villa Angela",
+    "valid_urls": []
   },
   {
-    "ip": "167.249.52.115",
-    "port": 999,
+    "ip": "164.163.42.39",
+    "port": 10000,
     "country": "AR",
     "country_code": "AR",
-    "asn": 263793,
-    "isp": "TECNET ARGENTINA S.A.",
+    "asn": 265763,
+    "isp": "Interret Villa Angela SRL",
     "protocol": "http",
-    "speed_ms": "2648.47",
+    "speed_ms": "4832.90",
     "anonymity": "transparent",
-    "location": "Maipu",
+    "location": "Villa Angela",
+    "valid_urls": []
+  },
+  {
+    "ip": "164.163.43.102",
+    "port": 10000,
+    "country": "AR",
+    "country_code": "AR",
+    "asn": 265763,
+    "isp": "Interret Villa Angela SRL",
+    "protocol": "http",
+    "speed_ms": "4989.40",
+    "anonymity": "transparent",
+    "location": "Villa Angela",
+    "valid_urls": []
+  },
+  {
+    "ip": "164.163.41.1",
+    "port": 10000,
+    "country": "AR",
+    "country_code": "AR",
+    "asn": 265763,
+    "isp": "Interret Villa Angela SRL",
+    "protocol": "http",
+    "speed_ms": "4369.97",
+    "anonymity": "transparent",
+    "location": "Villa Angela",
     "valid_urls": [
-      "https://discord.com/"
+      "https://www.twitch.tv/"
     ]
   }
 ]

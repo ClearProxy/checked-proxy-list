@@ -546,27 +546,13 @@ This repository provides an **automatically updated proxy list every 5 minutes**
 
 **Capable of checking millions of proxies in seconds**
 
-**Now with Custom URL Validation**
-
 </div>
 
 Every proxy in this repository has been validated through **[ClearProxy.io](https://clearproxy.io/)**, a powerful service that can **check millions of proxies in seconds**, ensuring all proxies are active and usable.
 
 ###  Custom URL Validation
 
-All proxies are now tested against **{len(CUSTOM_URLS)} popular websites** to ensure they work with specific services:
-- Google Search Functionality
-- Discord
-- TikTok
-- Instagram
-- X (Twitter)
-- Reddit
-- Bing
-- Amazon
-- Pinterest
-- YouTube
-- Twitch
-
+All proxies are now tested against **{len(CUSTOM_URLS)} popular websites** to ensure they work with specific services.
 Not your target website? sign up to **clearproxy.io** and check with your target website, you will get fre 1M Check Credit!
 
 ---
@@ -579,6 +565,10 @@ Not your target website? sign up to **clearproxy.io** and check with your target
 | SOCKS4 | `socks4/` | ✅ Checked | {stats.get('socks4', 0):,} |
 | SOCKS5 | `socks5/` | ✅ Checked | {stats.get('socks5', 0):,} |
 
+---
+
+---
+{custom_urls_section}
 ---
 
 ### Top 10 Countries
@@ -669,9 +659,6 @@ https://raw.githubusercontent.com/ClearProxy/checked-proxy-list/main/socks5/raw/
 ]
 ```
 
----
-{custom_urls_section}
----
 
 > [!WARNING]
 > Proxies in this repository are collected from public sources
@@ -787,4 +774,5 @@ https://raw.githubusercontent.com/ClearProxy/checked-proxy-list/main/socks5/raw/
 if __name__ == '__main__':
     checker = ProxyChecker()
     checker.run()
+
 

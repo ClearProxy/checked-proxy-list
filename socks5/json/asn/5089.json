@@ -1,19 +1,42 @@
 [
   {
-    "ip": "157.180.121.252",
-    "port": 14603,
+    "ip": "152.53.171.242",
+    "port": 24411,
     "country": "GB",
     "country_code": "GB",
     "asn": 5089,
     "isp": "Virgin Media Limited",
     "protocol": "socks5",
-    "speed_ms": "2851.09",
+    "speed_ms": "2639.94",
+    "anonymity": "elite",
+    "location": "Welwyn Garden City",
+    "valid_urls": [
+      "https://x.com/",
+      "https://www.reddit.com/",
+      "https://www.amazon.com/"
+    ]
+  },
+  {
+    "ip": "157.180.121.252",
+    "port": 44011,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 5089,
+    "isp": "Virgin Media Limited",
+    "protocol": "socks5",
+    "speed_ms": "2437.01",
     "anonymity": "elite",
     "location": "Longstanton",
     "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
       "https://www.instagram.com/",
+      "https://x.com/",
       "https://www.reddit.com/",
-      "https://www.youtube.com/"
+      "https://www.bing.com/",
+      "https://www.amazon.com/",
+      "https://id.pinterest.com/",
+      "https://www.twitch.tv/"
     ]
   }
 ]

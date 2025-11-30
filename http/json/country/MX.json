@@ -1,17 +1,49 @@
 [
   {
-    "ip": "38.194.246.34",
+    "ip": "187.249.9.206",
+    "port": 8080,
+    "country": "MX",
+    "country_code": "MX",
+    "asn": 32098,
+    "isp": "Transtelco Inc",
+    "protocol": "http",
+    "speed_ms": "1312.95",
+    "anonymity": "transparent",
+    "location": "Monclova",
+    "valid_urls": [
+      "https://www.google.com/search?q=Pornhub",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "148.224.58.230",
+    "port": 8080,
+    "country": "MX",
+    "country_code": "MX",
+    "asn": 270172,
+    "isp": "Guillermo Robles Ramirez",
+    "protocol": "http",
+    "speed_ms": "3089.06",
+    "anonymity": "transparent",
+    "location": "La Versolilla",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.bing.com/",
+      "https://id.pinterest.com/"
+    ]
+  },
+  {
+    "ip": "200.188.103.242",
     "port": 999,
     "country": "MX",
     "country_code": "MX",
-    "asn": 28458,
-    "isp": "IENTC S DE RL DE CV",
+    "asn": 11172,
+    "isp": "Alestra, S. de R.L. de C.V.",
     "protocol": "http",
-    "speed_ms": "3144.47",
+    "speed_ms": "3770.66",
     "anonymity": "transparent",
-    "location": "Vamos Tamaulipas",
-    "valid_urls": [
-      "https://www.reddit.com/"
-    ]
+    "location": "Ciudad Lopez Mateos",
+    "valid_urls": []
   }
 ]

@@ -7,10 +7,11 @@
     "asn": 8075,
     "isp": "Microsoft Corporation",
     "protocol": "http",
-    "speed_ms": "977.54",
+    "speed_ms": "1570.23",
     "anonymity": "elite",
     "location": "Quincy",
     "valid_urls": [
+      "https://www.google.com/search?q=Pornhub",
       "https://www.google.com/search?q=Pornhub",
       "https://discord.com/",
       "https://discord.com/",
@@ -38,10 +39,11 @@
     "asn": 8075,
     "isp": "Microsoft Corporation",
     "protocol": "http",
-    "speed_ms": "905.56",
+    "speed_ms": "1441.57",
     "anonymity": "elite",
-    "location": "Redmond",
+    "location": "Quincy",
     "valid_urls": [
+      "https://www.google.com/search?q=Pornhub",
       "https://www.google.com/search?q=Pornhub",
       "https://discord.com/",
       "https://discord.com/",
@@ -60,5 +62,31 @@
       "https://www.twitch.tv/",
       "https://www.twitch.tv/"
     ]
+  },
+  {
+    "ip": "20.242.243.105",
+    "port": 3128,
+    "country": "US",
+    "country_code": "US",
+    "asn": 8075,
+    "isp": "Microsoft Corporation",
+    "protocol": "http",
+    "speed_ms": "2018.30",
+    "anonymity": "anonymous",
+    "location": "Washington",
+    "valid_urls": []
+  },
+  {
+    "ip": "20.242.243.105",
+    "port": 3128,
+    "country": "US",
+    "country_code": "US",
+    "asn": 8075,
+    "isp": "Microsoft Corporation",
+    "protocol": "http",
+    "speed_ms": "1966.45",
+    "anonymity": "anonymous",
+    "location": "Washington",
+    "valid_urls": []
   }
 ]

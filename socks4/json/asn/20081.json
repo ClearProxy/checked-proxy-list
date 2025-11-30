@@ -1,31 +1,5 @@
 [
   {
-    "ip": "208.65.90.21",
-    "port": 4145,
-    "country": "US",
-    "country_code": "US",
-    "asn": 20081,
-    "isp": "NET2ATLANTA.COM LLC",
-    "protocol": "socks4",
-    "speed_ms": "4539.77",
-    "anonymity": "elite",
-    "location": "Duluth (Gwinnett Place)",
-    "valid_urls": []
-  },
-  {
-    "ip": "198.177.252.24",
-    "port": 4145,
-    "country": "US",
-    "country_code": "US",
-    "asn": 20081,
-    "isp": "NET2ATLANTA.COM LLC",
-    "protocol": "socks4",
-    "speed_ms": "2639.02",
-    "anonymity": "elite",
-    "location": "Atlanta",
-    "valid_urls": []
-  },
-  {
     "ip": "198.177.254.131",
     "port": 4145,
     "country": "US",
@@ -33,24 +7,24 @@
     "asn": 20081,
     "isp": "NET2ATLANTA.COM LLC",
     "protocol": "socks4",
-    "speed_ms": "1699.69",
+    "speed_ms": "3148.09",
     "anonymity": "elite",
     "location": "Atlanta",
-    "valid_urls": [
-      "https://www.bing.com/"
-    ]
+    "valid_urls": []
   },
   {
-    "ip": "198.177.253.13",
+    "ip": "208.65.90.3",
     "port": 4145,
     "country": "US",
     "country_code": "US",
     "asn": 20081,
     "isp": "NET2ATLANTA.COM LLC",
     "protocol": "socks4",
-    "speed_ms": "4142.24",
+    "speed_ms": "760.95",
     "anonymity": "elite",
-    "location": "Atlanta",
-    "valid_urls": []
+    "location": "Duluth (Gwinnett Place)",
+    "valid_urls": [
+      "https://www.amazon.com/"
+    ]
   }
 ]

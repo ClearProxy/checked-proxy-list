@@ -1,15 +1,67 @@
 [
   {
     "ip": "89.58.45.94",
-    "port": 57167,
+    "port": 32160,
+    "country": "FI",
+    "country_code": "FI",
+    "asn": 719,
+    "isp": "RIPE Network Coordination Centre",
+    "protocol": "socks5",
+    "speed_ms": "4798.72",
+    "anonymity": "elite",
+    "location": "Helsinki",
+    "valid_urls": [
+      "https://www.amazon.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 46239,
     "country": "FI",
     "country_code": "FI",
     "asn": 16086,
     "isp": "DNA Oyj",
     "protocol": "socks5",
-    "speed_ms": "2332.08",
+    "speed_ms": "3524.64",
     "anonymity": "elite",
-    "location": "Rajakyla",
-    "valid_urls": []
+    "location": "Helsinki",
+    "valid_urls": [
+      "https://www.instagram.com/",
+      "https://www.amazon.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 36993,
+    "country": "FI",
+    "country_code": "FI",
+    "asn": 1759,
+    "isp": "Telia Finland Oyj",
+    "protocol": "socks5",
+    "speed_ms": "2793.05",
+    "anonymity": "elite",
+    "location": "Raisio",
+    "valid_urls": [
+      "https://www.instagram.com/",
+      "https://www.reddit.com/",
+      "https://www.amazon.com/",
+      "https://www.youtube.com/"
+    ]
+  },
+  {
+    "ip": "89.58.45.94",
+    "port": 21829,
+    "country": "FI",
+    "country_code": "FI",
+    "asn": 1759,
+    "isp": "Telia Finland Oyj",
+    "protocol": "socks5",
+    "speed_ms": "3204.57",
+    "anonymity": "elite",
+    "location": "Helsinki",
+    "valid_urls": [
+      "https://www.bing.com/",
+      "https://www.amazon.com/"
+    ]
   }
 ]

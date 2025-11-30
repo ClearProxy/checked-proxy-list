@@ -1,31 +1,5 @@
 [
   {
-    "ip": "175.208.250.204",
-    "port": 8951,
-    "country": "KR",
-    "country_code": "KR",
-    "asn": 4766,
-    "isp": "Korea Telecom",
-    "protocol": "http",
-    "speed_ms": "2387.53",
-    "anonymity": "elite",
-    "location": "Bucheon-si (Wonmi-gu)",
-    "valid_urls": []
-  },
-  {
-    "ip": "175.208.250.204",
-    "port": 8759,
-    "country": "KR",
-    "country_code": "KR",
-    "asn": 4766,
-    "isp": "Korea Telecom",
-    "protocol": "http",
-    "speed_ms": "1691.92",
-    "anonymity": "elite",
-    "location": "Seongnam-si (Buljeong-ro)",
-    "valid_urls": []
-  },
-  {
     "ip": "211.230.49.122",
     "port": 3128,
     "country": "KR",
@@ -33,7 +7,7 @@
     "asn": 4766,
     "isp": "Korea Telecom",
     "protocol": "http",
-    "speed_ms": "1453.94",
+    "speed_ms": "1752.00",
     "anonymity": "anonymous",
     "location": "Cheonan-si (Seonggeo-eup)",
     "valid_urls": [
@@ -44,23 +18,12 @@
       "https://x.com/",
       "https://x.com/",
       "https://www.bing.com/",
-      "https://www.bing.com/"
+      "https://www.bing.com/",
+      "https://id.pinterest.com/",
+      "https://id.pinterest.com/"
     ]
   },
   {
-    "ip": "183.110.216.128",
-    "port": 8090,
-    "country": "KR",
-    "country_code": "KR",
-    "asn": 4766,
-    "isp": "Korea Telecom",
-    "protocol": "http",
-    "speed_ms": "2166.52",
-    "anonymity": "anonymous",
-    "location": "Seongnam-si",
-    "valid_urls": []
-  },
-  {
     "ip": "211.230.49.122",
     "port": 3128,
     "country": "KR",
@@ -68,7 +31,7 @@
     "asn": 4766,
     "isp": "Korea Telecom",
     "protocol": "http",
-    "speed_ms": "1174.86",
+    "speed_ms": "2033.11",
     "anonymity": "anonymous",
     "location": "Cheonan-si (Seonggeo-eup)",
     "valid_urls": [
@@ -79,7 +42,9 @@
       "https://x.com/",
       "https://x.com/",
       "https://www.bing.com/",
-      "https://www.bing.com/"
+      "https://www.bing.com/",
+      "https://id.pinterest.com/",
+      "https://id.pinterest.com/"
     ]
   }
 ]

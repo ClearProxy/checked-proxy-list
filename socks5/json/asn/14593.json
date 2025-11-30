@@ -1,15 +1,40 @@
 [
   {
     "ip": "89.58.45.94",
-    "port": 24441,
-    "country": "SZ",
-    "country_code": "SZ",
+    "port": 12345,
+    "country": "CM",
+    "country_code": "CM",
     "asn": 14593,
     "isp": "Space Exploration Technologies Corporation",
     "protocol": "socks5",
-    "speed_ms": "2987.82",
+    "speed_ms": "4837.54",
     "anonymity": "elite",
-    "location": "Mbabane",
-    "valid_urls": []
+    "location": "Yaounde",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.bing.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 23797,
+    "country": "LR",
+    "country_code": "LR",
+    "asn": 14593,
+    "isp": "Space Exploration Technologies Corporation",
+    "protocol": "socks5",
+    "speed_ms": "2746.75",
+    "anonymity": "elite",
+    "location": "Monrovia",
+    "valid_urls": [
+      "https://www.google.com/search?q=Pornhub",
+      "https://discord.com/",
+      "https://www.instagram.com/",
+      "https://x.com/",
+      "https://www.bing.com/",
+      "https://www.amazon.com/",
+      "https://id.pinterest.com/",
+      "https://www.twitch.tv/"
+    ]
   }
 ]

@@ -1,15 +1,15 @@
 [
   {
-    "ip": "185.194.217.97",
+    "ip": "161.97.68.9",
     "port": 1080,
-    "country": "DE",
-    "country_code": "DE",
+    "country": "GB",
+    "country_code": "GB",
     "asn": 51167,
     "isp": "Contabo GmbH",
     "protocol": "socks5",
-    "speed_ms": "4724.49",
+    "speed_ms": "2788.28",
     "anonymity": "elite",
-    "location": "Frankfurt am Main",
+    "location": "London",
     "valid_urls": []
   },
   {
@@ -20,9 +20,12 @@
     "asn": 51167,
     "isp": "Contabo GmbH",
     "protocol": "socks5",
-    "speed_ms": "4622.66",
+    "speed_ms": "3322.94",
     "anonymity": "elite",
     "location": "Frankfurt am Main",
-    "valid_urls": []
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.bing.com/"
+    ]
   }
 ]

@@ -7,10 +7,29 @@
     "asn": 51167,
     "isp": "Contabo GmbH",
     "protocol": "http",
-    "speed_ms": "2096.86",
+    "speed_ms": "1822.93",
     "anonymity": "transparent",
     "location": "Dusseldorf",
     "valid_urls": []
+  },
+  {
+    "ip": "176.57.189.138",
+    "port": 3128,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 51167,
+    "isp": "Contabo GmbH",
+    "protocol": "http",
+    "speed_ms": "1357.26",
+    "anonymity": "transparent",
+    "location": "Dusseldorf",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/",
+      "https://www.bing.com/",
+      "https://www.youtube.com/",
+      "https://www.twitch.tv/"
+    ]
   },
   {
     "ip": "84.247.174.93",
@@ -20,7 +39,7 @@
     "asn": 51167,
     "isp": "Contabo GmbH",
     "protocol": "http",
-    "speed_ms": "1875.36",
+    "speed_ms": "1365.08",
     "anonymity": "transparent",
     "location": "Dusseldorf",
     "valid_urls": []
