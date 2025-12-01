@@ -1,42 +1,45 @@
 [
   {
-    "ip": "103.184.51.254",
-    "port": 5678,
+    "ip": "103.146.185.80",
+    "port": 1081,
     "country": "ID",
     "country_code": "ID",
-    "asn": 149672,
-    "isp": "PT Aktech Digital Solutions",
+    "asn": 139967,
+    "isp": "PT. Yasmin Amanah Media",
     "protocol": "socks4",
-    "speed_ms": "2236.84",
+    "speed_ms": "2259.14",
     "anonymity": "elite",
-    "location": "Sragen",
-    "valid_urls": [
-      "https://www.instagram.com/",
-      "https://x.com/",
-      "https://www.amazon.com/"
-    ]
+    "location": "Sukoharjo",
+    "valid_urls": []
   },
   {
-    "ip": "202.162.212.164",
+    "ip": "103.233.103.237",
     "port": 4153,
     "country": "ID",
     "country_code": "ID",
-    "asn": 9341,
-    "isp": "PT Indonesia Comnets Plus",
+    "asn": 136107,
+    "isp": "PT. Tujuh Ion Indonesia",
     "protocol": "socks4",
-    "speed_ms": "2093.15",
+    "speed_ms": "1930.38",
     "anonymity": "elite",
-    "location": "Pamulang",
+    "location": "Cikarang",
     "valid_urls": [
-      "https://discord.com/",
-      "https://www.tiktok.com/@rvlndgt",
-      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "103.177.199.101",
+    "port": 1080,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 147113,
+    "isp": "PT Eyza Kausa Sinergi Abadi",
+    "protocol": "socks4",
+    "speed_ms": "2825.42",
+    "anonymity": "elite",
+    "location": "Cikarang",
+    "valid_urls": [
       "https://x.com/",
-      "https://www.reddit.com/",
-      "https://www.bing.com/",
-      "https://www.amazon.com/",
-      "https://id.pinterest.com/",
-      "https://www.youtube.com/",
       "https://www.twitch.tv/"
     ]
   }

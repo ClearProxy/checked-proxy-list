@@ -1,17 +1,36 @@
 [
   {
-    "ip": "89.58.45.94",
-    "port": 13534,
+    "ip": "152.53.171.242",
+    "port": 54747,
     "country": "MK",
     "country_code": "MK",
-    "asn": 43612,
-    "isp": "Company for communications services A1 Makedonija DOOEL Skopje",
+    "asn": 6821,
+    "isp": "Makedonski Telekom AD-Skopje",
     "protocol": "socks5",
-    "speed_ms": "3372.62",
+    "speed_ms": "2229.25",
     "anonymity": "elite",
-    "location": "Skopje",
+    "location": "Butel",
     "valid_urls": [
+      "https://www.google.com/search?q=roshidere",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
       "https://www.bing.com/",
+      "https://www.amazon.com/",
+      "https://id.pinterest.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 56559,
+    "country": "MK",
+    "country_code": "MK",
+    "asn": 199128,
+    "isp": "PET NET DOO Gevgelija",
+    "protocol": "socks5",
+    "speed_ms": "2095.19",
+    "anonymity": "elite",
+    "location": "Gevgelija",
+    "valid_urls": [
       "https://www.amazon.com/"
     ]
   }

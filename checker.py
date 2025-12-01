@@ -151,7 +151,7 @@ PROXY_SOURCES = {
 CUSTOM_URLS = [
     {
         'url': 'https://www.google.com/search?q=roshidere',
-        'requiredText': 'alya',
+        'requiredText': 'roshidere',
         'caseSensitive': False,
         'requiredStatusCodes': [200]
     },
@@ -774,6 +774,7 @@ https://raw.githubusercontent.com/ClearProxy/checked-proxy-list/main/socks5/raw/
 if __name__ == '__main__':
     checker = ProxyChecker()
     checker.run()
+
 
 
 

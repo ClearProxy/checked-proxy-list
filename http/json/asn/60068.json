@@ -1,15 +1,28 @@
 [
   {
-    "ip": "95.173.218.67",
-    "port": 8082,
-    "country": "SG",
-    "country_code": "SG",
+    "ip": "195.181.173.65",
+    "port": 80,
+    "country": "NL",
+    "country_code": "NL",
     "asn": 60068,
     "isp": "Datacamp Limited",
     "protocol": "http",
-    "speed_ms": "2571.28",
+    "speed_ms": "2638.48",
     "anonymity": "elite",
-    "location": "Singapore",
+    "location": "Amsterdam",
+    "valid_urls": []
+  },
+  {
+    "ip": "195.181.173.65",
+    "port": 80,
+    "country": "NL",
+    "country_code": "NL",
+    "asn": 60068,
+    "isp": "Datacamp Limited",
+    "protocol": "http",
+    "speed_ms": "562.03",
+    "anonymity": "elite",
+    "location": "Amsterdam",
     "valid_urls": []
   }
 ]

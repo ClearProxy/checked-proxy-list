@@ -33,9 +33,9 @@ Not your target website? sign up to **clearproxy.io** and check with your target
 
 | Protocol | File | Status | Total |
 |-----------|------|--------|--------|
-| HTTP | `http/` | ✅ Checked | 136 |
+| HTTP | `http/` | ✅ Checked | 1,041 |
 | SOCKS4 | `socks4/` | ✅ Checked | 169 |
-| SOCKS5 | `socks5/` | ✅ Checked | 181 |
+| SOCKS5 | `socks5/` | ✅ Checked | 139 |
 
 ---
 
@@ -47,17 +47,17 @@ Proxies validated against specific websites:
 
 | Service | HTTP | SOCKS4 | SOCKS5 |
 |---------|------|--------|--------|
-| Amazon | 37 | 121 | 130 |
-| Bing | 60 | 139 | 134 |
-| Discord | 51 | 132 | 122 |
-| Google | 1 | 1 | 2 |
-| Instagram | 40 | 72 | 99 |
-| Pinterest | 38 | 44 | 101 |
-| Reddit | 18 | 11 | 87 |
-| Tiktok | 40 | 104 | 102 |
-| Twitch | 43 | 129 | 116 |
-| X | 45 | 116 | 127 |
-| Youtube | 36 | 13 | 3 |
+| Amazon | 43 | 140 | 112 |
+| Bing | 36 | 140 | 107 |
+| Discord | 41 | 143 | 103 |
+| Google | 11 | 7 | 59 |
+| Instagram | 28 | 109 | 94 |
+| Pinterest | 35 | 116 | 90 |
+| Reddit | 17 | 6 | 56 |
+| Tiktok | 31 | 128 | 92 |
+| Twitch | 38 | 145 | 99 |
+| X | 27 | 140 | 73 |
+| Youtube | 20 | 13 | 8 |
 
 ### Download Custom Validated Proxies
 
@@ -72,10 +72,10 @@ https://raw.githubusercontent.com/ClearProxy/checked-proxy-list/main/custom/disc
 ---
 
 ### Top 10 Countries
-`1. US (255), 2. BD (31), 3. VN (30), 4. CN (20), 5. DE (12), 6. GB (11), 7. KR (10), 8. CA (9), 9. IN (8), 10. RU (8)`
+`1. US (1022), 2. DE (39), 3. CA (21), 4. IN (17), 5. BD (16), 6. AR (15), 7. RU (14), 8. CN (14), 9. FR (13), 10. NL (12)`
 
 ### Top 10 ASN
-`1. ASN22773 (102), 2. ASN46562 (61), 3. ASN9441 (17), 4. ASN7552 (16), 5. ASN7922 (16), 6. ASN701 (14), 7. ASN18403 (12), 8. ASN45102 (10), 9. ASN20081 (8), 10. ASN4766 (7)`
+`1. ASN14618 (749), 2. ASN22773 (103), 3. ASN16509 (69), 4. ASN46562 (64), 5. ASN14061 (21), 6. ASN20081 (17), 7. ASN45102 (12), 8. ASN265763 (12), 9. ASN24940 (10), 10. ASN8075 (7)`
 
 
 ## Download Options

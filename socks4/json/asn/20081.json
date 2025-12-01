@@ -1,34 +1,20 @@
 [
   {
-    "ip": "198.177.253.13",
+    "ip": "198.177.254.131",
     "port": 4145,
     "country": "US",
     "country_code": "US",
     "asn": 20081,
     "isp": "NET2ATLANTA.COM LLC",
     "protocol": "socks4",
-    "speed_ms": "3900.74",
+    "speed_ms": "1564.43",
     "anonymity": "elite",
     "location": "Atlanta",
     "valid_urls": [
       "https://www.bing.com/",
       "https://www.amazon.com/",
-      "https://www.amazon.com/"
-    ]
-  },
-  {
-    "ip": "198.177.254.157",
-    "port": 4145,
-    "country": "US",
-    "country_code": "US",
-    "asn": 20081,
-    "isp": "NET2ATLANTA.COM LLC",
-    "protocol": "socks4",
-    "speed_ms": "1434.36",
-    "anonymity": "elite",
-    "location": "Atlanta",
-    "valid_urls": [
-      "https://www.bing.com/",
+      "https://www.amazon.com/",
+      "https://www.twitch.tv/",
       "https://www.twitch.tv/"
     ]
   },
@@ -40,11 +26,29 @@
     "asn": 20081,
     "isp": "NET2ATLANTA.COM LLC",
     "protocol": "socks4",
-    "speed_ms": "1800.45",
+    "speed_ms": "1495.36",
     "anonymity": "elite",
     "location": "Duluth (Gwinnett Place)",
     "valid_urls": [
       "https://x.com/",
+      "https://www.amazon.com/",
+      "https://www.amazon.com/",
+      "https://www.twitch.tv/"
+    ]
+  },
+  {
+    "ip": "208.65.90.21",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 20081,
+    "isp": "NET2ATLANTA.COM LLC",
+    "protocol": "socks4",
+    "speed_ms": "1496.47",
+    "anonymity": "elite",
+    "location": "Duluth (Gwinnett Place)",
+    "valid_urls": [
+      "https://discord.com/",
       "https://www.bing.com/",
       "https://www.amazon.com/",
       "https://www.amazon.com/",
@@ -53,38 +57,21 @@
     ]
   },
   {
-    "ip": "208.65.90.3",
+    "ip": "198.177.252.24",
     "port": 4145,
     "country": "US",
     "country_code": "US",
     "asn": 20081,
     "isp": "NET2ATLANTA.COM LLC",
     "protocol": "socks4",
-    "speed_ms": "990.81",
+    "speed_ms": "1230.89",
     "anonymity": "elite",
-    "location": "Duluth (Gwinnett Place)",
+    "location": "Atlanta",
     "valid_urls": [
+      "https://discord.com/",
+      "https://www.bing.com/",
+      "https://www.amazon.com/",
       "https://www.amazon.com/"
-    ]
-  },
-  {
-    "ip": "192.104.242.158",
-    "port": 4145,
-    "country": "US",
-    "country_code": "US",
-    "asn": 20081,
-    "isp": "NET2ATLANTA.COM LLC",
-    "protocol": "socks4",
-    "speed_ms": "865.48",
-    "anonymity": "elite",
-    "location": "Duluth (Gwinnett Place)",
-    "valid_urls": [
-      "https://x.com/",
-      "https://www.bing.com/",
-      "https://www.amazon.com/",
-      "https://www.amazon.com/",
-      "https://www.twitch.tv/",
-      "https://www.twitch.tv/"
     ]
   },
   {
@@ -95,31 +82,71 @@
     "asn": 20081,
     "isp": "NET2ATLANTA.COM LLC",
     "protocol": "socks4",
-    "speed_ms": "1892.45",
+    "speed_ms": "899.55",
     "anonymity": "elite",
     "location": "Atlanta",
     "valid_urls": [
-      "https://discord.com/",
-      "https://x.com/",
       "https://www.bing.com/",
+      "https://www.amazon.com/",
+      "https://www.amazon.com/",
+      "https://www.twitch.tv/",
       "https://www.twitch.tv/"
     ]
   },
   {
-    "ip": "198.177.253.13",
+    "ip": "198.177.252.24",
     "port": 4145,
     "country": "US",
     "country_code": "US",
     "asn": 20081,
     "isp": "NET2ATLANTA.COM LLC",
     "protocol": "socks4",
-    "speed_ms": "636.92",
+    "speed_ms": "706.09",
     "anonymity": "elite",
     "location": "Atlanta",
     "valid_urls": [
+      "https://discord.com/",
       "https://www.bing.com/",
       "https://www.amazon.com/",
       "https://www.amazon.com/"
+    ]
+  },
+  {
+    "ip": "192.104.242.158",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 20081,
+    "isp": "NET2ATLANTA.COM LLC",
+    "protocol": "socks4",
+    "speed_ms": "600.78",
+    "anonymity": "elite",
+    "location": "Duluth (Gwinnett Place)",
+    "valid_urls": [
+      "https://x.com/",
+      "https://www.amazon.com/",
+      "https://www.amazon.com/",
+      "https://www.twitch.tv/"
+    ]
+  },
+  {
+    "ip": "208.65.90.21",
+    "port": 4145,
+    "country": "US",
+    "country_code": "US",
+    "asn": 20081,
+    "isp": "NET2ATLANTA.COM LLC",
+    "protocol": "socks4",
+    "speed_ms": "584.63",
+    "anonymity": "elite",
+    "location": "Duluth (Gwinnett Place)",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.bing.com/",
+      "https://www.amazon.com/",
+      "https://www.amazon.com/",
+      "https://www.twitch.tv/",
+      "https://www.twitch.tv/"
     ]
   }
 ]

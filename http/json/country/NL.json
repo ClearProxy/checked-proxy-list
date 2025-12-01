@@ -1,40 +1,116 @@
 [
   {
-    "ip": "77.105.137.42",
-    "port": 8080,
+    "ip": "195.181.173.65",
+    "port": 80,
     "country": "NL",
     "country_code": "NL",
-    "asn": 216071,
-    "isp": "SERVERS TECH FZCO",
+    "asn": 60068,
+    "isp": "Datacamp Limited",
     "protocol": "http",
-    "speed_ms": "2302.49",
+    "speed_ms": "2638.48",
     "anonymity": "elite",
     "location": "Amsterdam",
-    "valid_urls": [
-      "https://www.bing.com/",
-      "https://id.pinterest.com/"
-    ]
+    "valid_urls": []
   },
   {
-    "ip": "89.110.80.195",
-    "port": 10149,
+    "ip": "146.103.115.27",
+    "port": 8084,
     "country": "NL",
     "country_code": "NL",
-    "asn": 216071,
-    "isp": "SERVERS TECH FZCO",
+    "asn": 202425,
+    "isp": "IP Volume inc",
     "protocol": "http",
-    "speed_ms": "837.33",
+    "speed_ms": "2176.91",
+    "anonymity": "transparent",
+    "location": "Amsterdam",
+    "valid_urls": []
+  },
+  {
+    "ip": "46.30.45.211",
+    "port": 80,
+    "country": "NL",
+    "country_code": "NL",
+    "asn": 216139,
+    "isp": "Iron Hosting Centre LTD",
+    "protocol": "http",
+    "speed_ms": "2266.16",
     "anonymity": "elite",
     "location": "Amsterdam",
     "valid_urls": [
       "https://discord.com/",
-      "https://www.tiktok.com/@rvlndgt",
-      "https://www.instagram.com/",
       "https://x.com/",
-      "https://www.bing.com/",
-      "https://id.pinterest.com/",
-      "https://www.youtube.com/",
-      "https://www.twitch.tv/"
+      "https://www.amazon.com/",
+      "https://id.pinterest.com/"
     ]
+  },
+  {
+    "ip": "154.211.2.68",
+    "port": 80,
+    "country": "NL",
+    "country_code": "NL",
+    "asn": 212552,
+    "isp": "BitCommand LLC",
+    "protocol": "http",
+    "speed_ms": "2811.75",
+    "anonymity": "transparent",
+    "location": "Amsterdam",
+    "valid_urls": []
+  },
+  {
+    "ip": "141.11.1.172",
+    "port": 80,
+    "country": "NL",
+    "country_code": "NL",
+    "asn": 43350,
+    "isp": "NForce Entertainment B.V.",
+    "protocol": "http",
+    "speed_ms": "825.41",
+    "anonymity": "elite",
+    "location": "Amsterdam",
+    "valid_urls": []
+  },
+  {
+    "ip": "46.30.45.211",
+    "port": 80,
+    "country": "NL",
+    "country_code": "NL",
+    "asn": 216139,
+    "isp": "Iron Hosting Centre LTD",
+    "protocol": "http",
+    "speed_ms": "604.70",
+    "anonymity": "elite",
+    "location": "Amsterdam",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://x.com/",
+      "https://www.amazon.com/",
+      "https://id.pinterest.com/"
+    ]
+  },
+  {
+    "ip": "195.181.173.65",
+    "port": 80,
+    "country": "NL",
+    "country_code": "NL",
+    "asn": 60068,
+    "isp": "Datacamp Limited",
+    "protocol": "http",
+    "speed_ms": "562.03",
+    "anonymity": "elite",
+    "location": "Amsterdam",
+    "valid_urls": []
+  },
+  {
+    "ip": "146.103.115.27",
+    "port": 8084,
+    "country": "NL",
+    "country_code": "NL",
+    "asn": 202425,
+    "isp": "IP Volume inc",
+    "protocol": "http",
+    "speed_ms": "745.82",
+    "anonymity": "transparent",
+    "location": "Amsterdam",
+    "valid_urls": []
   }
 ]

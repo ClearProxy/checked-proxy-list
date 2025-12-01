@@ -1,20 +1,73 @@
 [
   {
-    "ip": "207.154.196.160",
-    "port": 8080,
-    "country": "DE",
-    "country_code": "DE",
+    "ip": "159.65.245.255",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
     "asn": 14061,
     "isp": "DigitalOcean, LLC",
     "protocol": "http",
-    "speed_ms": "2531.06",
+    "speed_ms": "2358.78",
     "anonymity": "elite",
-    "location": "Frankfurt am Main",
+    "location": "Clifton",
+    "valid_urls": []
+  },
+  {
+    "ip": "167.99.124.118",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "http",
+    "speed_ms": "2874.75",
+    "anonymity": "anonymous",
+    "location": "Clifton",
+    "valid_urls": []
+  },
+  {
+    "ip": "167.99.236.14",
+    "port": 80,
+    "country": "US",
+    "country_code": "US",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "http",
+    "speed_ms": "1278.92",
+    "anonymity": "elite",
+    "location": "North Bergen",
+    "valid_urls": []
+  },
+  {
+    "ip": "157.245.40.210",
+    "port": 80,
+    "country": "GB",
+    "country_code": "GB",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "http",
+    "speed_ms": "651.92",
+    "anonymity": "elite",
+    "location": "London",
+    "valid_urls": []
+  },
+  {
+    "ip": "159.223.32.95",
+    "port": 8080,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 14061,
+    "isp": "DigitalOcean, LLC",
+    "protocol": "http",
+    "speed_ms": "1064.14",
+    "anonymity": "elite",
+    "location": "Singapore (Pioneer)",
     "valid_urls": [
       "https://discord.com/",
-      "https://www.instagram.com/",
+      "https://www.tiktok.com/@rvlndgt",
       "https://x.com/",
-      "https://www.bing.com/"
+      "https://www.amazon.com/",
+      "https://www.youtube.com/"
     ]
   }
 ]

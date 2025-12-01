@@ -1,0 +1,82 @@
+[
+  {
+    "ip": "162.19.91.165",
+    "port": 80,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 16276,
+    "isp": "OVH SAS",
+    "protocol": "http",
+    "speed_ms": "2620.73",
+    "anonymity": "anonymous",
+    "location": "Strasbourg",
+    "valid_urls": []
+  },
+  {
+    "ip": "82.153.217.169",
+    "port": 80,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 16276,
+    "isp": "OVH SAS",
+    "protocol": "http",
+    "speed_ms": "2103.20",
+    "anonymity": "transparent",
+    "location": "Limburg an der Lahn",
+    "valid_urls": []
+  },
+  {
+    "ip": "91.121.63.51",
+    "port": 1080,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 16276,
+    "isp": "OVH SAS",
+    "protocol": "http",
+    "speed_ms": "4109.65",
+    "anonymity": "transparent",
+    "location": "Roubaix",
+    "valid_urls": [
+      "https://www.twitch.tv/"
+    ]
+  },
+  {
+    "ip": "57.129.63.63",
+    "port": 80,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 16276,
+    "isp": "OVH SAS",
+    "protocol": "http",
+    "speed_ms": "1631.41",
+    "anonymity": "elite",
+    "location": "Limburg an der Lahn",
+    "valid_urls": []
+  },
+  {
+    "ip": "57.129.63.63",
+    "port": 80,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 16276,
+    "isp": "OVH SAS",
+    "protocol": "http",
+    "speed_ms": "597.61",
+    "anonymity": "elite",
+    "location": "Limburg an der Lahn",
+    "valid_urls": []
+  },
+  {
+    "ip": "51.89.71.175",
+    "port": 80,
+    "country": "DE",
+    "country_code": "DE",
+    "asn": 16276,
+    "isp": "OVH SAS",
+    "protocol": "http",
+    "speed_ms": "1496.73",
+    "anonymity": "elite",
+    "location": "Frankfurt am Main",
+    "valid_urls": []
+  }
+]

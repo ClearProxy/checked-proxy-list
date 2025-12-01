@@ -7,10 +7,14 @@
     "asn": 4766,
     "isp": "Korea Telecom",
     "protocol": "socks5",
-    "speed_ms": "2760.61",
+    "speed_ms": "1881.18",
     "anonymity": "elite",
     "location": "Yongin-si (Cheoin-gu)",
-    "valid_urls": []
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.twitch.tv/"
+    ]
   },
   {
     "ip": "121.169.46.116",
@@ -20,29 +24,12 @@
     "asn": 4766,
     "isp": "Korea Telecom",
     "protocol": "socks5",
-    "speed_ms": "2477.97",
+    "speed_ms": "2538.04",
     "anonymity": "elite",
     "location": "Yongin-si (Cheoin-gu)",
-    "valid_urls": []
-  },
-  {
-    "ip": "8.220.194.115",
-    "port": 1080,
-    "country": "KR",
-    "country_code": "KR",
-    "asn": 45102,
-    "isp": "Alibaba (US) Technology Co., Ltd.",
-    "protocol": "socks5",
-    "speed_ms": "2267.01",
-    "anonymity": "elite",
-    "location": "Seoul",
     "valid_urls": [
       "https://discord.com/",
       "https://www.tiktok.com/@rvlndgt",
-      "https://www.instagram.com/",
-      "https://x.com/",
-      "https://www.bing.com/",
-      "https://id.pinterest.com/",
       "https://www.twitch.tv/"
     ]
   }
