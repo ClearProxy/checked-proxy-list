@@ -1,15 +1,15 @@
 [
   {
-    "ip": "218.75.224.4",
-    "port": 3309,
+    "ip": "113.204.79.230",
+    "port": 9091,
     "country": "CN",
     "country_code": "CN",
-    "asn": 4134,
-    "isp": "Chinanet",
+    "asn": 4837,
+    "isp": "CHINA UNICOM China169 Backbone",
     "protocol": "http",
-    "speed_ms": "2175.37",
+    "speed_ms": "2300.71",
     "anonymity": "elite",
-    "location": "Xiangtan",
+    "location": "Jinrongjie (Xicheng District)",
     "valid_urls": []
   },
   {
@@ -20,87 +20,22 @@
     "asn": 56047,
     "isp": "China Mobile Communications Corporation",
     "protocol": "http",
-    "speed_ms": "2098.24",
+    "speed_ms": "2033.21",
     "anonymity": "elite",
     "location": "Qingyuan",
     "valid_urls": []
   },
   {
-    "ip": "222.213.85.99",
-    "port": 9002,
-    "country": "CN",
-    "country_code": "CN",
-    "asn": 4134,
-    "isp": "Chinanet",
-    "protocol": "http",
-    "speed_ms": "2048.60",
-    "anonymity": "elite",
-    "location": "Deyang",
-    "valid_urls": []
-  },
-  {
-    "ip": "113.204.79.230",
-    "port": 9091,
-    "country": "CN",
-    "country_code": "CN",
-    "asn": 4837,
-    "isp": "CHINA UNICOM China169 Backbone",
-    "protocol": "http",
-    "speed_ms": "2107.42",
-    "anonymity": "elite",
-    "location": "Jinrongjie (Xicheng District)",
-    "valid_urls": []
-  },
-  {
-    "ip": "153.0.171.163",
-    "port": 8085,
-    "country": "CN",
-    "country_code": "CN",
-    "asn": 4837,
-    "isp": "CHINA UNICOM China169 Backbone",
-    "protocol": "http",
-    "speed_ms": "2112.14",
-    "anonymity": "elite",
-    "location": "Jinrongjie (Xicheng District)",
-    "valid_urls": []
-  },
-  {
-    "ip": "221.231.13.198",
-    "port": 1080,
-    "country": "CN",
-    "country_code": "CN",
-    "asn": 4134,
-    "isp": "Chinanet",
-    "protocol": "http",
-    "speed_ms": "2911.25",
-    "anonymity": "elite",
-    "location": "Nanjing",
-    "valid_urls": []
-  },
-  {
-    "ip": "111.48.191.100",
-    "port": 7890,
+    "ip": "36.138.53.26",
+    "port": 10017,
     "country": "CN",
     "country_code": "CN",
     "asn": 9808,
     "isp": "China Mobile",
     "protocol": "http",
-    "speed_ms": "2487.50",
+    "speed_ms": "2083.72",
     "anonymity": "elite",
     "location": "Guangzhou",
-    "valid_urls": []
-  },
-  {
-    "ip": "58.216.109.17",
-    "port": 800,
-    "country": "CN",
-    "country_code": "CN",
-    "asn": 140293,
-    "isp": "China Telecom",
-    "protocol": "http",
-    "speed_ms": "1552.30",
-    "anonymity": "elite",
-    "location": "Nanjing",
     "valid_urls": []
   },
   {
@@ -111,7 +46,77 @@
     "asn": 140293,
     "isp": "China Telecom",
     "protocol": "http",
-    "speed_ms": "4536.50",
+    "speed_ms": "4866.04",
+    "anonymity": "elite",
+    "location": "Nanjing",
+    "valid_urls": []
+  },
+  {
+    "ip": "71.136.119.178",
+    "port": 3128,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 55960,
+    "isp": "Beijing Guanghuan Xinwang Digital",
+    "protocol": "http",
+    "speed_ms": "1982.49",
+    "anonymity": "transparent",
+    "location": "Beijing",
+    "valid_urls": [
+      "https://www.bing.com/",
+      "https://www.amazon.com/"
+    ]
+  },
+  {
+    "ip": "218.75.224.4",
+    "port": 3309,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 4134,
+    "isp": "Chinanet",
+    "protocol": "http",
+    "speed_ms": "1914.81",
+    "anonymity": "elite",
+    "location": "Xiangtan",
+    "valid_urls": []
+  },
+  {
+    "ip": "120.92.212.16",
+    "port": 8890,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 4837,
+    "isp": "CHINA UNICOM China169 Backbone",
+    "protocol": "http",
+    "speed_ms": "2931.46",
+    "anonymity": "elite",
+    "location": "Wanghailou (Hebei Qu)",
+    "valid_urls": []
+  },
+  {
+    "ip": "101.251.204.174",
+    "port": 8080,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 4808,
+    "isp": "China Unicom Beijing Province Network",
+    "protocol": "http",
+    "speed_ms": "2096.79",
+    "anonymity": "transparent",
+    "location": "Haidian (Haidian Qu)",
+    "valid_urls": [
+      "https://www.bing.com/"
+    ]
+  },
+  {
+    "ip": "221.231.13.198",
+    "port": 1080,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 4134,
+    "isp": "Chinanet",
+    "protocol": "http",
+    "speed_ms": "2521.20",
     "anonymity": "elite",
     "location": "Nanjing",
     "valid_urls": []
@@ -124,26 +129,42 @@
     "asn": 56041,
     "isp": "China Mobile Communications Corporation",
     "protocol": "http",
-    "speed_ms": "1436.83",
+    "speed_ms": "1754.52",
     "anonymity": "transparent",
     "location": "Hangzhou",
     "valid_urls": [
       "https://www.bing.com/",
-      "https://www.amazon.com/"
+      "https://www.bing.com/"
     ]
   },
   {
-    "ip": "36.138.53.26",
-    "port": 10017,
+    "ip": "58.216.109.14",
+    "port": 800,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 140293,
+    "isp": "China Telecom",
+    "protocol": "http",
+    "speed_ms": "1511.97",
+    "anonymity": "elite",
+    "location": "Nanjing",
+    "valid_urls": []
+  },
+  {
+    "ip": "36.147.78.166",
+    "port": 80,
     "country": "CN",
     "country_code": "CN",
     "asn": 9808,
     "isp": "China Mobile",
     "protocol": "http",
-    "speed_ms": "2491.56",
+    "speed_ms": "2820.69",
     "anonymity": "elite",
     "location": "Guangzhou",
-    "valid_urls": []
+    "valid_urls": [
+      "https://www.bing.com/",
+      "https://www.amazon.com/"
+    ]
   },
   {
     "ip": "111.48.191.100",
@@ -153,10 +174,12 @@
     "asn": 9808,
     "isp": "China Mobile",
     "protocol": "http",
-    "speed_ms": "1561.69",
+    "speed_ms": "1943.36",
     "anonymity": "elite",
     "location": "Guangzhou",
-    "valid_urls": []
+    "valid_urls": [
+      "https://www.bing.com/"
+    ]
   },
   {
     "ip": "61.158.175.38",
@@ -166,23 +189,39 @@
     "asn": 4837,
     "isp": "CHINA UNICOM China169 Backbone",
     "protocol": "http",
-    "speed_ms": "1758.32",
+    "speed_ms": "2733.48",
     "anonymity": "elite",
     "location": "Zhengzhou",
     "valid_urls": []
   },
   {
-    "ip": "123.128.12.93",
-    "port": 9055,
+    "ip": "218.77.183.214",
+    "port": 5224,
     "country": "CN",
     "country_code": "CN",
-    "asn": 4837,
-    "isp": "CHINA UNICOM China169 Backbone",
+    "asn": 4134,
+    "isp": "Chinanet",
     "protocol": "http",
-    "speed_ms": "2415.05",
-    "anonymity": "elite",
-    "location": "Jinan",
+    "speed_ms": "2363.54",
+    "anonymity": "transparent",
+    "location": "Haikou",
     "valid_urls": []
+  },
+  {
+    "ip": "39.185.41.193",
+    "port": 5911,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 56041,
+    "isp": "China Mobile Communications Corporation",
+    "protocol": "http",
+    "speed_ms": "1809.50",
+    "anonymity": "transparent",
+    "location": "Hangzhou",
+    "valid_urls": [
+      "https://www.bing.com/",
+      "https://www.bing.com/"
+    ]
   },
   {
     "ip": "36.138.53.26",
@@ -192,7 +231,7 @@
     "asn": 9808,
     "isp": "China Mobile",
     "protocol": "http",
-    "speed_ms": "2216.41",
+    "speed_ms": "1482.47",
     "anonymity": "elite",
     "location": "Guangzhou",
     "valid_urls": []

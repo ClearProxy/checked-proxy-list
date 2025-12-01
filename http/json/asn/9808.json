@@ -1,18 +1,5 @@
 [
   {
-    "ip": "111.48.191.100",
-    "port": 7890,
-    "country": "CN",
-    "country_code": "CN",
-    "asn": 9808,
-    "isp": "China Mobile",
-    "protocol": "http",
-    "speed_ms": "2487.50",
-    "anonymity": "elite",
-    "location": "Guangzhou",
-    "valid_urls": []
-  },
-  {
     "ip": "36.138.53.26",
     "port": 10017,
     "country": "CN",
@@ -20,10 +7,26 @@
     "asn": 9808,
     "isp": "China Mobile",
     "protocol": "http",
-    "speed_ms": "2491.56",
+    "speed_ms": "2083.72",
     "anonymity": "elite",
     "location": "Guangzhou",
     "valid_urls": []
+  },
+  {
+    "ip": "36.147.78.166",
+    "port": 80,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 9808,
+    "isp": "China Mobile",
+    "protocol": "http",
+    "speed_ms": "2820.69",
+    "anonymity": "elite",
+    "location": "Guangzhou",
+    "valid_urls": [
+      "https://www.bing.com/",
+      "https://www.amazon.com/"
+    ]
   },
   {
     "ip": "111.48.191.100",
@@ -33,10 +36,12 @@
     "asn": 9808,
     "isp": "China Mobile",
     "protocol": "http",
-    "speed_ms": "1561.69",
+    "speed_ms": "1943.36",
     "anonymity": "elite",
     "location": "Guangzhou",
-    "valid_urls": []
+    "valid_urls": [
+      "https://www.bing.com/"
+    ]
   },
   {
     "ip": "36.138.53.26",
@@ -46,7 +51,7 @@
     "asn": 9808,
     "isp": "China Mobile",
     "protocol": "http",
-    "speed_ms": "2216.41",
+    "speed_ms": "1482.47",
     "anonymity": "elite",
     "location": "Guangzhou",
     "valid_urls": []

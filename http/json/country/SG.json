@@ -1,13 +1,43 @@
 [
   {
-    "ip": "47.74.157.194",
+    "ip": "36.110.143.55",
+    "port": 8080,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 136907,
+    "isp": "HUAWEI INTERNATIONAL PTE. LTD.",
+    "protocol": "http",
+    "speed_ms": "1975.40",
+    "anonymity": "elite",
+    "location": "Singapore",
+    "valid_urls": [
+      "https://www.google.com/search?q=roshidere",
+      "https://www.bing.com/",
+      "https://id.pinterest.com/"
+    ]
+  },
+  {
+    "ip": "143.42.66.91",
     "port": 80,
     "country": "SG",
     "country_code": "SG",
-    "asn": 45102,
-    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "asn": 18106,
+    "isp": "Viewqwest Pte Ltd",
     "protocol": "http",
-    "speed_ms": "2089.46",
+    "speed_ms": "1606.91",
+    "anonymity": "elite",
+    "location": "Ulu Bedok",
+    "valid_urls": []
+  },
+  {
+    "ip": "95.173.218.67",
+    "port": 8082,
+    "country": "SG",
+    "country_code": "SG",
+    "asn": 60068,
+    "isp": "Datacamp Limited",
+    "protocol": "http",
+    "speed_ms": "2571.28",
     "anonymity": "elite",
     "location": "Singapore",
     "valid_urls": []

@@ -7,11 +7,10 @@
     "asn": 30722,
     "isp": "Vodafone Italia S.p.A.",
     "protocol": "socks5",
-    "speed_ms": "4366.89",
+    "speed_ms": "4211.12",
     "anonymity": "elite",
     "location": "Vitinia",
     "valid_urls": [
-      "https://www.bing.com/",
       "https://www.amazon.com/"
     ]
   },
@@ -20,12 +19,32 @@
     "port": 28751,
     "country": "IT",
     "country_code": "IT",
-    "asn": 12874,
-    "isp": "Fastweb SpA",
+    "asn": 30722,
+    "isp": "Vodafone Italia S.p.A.",
     "protocol": "socks5",
-    "speed_ms": "2824.39",
+    "speed_ms": "3072.44",
     "anonymity": "elite",
-    "location": "Milan",
-    "valid_urls": []
+    "location": "Monterusciello",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.bing.com/",
+      "https://www.amazon.com/"
+    ]
+  },
+  {
+    "ip": "152.53.171.242",
+    "port": 17323,
+    "country": "IT",
+    "country_code": "IT",
+    "asn": 1267,
+    "isp": "WIND TRE S.P.A.",
+    "protocol": "socks5",
+    "speed_ms": "1677.61",
+    "anonymity": "elite",
+    "location": "Bevagna",
+    "valid_urls": [
+      "https://www.instagram.com/",
+      "https://www.amazon.com/"
+    ]
   }
 ]

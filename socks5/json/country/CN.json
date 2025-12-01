@@ -1,59 +1,26 @@
 [
   {
-    "ip": "124.220.175.102",
-    "port": 3333,
-    "country": "CN",
-    "country_code": "CN",
-    "asn": 45090,
-    "isp": "Shenzhen Tencent Computer Systems Company Limited",
-    "protocol": "socks5",
-    "speed_ms": "2715.84",
-    "anonymity": "elite",
-    "location": "Shanghai",
-    "valid_urls": [
-      "https://www.amazon.com/"
-    ]
-  },
-  {
-    "ip": "219.154.210.157",
-    "port": 9999,
-    "country": "CN",
-    "country_code": "CN",
-    "asn": 4837,
-    "isp": "CHINA UNICOM China169 Backbone",
-    "protocol": "socks5",
-    "speed_ms": "3512.66",
-    "anonymity": "elite",
-    "location": "Zhengzhou",
-    "valid_urls": [
-      "https://www.amazon.com/"
-    ]
-  },
-  {
-    "ip": "47.242.81.226",
-    "port": 1011,
-    "country": "CN",
-    "country_code": "CN",
-    "asn": 4837,
-    "isp": "CHINA UNICOM China169 Backbone",
-    "protocol": "socks5",
-    "speed_ms": "3131.24",
-    "anonymity": "elite",
-    "location": "Jinan",
-    "valid_urls": [
-      "https://www.reddit.com/",
-      "https://www.amazon.com/"
-    ]
-  },
-  {
     "ip": "222.59.173.105",
-    "port": 44188,
+    "port": 44066,
     "country": "CN",
     "country_code": "CN",
     "asn": 56046,
     "isp": "China Mobile Communications Corporation",
     "protocol": "socks5",
-    "speed_ms": "3145.55",
+    "speed_ms": "3790.46",
+    "anonymity": "elite",
+    "location": "Qinnan",
+    "valid_urls": []
+  },
+  {
+    "ip": "222.59.173.105",
+    "port": 44208,
+    "country": "CN",
+    "country_code": "CN",
+    "asn": 56046,
+    "isp": "China Mobile Communications Corporation",
+    "protocol": "socks5",
+    "speed_ms": "2730.50",
     "anonymity": "elite",
     "location": "Qinnan",
     "valid_urls": []

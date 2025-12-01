@@ -150,8 +150,8 @@ PROXY_SOURCES = {
 
 CUSTOM_URLS = [
     {
-        'url': 'https://www.google.com/search?q=Pornhub',
-        'requiredText': 'pornhub',
+        'url': 'https://www.google.com/search?q=roshidere',
+        'requiredText': 'alya',
         'caseSensitive': False,
         'requiredStatusCodes': [200]
     },
@@ -465,7 +465,7 @@ class ProxyChecker:
             if not successful_proxies:
                 continue
             
-            # https://www.google.com/search?q=Pornhub -> google
+            # https://www.google.com/search?q=roshidere -> google
             from urllib.parse import urlparse
             parsed = urlparse(url)
             domain = parsed.netloc.replace('www.', '').replace('id.', '')
@@ -651,7 +651,7 @@ https://raw.githubusercontent.com/ClearProxy/checked-proxy-list/main/socks5/raw/
     "anonymity": "elite",
     "location": "The Dalles",
     "valid_urls": [
-      "https://www.google.com/search?q=Pornhub",
+      "https://www.google.com/search?q=roshidere",
       "https://discord.com/",
       "https://www.instagram.com/"
     ]
@@ -774,5 +774,6 @@ https://raw.githubusercontent.com/ClearProxy/checked-proxy-list/main/socks5/raw/
 if __name__ == '__main__':
     checker = ProxyChecker()
     checker.run()
+
 
 

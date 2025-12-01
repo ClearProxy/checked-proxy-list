@@ -1,15 +1,43 @@
 [
   {
-    "ip": "8.215.31.146",
-    "port": 1347,
+    "ip": "103.156.16.45",
+    "port": 8080,
     "country": "ID",
     "country_code": "ID",
-    "asn": 45102,
-    "isp": "Alibaba (US) Technology Co., Ltd.",
+    "asn": 141077,
+    "isp": "RSTNET",
     "protocol": "http",
-    "speed_ms": "3887.34",
-    "anonymity": "elite",
-    "location": "Jakarta",
+    "speed_ms": "3146.51",
+    "anonymity": "transparent",
+    "location": "Indramayu",
+    "valid_urls": [
+      "https://www.youtube.com/"
+    ]
+  },
+  {
+    "ip": "157.15.62.100",
+    "port": 8080,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 152373,
+    "isp": "PT Anugerah Media Data Nusantara",
+    "protocol": "http",
+    "speed_ms": "4904.55",
+    "anonymity": "transparent",
+    "location": "Sanankerto",
+    "valid_urls": []
+  },
+  {
+    "ip": "203.175.126.229",
+    "port": 8080,
+    "country": "ID",
+    "country_code": "ID",
+    "asn": 141126,
+    "isp": "PT Cubiespot Pilar Data Nusantara",
+    "protocol": "http",
+    "speed_ms": "4961.98",
+    "anonymity": "anonymous",
+    "location": "Pasuruan",
     "valid_urls": []
   }
 ]

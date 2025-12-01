@@ -33,8 +33,8 @@ Not your target website? sign up to **clearproxy.io** and check with your target
 
 | Protocol | File | Status | Total |
 |-----------|------|--------|--------|
-| HTTP | `http/` | ✅ Checked | 178 |
-| SOCKS4 | `socks4/` | ✅ Checked | 184 |
+| HTTP | `http/` | ✅ Checked | 136 |
+| SOCKS4 | `socks4/` | ✅ Checked | 169 |
 | SOCKS5 | `socks5/` | ✅ Checked | 181 |
 
 ---
@@ -47,17 +47,17 @@ Proxies validated against specific websites:
 
 | Service | HTTP | SOCKS4 | SOCKS5 |
 |---------|------|--------|--------|
-| Amazon | 20 | 136 | 147 |
-| Bing | 38 | 134 | 141 |
-| Discord | 37 | 142 | 133 |
-| Google | 12 | 9 | 54 |
-| Instagram | 23 | 81 | 98 |
-| Pinterest | 34 | 85 | 108 |
-| Reddit | 24 | 12 | 85 |
-| Tiktok | 36 | 110 | 86 |
-| Twitch | 37 | 141 | 114 |
-| X | 33 | 126 | 110 |
-| Youtube | 26 | 9 | 7 |
+| Amazon | 37 | 121 | 130 |
+| Bing | 60 | 139 | 134 |
+| Discord | 51 | 132 | 122 |
+| Google | 1 | 1 | 2 |
+| Instagram | 40 | 72 | 99 |
+| Pinterest | 38 | 44 | 101 |
+| Reddit | 18 | 11 | 87 |
+| Tiktok | 40 | 104 | 102 |
+| Twitch | 43 | 129 | 116 |
+| X | 45 | 116 | 127 |
+| Youtube | 36 | 13 | 3 |
 
 ### Download Custom Validated Proxies
 
@@ -72,10 +72,10 @@ https://raw.githubusercontent.com/ClearProxy/checked-proxy-list/main/custom/disc
 ---
 
 ### Top 10 Countries
-`1. US (260), 2. IR (34), 3. VN (33), 4. CN (22), 5. BD (18), 6. GB (14), 7. DE (12), 8. RU (12), 9. AR (9), 10. KR (7)`
+`1. US (255), 2. BD (31), 3. VN (30), 4. CN (20), 5. DE (12), 6. GB (11), 7. KR (10), 8. CA (9), 9. IN (8), 10. RU (8)`
 
 ### Top 10 ASN
-`1. ASN22773 (106), 2. ASN46562 (65), 3. ASN201691 (32), 4. ASN7552 (17), 5. ASN7922 (16), 6. ASN18403 (12), 7. ASN701 (11), 8. ASN14670 (8), 9. ASN16509 (8), 10. ASN9441 (7)`
+`1. ASN22773 (102), 2. ASN46562 (61), 3. ASN9441 (17), 4. ASN7552 (16), 5. ASN7922 (16), 6. ASN701 (14), 7. ASN18403 (12), 8. ASN45102 (10), 9. ASN20081 (8), 10. ASN4766 (7)`
 
 
 ## Download Options
@@ -151,7 +151,7 @@ https://raw.githubusercontent.com/ClearProxy/checked-proxy-list/main/socks5/raw/
     "anonymity": "elite",
     "location": "The Dalles",
     "valid_urls": [
-      "https://www.google.com/search?q=Pornhub",
+      "https://www.google.com/search?q=roshidere",
       "https://discord.com/",
       "https://www.instagram.com/"
     ]

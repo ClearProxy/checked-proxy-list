@@ -1,46 +1,91 @@
 [
   {
     "ip": "157.180.121.252",
+    "port": 16541,
+    "country": "AU",
+    "country_code": "AU",
+    "asn": 7545,
+    "isp": "TPG Internet Pty Ltd",
+    "protocol": "socks5",
+    "speed_ms": "3498.82",
+    "anonymity": "elite",
+    "location": "Melbourne",
+    "valid_urls": [
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://x.com/",
+      "https://www.bing.com/",
+      "https://www.amazon.com/",
+      "https://www.twitch.tv/"
+    ]
+  },
+  {
+    "ip": "157.180.121.252",
     "port": 33901,
     "country": "AU",
     "country_code": "AU",
     "asn": 7545,
     "isp": "TPG Internet Pty Ltd",
     "protocol": "socks5",
-    "speed_ms": "4287.02",
+    "speed_ms": "3301.63",
     "anonymity": "elite",
     "location": "Melbourne",
     "valid_urls": [
-      "https://www.google.com/search?q=Pornhub",
       "https://discord.com/",
-      "https://www.tiktok.com/@rvlndgt",
+      "https://discord.com/",
+      "https://www.instagram.com/",
       "https://x.com/",
+      "https://x.com/",
+      "https://www.reddit.com/",
       "https://www.reddit.com/",
       "https://www.bing.com/",
       "https://www.amazon.com/",
+      "https://www.amazon.com/",
       "https://id.pinterest.com/",
+      "https://www.twitch.tv/",
       "https://www.twitch.tv/"
     ]
   },
   {
-    "ip": "134.199.159.23",
-    "port": 1080,
+    "ip": "157.180.121.252",
+    "port": 33901,
     "country": "AU",
     "country_code": "AU",
-    "asn": 14061,
-    "isp": "DigitalOcean, LLC",
+    "asn": 7545,
+    "isp": "TPG Internet Pty Ltd",
     "protocol": "socks5",
-    "speed_ms": "3021.43",
+    "speed_ms": "3216.70",
     "anonymity": "elite",
-    "location": "Alexandria",
+    "location": "Melbourne",
     "valid_urls": [
       "https://discord.com/",
-      "https://www.tiktok.com/@rvlndgt",
+      "https://discord.com/",
       "https://www.instagram.com/",
       "https://x.com/",
+      "https://x.com/",
+      "https://www.reddit.com/",
+      "https://www.reddit.com/",
       "https://www.bing.com/",
+      "https://www.amazon.com/",
+      "https://www.amazon.com/",
       "https://id.pinterest.com/",
+      "https://www.twitch.tv/",
       "https://www.twitch.tv/"
+    ]
+  },
+  {
+    "ip": "89.58.45.94",
+    "port": 41813,
+    "country": "AU",
+    "country_code": "AU",
+    "asn": 1221,
+    "isp": "Telstra Limited",
+    "protocol": "socks5",
+    "speed_ms": "3933.63",
+    "anonymity": "elite",
+    "location": "Sydney",
+    "valid_urls": [
+      "https://www.amazon.com/"
     ]
   }
 ]
