@@ -1,0 +1,36 @@
+[
+  {
+    "ip": "46.105.160.186",
+    "port": 1080,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 16276,
+    "isp": "OVH SAS",
+    "protocol": "socks4",
+    "speed_ms": "2536.90",
+    "anonymity": "anonymous",
+    "location": "Roubaix",
+    "valid_urls": [
+      "https://www.google.com/search?q=google",
+      "https://discord.com/",
+      "https://www.tiktok.com/@rvlndgt",
+      "https://www.instagram.com/",
+      "https://x.com/"
+    ]
+  },
+  {
+    "ip": "152.70.237.238",
+    "port": 3128,
+    "country": "FR",
+    "country_code": "FR",
+    "asn": 13335,
+    "isp": "Cloudflare, Inc.",
+    "protocol": "socks4",
+    "speed_ms": "3453.20",
+    "anonymity": "anonymous",
+    "location": "Orleans",
+    "valid_urls": [
+      "https://discord.com/"
+    ]
+  }
+]
