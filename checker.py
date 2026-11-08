@@ -228,7 +228,7 @@ class ProxyChecker:
                 return False
             
             return True
-        except:
+        except (ValueError, TypeError):
             return True
     
     def scrape_proxies(self, protocol: str) -> Set[str]:
